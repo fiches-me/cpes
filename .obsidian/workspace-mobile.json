@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "8c47127d1caa1580",
+    "type": "split",
+    "children": [
+      {
+        "id": "7123e4852d893e4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5340c3e7613b1ec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "juillet-aout/livres/la-prosperite-du-vice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "la-prosperite-du-vice"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bfe3756ab78e745",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b22a8526e820ae00",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorateur de fichiers"
+        }
+      },
+      {
+        "id": "a73d4b3b6dbf7550",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Rechercher"
+        }
+      },
+      {
+        "id": "ef8fc8eab813c946",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Mots-clés"
+        }
+      },
+      {
+        "id": "32ecf7e4c9fe3d94",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Signet"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a4a45603bba35679",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4cfae386ad76e900",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Rétroliens"
+        }
+      },
+      {
+        "id": "2f2f4b24a819235e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Liens sortants"
+        }
+      },
+      {
+        "id": "d5bf853d9a73c40e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Plan"
+        }
+      },
+      {
+        "id": "40e55e79fde426ce",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-git:Open Git source control": false,
+      "iconic:Ouvrir le livre de règles": false
+    }
+  },
+  "active": "5340c3e7613b1ec7",
+  "lastOpenFiles": [
+    "juillet-aout/livres/classes.md",
+    "README.md",
+    "juillet-aout/livres/la-prosperite-du-vice.md",
+    "LICENSE"
+  ]
+}

@@ -1,2 +1,4 @@
-# cpes
-📚 CPES open-source revision sheets. Both FR &amp; EN (as our school 😎)
+<center>
+<h1>CPES's <a href="#">fiche</a> repo</h1>
+📚 CPES open-source revision sheets. Both FR & EN (as our school 😎)
+</center>
