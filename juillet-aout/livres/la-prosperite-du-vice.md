@@ -49,7 +49,7 @@ La République de Weimar naiy en novembre 1918. Malgré un système le plus dém
 
 #### 1929
 
-La crise de 1929 est le point le plus noir jamais atteint à ce jour par le capitalisme. 
+La crise de 1929 est le point le plus noir jamais atteint à ce jour par le capitalisme, même si elle se rapproche beaucoup de la crise des sub-primes de 2007. En 1932, Wall Street a perdu 85 des taux record qu'elle avait atteind en septembre 1929. La consommation de biens durables (voiture, gros électroménager) baisse brutalement de 20%, 66% pour les voitures à la fin de 1932.
 
 #### La théorie générale de Keynes
 

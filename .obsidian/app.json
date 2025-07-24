@@ -27,5 +27,6 @@
     "editor:insert-footnote",
     "obsidian-git:view-file-on-github",
     "editor:configure-toolbar"
-  ]
+  ],
+  "promptDelete": false
 }

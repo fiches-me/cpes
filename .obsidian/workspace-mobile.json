@@ -10,6 +10,7 @@
           {
             "id": "5340c3e7613b1ec7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "la-prosperite-du-vice"
             }
@@ -164,9 +166,10 @@
   },
   "active": "5340c3e7613b1ec7",
   "lastOpenFiles": [
+    "juillet-aout/livres/la-prosperite-du-vice.md",
+    "juillet-aout/Sans titre.canvas",
     "juillet-aout/livres/classes.md",
     "README.md",
-    "juillet-aout/livres/la-prosperite-du-vice.md",
     "LICENSE"
   ]
 }

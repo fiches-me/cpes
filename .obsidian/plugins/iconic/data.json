@@ -27,7 +27,29 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "README.md": {
+      "icon": "lucide-file-pen"
+    },
+    "juillet-aout": {
+      "icon": "lucide-sun",
+      "unsynced": [
+        "/storage/emulated/0/Obsidian/CPES"
+      ]
+    },
+    "juillet-aout/articles": {
+      "icon": "lucide-newspaper",
+      "unsynced": [
+        "/storage/emulated/0/Obsidian/CPES"
+      ]
+    },
+    "juillet-aout/livres": {
+      "icon": "lucide-book-copy",
+      "unsynced": [
+        "/storage/emulated/0/Obsidian/CPES"
+      ]
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {
