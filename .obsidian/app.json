@@ -5,18 +5,14 @@
   "showUnsupportedFiles": false,
   "attachmentFolderPath": "./",
   "mobileToolbarCommands": [
-    "editor:insert-wikilink",
-    "editor:insert-embed",
-    "editor:insert-tag",
-    "editor:attach-file",
     "editor:set-heading",
     "editor:toggle-bold",
     "editor:toggle-italics",
     "editor:toggle-strikethrough",
-    "editor:toggle-highlight",
+    "editor:attach-file",
     "editor:toggle-code",
-    "editor:toggle-blockquote",
     "editor:insert-link",
+    "editor:toggle-blockquote",
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",
     "editor:toggle-checklist-status",
@@ -32,5 +28,6 @@
     "obsidian-git:view-file-on-github",
     "editor:configure-toolbar"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "strictLineBreaks": true
 }

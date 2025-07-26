@@ -110,6 +110,76 @@ Avant de voir comment ces pays sont devenus de grandes puissances du monde capit
 
 #### Le retour de la Chine
 
+Fernand Braudel explique dans son livre <u>Grammaire des civilisations</u> que les hommes ne valent rien en Chine.
+C'est ce qui effraie aujourd'hui, 1,3 milliards de personnes prêtes à travailler pour presque rien. La Chine détient, en liquidité, l'équivalent du PIB Français ! 
+
+La transformation de l'économie a été décidé dès la mort de Mao.
+Deng Xiaoping pense alors un plan en plusieurs étapes :
+
+1. Libéraliser le prix des produits agricoles pour élever le revenu des paysans.
+2. Privatisation des terres progressivement après 2008, pour éviter un afflux non contrôlé de petit paysans dans les villes
+3. Garder une monnaie constamment sous-évalué pour doper les exportations
+4. Éducation intensive
+5. Et pour finir, un taux d'épargne de 50%
+
+Mais pour ce dernier aspect, pourquoi les Chinois ne consomment pas plus ?
+Pourtant, la population chinoise arrive vite au niveau Occidental.
+Cette grande épargne est expliqué par l'économie en forte croissance que les pratique de consommation peine à suivre, et des haut taux qui viennent combler des salaires bas.
+
+#### Le réveil Indien
+
+Malgré l'avancée en mathématiques[^7], les prouesses indiennes dans le domaine technique n'ont pas été aussi spectaculaire que dans le cas chinois. Même apres l'indépendance, il est difficile pour l'élite Indienne de s'affranchir des codes colons. En 1946, 55% de la population indienne est touché par une grande pauvreté. C'est un système créé par Nehru qui fermera l'Inde à l'économie mondiale : le système administratif indien demande des autorisations à presque tout les niveaux. Cette bureaucratie favorisait bien entendu la corruption. Gandhi va lever certaines restrictions, mais après son assasina et celui de son fils, l'économie est encore dans un état fragile. Rao et Singh, remplaçants du fils défunt, vont tout faire exploser : ils abaissent les tarifs douaniers de 100% à ~25%. La roupie est dévaluée de 22% par rapport au dollar pour relancer les exportations. Race à ces ouvertutes , l'Inde frôlera les 10% de croissance par an.
+
+Le pays reste cependant pauvre et miné par ses inégalités. Avec 40% d'enfants en malnutrition, la "Plus grande démocratie au monde" a du soucis à se faire. L'Inde à du mal à passer du stade de "démocratie formelle" à "démocratie sociale". Il faudra attendre 1989 pour que de vrais mesures soient prises.
+
+### La fin de l'histoire et l'Occident
+
+#### La tragédie des nations faibles
+
+1
+
+#### La critique de l'Occident
+
+2
+
+### Le krach écologique
+
+#### La planète encombrée
+
+3
+
+#### Que faire ?
+
+4
+
+### Le krach financier
+
+#### Le nouveau capitalisme financier
+
+5
+
+#### *Greed*
+
+6
+
+#### L'effondrement
+
+7
+
+### Le capitalisme immatériel
+
+#### La nouvelle économie
+
+8
+
+#### Dans le cybermonde
+
+9
+
+# ✒️ Conclusion
+
+10
+
 ---
 
 [^1]: Chaque grand titre tiré du livre fait référence à un livre, ici <u>Les conséquences économiques de la paix</u> de John Maynard Keynes.
@@ -118,3 +188,4 @@ Avant de voir comment ces pays sont devenus de grandes puissances du monde capit
 [^4]: Cette phrase est extrêmement importante dans notre contexte ! Avec l'arrivée des intelligences artificielles, il est maintenant possible que de tels actions soient automatisés.
 [^5]: La déchéance est la perte d'un droit.
 [^6]: Logement misérable, mal tenu, sans confort ni hygiène.
+[^7]: Inventions des nombres négatifs

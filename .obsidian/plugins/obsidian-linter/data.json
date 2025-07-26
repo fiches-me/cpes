@@ -125,12 +125,12 @@
       "enabled": false
     },
     "default-language-for-code-fences": {
-      "enabled": false,
-      "default-language": ""
+      "enabled": true,
+      "default-language": "python"
     },
     "emphasis-style": {
-      "enabled": false,
-      "style": "consistent"
+      "enabled": true,
+      "style": "asterisk"
     },
     "no-bare-urls": {
       "enabled": false,
@@ -164,8 +164,8 @@
       "enabled": false
     },
     "strong-style": {
-      "enabled": false,
-      "style": "consistent"
+      "enabled": true,
+      "style": "asterisk"
     },
     "two-spaces-between-lines-with-content": {
       "enabled": false,
@@ -213,7 +213,7 @@
       "enabled": false
     },
     "paragraph-blank-lines": {
-      "enabled": true
+      "enabled": false
     },
     "remove-empty-lines-between-list-markers-and-checklists": {
       "enabled": false
