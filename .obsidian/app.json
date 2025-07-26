@@ -25,6 +25,10 @@
     "editor:undo",
     "editor:redo",
     "editor:insert-footnote",
+    "editor:insert-table",
+    "editor:insert-mathblock",
+    "editor:insert-horizontal-rule",
+    "obsidian-linter:lint-file",
     "obsidian-git:view-file-on-github",
     "editor:configure-toolbar"
   ],

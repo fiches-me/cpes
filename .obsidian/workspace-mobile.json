@@ -158,7 +158,6 @@
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-git:Open Git source control": false,
       "iconic:Ouvrir le livre de règles": false

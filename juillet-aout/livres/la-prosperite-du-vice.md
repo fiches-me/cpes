@@ -53,4 +53,33 @@ La crise de 1929 est le point le plus noir jamais atteint à ce jour par le capi
 
 #### La théorie générale de Keynes
 
+Comment la convertibilité en or d'une monnaie peut lui être négative ? Keynes montre que nous ne vivons pas dans une société idéale : quand la demande baisse, on ne va pas investir dans le futur... mais plutôt licensier. Ce licenciement appauvri danvantage, ce qui fait baisser la demande... C'est la théorie du multiplicateur de Keynes. Il souffle l'idée que le capitalisme est instable si laissé à lui même, car les chômeurs deverait continuer à consommer pour relancer l'économie (il faudrait donc les aider).
+
+### L'âge d'or et sa crise
+
+#### Les trente Glorieuses
+
+La France a connu toutes les étapes de **la croissance économique moderne**[^2] en moins de 30 ans. Alfred Sauvy explique cette transition par le "déversement" de l'emploi : il est plus facile de robotiser me travail d'un ouvrier que d'un docteur.[^3] Pour survivre, il faut donc soit être un utilisateur du progrès, soit travailler dans un secteur où la mécanisation est impossible. La tertiarisation favorise les extrêmes : les emplois intensifs en technologie et ceux qui ne le sont pas du tout.
+
+#### Trente ans après
+
+En 2006, trente ans après la publication des <u>Trentes Glorieuses</u>, la part de l'industrie dans l'emploi américain passait sous la barre symbolique des 10%. Mais pour autant, le grand espoir d'un travail libéré de la dureté physique du travail n'est pas advenu. Ce qui explique la fin des Trente Glorieuses est la fin du rattrapage américain : en effet, en 1945, le revenu par tête français est deux tiers plus bas que celui américain.
+
+### La fin des solidarités
+
+#### Le siècle de l'État de providence
+
+Curchill commande en 1940 un rapport pour lutter contre les conséquences sociales de la crise des années 30 et celles entraînées par la guerre. En 42, la conclusion est la suivante : un État, vis à vis de la société, doit luter contre les cinq fléaux de l'humanité : la maladie, l'ignorance, la dépendance, la déchéance[^4] et le taudis[^5]. Passé les guerres, les dépenses sociales se substituer lentement aux dépenses militaires. 
+#### Le dilemme des générations
+
+Il y a un manque d'intérêt entre les générations : un jeune deverait préparer sa vieillesse, mais au risque de trop se fatiguer. L'idée d'une retraite par répartition (un revenu assuré) permettent aux jeune de ne plus se soucier de leur vieillesse et par la même manière de travailler plus pour mieux vieillir. Ils donnent un pourcentage de leurs gain (disons 10%) aux anciens, qu'il récupèrerons ensuite quand ils seront vieux. Mais ce système est uniquement intéressant si le salaire s'améliore de générations en générations, car dans le cas contraire le travailleur perd au change. La baisse de la croissance a rendu plus difficile pour l'État de lever des impôts et apport avec elle une crise des finances publiques.
+
+#### La quête impossible du bonheur
+
+
+
 [^1]: L'indice de production Allemand est de 37 en 1919 mais se retrouve à 70 en 1922.
+[^2]: Passage de l'agriculture à l'industrie, de l'industrie aux services.
+[^3]: Cette phrase est extrêmement importante dans notre contexte ! Avec l'arrivée des intelligences artificielles, il est maintenant possible que de tels actions soient automatisés.
+[^4]: La déchéance est la perte d'un droit.
+[^5]: Logement misérable, mal tenu, sans confort ni hygiène.
