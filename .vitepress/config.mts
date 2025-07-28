@@ -60,7 +60,9 @@ export default defineConfig(
         resolvePath: '/contribution/',
         useTitleFromFrontmatter: true,
         useFolderTitleFromIndexFile: true,
-        sortMenusByFrontmatterOrd
+        sortMenusByFrontmatterOrder: true,
+        excludeFilesByFrontmatterFieldName: 'draft',
+      }
     ]),
   )
 );
