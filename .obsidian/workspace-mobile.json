@@ -59,7 +59,7 @@
               "state": {
                 "file": "juillet-aout/livres/la-prosperite-du-vice.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "la-prosperite-du-vice"
@@ -208,8 +208,8 @@
   },
   "active": "4ffe5d003fe4b6e2",
   "lastOpenFiles": [
-    "juillet-aout/livres/ihem.md",
     "juillet-aout/livres/la-prosperite-du-vice.md",
+    "juillet-aout/livres/ihem.md",
     "juillet-aout/livres/le-lien-social.md",
     "juillet-aout/livres/classe.md",
     "juillet-aout/livres/index.md",

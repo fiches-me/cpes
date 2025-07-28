@@ -7,39 +7,40 @@ order: 4
 COMMENTAIRE POUR LES ÉDITEURS
 ——————————————————-
 La structure de cette fiche n'est pas encore parfaite. Je cherche toujours un certain équilibre avec les émojis, la syntaxe, etc.
-Si vous souhaitez participer à la rédaction de fiches, donnez moi votre avis ! J'aimerais bien trouver une façon relativement uniforme d'écrire.
+Si vous souhaitez participer à la rédaction de fiches, donnez-moi votre avis ! J'aimerais bien trouver une façon relativement uniforme d'écrire.
 -->
 
 # La Prospérité du Vice
 
 ## 📌 Introduction
 
-Comme tout les livres d'introduction à la SES, <u>La Prospérité du Vice</u> abordé d'un point de vue historique un concept, ici celui **du système economique actuel dit Occidental.** Il a pour but de faire réfléchir sur les conséquences de ce modèle, qui a amené aux 2 Guerres Mondiales. Cet histoire peut-elle se répéter ?
+Comme tous les livres d’introduction à la SES, <u>La Prospérité du Vice</u> aborde, d’un point de vue historique, un concept : ici, celui **du système économique actuel dit occidental**. Il a pour but de faire réfléchir aux conséquences de ce modèle, qui a conduit aux deux Guerres mondiales. Cette histoire peut-elle se répéter ?
 
-Également, pourquoi l'Occident s'est il développé plus rapidement que d'autres continents ? La Chine avait pourtant les 3 inventions dites essentiels à celui-ci : la boussole (pour naviguer), l'imprimerie (pour faire circuler ces idées) et la poudre (pour se battre). 
+Également, pourquoi l’Occident s’est-il développé plus rapidement que d’autres continents ? La Chine disposait pourtant des trois inventions dites essentielles à celui-ci : la boussole (pour naviguer), l’imprimerie (pour faire circuler ses idées) et la poudre (pour se battre).
 
-> [!QUOTE] La consommation est devenue comme une drogue, une addiction : le plaisir qu'elle procure est éphémère.
+> [!QUOTE]
+> La consommation est devenue comme une drogue, une addiction : le plaisir qu’elle procure est éphémère.
 
-## 🌍 Pourquoi l'Occident ?
+## 🌍 Pourquoi l’Occident ?
 
 > [!NOTE]
-> Cette partie a été d'abord écrite sur papier puis sur fiches.cc. Elle ne possède pas les mêmes parties que le livre.
+> Cette partie a d’abord été rédigée sur papier puis sur fiches.cc. Elle ne possède pas les mêmes sections que le livre.
 
-### L'empire Romain
+### L’Empire romain
 
-**Tyranie de la productivité.** Grâce aux esclaves qui peuplent l'empire romain (35%), la cité État italienne profite d'une croissance sans limites. Comme les esclaves sont plus efficaces que des petit producteurs, ces producteurs vont s'enroller dans l'armée, permettant ainsi l'importation de plus d'esclave. Mais ce cercle deviendra vite vicieu, et c'est en partie ce qui mènera a la fin de l'empire.
+**Tyrannie de la productivité.** Grâce aux esclaves qui peuplent l’Empire romain (35 %), la cité-État italienne profite d’une croissance sans limites. Comme les esclaves sont plus efficaces que les petits producteurs, ces derniers s’enrôlent dans l’armée, permettant ainsi l’importation de nouveaux esclaves. Mais ce cercle deviendra vite vicieux, et c’est en partie ce qui mènera à la fin de l’Empire.
 
 ### Le Moyen Âge
 
-Avec la peur des Vikings & Brigands, les habitants se réunissent dans des châteaux. Durant les 3 siècles de la renaissance ($X$° à $XIII$°), la protection des seigneurs effacent de l'imaginaire collectif ces différentes peur
+Avec la peur des Vikings et des brigands, les habitants se réfugient dans des châteaux. Durant les trois siècles de la Renaissance (Xe au XIIIe), la protection des seigneurs fait disparaître de l’imaginaire collectif ces différentes peurs.
 
-Les inventions ne sont pas (encore) créées pour maximiset/chercher du profit – comme une grande partie de la population ne sais pas lire, elle n'est réservé qu'au élite 
+Les inventions ne sont pas encore créées pour maximiser le profit : comme une grande partie de la population ne sait pas lire, elles sont réservées aux élites.
 
-Au $XII$°, la royauté accorde plus d'importance à la sécurité du pays. Elle accorde une protection des paysans. L'Angleterre va adopter un parlement.
+Au XIIe siècle, la royauté accorde plus d’importance à la sécurité du royaume et protège les paysans. L’Angleterre adopte un parlement.
 
-Ces améliorations ne vont pas pour autant améliorer le niveau de vie des plus pauvres : en effet, le cycle guerre - maladie - famine continue. Malthus va théorisé une loi qui portera son nom et basé sur ce principe : les terres n'évolue pas de la meme manière que les humains, ce qui ammene à un desequilibre.
+Ces améliorations ne vont pas pour autant améliorer le niveau de vie des plus pauvres : en effet, le cycle guerre – maladie – famine continue. Malthus théorise alors une loi à son nom, fondée sur ce principe : les terres n’évoluent pas de la même manière que la population, ce qui crée un déséquilibre.
 
-### La machine à vapeur 
+### La machine à vapeur
 
 > [!WARNING] Work In Progress
 
@@ -49,167 +50,162 @@ Ces améliorations ne vont pas pour autant améliorer le niveau de vie des plus 
 
 #### Les conséquences économiques de la paix[^1]
 
-L'Europe est à nu, quatre empire sont tombés, le centre du monde se déplace aux États-Unis. Clemenceau tente alors de briser, une fois pour toute le dynamisme Allemand avec le traité de Versaille.
+L’Europe est à nu, quatre empires sont tombés, le centre du monde se déplace vers les États-Unis. Clemenceau tente alors de briser, une bonne fois pour toutes, le dynamisme allemand avec le traité de Versailles.
 
 #### La République se meurt
 
-La République de Weimar naiy en novembre 1918. Malgré un système le plus démocratique possible, les conditions de sa naissance explique son échec. Les lourdes sanctions du traité de Versaille ainsi que les politiques de gauche comme de droite en font parties. La société allemande est encore plus divisé que celle d'autres pays occidentaux. À côté des distinctions de classes, les nobles ont conservé un certain nombre d'avantages. En dépit des difficultés imposées par le traité de Versaille, la croissance reprend.[^2] Mais lorsque les francais et les belges occupent la Ruhr pour forcer les Allemands à payer leurs dettes de guerre, xx l'usage de la planche à billet pour financer les déficits publics déclenche une hyper inflation. La stabilité est retrouvée après la création du Rentermark garantie par des obligations or. Il ne survivra pas à la crise de 29.
+La République de Weimar naît en novembre 1918. Malgré un système très démocratique, les conditions de sa naissance expliquent son échec : les lourdes sanctions du traité de Versailles ainsi que les politiques de gauche comme de droite y participent. La société allemande est encore plus divisée que celle d’autres pays occidentaux. À côté des distinctions de classes, les nobles conservent certains privilèges. En dépit des difficultés imposées par le traité de Versailles, la croissance reprend[^2]. Mais lorsque la France et la Belgique occupent la Ruhr pour forcer l’Allemagne à payer ses dettes de guerre, l’usage intensif de la planche à billets pour financer les déficits publics déclenche une hyperinflation. La stabilité est retrouvée après la création du Rentenmark, garanti par des obligations or. Il ne survivra pas à la crise de 1929.
 
-### La grande crise et ses leçons
+### La Grande Dépression et ses leçons
 
 #### 1929
 
-La crise de 1929 est le point le plus noir jamais atteint à ce jour par le capitalisme, même si elle se rapproche beaucoup de la crise des sub-primes de 2007. En 1932, Wall Street a perdu 85 des taux record qu'elle avait atteind en septembre 1929. La consommation de biens durables (voiture, gros électroménager) baisse brutalement de 20%, 66% pour les voitures à la fin de 1932.
+La crise de 1929 est le point le plus sombre jamais atteint par le capitalisme, même si elle se rapproche de la crise des subprimes de 2007. En 1932, Wall Street a perdu 85 % des records qu’elle avait atteints en septembre 1929. La consommation de biens durables (voitures, gros électroménager) baisse brutalement de 20 %, et de 66 % pour les voitures à la fin de 1932.
 
 #### La théorie générale de Keynes
 
-Comment la convertibilité en or d'une monnaie peut lui être négative ? Keynes montre que nous ne vivons pas dans une société idéale : quand la demande baisse, on ne va pas investir dans le futur... mais plutôt licensier. Ce licenciement appauvri danvantage, ce qui fait baisser la demande... C'est la théorie du multiplicateur de Keynes. Il souffle l'idée que le capitalisme est instable si laissé à lui même, car les chômeurs deverait continuer à consommer pour relancer l'économie (il faudrait donc les aider).
+Comment la convertibilité en or d’une monnaie peut-elle être négative ? Keynes montre que nous ne vivons pas dans une société idéale : quand la demande baisse, on n’investit pas pour l’avenir… mais on licencie. Ce licenciement appauvrit encore davantage, ce qui fait baisser la demande… C’est la théorie du multiplicateur de Keynes. Il suggère que le capitalisme est instable si laissé à lui-même, car les chômeurs devraient continuer à consommer pour relancer l’économie (il faudrait donc les aider).
 
-### L'âge d'or et sa crise
+### L’âge d’or et sa crise
 
-#### Les trente Glorieuses
+#### Les Trente Glorieuses
 
-La France a connu toutes les étapes de **la croissance économique moderne**[^3] en moins de 30 ans. Alfred Sauvy explique cette transition par le "déversement" de l'emploi : il est plus facile de robotiser me travail d'un ouvrier que d'un docteur.[^4] Pour survivre, il faut donc soit être un utilisateur du progrès, soit travailler dans un secteur où la mécanisation est impossible. La tertiarisation favorise les extrêmes : les emplois intensifs en technologie et ceux qui ne le sont pas du tout.
+La France a connu toutes les étapes de **la croissance économique moderne**[^3] en moins de trente ans. Alfred Sauvy explique cette transition par le « déversement » de l’emploi : il est plus facile de mécaniser le travail d’un ouvrier que celui d’un docteur[^4]. Pour survivre, il faut donc être soit un utilisateur du progrès, soit travailler dans un secteur où la mécanisation est impossible. La tertiarisation favorise les extrêmes : les emplois intensifs en technologie et ceux qui ne le sont pas du tout.
 
 #### Trente ans après
 
-En 2006, trente ans après la publication des <u>Trentes Glorieuses</u>, la part de l'industrie dans l'emploi américain passait sous la barre symbolique des 10%. Mais pour autant, le grand espoir d'un travail libéré de la dureté physique du travail n'est pas advenu. Ce qui explique la fin des Trente Glorieuses est la fin du rattrapage américain : en effet, en 1945, le revenu par tête français est deux tiers plus bas que celui américain.
+En 2006, trente ans après la fin des Trente Glorieuses, la part de l’industrie dans l’emploi américain passait sous la barre symbolique des 10 %. Pourtant, l’espoir d’un travail libéré de la dureté physique n’a pas été réalisé. La fin des Trente Glorieuses s’explique par le ralentissement du rattrapage américain : en 1945, le revenu par tête français était deux tiers inférieur à celui des États-Unis.
 
 ### La fin des solidarités
 
-#### Le siècle de l'État de providence
+#### Le siècle de l’État‑Providence
 
-Curchill commande en 1940 un rapport pour lutter contre les conséquences sociales de la crise des années 30 et celles entraînées par la guerre. En 42, la conclusion est la suivante : un État, vis à vis de la société, doit luter contre les cinq fléaux de l'humanité : la maladie, l'ignorance, la dépendance, la déchéance[^5] et le taudis[^6]. Passé les guerres, les dépenses sociales se substituer lentement aux dépenses militaires. 
+Churchill commande en 1940 un rapport pour lutter contre les conséquences sociales de la crise des années 1930 et celles entraînées par la guerre. En 1942, le rapport conclut qu’un État doit lutter contre cinq fléaux de l’humanité : la maladie, l’ignorance, la dépendance, la déchéance[^5] et le taudis[^6]. Après la guerre, les dépenses sociales se substituent lentement aux dépenses militaires.
 
 #### Le dilemme des générations
 
-Il y a un manque d'intérêt entre les générations : un jeune deverait préparer sa vieillesse, mais au risque de trop se fatiguer. L'idée d'une retraite par répartition (un revenu assuré) permettent aux jeune de ne plus se soucier de leur vieillesse et par la même manière de travailler plus pour mieux vieillir. Ils donnent un pourcentage de leurs gain (disons 10%) aux anciens, qu'il récupèrerons ensuite quand ils seront vieux. Mais ce système est uniquement intéressant si le salaire s'améliore de générations en générations, car dans le cas contraire le travailleur perd au change. La baisse de la croissance a rendu plus difficile pour l'État de lever des impôts et apport avec elle une crise des finances publiques.
+Il existe un manque d’intérêt entre les générations : un jeune devrait préparer sa vieillesse, mais au risque de trop se fatiguer. L’idée d’une retraite par répartition (un revenu assuré) permet aux jeunes de ne plus se soucier de leur vieillesse et, par là même, de travailler davantage pour mieux vieillir. Ils versent un pourcentage de leurs gains (disons 10 %) aux anciens, qu’ils récupéreront plus tard. Mais ce système n’est intéressant que si le salaire augmente de génération en génération, sinon le travailleur perd au change. La baisse de la croissance rend plus difficile pour l’État de lever des impôts et provoque une crise des finances publiques.
 
 #### La quête impossible du bonheur
 
-Cette baisse de la croissance ne touche pas uniquement l'État : elle affecte également le bonheur des individus. Malgré plus de richesse, le bonheur des francais réside maintenant dans *l'accroissement des richesses*. On retrouve la citation au début de cette fiche : **la consommation est une drogue**. La consommation crée une dépendance. Selon Marx, le bonheur depend aussi de la résistance des autres dans ce contexte : les maisons peuvent êtres petites ou grandes, tant qu'elle font toutes la même taille, tout le monde est heureux. C'est après la construction d'un palais qu'elles deviendront minuscules. La croissance donne à chacun l'espoir, même éphémère, de dépasser ses attentes.
+Cette baisse de la croissance ne touche pas uniquement l’État : elle affecte aussi le bonheur des individus. Malgré plus de richesse, le bonheur des Français réside désormais dans *l’accroissement des richesses*. On retrouve la citation au début de cette fiche : **la consommation est une drogue**. La consommation crée une dépendance. Selon Marx, le bonheur dépend aussi de la comparaison avec les autres : les maisons peuvent être petites ou grandes, tant qu’elles ont toutes la même taille, tout le monde est heureux. C’est après la construction d’un palais qu’elles paraissent minuscules. La croissance donne à chacun l’espoir, même éphémère, de dépasser ses attentes.
 
-> [!QUOTE] L'Occident agis d'abord et comprend ensuite.
+> [!QUOTE]
+> L’Occident agit d’abord et comprend ensuite.
 
 ### La guerre et la paix
 
-#### Les Cycles de Kondratiev
+#### Les cycles de Kondratiev
 
-Les guerres sont-elles engendrées par le malheur ou par l'ennui, par les crises ou par la prospérité ? Kondratiev propose une alternance de 25 ans entre prospérité et crise. Bien que les 25 ans ne soient pas toujours applicables, l'idée de cycles longs reste intéressante. Jusque 1930, toute periodede croissance (et donc de prospérité) est accompagné de guerres. Pourquoi la Seconde guerre mondiale invalide ce cycle ?
+Les guerres sont-elles engendrées par le malheur ou par l’ennui, par les crises ou par la prospérité ? Kondratiev propose une alternance de 25 ans entre prospérité et crise. Bien que ce rythme ne soit pas toujours applicable, l’idée de cycles longs reste intéressante. Jusqu’à 1930, toute période de croissance (et donc de prospérité) est accompagnée de guerres. Pourquoi la Seconde Guerre mondiale invalide-t-elle ce cycle ?
 
 #### Économie et politique
 
-Si on continue de suivre les cycles de Kondratiev, les périodes de paix donc de crises ne sont pas favorables aux investissements militaires. La croissance permet aux États de se libérer de leurs contraintes budgétaires et d'accomplir leurs ambitions. Hirschman montre également que l'afaiblissement de la crpissance rend les hommes plus individualites : il n'y a plus de surplus à depenser dans les biens publiques. En 39, les pays ne deveraient donc pas vouloir faire la guerre. Hitler l'avait compris, et l'utilisera à son avantage.
+Si l’on suit les cycles de Kondratiev, les périodes de paix (donc de crise) ne sont pas favorables aux investissements militaires. La croissance permet aux États de se libérer de leurs contraintes budgétaires et d’accomplir leurs ambitions. Hirschman montre également que l’affaiblissement de la croissance rend les hommes plus individualistes : il n’y a plus de surplus à consacrer aux biens publics. En 1939, les pays ne devraient donc pas vouloir faire la guerre. Hitler l’avait compris et l’utilisera à son avantage.
 
-## 🌐 À l'heure de la mondialisation
+## 🌐 À l’heure de la mondialisation
 
-### Le retour de l'Inde et la Chine
+### Le retour de l’Inde et de la Chine
 
 #### La grande divergence
 
-Avant de voir comment ces pays sont devenus de grandes puissances du monde capitalisme, on peut se demander pourquoi ses puissances ne sont pas apparues plus tôt ? La forte densité de l'Asie montre qu'elle n'a rien à envier de l'Europe. Selon la loi de Malthus, plus une société est peuplée, plus elle démontre qu'elle a appris à régler les problèmes agricoles. Au $X$°, l'Inde et la Chine possédaient 50% des richesses mondiales contre 10% pour l'Europe. Mais alors, pourquoi les Chinois n'ont pas réussit à déclencher le processus de croissance Européen ? David Landes privilégie une explication d'ordre culturel. La Chine s'enlève progressivement dans un horizon philosophique et politique d'immobilité, avec même une abolition du commerce international sous la dynastie de Ming.
+Avant de voir comment ces pays sont devenus de grandes puissances, on peut se demander pourquoi ils ne l’ont pas été plus tôt ? La forte densité de l’Asie montre qu’elle n’a rien à envier à l’Europe. Selon la loi de Malthus, plus une société est peuplée, plus elle prouve qu’elle a su résoudre ses problèmes agricoles. Au XVe siècle, l’Inde et la Chine possédaient 50 % des richesses mondiales contre 10 % pour l’Europe. Mais alors, pourquoi les Chinois n’ont-ils pas déclenché le processus de croissance européen ? David Landes privilégie une explication d’ordre culturel. La Chine s’est enfermée progressivement dans un horizon philosophique et politique figé, avec même une abolition du commerce international sous la dynastie Ming.
 
 #### Le retour de la Chine
 
-Fernand Braudel explique dans son livre <u>Grammaire des civilisations</u> que les hommes ne valent rien en Chine.
-C'est ce qui effraie aujourd'hui, 1,3 milliards de personnes prêtes à travailler pour presque rien. La Chine détient, en liquidité, l'équivalent du PIB Français ! 
+Fernand Braudel explique dans <u>Grammaire des civilisations</u> que les hommes ne valent rien en Chine. C’est ce qui effraie aujourd’hui : 1,3 milliard de personnes prêtes à travailler pour presque rien. La Chine détient, en liquidités, l’équivalent du PIB français !
 
-La transformation de l'économie a été décidé dès la mort de Mao.
-Deng Xiaoping pense alors un plan en plusieurs étapes :
+La transformation de l’économie a été décidée dès la mort de Mao. Deng Xiaoping élabore alors un plan en plusieurs étapes :
 
-1. Libéraliser le prix des produits agricoles pour élever le revenu des paysans.
-2. Privatisation des terres progressivement après 2008, pour éviter un afflux non contrôlé de petit paysans dans les villes
-3. Garder une monnaie constamment sous-évalué pour doper les exportations
-4. Éducation intensive
-5. Et pour finir, un taux d'épargne de 50%
+1. Libéraliser le prix des produits agricoles pour augmenter le revenu des paysans.
+2. Privatiser progressivement les terres après 2008, pour éviter un afflux non contrôlé de petits paysans dans les villes.
+3. Maintenir une monnaie sous-évaluée pour doper les exportations.
+4. Renforcer l’éducation.
+5. Et enfin, atteindre un taux d’épargne de 50 %.
 
-Mais pour ce dernier aspect, pourquoi les Chinois ne consomment pas plus ?
-Pourtant, la population chinoise arrive vite au niveau Occidental.
-Cette grande épargne est expliqué par l'économie en forte croissance que les pratique de consommation peine à suivre, et des haut taux qui viennent combler des salaires bas.
+Mais pourquoi les Chinois ne consomment-ils pas davantage ? Pourtant, la population chinoise atteint vite le niveau occidental. Cette forte épargne s’explique par une économie en forte croissance que les pratiques de consommation peinent à suivre, et par des taux d’intérêt élevés compensant des salaires bas.
 
-#### Le réveil Indien
+#### Le réveil indien
 
-Malgré l'avancée en mathématiques[^7], les prouesses indiennes dans le domaine technique n'ont pas été aussi spectaculaire que dans le cas chinois. Même apres l'indépendance, il est difficile pour l'élite Indienne de s'affranchir des codes colons. En 1946, 55% de la population indienne est touché par une grande pauvreté. C'est un système créé par Nehru qui fermera l'Inde à l'économie mondiale : le système administratif indien demande des autorisations à presque tout les niveaux. Cette bureaucratie favorisait bien entendu la corruption. Gandhi va lever certaines restrictions, mais après son assasina et celui de son fils, l'économie est encore dans un état fragile. Rao et Singh, remplaçants du fils défunt, vont tout faire exploser : ils abaissent les tarifs douaniers de 100% à ~25%. La roupie est dévaluée de 22% par rapport au dollar pour relancer les exportations. Race à ces ouvertutes , l'Inde frôlera les 10% de croissance par an.
+Malgré les avancées en mathématiques[^7], les prouesses indiennes dans le domaine technique n’ont pas été aussi spectaculaires que celles de la Chine. Même après l’indépendance, il est difficile pour l’élite indienne de s’affranchir des codes coloniaux. En 1946, 55 % de la population indienne vit dans une grande pauvreté. Le système administratif hérité de Nehru fermait l’Inde à l’économie mondiale : la bureaucratie exigeait des autorisations à presque tous les niveaux, favorisant la corruption. Gandhi lèvera certaines restrictions, mais après son assassinat et celui de son fils, l’économie reste fragile. Rao et Singh, successeurs du fils défunt, font exploser le système : ils abaissent les tarifs douaniers de 100 % à ~25 %, et dévaluent la roupie de 22 % par rapport au dollar pour relancer les exportations. Grâce à ces ouvertures, l’Inde frôle les 10 % de croissance par an.
 
-Le pays reste cependant pauvre et miné par ses inégalités. Avec 40% d'enfants en malnutrition, la "Plus grande démocratie au monde" a du soucis à se faire. L'Inde à du mal à passer du stade de "démocratie formelle" à "démocratie sociale". Il faudra attendre 1989 pour que de vrais mesures soient prises.
+Le pays reste cependant pauvre et miné par ses inégalités. Avec 40 % d’enfants souffrant de malnutrition, la « plus grande démocratie du monde » a du souci à se faire. L’Inde peine à passer d’une « démocratie formelle » à une « démocratie sociale ». Il faudra attendre 1989 pour que de vraies mesures soient prises.
 
-### La fin de l'histoire et l'Occident
+### La fin de l’histoire et l’Occident
 
 #### La tragédie des nations faibles
 
-Selon **la théorie de la fin de l'histoire** développé par Hegel et repris par Francis Fukuyama, chaque peuple tend inévitablement à développer un jour où l'autre une économie de marché et une démocratie représentative. Selon Huntington, il est préférable que chaque pays developpe son "propre jardin" pour éviter de nouvelles guerres. Quelle modèle s'approche le plus de la réalité ? Et bien... ni l'un, ni l'autre !
+Selon **la théorie de la fin de l’histoire** développée par Hegel et reprise par Francis Fukuyama, chaque peuple tend inévitablement à adopter un jour une économie de marché et une démocratie représentative. Selon Huntington, il est préférable que chaque pays cultive son « propre jardin » pour éviter de nouvelles guerres. Quel modèle se rapproche le plus de la réalité ? Aucun des deux !
 
-Commençons par les idées de Fukuyama. Les guerres & génocides récent montre que la paix a encore un petit chemin à parcourir. Partout où il existe des minorité, le mélange d'une économie de marché et d'une démocratie forme un cocktail explosif, transformant les minorités en objets de haine. 
+Commençons par Fukuyama. Les guerres et génocides récents montrent que la paix a encore un long chemin à parcourir. Partout où existent des minorités, le mélange d’une économie de marché et d’une démocratie forme un cocktail explosif, transformant les minorités en objets de haine.
 
-#### La critique de l'Occident
+#### La critique de l’Occident
 
-Reprenons à présent la thèse de Huntington. Selon lui, les civilisations ne convergent pas l'une vers l'autre, chacune se présèrve. Ce sont des systèmes aux valeurs antagonistes qui menacent de s'affronter. La marche forcée de l'Occidentalisme dans certains pays a favorisée le développement de regimes extrêmes comme l'islam. La violence revient toujours, et si elle quitte l'espace publique, c'est pour s'installer dans les espaces privés, les foyers. 
+Reprenons maintenant la thèse de Huntington. Selon lui, les civilisations ne convergent pas mais se préservent. Ce sont des systèmes aux valeurs antagonistes qui menacent de s’affronter. L’imposition de l’« Occidentalisme » dans certains pays a favorisé le développement de régimes extrêmes comme l’islamisme. La violence revient toujours : si elle quitte l’espace public, c’est pour s’installer dans l’espace privé, les foyers.
 
 ### Le krach écologique
 
 #### La planète encombrée
 
-Une nouvelle menace vient planer au dessus des nations : celle de la planète elle même. Si la Chine devait se caler sur les habitudes de consomations Américaines en 2030, elle consommerai alors deux tiers de la production de blé mondiale.
+Une nouvelle menace plane au-dessus des nations : la planète elle-même. Si la Chine devait adopter les habitudes de consommation américaines en 2030, elle consommerait alors deux tiers de la production mondiale de blé.
 
 > [!NOTE]
-> Ce livre date de 2009. Le changement climatique n'etais peut etre pas pris autant au sérieux qu'a notre époque - en tout cas, je ne vais pas ficher la disparition des ours polaires :)
->
-> ---
->
-> Par exemple, la 6em grande extinction des espèces est aujourd'hui validé, et non plus une théorie ou un avertissement.
+> Ce livre date de 2009. Le changement climatique n’était peut-être pas pris autant au sérieux qu’à notre époque : je ne vais pas ficher la disparition des ours polaires !  
+>   
+> Par exemple, la 6ᵉ grande extinction des espèces est aujourd’hui validée, et non plus seulement envisagée.
 
-L'eau devient un des grands problèmes du $XXI$°, et quand elle manque une source de conflit.
+L’eau devient un enjeu majeur du XXIᵉ siècle, et, quand elle manque, une source de conflit.
 
 #### Que faire ?
 
-Malgré les conventions, traités et promesses des différents états, le monde est en retard face au changement climatique. L'opinion publique joue un rôle important dans la signature des traités[^8], mais es-ce suffisant ? L'écart entre les intentions et les réalisations reste gigantesque. Dans une "économie jetable", le prix environnemental (recyclage/gestion des déchets) devient plus important que celui de production...
+Malgré les conventions, traités et promesses des différents États, le monde est en retard face au changement climatique. L’opinion publique joue un rôle important dans la signature des traités[^8], mais est-ce suffisant ? L’écart entre les intentions et les réalisations reste gigantesque. Dans une « économie jetable », le coût environnemental (recyclage, gestion des déchets) devient plus important que celui de la production…
 
 ### Le krach financier
 
 #### Le nouveau capitalisme financier
 
-Les pays riches gardent fermement la main sur la production immatérielle. La R&D[^9] est encore issue à 95% de ces pays. L'externilsation devient la règle. La finance de marché réalise le nouveau rêve de Wall Street : fabriquer des firmes sans usines et sans travailleurs.
+Les pays riches gardent la mainmise sur la production immatérielle. La R&D[^9] provient encore à 95 % de ces pays. L’externalisation devient la règle. La finance de marché réalise le rêve de Wall Street : fabriquer des firmes sans usines ni salariés.
 
-Mais cette structure formait la fondation parfaite à la crise des subprimes[^10]. La qualité des crédits etait profondément détérioré. La finance de marché a ainsi fait circuler de la "fausse monnaie financière", des titres dont la qualité a été négligée.
+Mais cette structure a formé le terreau idéal pour la crise des subprimes[^10]. La qualité des crédits était profondément détériorée. La finance de marché a ainsi fait circuler de la « fausse monnaie financière », des titres dont la solidité a été négligée.
 
 #### *Greed*[^11]
 
-Max Weber explique que le capitalisme ne se caractérise pas par l'avarie ou l'envie d'argent. Sinon, il se serait développé au Moyen Orient chez les marchands phéniciens ou dans la riche Venise du commerce des épices. Weber soutient que le capitalisme des origines rationalise cet appétit, avec un rééquilibre des règles, des lois, et un rapport de confiance avec des contrats. Il est important de souligner que les traders ne risquent pas autant que les entreprises qui les embauches. Il ne perdra pas 4000 milliards, mais juste son emploi. Le crédit a entièrement compenser la hausse des inégalités de revenus aux Etats Unis.
+Max Weber explique que le capitalisme ne se caractérise pas par l’avarice ou l’envie d’argent : sinon il se serait développé au Moyen-Orient chez les marchands phéniciens ou dans la riche Venise du commerce des épices. Weber soutient que le capitalisme originel rationalise cet appétit, avec un rééquilibre des règles et un rapport de confiance fondé sur les contrats. Il souligne que les traders ne risquent pas autant que les entreprises qui les emploient : ils ne perdent pas 4 000 milliards, mais juste leur emploi. Le crédit a compensé la hausse des inégalités de revenus aux États-Unis.
 
-#### L'effondrement
+#### L’effondrement
 
-Contrairement aux années trentes, la Banque Centrale américaine injecte directement des liquidités considérables pour sauver Bear Stearns, une banque d'investissement, puis des agences de financement comme FredieMac et Fannoe Mae. Mais une banque va tomber en 2008, provoquant une onde de choc qui déclenchera l'explosion de la crise. [Comme en 1930](#_1929), les biens durables sont les premiers touchés.
+Contrairement aux années 1930, la Réserve fédérale américaine injecte directement des liquidités considérables pour sauver Bear Stearns, une banque d’investissement, puis des agences de financement comme Freddie Mac et Fannie Mae. Mais une banque tombe en 2008, déclenchant une onde de choc qui provoquera l’explosion de la crise. Comme en 1929, les biens durables sont les premiers touchés.
 
-Pour résoudre la crise, il est évident que sauver les banques et relancer la consomation est essentiel. Mais faut il ne rien faire, et laisser le capitalisme faire son travail (tel le pense Friedman) ou au contraire aider au maximum, avec pour conséquence que l'État participe (ici de Keynes) ? Axel Leijonhuvfud résumé cette opposition de la manière suivante : l'économie, comme une voiture, peut reprendre le droit chemin dans certaines circonstances. Mais si elle part trop de travers, une aide est nécessaire au prix d'uen amplification du problème. L'interconnexion economique et culturelle est devenu la règle, et soumet chacun au risque d'un dysfonctionnement global.
+Pour résoudre la crise, il était évident que sauver les banques et relancer la consommation était essentiel. Mais fallait-il ne rien faire et laisser le capitalisme suivre son cours (comme le pensait Friedman), ou au contraire intervenir massivement, avec pour conséquence une participation accrue de l’État (à la manière de Keynes) ? Axel Leijonhufvud résume cette opposition : l’économie, comme une voiture, peut reprendre le droit chemin dans certaines circonstances. Mais si elle dérape trop, une aide est nécessaire, au prix d’une amplification du problème. L’interconnexion économique et culturelle est devenue la norme, exposant chacun au risque d’un dysfonctionnement global.
 
 ### Le capitalisme immatériel
 
 #### La nouvelle économie
 
-Il n'ya plus de doutes : il faut policier ce nouveau capitalisme "du greed". Mais une autre transformation est en cours : l'économie se dématérialise. Dans cette nouvelle économie, un produit coûte plus cher à concevoir qu'a vendre (ex : application). Des entreprises comme Google, Microsoft et Yahoo seraient hors de porté de leurs concurrents européens[^12], et comme dans beaucoup d'autres secteurs, c'est les Etats-Unis qui ont l'avantage.
+Il n’y a plus de doute : il faut réguler ce nouveau capitalisme du *greed*. Mais une autre transformation est en cours : l’économie se dématérialise. Dans ce nouveau modèle, un produit coûte plus cher à concevoir qu’à vendre (ex. : application). Des entreprises comme Google, Microsoft et Yahoo seraient hors de portée de leurs concurrents européens[^12], et, comme dans beaucoup d’autres secteurs, les États-Unis ont l’avantage.
 
 #### Dans le cybermonde
 
-Les États-Unis se sont également imposés dans la culture. Françoise Benhamou étudie le fonctionnement de l'industrie culturelle. Elle eclair le fait que seul un petit nombre de film et d'acteur ont vocation à marcher, grâce au liens sociaux[^13] et à la publicité. Hollywood traite majoritairement les sujets "universels" : l'argent, le sexe et la violence pour un public monde.
+Les États-Unis se sont également imposés dans la culture. Françoise Benhamou étudie le fonctionnement de l’industrie culturelle. Elle souligne que seul un petit nombre de films et d’acteurs ont vocation à réussir, grâce aux liens sociaux[^13] et à la publicité. Hollywood traite majoritairement des sujets « universels » : l’argent, le sexe et la violence, pour un public mondial.
 
 # ✒️ Conclusion
 
-L'humain a toujours du marché sur un fil - et a nombreusement chuté. Mais il est arrivé, une unique fois, que l'humanité arrive à s'enrichir durablement. Les possibilités d'une croissance perpétuelle est ainsi née en Europe entre le $XII$ et le $XVIII$, et qui se diffuse aujourd'hui sous le nom **d'Occidentalisation**. Même si celle si a fait disparaître (entre autres) la faim et allongé l'espérance de vie, elle a toutefois conservé les violences et d'autres aléats moraux.
+L’humanité a toujours marché sur un fil — et a souvent chuté. Mais il est arrivé, une unique fois, que l’humanité s’enrichisse durablement. Les possibilités d’une croissance perpétuelle sont nées en Europe entre le XIIe et le XVIIIe siècle, et se diffusent aujourd’hui sous le nom **d’occidentalisation**. Même si celle-ci a fait disparaître (entre autres) la faim et allongé l’espérance de vie, elle a toutefois conservé la violence et d’autres aléas moraux.
 
-C'est maintenant au tour des pays en développement de suivre le chemin de l'Europe. Mais tout n'est pas répétition : le combat a maintenant lieu dans le "*cybermonde*". Avec l'accès à Internet, qui seront nos nouveaux groupes de références. Mais nous devons également apprendre à vivre avec les limites de notre planètes (qui n'était pas le cas en 2009 et pas plus en 2025). Mais cette fois-ci, pas moyen de corriger ces erreurs : la civilisation joue aujourd'hui son destin.
+C’est maintenant au tour des pays en développement de suivre le chemin de l’Europe. Mais tout n’est pas répétition : le combat a maintenant lieu dans le *cybermonde*. Avec l’accès à Internet, qui seront nos nouveaux groupes de référence ? Nous devons également apprendre à vivre avec les limites de notre planète (ce n’était pas le cas en 2009, pas plus qu’en 2025). Cette fois-ci, il n’y a pas de moyen de corriger ces erreurs : la civilisation joue aujourd’hui son destin.
 
 ---
 
-[^1]: Chaque grand titre tiré du livre fait référence à un livre, ici <u>Les conséquences économiques de la paix</u> de John Maynard Keynes.
-[^2]: L'indice de production Allemand est de 37 en 1919 mais se retrouve à 70 en 1922.
-[^3]: Passage de l'agriculture à l'industrie, de l'industrie aux services.
-[^4]: Cette phrase est extrêmement importante dans notre contexte ! Avec l'arrivée des intelligences artificielles, il est maintenant possible que de tels actions soient automatisés.
-[^5]: La déchéance est la perte d'un droit.
-[^6]: Logement misérable, mal tenu, sans confort ni hygiène.
-[^7]: Inventions des nombres négatifs
-[^8]: Réduction des gaz émis par chlorofluorocarbones (CFC).
-[^9]: Recherche & Développement, signifie création d'innovation et recherche dans la création du produit, la manière de le vendre et sa publicité.
-[^10]: Couches populaires les plus défavorisés.
-[^11]: Cupidité en anglais.
-[^12]: Cette règle est elle toujours applicable aujourd'hui ? Que devons nous penser de la mort de Yahoo ? Et Ecosia ? Qwant ?)
-[^13]: Regarder un film pour en discuter le lendemain 
+[^1]: Chaque grand titre tiré du livre fait référence à un ouvrage ; ici, <u>Les conséquences économiques de la paix</u> de John Maynard Keynes.  
+[^2]: L’indice de production allemand était de 37 en 1919, mais atteignait 70 en 1922.  
+[^3]: Passage de l’agriculture à l’industrie, puis de l’industrie aux services.  
+[^4]: Cette phrase est extrêmement importante dans notre contexte ! Avec l’arrivée des intelligences artificielles, il est désormais possible d’automatiser de telles tâches.  
+[^5]: La déchéance est la perte d’un droit.  
+[^6]: Logement misérable, mal tenu, sans confort ni hygiène.  
+[^7]: Invention des nombres négatifs.  
+[^8]: Réduction des émissions de chlorofluorocarbones (CFC).  
+[^9]: Recherche et développement : création d’innovation, recherche sur le produit, sa commercialisation et sa publicité.  
+[^10]: Couches populaires les plus défavorisées.  
+[^11]: Cupidité en anglais.  
+[^12]: Cette règle est-elle toujours applicable aujourd’hui ? Que penser de la disparition de Yahoo ? Et d’Ecosia ? Qwant ?  
+[^13]: Regarder un film pour en discuter le lendemain.

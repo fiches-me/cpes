@@ -1,5 +1,5 @@
 {
-  "biggerIcons": "mobile",
+  "biggerIcons": "on",
   "clickableIcons": "desktop",
   "showAllFileIcons": true,
   "showAllFolderIcons": true,
@@ -48,6 +48,10 @@
       "unsynced": [
         "/storage/emulated/0/Obsidian/CPES"
       ]
+    },
+    "juillet-aout/livres/la-prosperite-du-vice.md": {
+      "icon": "lucide-file",
+      "color": "green"
     },
     "public": {
       "icon": "lucide-folder-symlink",
