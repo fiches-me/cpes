@@ -1,28 +1,58 @@
 import { defineConfig } from 'vitepress'
+import { withSidebar } from 'vitepress-sidebar';
+import { withMermaid } from "vitepress-plugin-mermaid";
+import { maths } from 'markdown-it-mathjax3';
+import { footnote } from "@mdit/plugin-footnote";
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+const vitePressConfigs = {
+  title: "📑 FICHES.ME",
+  description: "Mes super fiches ig",
+  markdown: {
+    math: true,
+    config: (md) => {
+      // use more markdown-it plugins!
+      md.use(footnote)
+    }
+  },
+  titleTemplate: ':title - FICHES',
+  cleanUrls: true,
+  lang: 'fr-FR',
+  head: [['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/logo.png',
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '🏖 Juillet-Août', link: '/juillet-aout' },
+      { text: '💖 Nous Aider', link: '/contribution' },
     ],
-
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    footer: {
+      message: 'Released under the GPL-3.0 License.',
+      copyright: 'Copyright © 2019-2025 FUNASITIEN'
+    },
+    //socialLinks: [
+    //  { icon: 'github', link: 'https://github.com/Aelysium-Group' },
+    //  { icon: 'discord', link: 'https://join.aelysium.group/' }
+    //]
+  },
+  sitemap: {
+    hostname: 'https://cpes.fiches.me'
   }
-})
+}
+export default defineConfig(
+  withMermaid(
+    withSidebar(
+      vitePressConfigs, [
+      {
+        documentRootPath: '/',
+        scanStartPath: 'juillet-aout',
+        resolvePath: '/juillet-aout/',
+        useTitleFromFrontmatter: true,
+        useFolderTitleFromIndexFile: true,
+        sortMenusByFrontmatterOrder: true,
+        excludeFilesByFrontmatterFieldName: 'draft',
+      }
+    ]),
+    
+  )
+);
