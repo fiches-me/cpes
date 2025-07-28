@@ -3,7 +3,7 @@ import { withSidebar } from 'vitepress-sidebar';
 import { withMermaid } from "vitepress-plugin-mermaid";
 import { maths } from 'markdown-it-mathjax3';
 import { footnote } from "@mdit/plugin-footnote";
-import { mdItObsidianCallouts } from "markdown-it-obsidian-callouts";
+import mdItObsidianCallouts from "markdown-it-obsidian-callouts";
 
 // https://vitepress.dev/reference/site-config
 const vitePressConfigs = {
