@@ -53,8 +53,16 @@ export default defineConfig(
         useFolderTitleFromIndexFile: true,
         sortMenusByFrontmatterOrder: true,
         excludeFilesByFrontmatterFieldName: 'draft',
+      },
+      {
+        documentRootPath: '/',
+        scanStartPath: 'contribution',
+        resolvePath: '/contribution/',
+        useTitleFromFrontmatter: true,
+        useFolderTitleFromIndexFile: true,
+        sortMenusByFrontmatterOrder: true,
+        excludeFilesByFrontmatterFieldName: 'draft',
       }
     ]),
-    
   )
 );
