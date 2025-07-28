@@ -1,11 +1,13 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "FICHES.ME"
+  text: "Revision take to the next level 🚀"
+  # tagline: "Both French & English content"
+  image:
+    src: /logo.png
+    alt: "Fiche's Logo"
   actions:
     - theme: brand
       text: Markdown Examples

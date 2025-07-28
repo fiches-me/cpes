@@ -113,12 +113,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contribution/github.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "github"
+              "title": "index"
             }
           }
         ],
@@ -264,9 +264,9 @@
   },
   "active": "bad8c7a1250a000c",
   "lastOpenFiles": [
-    "contribution/aide.md",
-    "contribution/github.md",
     "contribution/101.md",
+    "contribution/github.md",
+    "contribution/aide.md",
     "contribution/index.md",
     "juillet-aout/livres/la-prosperite-du-vice.md",
     "contribution",
