@@ -1,5 +1,5 @@
 ---
-name: 📘 La Prospérité du Vice
+title: 📘 La Prospérité du Vice
 ---
 
 <!--
@@ -136,36 +136,50 @@ Le pays reste cependant pauvre et miné par ses inégalités. Avec 40% d'enfants
 
 #### La tragédie des nations faibles
 
-1
+Selon **la théorie de la fin de l'histoire** développé par Hegel et repris par Francis Fukuyama, chaque peuple tend inévitablement à développer un jour où l'autre une économie de marché et une démocratie représentative. Selon Huntington, il est préférable que chaque pays developpe son "propre jardin" pour éviter de nouvelles guerres. Quelle modèle s'approche le plus de la réalité ? Et bien... ni l'un, ni l'autre !
+
+Commençons par les idées de Fukuyama. Les guerres & génocides récent montre que la paix a encore un petit chemin à parcourir. Partout où il existe des minorité, le mélange d'une économie de marché et d'une démocratie forme un cocktail explosif, transformant les minorités en objets de haine. 
 
 #### La critique de l'Occident
 
-2
+Reprenons à présent la thèse de Huntington. Selon lui, les civilisations ne convergent pas l'une vers l'autre, chacune se présèrve. Ce sont des systèmes aux valeurs antagonistes qui menacent de s'affronter. La marche forcée de l'Occidentalisme dans certains pays a favorisée le développement de regimes extrêmes comme l'islam. La violence revient toujours, et si elle quitte l'espace publique, c'est pour s'installer dans les espaces privés, les foyers. 
 
 ### Le krach écologique
 
 #### La planète encombrée
 
-3
+Une nouvelle menace vient planer au dessus des nations : celle de la planète elle même. Si la Chine devait se caler sur les habitudes de consomations Américaines en 2030, elle consommerai alors deux tiers de la production de blé mondiale.
+
+> [!NOTE]
+> Ce livre date de 2009. Le changement climatique n'etais peut etre pas pris autant au sérieux qu'a notre époque - en tout cas, je ne vais pas ficher la disparition des ours polaires :)
+>
+> ---
+>
+> Par exemple, la 6em grande extinction des espèces est aujourd'hui validé, et non plus une théorie ou un avertissement.
+
+L'eau devient un des grands problèmes du $XXI$°, et quand elle manque une source de conflit.
 
 #### Que faire ?
 
-4
+Malgré les conventions, traités et promesses des différents états, le monde est en retard face au changement climatique. L'opinion publique joue un rôle important dans la signature des traités[^8], mais es-ce suffisant ? L'écart entre les intentions et les réalisations reste gigantesque. Dans une "économie jetable", le prix environnemental (recyclage/gestion des déchets) devient plus important que celui de production...
 
 ### Le krach financier
 
 #### Le nouveau capitalisme financier
 
-5
+Les pays riches gardent fermement la main sur la production immatérielle. La R&D[^9] est encore issue à 95% de ces pays. L'externilsation devient la règle. La finance de marché réalise le nouveau rêve de Wall Street : fabriquer des firmes sans usines et sans travailleurs.
 
-#### *Greed*
+Mais cette structure formait la fondation parfaite à la crise des subprimes[^10]. La qualité des crédits etait profondément détérioré. La finance de marché a ainsi fait circuler de la "fausse monnaie financière", des titres dont la qualité a été négligée.
 
-6
+#### *Greed*[^11]
+
+Max Weber explique que le capitalisme ne se caractérise pas par l'avarie ou l'envie d'argent. Sinon, il se serait développé au Moyen Orient chez les marchands phéniciens ou dans la riche Venise du commerce des épices. Weber soutient que le capitalisme des origines rationalise cet appétit, avec un rééquilibre des règles, des lois, et un rapport de confiance avec des contrats. Il est important de souligner que les traders ne risquent pas autant que les entreprises qui les embauches. Il ne perdra pas 4000 milliards, mais juste son emploi. Le crédit a entièrement compenser la hausse des inégalités de revenus aux Etats Unis.
 
 #### L'effondrement
 
-7
+Contrairement aux années trentes, la Banque Centrale américaine injecte directement des liquidités considérables pour sauver Bear Stearns, une banque d'investissement, puis des agences de financement comme FredieMac et Fannoe Mae. Mais une banque va tomber en 2008, provoquant une onde de choc qui déclenchera l'explosion de la crise. [Comme en 1930](#1929), les biens durables sont les premiers touchés.
 
+# Page 284
 ### Le capitalisme immatériel
 
 #### La nouvelle économie
@@ -189,3 +203,7 @@ Le pays reste cependant pauvre et miné par ses inégalités. Avec 40% d'enfants
 [^5]: La déchéance est la perte d'un droit.
 [^6]: Logement misérable, mal tenu, sans confort ni hygiène.
 [^7]: Inventions des nombres négatifs
+[^8]: Réduction des gaz émis par chlorofluorocarbones (CFC).
+[^9]: Recherche & Développement, signifie création d'innovation et recherche dans la création du produit, la manière de le vendre et sa publicité.
+[^10]: Couches populaires les plus défavorisés.
+[^11]: Cupidité en anglais.

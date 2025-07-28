@@ -55,6 +55,9 @@
   "propertyIcons": {
     "name": {
       "icon": "lucide-pen-tool"
+    },
+    "title": {
+      "icon": "lucide-pen-tool"
     }
   },
   "ribbonIcons": {},
