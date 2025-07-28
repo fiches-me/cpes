@@ -11,7 +11,7 @@
   position: relative;
   font-weight: 500;
   font-style: normal;
-  color: var(--tw-prose-quotes);
+  color: var(--vp-c-text-1);
   border-inline-start-width: 0;
   quotes: "\201C" "\201D" "\2018" "\2019";
   padding: 1.3rem 1rem 0.2rem 1rem;
@@ -40,7 +40,7 @@
 .callout.check,
 .callout.done {
   --label-title: "Succès";
-  background-color: var(--color-success);
+  background-color: var(--vp-c-green-1);
   --label-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cg fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'%3E%3Cpath d='M3 12a9 9 0 1 0 18 0a9 9 0 1 0-18 0'/%3E%3Cpath d='m9 12l2 2l4-4'/%3E%3C/g%3E%3C/svg%3E");
 }
 
@@ -48,7 +48,7 @@
 .callout.attention,
 .callout.caution {
   --label-title: "Attention";
-  background-color: var(--color-warning);
+  background-color: var(--vp-c-yellow-1);
   --label-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M3 12a9 9 0 1 0 18 0a9 9 0 1 0-18 0m9-3v4m0 3v.01'/%3E%3C/svg%3E");
 }
 
@@ -62,7 +62,7 @@
 .callout.bug {
   --label-title: "Bug";
   --label-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M9 9V8a3 3 0 0 1 6 0v1M8 9h8a6 6 0 0 1 1 3v3a5 5 0 0 1-10 0v-3a6 6 0 0 1 1-3m-5 4h4m10 0h4m-9 7v-6m-8 5l3.35-2M20 19l-3.35-2M4 7l3.75 2.4M20 7l-3.75 2.4'/%3E%3C/svg%3E");
-  background-color: var(--color-secondary);
+  background-color: var(--vp-c-sponsor);
 }
 
 
@@ -71,7 +71,7 @@
 .callout.faq {
   --label-title: "Aide";
   --label-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cg fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'%3E%3Cpath d='M3 12a9 9 0 1 0 18 0a9 9 0 0 0-18 0m9 4v.01'/%3E%3Cpath d='M12 13a2 2 0 0 0 .914-3.782a1.98 1.98 0 0 0-2.414.483'/%3E%3C/g%3E%3C/svg%3E");
-  background-color: var(--color-info);
+  background-color: var(--vp-c-indigo-1);
 }
 
 .callout.tip,
@@ -79,12 +79,12 @@
 .callout.important {
   --label-title: "Astuce";
   --label-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M3 12h1m8-9v1m8 8h1M5.6 5.6l.7.7m12.1-.7l-.7.7M9 16a5 5 0 1 1 6 0a3.5 3.5 0 0 0-1 3a2 2 0 0 1-4 0a3.5 3.5 0 0 0-1-3m.7 1h4.6'/%3E%3C/svg%3E") ;
-  background-color: var(--color-primary);
+  background-color: var(--vp-c-indigo-1);
 }
 
 .callout.todo,
 .callout.tldr {
-  background-color: var(--color-base-300);
+  background-color: var(--vp-c-indigo-1);
   --label-title: "À faire";
   --label-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cg fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'%3E%3Cpath d='M10 13h.01M14 13h.01M10 16a3.5 3.5 0 0 0 4 0'/%3E%3Cpath d='M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2'/%3E%3Cpath d='M9 5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2'/%3E%3C/g%3E%3C/svg%3E");
 }
@@ -93,7 +93,7 @@
 .callout.summary {
   --label-title: "Résumé";
   --label-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M4 20h4L18.5 9.5a2.828 2.828 0 1 0-4-4L4 16zm9.5-13.5l4 4M19 16l-2 3h4l-2 3'/%3E%3C/svg%3E");
-  background-color: var(--color-base-300);
+  background-color: var(--vp-c-indigo-1);
 }
 
 .callout.error,
@@ -101,33 +101,33 @@
 .callout.missing {
   --label-title: "Erreur";
   --label-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cg fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'%3E%3Cpath d='M15.349 5.349L18.65 8.65a1.2 1.2 0 0 1 0 1.698l-.972.972a7.5 7.5 0 1 1-5-5l.972-.972a1.2 1.2 0 0 1 1.698 0z'/%3E%3Cpath d='m17 7l1.293-1.293A2.4 2.4 0 0 0 19 4a1 1 0 0 1 1-1h1M7 13a3 3 0 0 1 3-3'/%3E%3C/g%3E%3C/svg%3E");
-  background-color: var(--color-error);
+  background-color: var(--vp-c-red-1);
 }
 
 .callout.danger,
 .callout.error {
   --label-title: "Danger";
   --label-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M12 10.941c2.333-3.308.167-7.823-1-8.941c0 3.395-2.235 5.299-3.667 6.706C5.903 10.114 5 12.327 5 14.294C5 17.998 8.134 21 12 21s7-3.002 7-6.706c0-1.712-1.232-4.403-2.333-5.588c-2.084 3.353-3.257 3.353-4.667 2.235'/%3E%3C/svg%3E");
-  background-color: var(--color-error);
+  background-color: var(--vp-c-red-1);
 } 
 
 .callout.note {
   --label-title: "Note";
   --label-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m13 20l7-7m-7 7v-6a1 1 0 0 1 1-1h6V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2z'/%3E%3C/svg%3E");
-  background-color: var(--color-primary);
+  background-color: var(--vp-c-indigo-1);
 } 
 
 .callout.quote,
 .callout.cite {
   --label-title: "Citation";
   --label-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M10 11H6a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1v6q0 4-4 5m13-7h-4a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1v6q0 4-4 5'/%3E%3C/svg%3E");
-  background-color: var(--color-base-300);
+  background-color: var(--vp-c-indigo-1);
 }
 
 .callout.example {
   --label-title: "Exemple";
   --label-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m15 7l-6.5 6.5a1.5 1.5 0 0 0 3 3L18 10a3 3 0 0 0-6-6l-6.5 6.5a4.5 4.5 0 0 0 9 9L21 13'/%3E%3C/svg%3E");
-  background-color: var(--color-base-300);
+  background-color: var(--vp-c-sponsor);
 }
 
 .callout.custom {
