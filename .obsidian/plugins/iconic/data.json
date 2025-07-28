@@ -48,6 +48,12 @@
       "unsynced": [
         "/storage/emulated/0/Obsidian/CPES"
       ]
+    },
+    "public": {
+      "icon": "lucide-folder-symlink",
+      "unsynced": [
+        "/storage/emulated/0/Obsidian/CPES"
+      ]
     }
   },
   "bookmarkIcons": {},
@@ -55,6 +61,9 @@
   "propertyIcons": {
     "name": {
       "icon": "lucide-pen-tool"
+    },
+    "order": {
+      "icon": "lucide-layout-list"
     },
     "title": {
       "icon": "lucide-pen-tool"

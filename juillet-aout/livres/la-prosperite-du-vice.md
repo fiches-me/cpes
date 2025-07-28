@@ -1,5 +1,6 @@
 ---
 title: 📘 La Prospérité du Vice
+order: 4
 ---
 
 <!--
@@ -177,22 +178,25 @@ Max Weber explique que le capitalisme ne se caractérise pas par l'avarie ou l'e
 
 #### L'effondrement
 
-Contrairement aux années trentes, la Banque Centrale américaine injecte directement des liquidités considérables pour sauver Bear Stearns, une banque d'investissement, puis des agences de financement comme FredieMac et Fannoe Mae. Mais une banque va tomber en 2008, provoquant une onde de choc qui déclenchera l'explosion de la crise. [Comme en 1930](#1929), les biens durables sont les premiers touchés.
+Contrairement aux années trentes, la Banque Centrale américaine injecte directement des liquidités considérables pour sauver Bear Stearns, une banque d'investissement, puis des agences de financement comme FredieMac et Fannoe Mae. Mais une banque va tomber en 2008, provoquant une onde de choc qui déclenchera l'explosion de la crise. [Comme en 1930](#_1929), les biens durables sont les premiers touchés.
 
-# Page 284
+Pour résoudre la crise, il est évident que sauver les banques et relancer la consomation est essentiel. Mais faut il ne rien faire, et laisser le capitalisme faire son travail (tel le pense Friedman) ou au contraire aider au maximum, avec pour conséquence que l'État participe (ici de Keynes) ? Axel Leijonhuvfud résumé cette opposition de la manière suivante : l'économie, comme une voiture, peut reprendre le droit chemin dans certaines circonstances. Mais si elle part trop de travers, une aide est nécessaire au prix d'uen amplification du problème. L'interconnexion economique et culturelle est devenu la règle, et soumet chacun au risque d'un dysfonctionnement global.
+
 ### Le capitalisme immatériel
 
 #### La nouvelle économie
 
-8
+Il n'ya plus de doutes : il faut policier ce nouveau capitalisme "du greed". Mais une autre transformation est en cours : l'économie se dématérialise. Dans cette nouvelle économie, un produit coûte plus cher à concevoir qu'a vendre (ex : application). Des entreprises comme Google, Microsoft et Yahoo seraient hors de porté de leurs concurrents européens[^12], et comme dans beaucoup d'autres secteurs, c'est les Etats-Unis qui ont l'avantage.
 
 #### Dans le cybermonde
 
-9
+Les États-Unis se sont également imposés dans la culture. Françoise Benhamou étudie le fonctionnement de l'industrie culturelle. Elle eclair le fait que seul un petit nombre de film et d'acteur ont vocation à marcher, grâce au liens sociaux[^13] et à la publicité. Hollywood traite majoritairement les sujets "universels" : l'argent, le sexe et la violence pour un public monde.
 
 # ✒️ Conclusion
 
-10
+L'humain a toujours du marché sur un fil - et a nombreusement chuté. Mais il est arrivé, une unique fois, que l'humanité arrive à s'enrichir durablement. Les possibilités d'une croissance perpétuelle est ainsi née en Europe entre le $XII$ et le $XVIII$, et qui se diffuse aujourd'hui sous le nom **d'Occidentalisation**. Même si celle si a fait disparaître (entre autres) la faim et allongé l'espérance de vie, elle a toutefois conservé les violences et d'autres aléats moraux.
+
+C'est maintenant au tour des pays en développement de suivre le chemin de l'Europe. Mais tout n'est pas répétition : le combat a maintenant lieu dans le "*cybermonde*". Avec l'accès à Internet, qui seront nos nouveaux groupes de références. Mais nous devons également apprendre à vivre avec les limites de notre planètes (qui n'était pas le cas en 2009 et pas plus en 2025). Mais cette fois-ci, pas moyen de corriger ces erreurs : la civilisation joue aujourd'hui son destin.
 
 ---
 
@@ -207,3 +211,5 @@ Contrairement aux années trentes, la Banque Centrale américaine injecte direct
 [^9]: Recherche & Développement, signifie création d'innovation et recherche dans la création du produit, la manière de le vendre et sa publicité.
 [^10]: Couches populaires les plus défavorisés.
 [^11]: Cupidité en anglais.
+[^12]: Cette règle est elle toujours applicable aujourd'hui ? Que devons nous penser de la mort de Yahoo ? Et Ecosia ? Qwant ?)
+[^13]: Regarder un film pour en discuter le lendemain 
