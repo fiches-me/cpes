@@ -18,5 +18,7 @@ Robert C. Allen, l'auteur original de ce livre, a choisit de se concentrer sur l
 ## La grande divergence
 ### Le salaire réel
 
+Les différences de salaires entre les differents continents au $XVI$° siècle sont minimes. Pourquoi l'Europe s'est développée en première ? À partir du $XX$° siècle, la plupart des pays s'industrialisent, mais pas assez pour 
+
 > [!DEFINITION]
 > **Le salaire réel** est...

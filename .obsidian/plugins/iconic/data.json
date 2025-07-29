@@ -37,21 +37,30 @@
         "/storage/emulated/0/Obsidian/CPES"
       ]
     },
-    "juillet-aout/articles": {
-      "icon": "lucide-newspaper",
-      "unsynced": [
-        "/storage/emulated/0/Obsidian/CPES"
-      ]
-    },
     "juillet-aout/livres": {
       "icon": "lucide-book-copy",
       "unsynced": [
         "/storage/emulated/0/Obsidian/CPES"
       ]
     },
+    "juillet-aout/livres/classe.md": {
+      "icon": "lucide-file",
+      "color": "red"
+    },
+    "juillet-aout/livres/ihem.md": {
+      "icon": "lucide-file",
+      "color": "yellow"
+    },
+    "juillet-aout/livres/index.md": {
+      "icon": "lucide-dot"
+    },
     "juillet-aout/livres/la-prosperite-du-vice.md": {
       "icon": "lucide-file",
       "color": "green"
+    },
+    "juillet-aout/livres/le-lien-social.md": {
+      "icon": "lucide-file",
+      "color": "red"
     },
     "public": {
       "icon": "lucide-folder-symlink",
