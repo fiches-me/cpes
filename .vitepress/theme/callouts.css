@@ -1,9 +1,5 @@
 /**
- * This css file is generated.
- * Make changes to `scss` version.
- */
-/**
- * Color about
+ * Variables globales Obsidian Callouts
  */
 :root {
   --bold-modifier: 200;
@@ -36,27 +32,17 @@
   --callout-collapse-icon: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZD0ibTkgMThsNi02bC02LTYiLz48L3N2Zz4=");
 }
 
-.theme-light {
+/* Theme light/dark override */
+.theme-light,
+html[data-theme="light"] #app {
   --callout-blend-mode: var(darken);
 }
-
-.theme-dark {
+.theme-dark,
+html[data-theme="dark"] #app {
   --callout-blend-mode: var(lighten);
 }
 
-html[data-theme=light] #app {
-  --callout-blend-mode: var(darken);
-}
-
-html[data-theme=dark] #app {
-  --callout-blend-mode: var(lighten);
-}
-
-/**
- * Obsidian callout about
- *
- * The following style is exactly the same as in obsidian
- */
+/* Conteneur Obsidian Callout */
 .callout {
   overflow: hidden;
   border-style: solid;
@@ -70,30 +56,9 @@ html[data-theme=dark] #app {
   --callout-color: var(--callout-default);
   --callout-icon: lucide-pencil;
 }
-details.callout .callout-title {
-  margin: 0;
-  cursor: pointer;
-}
-details.callout .callout-title .callout-fold {
-  background-color: rgb(var(--callout-color));
-  mask-image: var(--callout-collapse-icon);
-  mask-size: 100%;
-  -webkit-mask-image: var(--callout-collapse-icon);
-  -webkit-mask-size: 100%;
-  height: 24px;
-  width: 24px;
-  transition: 100ms ease-in-out;
-}
 
-details[close].callout > .callout-title > .callout-fold {
-  transform: rotate(-90deg);
-}
-
-details[open].callout > .callout-title > .callout-fold {
-  transform: rotate(90deg);
-}
-
-.callout .callout-title {
+/* Titre et pliage */
+.callout-title {
   padding: var(--callout-title-padding);
   display: flex;
   gap: 4px;
@@ -102,57 +67,167 @@ details[open].callout > .callout-title > .callout-fold {
   line-height: var(--line-height-tight);
   align-items: flex-start;
 }
-.callout .callout-title .callout-icon {
+.callout-title .callout-icon {
   flex: 0 0 auto;
   display: flex;
   align-items: center;
 }
-.callout .callout-title .callout-title-inner {
-  --font-weight: var(--callout-title-weight);
-  font-weight: var(--font-weight);
+.callout-title .callout-title-inner {
+  font-weight: var(--callout-title-weight);
   color: var(--callout-title-color);
 }
-.callout .callout-title .callout-title-inner b,
-.callout .callout-title .callout-title-inner strong {
-  --font-weight: calc(var(--callout-title-weight) + var(--bold-modifier));
-  font-weight: var(--font-weight);
+.callout-title .callout-title-inner b,
+.callout-title .callout-title-inner strong {
+  font-weight: calc(var(--callout-title-weight) + var(--bold-modifier));
 }
-.callout .callout-content {
+
+/* Icône de pliage */
+.callout-fold {
+  background-color: rgb(var(--callout-color));
+  mask-image: var(--callout-collapse-icon);
+  mask-size: 100%;
+  -webkit-mask-image: var(--callout-collapse-icon);
+  -webkit-mask-size: 100%;
+  height: 24px;
+  width: 24px;
+  transition: 100ms ease-in-out;
+  margin-left: auto; /* pousse vers la droite */
+}
+details.callout[open] > .callout-title > .callout-fold {
+  transform: rotate(90deg);
+}
+details.callout[close] > .callout-title > .callout-fold {
+  transform: rotate(-90deg);
+}
+details.callout .callout-title {
+  margin: 0;
+  cursor: pointer;
+}
+
+/* Contenu du callout */
+.callout-content {
   overflow-x: auto;
   padding: var(--callout-content-padding);
   background-color: var(--callout-content-background);
-}
-.callout[data-callout=todo] {
-  --callout-color: var(--callout-todo);
-  --callout-icon: lucide-check-circle-2;
-}
-.callout[data-callout=success], .callout[data-callout=check], .callout[data-callout=done] {
-  --callout-color: var(--callout-success);
-  --callout-icon: lucide-check;
-}
-.callout[data-callout=warning], .callout[data-callout=caution], .callout[data-callout=attention] {
-  --callout-color: var(--callout-warning);
-  --callout-icon: lucide-alert-triangle;
-}
-.callout[data-callout=danger], .callout[data-callout=error] {
-  --callout-color: var(--callout-error);
-  --callout-icon: lucide-zap;
-}
-.callout[data-callout=tip], .callout[data-callout=hint] {
-  --callout-color: var(--callout-tip);
-  --callout-icon: lucide-flame;
-}
-.callout[data-callout=example] {
-  --callout-color: var(--callout-example);
-  --callout-icon: lucide-list;
-}
-.callout[data-callout=abstract], .callout[data-callout=summary], .callout[data-callout=tldr] {
-  --callout-color: var(--callout-summary);
-  --callout-icon: lucide-clipboard-list;
-}
-.callout[data-callout=quote], .callout[data-callout=cite] {
-  --callout-color: var(--callout-quote);
-  --callout-icon: quote-glyph;
+  box-shadow: var(--callout-content-shadow);
+  border-bottom-left-radius: var(--callout-radius);
+  border-bottom-right-radius: var(--callout-radius);
 }
 
-/*# sourceMappingURL=index.css.map */
+/* Styles additionnels (Primary theme) */
+.markdown-source-view.mod-cm6 .cm-content > [contenteditable="false"] {
+  contain: unset !important;
+}
+.markdown-source-view.mod-cm6 .cm-embed-block:not(.cm-table-widget):hover {
+  overflow: visible;
+}
+
+/* Reset padding & ombre générique */
+.callout {
+  padding: 0;
+  box-shadow: var(--callout-container-shadow);
+}
+
+/* Collapsible state (Primary) */
+.callout.is-collapsible.is-collapsed .callout-title {
+  border-radius: var(--callout-radius);
+}
+
+/* Callout Title (Primary) */
+.callout-title {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  box-shadow: var(--callout-title-shadow);
+  gap: var(--size-4-2);
+}
+.callout-title .callout-icon,
+.callout-title .callout-fold {
+  filter: var(--callout-icon-fold-filter);
+}
+.callout-title .callout-icon svg,
+.callout-title .callout-fold svg {
+  height: var(--font-text-size);
+  width: var(--font-text-size);
+}
+
+/* Variables d’icônes et couleurs du thème “Primary” */
+body {
+  /* Icônes par défaut */
+  --callout-icon-general: shapes;
+  --callout-icon-note: sticker;
+  --callout-icon-abstract: loader;
+  --callout-icon-summary: align-justify;
+  --callout-icon-tldr: book-open-text;
+  --callout-icon-info: badge-info;
+  --callout-icon-todo: list-todo;
+  --callout-icon-tip: clover;
+  --callout-icon-hint: search-slash;
+  --callout-icon-important: square-asterisk;
+  --callout-icon-success: check-check;
+  --callout-icon-question: circle-help;
+  --callout-icon-help: life-buoy;
+  --callout-icon-warning: triangle-alert;
+  --callout-icon-caution: construction;
+  --callout-icon-attention: megaphone;
+  --callout-icon-fail: circle-slash;
+  --callout-icon-missing: search;
+  --callout-icon-danger: shield-alert;
+  --callout-icon-error: ban;
+  --callout-icon-bug: bug;
+  --callout-icon-example: scroll-text;
+  --callout-icon-quote: message-square-note;
+  --callout-icon-cite: book-marked;
+
+  /* Couleurs RGB */
+  --callout-rgb-general: 182, 196, 182;
+  --callout-rgb-note: 200, 175, 155;
+  --callout-rgb-abstract: 34, 152, 225;
+  --callout-rgb-summary: 234, 181, 52;
+  --callout-rgb-tldr: 240, 180, 225;
+  --callout-rgb-info: 71, 162, 187;
+  --callout-rgb-todo: 58, 173, 252;
+  --callout-rgb-tip: 70, 206, 185;
+  --callout-rgb-important: 246, 113, 118;
+  --callout-rgb-success: 87, 200, 83;
+  --callout-rgb-question: 130, 190, 235;
+  --callout-rgb-help: 250, 128, 96;
+  --callout-rgb-warning: 255, 161, 32;
+  --callout-rgb-fail: 226, 72, 86;
+  --callout-rgb-danger: 226, 72, 86;
+  --callout-rgb-bug: 153, 93, 133;
+  --callout-rgb-example: 216, 141, 130;
+  --callout-rgb-quote: 173, 214, 171;
+  --callout-rgb-cite: 237, 217, 162;
+}
+
+/* Assignation icônes/couleurs par type */
+.callout {
+  --callout-icon: var(--callout-icon-general);
+  --callout-color: var(--callout-rgb-general);
+}
+.callout[data-callout="note"]     { --callout-icon: var(--callout-icon-note);     --callout-color: var(--callout-rgb-note); }
+.callout[data-callout="abstract"] { --callout-icon: var(--callout-icon-abstract); --callout-color: var(--callout-rgb-abstract); }
+.callout[data-callout="summary"]  { --callout-icon: var(--callout-icon-summary);  --callout-color: var(--callout-rgb-summary); }
+.callout[data-callout="tldr"],
+.callout[data-callout="tl;dr"]    { --callout-icon: var(--callout-icon-tldr);     --callout-color: var(--callout-rgb-tldr); }
+.callout[data-callout="info"]     { --callout-icon: var(--callout-icon-info);     --callout-color: var(--callout-rgb-info); }
+.callout[data-callout="todo"]     { --callout-icon: var(--callout-icon-todo);     --callout-color: var(--callout-rgb-todo); }
+.callout[data-callout="tip"]      { --callout-icon: var(--callout-icon-tip);      --callout-color: var(--callout-rgb-tip); }
+.callout[data-callout="hint"]     { --callout-icon: var(--callout-icon-hint);     --callout-color: var(--callout-rgb-hint); }
+.callout[data-callout="important"]{ --callout-icon: var(--callout-icon-important);--callout-color: var(--callout-rgb-important); }
+.callout[data-callout="success"],
+.callout[data-callout="check"],
+.callout[data-callout="done"]     { --callout-icon: var(--callout-icon-success);  --callout-color: var(--callout-rgb-success); }
+.callout[data-callout="question"],
+.callout[data-callout="help"]     { --callout-icon: var(--callout-icon-question); --callout-color: var(--callout-rgb-help); }
+.callout[data-callout="warning"],
+.callout[data-callout="caution"],
+.callout[data-callout="attention"]{ --callout-icon: var(--callout-icon-warning); --callout-color: var(--callout-rgb-warning); }
+.callout[data-callout="fail"],
+.callout[data-callout="failure"]  { --callout-icon: var(--callout-icon-fail);    --callout-color: var(--callout-rgb-fail); }
+.callout[data-callout="danger"],
+.callout[data-callout="error"]    { --callout-icon: var(--callout-icon-danger);  --callout-color: var(--callout-rgb-danger); }
+.callout[data-callout="bug"]      { --callout-icon: var(--callout-icon-bug);     --callout-color: var(--callout-rgb-bug); }
+.callout[data-callout="example"]  { --callout-icon: var(--callout-icon-example); --callout-color: var(--callout-rgb-example); }
+.callout[data-callout="quote"],
+.callout[data-callout="cite"]     { --callout-icon: var(--callout-icon-quote);   --callout-color: var(--callout-rgb-quote); }
