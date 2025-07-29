@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "FICHES.ME"
-  text: "Revision take to the next level 🚀"
+  text: "Take you revision to the next level 🚀"
   # tagline: "Both French & English content"
   image:
     src: /logo.png
@@ -18,10 +18,10 @@ hero:
 
 features:
   - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: This frontend is not definitive
   - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: We are still building this website
   - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Thanks for your patience.
 ---
 
