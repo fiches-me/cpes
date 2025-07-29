@@ -32,10 +32,10 @@ const vitePressConfigs = {
       message: 'Released under the GPL-3.0 License.',
       copyright: 'Copyright © 2019-2025 FUNASITIEN'
     },
-    //socialLinks: [
-    //  { icon: 'github', link: 'https://github.com/Aelysium-Group' },
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/fiches-cc/cpes' }
     //  { icon: 'discord', link: 'https://join.aelysium.group/' }
-    //]
+    ]
   },
   sitemap: {
     hostname: 'https://cpes.fiches.me'
