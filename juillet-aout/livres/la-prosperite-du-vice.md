@@ -188,7 +188,7 @@ Il n’y a plus de doute : il faut réguler ce nouveau capitalisme du *greed*.
 
 Les États-Unis se sont également imposés dans la culture. Françoise Benhamou étudie le fonctionnement de l’industrie culturelle. Elle souligne que seul un petit nombre de films et d’acteurs ont vocation à réussir, grâce aux liens sociaux[^13] et à la publicité. Hollywood traite majoritairement des sujets « universels » : l’argent, le sexe et la violence, pour un public mondial.
 
-# ✒️ Conclusion
+## ✒️ Conclusion
 
 L’humanité a toujours marché sur un fil — et a souvent chuté. Mais il est arrivé, une unique fois, que l’humanité s’enrichisse durablement. Les possibilités d’une croissance perpétuelle sont nées en Europe entre le XIIe et le XVIIIe siècle, et se diffusent aujourd’hui sous le nom **d’occidentalisation**. Même si celle-ci a fait disparaître (entre autres) la faim et allongé l’espérance de vie, elle a toutefois conservé la violence et d’autres aléas moraux.
 
