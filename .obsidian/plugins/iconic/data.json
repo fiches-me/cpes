@@ -1,8 +1,8 @@
 {
   "biggerIcons": "on",
   "clickableIcons": "desktop",
-  "showAllFileIcons": true,
-  "showAllFolderIcons": true,
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
   "minimalFolderIcons": true,
   "showMarkdownTabIcons": true,
   "showTitleIcons": true,
@@ -31,11 +31,17 @@
     "README.md": {
       "icon": "lucide-file-pen"
     },
+    "index.md": {
+      "icon": "lucide-home"
+    },
     "juillet-aout": {
       "icon": "lucide-sun",
       "unsynced": [
         "/storage/emulated/0/Obsidian/CPES"
       ]
+    },
+    "juillet-aout/index.md": {
+      "icon": "lucide-dot"
     },
     "juillet-aout/livres": {
       "icon": "lucide-book-copy",
@@ -67,6 +73,9 @@
       "unsynced": [
         "/storage/emulated/0/Obsidian/CPES"
       ]
+    },
+    "public/logo.png": {
+      "icon": "lucide-image"
     }
   },
   "bookmarkIcons": {},
