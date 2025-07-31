@@ -98,6 +98,7 @@ L'Inde est elle voué à rester un pays moins développé ? Uniquement 1% de la 
 
 ## 🌎 Les Amériques
 
+L'incorporation des Amériques dans l'économie mondiale a eu d'importantes conséquences pour l'Ancien et le Nouveau Monde. /commi
 
 [^1]: Ouvriers.
 [^2]: Recherche et développement : création d’innovation, recherche sur le produit, sa commercialisation et sa publicité.  
