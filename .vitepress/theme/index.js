@@ -1,5 +1,5 @@
 import DefaultTheme from 'vitepress/theme'
-import './fonts.cc'
+import './fonts.css'
 import './callouts.css'
 
 export default DefaultTheme
