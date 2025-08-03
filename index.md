@@ -10,11 +10,11 @@ hero:
     alt: "Fiche's Logo"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 🏖 Summer Sheets
+      link: /juillet-aout/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 💖 Contribute
+      link: /contribution/
 
 features:
   - title: Feature A
