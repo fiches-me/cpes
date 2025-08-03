@@ -9,6 +9,11 @@ import mdItObsidianCallouts from "markdown-it-obsidian-callouts";
 const vitePressConfigs = {
   title: "📑 FICHES.ME",
   description: "Mes super fiches ig",
+  cleanUrls: true,
+  lastUpdated: true,
+  editLink: {
+    pattern: 'https://github.com/fiches-cc/cpes/edit/main/docs/:path'
+  },
   markdown: {
     math: true,
     config: (md) => {
