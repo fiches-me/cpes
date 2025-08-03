@@ -194,8 +194,6 @@ L’humanité a toujours marché sur un fil — et a souvent chuté. Mais il est
 
 C’est maintenant au tour des pays en développement de suivre le chemin de l’Europe. Mais tout n’est pas répétition : le combat a maintenant lieu dans le *cybermonde*. Avec l’accès à Internet, qui seront nos nouveaux groupes de référence ? Nous devons également apprendre à vivre avec les limites de notre planète (ce n’était pas le cas en 2009, pas plus qu’en 2025). Cette fois-ci, il n’y a pas de moyen de corriger ces erreurs : la civilisation joue aujourd’hui son destin.
 
----
-
 [^1]: Chaque grand titre tiré du livre fait référence à un ouvrage ; ici, <u>Les conséquences économiques de la paix</u> de John Maynard Keynes.  
 [^2]: L’indice de production allemand était de 37 en 1919, mais atteignait 70 en 1922.  
 [^3]: Passage de l’agriculture à l’industrie, puis de l’industrie aux services.  

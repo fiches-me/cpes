@@ -155,7 +155,15 @@ Le colonialisme Européen a commencé avec les Portugais qui, aux $XV$° et $XVI
 
 ### La pauvreté contemporaine dans une perspective historique
 
-Au début du $XIX$°, l'Afrique prend comme beaucoup d'autres la trajectoire des produits primaires et donc l'exportation. Pourtant, cela n'a pas réussit à lancer une croissance économique moderne. Pourquoi ? Déjà, le prix de l'huile de palme et du cacao va chuter au $XX$°. 
+Au début du $XIX$°, l'Afrique prend comme beaucoup d'autres la trajectoire des produits primaires et donc l'exportation. Pourtant, cela n'a pas réussit à lancer une croissance économique moderne. Pourquoi ? Déjà, le prix de l'huile de palme et du cacao va chuter au $XX$°.  Avec des salaires bas, il n'est pas rentable d'investir dans de la technologie. L'Afrique n'a pas non plus les meilleurs institutions : l'état de guerre endémique nuit aux affaires. La corruption et le caractère totalitaire de beaucoup d'état n'aide pas plus.
+
+## ⏰️ Le modèle standard et l'industrialisation tardive 
+
+En 1830, l'Europe et l'Amérique du Nord sont à la tête  du monde. Comment les ratrappés ? Certains pays indépendant vont tenter d'appliquer les stratégies occidentales, mais sans succès...
+
+### La Russie impériale
+
+La Russie était depuis longtemps la région la plus arriérée d'Europe. 
 
 [^1]: Ouvriers.  
 [^2]: Recherche et développement : création d’innovation, recherche sur le produit, sa commercialisation et sa publicité.  
