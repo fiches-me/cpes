@@ -107,15 +107,19 @@ Les colons préféraient troquer leur bétail ou leurs matières premières cont
 L’Amérique latine a suivi diverses trajectoires de développement, toutes différentes de celle des États-Unis et aucune n’a été fructueuse.
 
 #### Brésil & Caraïbes  
+
 Nous avons déjà abordé les Caraïbes : économie agricole dépendante du commerce, similaire au nord de l’Amérique, mais avec une utilisation intensive d’esclaves. Le Brésil a suivi une trajectoire comparable. Après le sucre, l’or, le café et le caoutchouc, la croissance économique ne s’est toujours pas manifestée. Pourquoi ?
 
 #### Argentine, Chili & Uruguay  
+
 L’Argentine ne put mettre sur pied qu’un petit secteur d’exportation de peaux (les pays sont trop éloignés pour être compétitifs). C’est à partir du XIXᵉ siècle que la compétition put reprendre.
 
 #### Mexique & Andes  
+
 Contrairement aux deux autres catégories, les sociétés vivant au Mexique et dans les Andes étaient organisées en villes, avec de vraies organisations politiques et religieuses. Après avoir gentiment renversé les rois aztèques et incas et pillé tout l’or et l’argent disponibles, les sociétés locales furent réduites à un quasi-esclavage, avec des salaires très bas. La couronne espagnole finit par abolir l’esclavage indigène en 1542 pour prévenir les abus des conquistadors, mais le travail forcé continua d’être utilisé. Ces deux régions étant éloignées de l’Europe, l’exportation agricole était impossible. La plupart des échanges internationaux se faisaient alors avec la Chine. La division en catégories raciales (juridiques) mexicaine maintint des inégalités importantes.
 
-> **Note :** Même si certaines parties semblent vides, le livre ne va pas plus loin pour le Brésil et l’Argentine.
+> [!NOTE]
+> Même si certaines parties semblent vides, le livre ne va pas plus loin pour le Brésil et l’Argentine.
 
 ### L’indépendance : les États-Unis
 
@@ -129,6 +133,30 @@ En 1808, l’invasion de l’Espagne par Napoléon précipita l’Amérique espa
 
 Pourquoi la croissance des États-Unis a-t-elle été plus rapide qu’au Mexique ? Les institutions étaient de meilleure qualité au Nord. L’Amérique du Nord a beaucoup plus cherché à développer des écoles, contrairement à ses homologues latins. L’impact des politiques économiques y a été plus important.
 
+## 🌍 L'Afrique
+
+L'Adrique est un continent pauvre depuis ces débuts – il est deja le plus pauvre du monde en 1500. Pour les théoriciens de la dépendance, la mondialisation aurait été trop forte : la concentration sur les exports de produits primaires aurait été néfaste au pays sur le long terme. Récemment, l'accent a egalement été mis sur la corruption, l'interventionisme et l'autoritarisme des gouvernements.
+
+### L'Afrique et le débat sur la grande divergence
+
+L'Afrique n'a pas pu réunir les conditions nécessaires pour une croissance economique moderne. La faible densité de population et les coûts élevés de transports limitaient les possibilité de créer des manufactures spécialisés.
+
+### Le commerce des esclaves
+
+L'arrivée des Européens provoqua de profonds changements dans les sociétés qui pratiquent la culture itinérante, car ils introduisent une variété bien plus grande de biens par rapport à ce que possédaient les Africains. Ils deviennent alors "accro" au commerce. Les rois africains vendait alors leur propre population en tant qu'esclave, pour pouvoir ce fournir des produits occidentaux.
+
+### Le commerce légitime
+
+La traite d'esclaves fut abolie en 1807. L'esclave fut remplacé par d'autres produits, tel que l'huile de palme, les arachides et le cacao (introduit par les Africains en réson du profit possible contre l'huile de palme).
+
+### Le colonialisme
+
+Le colonialisme Européen a commencé avec les Portugais qui, aux $XV$° et $XVI$° siècles, établirent des comptoirs dans ce qui est aujourd'hui la Guinée-Bissau, l'Angola et le Mozambique. D'autres pays vont installations des fortifications ou des débuts de colonies. Le colonialisme deviendra systématique au $XIX$° – en tant que objectif stratégique et économique. Mais si le développement est bon pour l'Europe, il sera encore plus néfaste à l'Afrique qu'au autres régions du monde. Les gouvernements coloniaux n'essayèrent pas d'éduquer la population. 
+
+### La pauvreté contemporaine dans une perspective historique
+
+Au début du $XIX$°, l'Afrique prend comme beaucoup d'autres la trajectoire des produits primaires et donc l'exportation. Pourtant, cela n'a pas réussit à lancer une croissance économique moderne. Pourquoi ? Déjà, le prix de l'huile de palme et du cacao va chuter au $XX$°. 
+
 [^1]: Ouvriers.  
 [^2]: Recherche et développement : création d’innovation, recherche sur le produit, sa commercialisation et sa publicité.  
-[^3]: Dans *La Prospérité du Vice* (./la-prosperite-du-vice), il est montré que la Chine possédait de grandes réserves de charbon.
+[^3]: Dans [La Prospérité du Vice](./la-prosperite-du-vice), il est pourtant montré que la Chine possédait de grandes réserves de charbon.

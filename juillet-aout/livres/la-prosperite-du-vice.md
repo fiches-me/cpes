@@ -10,7 +10,7 @@ La structure de cette fiche n'est pas encore parfaite. Je cherche toujours un ce
 Si vous souhaitez participer à la rédaction de fiches, donnez-moi votre avis ! J'aimerais bien trouver une façon relativement uniforme d'écrire.
 -->
 
-# La Prospérité du Vice
+# 📘 La Prospérité du Vice
 
 ## 📌 Introduction
 

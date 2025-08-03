@@ -1,4 +1,8 @@
 {
   "cssTheme": "Primary",
-  "accentColor": "#c94949"
+  "accentColor": "#c94949",
+  "enabledCssSnippets": [
+    "fonts"
+  ],
+  "textFontFamily": "Fluent Emoji Color,Plus Jakarta Sans,Samsung Sans"
 }

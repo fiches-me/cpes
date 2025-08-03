@@ -30,7 +30,6 @@
     "editor:go-end",
     "obsidian-git:view-file-on-github",
     "obsidian-linter:lint-file",
-    "command-palette:open",
     "editor:configure-toolbar"
   ],
   "promptDelete": false,

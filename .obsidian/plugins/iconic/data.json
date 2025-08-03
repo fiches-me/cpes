@@ -31,6 +31,12 @@
     "README.md": {
       "icon": "lucide-file-pen"
     },
+    "contribution": {
+      "icon": "lucide-book-heart",
+      "unsynced": [
+        "/storage/emulated/0/Obsidian/CPES"
+      ]
+    },
     "index.md": {
       "icon": "lucide-home"
     },
