@@ -1,7 +1,9 @@
+<h1><center>CPES's <a href="#">fiche</a> repo</center></h1>
 <center>
-<h1>CPES's <a href="#">fiche</a> repo</h1>
 📚 CPES open-source revision sheets. Both FR & EN (as our school 😎)
 </center>
+
+---
 
 > [!WARNING]
 > **The lang structure is not established yet!** While I wanted to have a cross lang website, with both french & english (to reflect the way our cursus work) but I published the [summer sheets](./juillet-aout/index) kind into a rush. If you have any idea/structure in your head, feel free to share it! A comment is shipped on every sheet containing this warning.
