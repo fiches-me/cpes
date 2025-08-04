@@ -11,9 +11,6 @@ const vitePressConfigs = {
   description: "Mes super fiches ig",
   cleanUrls: true,
   lastUpdated: true,
-  editLink: {
-    pattern: 'https://github.com/fiches-cc/cpes/edit/main/docs/:path'
-  },
   markdown: {
     math: true,
     config: (md) => {
@@ -29,6 +26,9 @@ const vitePressConfigs = {
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png',
+    editLink: {
+      pattern: 'https://github.com/fiches-cc/cpes/edit/main/docs/:path'
+    },
     nav: [
       { text: '🏖 Juillet-Août', link: '/juillet-aout' },
       { text: '💖 Nous Aider', link: '/contribution' },
