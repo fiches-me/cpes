@@ -2,10 +2,10 @@
 
 /* Apply Plus Jakarta Sans to body and general text */
 body {
-    font-family: 'Fluent Emoji Color', 'Plus Jakarta Sans', sans-serif;
+    font-family: 'Plus Jakarta Sans', 'Inter', sans-serif;
 }
 
 /* Apply Poppins to all headings */
 h1, h2, h3, h4, h5, h6, .title {
-    font-family: 'Fluent Emoji Color', 'Poppins', sans-serif;
+    font-family: 'Poppins', 'Inter', sans-serif;
 }

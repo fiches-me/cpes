@@ -163,7 +163,50 @@ En 1830, l'Europe et l'Amérique du Nord sont à la tête  du monde. Comment les
 
 ### La Russie impériale
 
-La Russie était depuis longtemps la région la plus arriérée d'Europe. 
+La Russie était depuis longtemps la région la plus arriérée d'Europe. La construction d'un marché national avec des chemins de fers et l'instauration de droits de douanes permirent au pays de se développer. La Russie fit également recours à des investissements étrangers. Elle permit donc à l'industrie de passer de 2% du PIB en 1885 à 8% en 1913. Cependant, la demande d'emploi n'a jamais assez évolué avec l'offre, le chômage resta conséquent et il entrena la crise de 1917.
+### Le Japon
+
+Le Japon est un cas particulièrement intéressant, car il fut le premier pays d'Asie à rattraper l'Occident. Des progrès techniques ont eux lieux, mais comme dans d'autres pays ils n'étaient pas encore rentables. Cependant, certains outils agricoles furent utilisés (gestion de l'eau, houe, nouvelles espèces de riz) qui engendra une période de prospérité. Pour une société agraire, la scolarité été également très élevé : 43% des garçons et 10% des filles.
+
+### La restauration Meiji
+
+En 1839, les Britanniques attaquèrent la Chine pour l'obliger à importer de l'opium. On pourrait imaginer la même chose pour le Japon - et la vérité n'est pas si loin. Les Etats-Unis ont effectivement demander au Japon de lever leurs restrictions sur le commerce mondiale. Mais le nouveau régime japonais s'est repris en main. Plus de castes, un droit de la propriété. L'Etat ira même jusqu'à abolir le calcul du temps originaire du Japon pour adopter celui occidental.
+
+### Le développement économique de l'ère Meiji
+
+Le gouvernement Meiji aurait aimé développer le pays sur la base du modèle standard qui avait réussit en Europe de l'Ouest, mais il ne purent intégrer que 2 de ces 4 éléments : un marché national et l'éducation universelle. Les 2 autres éléments, les banques d'investissement et les droits de douanes furent plus difficiles à instaurer. Un traité réalisé avec les pays occidentaux empêcher le Japon de dépasser 5% de droit de douanes. L'Etat a essayer de palier ce problème en important lui même les progrès techniques, mais il découvrit vite que les technologies occidentales n'étaient pas adaptés au modèle Japonais. 
+
+### La période impériale, 1905-1940
+
+Si la société japonaise a été remanié sous l'ère de Meiji, le changement de la structure économique lui, a été lent. La croissance économique s'est accéléré entre 1905 et 1940, avec une dominance de la métallurgie. Les investissements étranges eurent moins d'importance qu'au Mexique ou en Russie, et le Japon fut capable de créer ses propres départements R&D. Mais le Japon garde un point commun avec le développement de la Russie et du Mexique : un marché du travail faible, avec des salaires bas dans l'agriculture et les petites entreprises.
+
+### L'Amérique Latine
+
+C'est l'Amérique Latine qui a fait les expériences les plus récentes avec le "modèle standard". Avec l'évolution des transports, des pays loin de l'Europe comme l'Argentine et l'Uruguay purent exporter des ressources (principalement du blé) en Europe. Beaucoup de pays sud-américains, trop petits pour devenir des nations industrielles, ont continuer à exporter des ressources primaires et à rester pauvres. Sauf pour l'Argentine, l'éducation est resté la bête noire de ces pays. Les nouvelles technologies devenaient maintenant *trop grandes* pour des pays peu industrialisés. 
+
+### La fin du modèle standard
+
+Dans tout ces pays, le modèle économique standard a engendré une croissance modéré, mais qui n'a pas été suffisante pour rattraper l'Occident. Le modèle standard a atteint la limite de sa vie utile : par quoi sera-il remplacé ?
+
+## 🚀 L'industrialisation par la "grande poussée"
+
+Au $XX$°, l'Occident a conforté sa première place par rapport au reste du monde, mais certains pays l'ont rattrapé, comme le Japon, Taiwan et la Corée du Sud. Il semble que la Chine soit en train de faire de même. Ils n'ont pu attendre ce niveau uniquement en élaborant simultanément tout les éléments d'une économie avancée : des aciéries, des centrales électriques, des usines automobiles, des villes, etc... Ce fut la "grande poussée" (*big push*). Elle soulève des problèmes délicats, car tout se construit en devençant l'offre et la demande. 
+
+### Le développement économique soviétique
+
+L'Union soviétique est l'exemple classique de la grande poussée. A partir de 1928, les bolcheviques concentrent leurs investissements sur l'industrie lourde, avec l'application d'objectifs de productions exigeants afin d'orienter les opérations des entreprises. Des crédits bancaires furent accordés à celle-ci. L'agriculture fut également collectivisé et l'éducation de masse instaurée. Grâce à ces mesures, l'économie soviétique connut une croissance rapide. Mais les choses ont mal tourné : à partir de 1970, le taux de croissance baisse, pour finir à 0 au début du $XXI$° (du à la aux investissements de guerre froide, au surplus de main d'oeuvre et à la Sibérie).
+
+### Le Japon
+
+Le pays décida d'adopter les technologies les plus intensives en capitale, contre ce qui avait été fait à l'ère Meiji (adoption de technologie peu coûteuse en capital). En 1970, le taux d'investissement atteint un tiers du PIB. Les institutions politiques Japonaises ont permis l'organisation de tel changements. 
+
+### La Chine
+
+La Corée du Sud et Taïwan ont suivi de près le Japon dans le rattrapage de l'occident. Mais tout ces pays sont d'anciennes colonies Japonaises. Comment la Chine a elle alors évolué ? La Chine a d'abord adopté un système communiste, avec des exploitations agricoles collectives, une industrie étatisée et une planification centrale à la soviétique. La stratégie de développement privilégiait l'industrie lourde, avec un investissement stimulé. Deng Xiaoping commença les réformes en 1978, deux ans après la mort de Mao. L'économie de marché prit place, les surplus achetés par l'état furent revalorisés. L'amélioration de la demande d'eau et les différentes variétés de riz chinoise permirent également plus de production. L'État construisit des usines d'engrais et encouragea le développement de petites entreprises. 
+
+## 🌄 Épilogue
+
+La Chine est en train de rattraper l'Occident, mais qu'en est t-il de l'Afrique, de l'Amérique Latine et du reste de l'Asie ? Le revenu des pays "pauvres" doit croître plus vite que ceux des "riches" pour pouvoir les rattraper. Très peu de pays en sont capables : entre 1955 et 2005, il ne sont que 10 : Oman, Botswana et Guinée en particulier. Les cas intéressants sont les pays dotés d'une agriculture importante : ils ont du rattraper un retard en terme d'éducation, de capital et de productivité. La scolarisation de masse règle le premier, et une politique de l'État les deux autres. EN revanche, la question de savoir laquelle de ces nombreuses initiatives a été la plus efficace reste l'objet de nombreux débats. 
 
 [^1]: Ouvriers.  
 [^2]: Recherche et développement : création d’innovation, recherche sur le produit, sa commercialisation et sa publicité.  
