@@ -27,7 +27,7 @@ const vitePressConfigs = {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png',
     editLink: {
-      pattern: 'https://github.com/fiches-cc/cpes/edit/main/docs/:path'
+      pattern: 'https://github.com/fiches-cc/cpes/edit/main/:path'
     },
     nav: [
       { text: '🏖 Juillet-Août', link: '/juillet-aout' },
