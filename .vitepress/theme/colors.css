@@ -208,3 +208,7 @@
   --vp-c-danger-1:    var(--pmr-color-d-red-30);
   --vp-c-danger-soft: var(--pmr-color-d-alpha-red);
 }
+
+strong {
+  color: var(--pmr-color-primary);
+}
