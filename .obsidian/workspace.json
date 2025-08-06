@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "juillet-aout/livres/ihem.md",
+                "file": "juillet-aout/livres/le-lien-social.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ihem"
+              "title": "le-lien-social"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "juillet-aout/livres/ihem.md",
+                "file": "juillet-aout/livres/le-lien-social.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ihem"
+              "title": "Outgoing links from le-lien-social"
             }
           },
           {
@@ -150,8 +150,19 @@
               "icon": "lucide-list",
               "title": "Outline of ihem"
             }
+          },
+          {
+            "id": "99803a7528d348ac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,13 +173,18 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
+      "command-palette:Open command palette": false,
       "iconic:Open rulebook": false
     }
   },
   "active": "6f62ba270b349a51",
   "lastOpenFiles": [
+    "juillet-aout/livres/classe.md",
+    "public/lien-social/tb1.jpeg",
+    "juillet-aout/livres/le-lien-social.md",
+    "public/lien-social",
+    "juillet-aout/livres/ihem.md",
     "juillet-aout/index.md"
   ]
 }

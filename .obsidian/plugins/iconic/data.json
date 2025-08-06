@@ -34,7 +34,8 @@
     "contribution": {
       "icon": "lucide-book-heart",
       "unsynced": [
-        "/storage/emulated/0/Obsidian/CPES"
+        "/storage/emulated/0/Obsidian/CPES",
+        "b92058207feb00c9"
       ]
     },
     "index.md": {
@@ -43,7 +44,8 @@
     "juillet-aout": {
       "icon": "lucide-sun",
       "unsynced": [
-        "/storage/emulated/0/Obsidian/CPES"
+        "/storage/emulated/0/Obsidian/CPES",
+        "b92058207feb00c9"
       ]
     },
     "juillet-aout/index.md": {
@@ -52,7 +54,8 @@
     "juillet-aout/livres": {
       "icon": "lucide-book-copy",
       "unsynced": [
-        "/storage/emulated/0/Obsidian/CPES"
+        "/storage/emulated/0/Obsidian/CPES",
+        "b92058207feb00c9"
       ]
     },
     "juillet-aout/livres/classe.md": {
@@ -61,7 +64,7 @@
     },
     "juillet-aout/livres/ihem.md": {
       "icon": "lucide-file",
-      "color": "yellow"
+      "color": "green"
     },
     "juillet-aout/livres/index.md": {
       "icon": "lucide-dot"
@@ -72,12 +75,13 @@
     },
     "juillet-aout/livres/le-lien-social.md": {
       "icon": "lucide-file",
-      "color": "red"
+      "color": "yellow"
     },
     "public": {
       "icon": "lucide-folder-symlink",
       "unsynced": [
-        "/storage/emulated/0/Obsidian/CPES"
+        "/storage/emulated/0/Obsidian/CPES",
+        "b92058207feb00c9"
       ]
     },
     "public/logo.png": {

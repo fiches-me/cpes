@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "fonts"
   ],
-  "textFontFamily": "Plus Jakarta Sans,Fluent Emoji Color,Inter"
+  "textFontFamily": "Plus Jakarta Sans,Fluent Emoji Color,Inter",
+  "nativeMenus": true
 }

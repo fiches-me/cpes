@@ -206,7 +206,7 @@ La Corée du Sud et Taïwan ont suivi de près le Japon dans le rattrapage de l'
 
 ## 🌄 Épilogue
 
-La Chine est en train de rattraper l'Occident, mais qu'en est t-il de l'Afrique, de l'Amérique Latine et du reste de l'Asie ? Le revenu des pays "pauvres" doit croître plus vite que ceux des "riches" pour pouvoir les rattraper. Très peu de pays en sont capables : entre 1955 et 2005, il ne sont que 10 : Oman, Botswana et Guinée en particulier. Les cas intéressants sont les pays dotés d'une agriculture importante : ils ont du rattraper un retard en terme d'éducation, de capital et de productivité. La scolarisation de masse règle le premier, et une politique de l'État les deux autres. EN revanche, la question de savoir laquelle de ces nombreuses initiatives a été la plus efficace reste l'objet de nombreux débats. 
+La Chine est en train de rattraper l'Occident, mais qu'en est t-il de l'Afrique, de l'Amérique Latine et du reste de l'Asie ? Le revenu des pays "pauvres" doit croître plus vite que ceux des "riches" pour pouvoir les rattraper. Très peu de pays en sont capables : entre 1955 et 2005, il ne sont que 10 : Oman, Botswana et Guinée en particulier. Les cas intéressants sont les pays dotés d'une agriculture importante : ils ont du rattraper un retard en terme d'éducation, de capital et de productivité. La scolarisation de masse règle le premier, et une politique de l'État les deux autres. EN revanche, la question de savoir laquelle de ces nombreuses initiatives a été la plus efficace reste l'objet de nombreux débats.
 
 [^1]: Ouvriers.  
 [^2]: Recherche et développement : création d’innovation, recherche sur le produit, sa commercialisation et sa publicité.  
