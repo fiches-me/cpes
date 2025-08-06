@@ -67,6 +67,7 @@
 
   /* Primary override accent color */
   --pmr-color-primary: #c94949;
+  --pmr-color-secondary: #22729B;
 
   /* ----------------------------- */
   /* PMR Color Palette — Dark Theme */
@@ -211,4 +212,8 @@
 
 strong {
   color: var(--pmr-color-primary);
+}
+
+i, em {
+  color: var(--pmr-color-secondary);
 }
