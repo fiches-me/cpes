@@ -65,6 +65,9 @@
   --pmr-color-l-violet-40:    hsla(265, 70%, 30%, 1);
   --pmr-color-l-alpha-violet: hsla(236, 100%, 72%, 0.2);
 
+  /* Primary override accent color */
+  --pmr-color-primary: #c94949;
+
   /* ----------------------------- */
   /* PMR Color Palette — Dark Theme */
   /* Grayscale */
@@ -150,10 +153,10 @@
   --vp-c-gutter:  var(--pmr-color-l-gray-30);
 
   /* Brand & Functional */
-  --vp-c-brand-1:    var(--pmr-color-l-blue-30);
-  --vp-c-brand-2:    var(--pmr-color-l-blue-20);
-  --vp-c-brand-3:    var(--pmr-color-l-blue-10);
-  --vp-c-brand-soft: var(--pmr-color-l-alpha-blue);
+  --vp-c-brand-1:    var(--pmr-color-primary);
+  --vp-c-brand-2:    var(--pmr-color-l-red-30);
+  --vp-c-brand-3:    var(--pmr-color-l-red-20);
+  --vp-c-brand-soft: var(--pmr-color-l-alpha-red);
 
   --vp-c-success-1:    var(--pmr-color-l-green-30);
   --vp-c-success-2:    var(--pmr-color-l-green-20);
@@ -191,10 +194,10 @@
   --vp-c-divider: var(--pmr-color-d-gray-70);
   --vp-c-gutter:  var(--pmr-color-d-gray-60);
 
-  --vp-c-brand-1:    var(--pmr-color-d-blue-30);
-  --vp-c-brand-2:    var(--pmr-color-d-blue-20);
-  --vp-c-brand-3:    var(--pmr-color-d-blue-10);
-  --vp-c-brand-soft: var(--pmr-color-d-alpha-blue);
+  --vp-c-brand-1:    var(--pmr-color-primary);
+  --vp-c-brand-2:    var(--pmr-color-d-red-30);
+  --vp-c-brand-3:    var(--pmr-color-d-red-20);
+  --vp-c-brand-soft: var(--pmr-color-d-alpha-red);
 
   --vp-c-success-1:    var(--pmr-color-d-green-30);
   --vp-c-success-soft: var(--pmr-color-d-alpha-green);
@@ -205,7 +208,3 @@
   --vp-c-danger-1:    var(--pmr-color-d-red-30);
   --vp-c-danger-soft: var(--pmr-color-d-alpha-red);
 }
-
-
-I’ve bundled the full PMR/Starlight variable definitions (both light and dark) at the top, followed by the VitePress --vp-c-* overrides. Just drop this CSS file into your VitePress project and you’ll have the PMR palette driving every VitePress color variable. Let me know if you’d like any further tweaks (e.g. different accent hues or mapping adjustments)!
-
