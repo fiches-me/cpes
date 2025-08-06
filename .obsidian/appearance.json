@@ -5,5 +5,5 @@
     "fonts"
   ],
   "textFontFamily": "Plus Jakarta Sans,Fluent Emoji Color,Inter",
-  "nativeMenus": true
+  "nativeMenus": false
 }
