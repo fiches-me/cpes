@@ -20,7 +20,6 @@ const vitePressConfigs = {
     }
   },
   titleTemplate: ':title - FICHES',
-  cleanUrls: true,
   lang: 'fr-FR',
   head: [['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }]],
   themeConfig: {
