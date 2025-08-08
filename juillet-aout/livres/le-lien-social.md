@@ -64,6 +64,7 @@ Durkheim montre également que les liens sociaux étaient fragiles dès les soci
 Durkheim envisage enfin un affaiblissement d'un lien social spécifique avec la solidarité organique : celui de l'héritage. Les métiers sont beaucoup plus diverses et ne sont donc plus ou moins limités à ceux des parents. 
 
 > « même dans cette société qui autorise chacun à être lui-même, il y a une part, plus considérable que nous croyons, de conscience collective présente dans les consciences individuelles »
+
 #### Les formes anormales de la division du travail
 
 Dans une organisation productive moderne, la coopération s’impose, car aucun individu n’est susceptible d’exercer toutes les fonctions à la fois. Ainsi, la solidarité organique est pour Durkheim la forme normale de la solidarité dans les sociétés modernes. Durkheim va cependant trouver quelques anormalités.
@@ -78,7 +79,7 @@ Le problème que pose Durkheim est essentiellement d’ordre moral. Puisque tout
 
 ## 💞 Solidarisme et lien social
 
+Pourquoi une autonomie croissante de l'individu débouche sur une interdépendance ? Le "récent" système de protection sociale renforce ces liens, mais permet aussi une certaine liberté face à la famille, les voisins, etc. 
 
 ### La pensée solidariste
-
-/co
+/git:
