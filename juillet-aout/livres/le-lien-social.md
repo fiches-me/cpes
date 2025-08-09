@@ -82,4 +82,45 @@ Le problème que pose Durkheim est essentiellement d’ordre moral. Puisque tout
 Pourquoi une autonomie croissante de l'individu débouche sur une interdépendance ? Le "récent" système de protection sociale renforce ces liens, mais permet aussi une certaine liberté face à la famille, les voisins, etc. 
 
 ### La pensée solidariste
-/git:
+
+Durkheim est pour un État qui gouverne “ni trop, ni trop peu”. Le premier homme politique a accorder de l'importance au solidarisme fut **Léon Bourgeois**. Il a notamment transformé l'idée de solidarité en doctrine. La première formulation de cette doctrine se trouve dans *Solidarité*, un livre écrit par Léon Bourgeois et qui développe la notion de dette sociale.
+
+> « Dès que l’enfant, après l’allaitement, se sépare définitivement de la mère et devient un être distinct, recevant du dehors les aliments nécessaires à son existence, il est un débiteur ; il ne fera pas un pas, un geste, il ne se procurera point la satisfaction d’un besoin, il n’exercera point une de ses facultés naissantes, sans puiser dans l’immense réservoir des utilités accumulées par l’humanité. »
+
+La doctrine du solidarisme est fondée sur le principe de **la dette entre les différentes générations**. Pour rendre l'appareil à la génération précédente, on aide la génération suivante. 
+
+Cette doctrine conduit à interroger le rôle de l’État, dont sa traduction juridique. Le solidarisme définit une des missions essentielles de l’État, celle de garantir le progrès social sans devenir une puissance tutélaire oppressante.
+
+Le solidarisme s’affirme comme un « garantisme ». La justice n’existera entre les hommes que s’ils deviennent des associés solidaires en neutralisant entre eux les risques auxquels ils sont confrontés.
+
+### Du solidarisme à la protection sociale généralisée
+
+De la doctrine du solidarisme à la création de la Sécurité sociale en France, la route aura été longue. Il aura fallu attendre cinquante ans entre la publication de l’ouvrage de Bourgeois et le vote de la loi du 22 mai 1946 instituant le système de protection sociale.
+
+#### Le compromis social de l’après-guerre
+
+Trois éléments sont importants pour comprendre la solidarité à cette époque :
+
+1. La Sécurité sociale est instituée à la fin de la guerre dans une période favorable aux forces de gauche et aux organisations ouvrières. 
+2. La réduction progressive de la sphère de l’assistance qui constituait jusque-là la principale forme de l’intervention sociale. Les citoyens ne doivent pas être traités comme des produits.
+3. Avec la DDHC, l'individu adulte a des droits en tant que citoyen, dont une protection de l'État.
+
+#### Les différents types de welfare regimes
+
+Le processus de « démarchandisation » n’a pas été conduit aussi loin dans tous les pays. Gøsta Esping-Andersen distingue trois modèles : le modèle libéral, le modèle corporatiste ou continental, et le modèle social-démocrate ou nordique. 
+
+**Le modèle libéral** se caractérise à la fois par des allocations d’assistance sous condition de ressources, des transferts sociaux à caractère universel modestes et un système d’assurances sociales limité. L’État encourage le marché, se limite à une intervention minimale pour assurer la protection sociale la plus élémentaire et parfois même cherche à favoriser l’essor des assurances privées. Il s’agit donc d’un processus de démarchandisation très faible.
+
+**Le modèle continental** est fondé, au contraire, sur le système des assurances obligatoires organisé dans un esprit corporatiste de défense des intérêts et des droits acquis. Ce modèle favorise le maintien des différences de statut social.
+
+**Le modèle social-démocrate**, dans lequel le principe de l’universalité des droits sociaux est appliqué de la façon la plus systématique, permet à l’ensemble de la société, la classe moyenne comme la classe ouvrière, de bénéficier d’un très haut niveau de protection sociale
+
+Plusieurs spécialistes ont souhaité enrichir la typologie d’Esping-Andersen avec un quatrième modèle : **le modèle familialiste**. Il se caractérise par un très faible niveau de protection sociale en général, mais une forte exigence sur la prise en charge par la famille. 
+
+Le lien social dans les sociétés repose sur cette conception de la protection. 
+
+## ✨ Du lien social aux liens sociaux
+
+La solidarité organique oblige 
+
+/comm
