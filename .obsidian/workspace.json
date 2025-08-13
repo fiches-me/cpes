@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7de12749709ac183",
+        "id": "55e00477555aacfd",
         "type": "tabs",
         "children": [
           {
-            "id": "6f62ba270b349a51",
+            "id": "60905ae4679c0225",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "juillet-aout/livres/le-lien-social.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "le-lien-social"
+              "title": "New tab"
             }
           }
         ]
@@ -163,12 +159,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +174,14 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "6f62ba270b349a51",
+  "active": "60905ae4679c0225",
   "lastOpenFiles": [
+    "juillet-aout/livres/le-lien-social.md",
+    "contribution/101.md",
+    "contribution/github.md",
+    "contribution/index.md",
+    "index.md",
+    "README.md",
     "pnpm-lock.yaml",
     "pnpm-lock.yaml.1357135154",
     "node_modules/@mdit",
@@ -189,7 +190,6 @@
     "_tmp_10706_a09f3aeaf11f8602da0bbcbd0d0b0daf",
     "juillet-aout/livres/classe.md",
     "public/lien-social/tb1.jpeg",
-    "juillet-aout/livres/le-lien-social.md",
     "public/lien-social",
     "juillet-aout/livres/ihem.md",
     "juillet-aout/index.md"

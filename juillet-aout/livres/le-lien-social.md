@@ -121,6 +121,68 @@ Le lien social dans les sociétés repose sur cette conception de la protection.
 
 ## ✨ Du lien social aux liens sociaux
 
-La solidarité organique oblige 
+La solidarité organique rend la reconnaissance à autrui "autonome". Moins automatique que dans les sociétés où l’individu appartient avant tout à un cercle étroit, elle est aujourd’hui, dans les sociétés où les multiples liens sociaux s’entrecroisent, un objet de conquêtes et donc de lutte
 
-/comm
+### La pluralité des liens
+
+Georg Simmel et Norbert Elias, deux sociologues allemands, vont contribuer à cette sociologie historique. L’un et l’autre ont mis l’accent sur la pluralité des appartenances et analysé le lien social dans les sociétés modernes comme l’entrecroisement de plusieurs liens.
+
+#### La diversification des appartenances
+
+Georg Simmel utilise une une approche sociohistorique de grande envergure, comparable à celle du $XX$°. Il fait le constat que plus les groupes sont grands, plus ils sont diversifiés et par conséquent plus individualistes. 
+
+> [!NOTE]
+> Simmel est aujourd’hui souvent cité par les spécialistes des réseaux sociaux qui voient en lui l’un des précurseurs de l’étude microscopique des formes de l’action réciproque et de l’entrecroisement des cercles sociaux.
+
+Simmel découvre que les Hommes modernes ont de plus en plus d'appartenances. Ils peuvent être inclus, ou cotes à cotes et unis pour une seule personne. 
+
+#### Le concept de configuration
+
+La thèse d'Elias traite de l’évolution des normes et des règles de conduite dans les sociétés d’Europe occidentale depuis la période médiévale. Il insiste sur la régulation des pulsions et des émotions : nous sommes passés d'une prohibition extérieure des pulsions à un mécanisme d'autorégulation. Deux conditions ont été nécessaires : une différenciation poussée des fonctions et une monopolisation de la violence par l’État. Il traite également les liens affectifs : l’homme aspire à rencontrer d’autres hommes, et que, pour ce faire, il dépend en grande partie d’autrui. Ils sont importants car dans une société de solidarité organique, la diversité rend ce lien plus "plausible", et sa recherche plus complexe. Les liens affectifs qui attachent les hommes aux États nationaux ont aujourd’hui la primauté sur ceux qui les reliaient autrefois aux villes, aux tribus et aux villages. 
+
+### Typologie
+
+Dans la plupart des actes de tout les jours, nous sommes soumis au regard d'autrui. L’individu recherche une approbation dans le lien qu’il tisse avec les autres. Ces liens peuvent êtres triés de la façon suivante :
+
+ **Définition des différents types de lien en fonction des formes de protection et de reconnaissance**
+
+| Types de lien                                                               | Formes de protection                                                                       | Formes de reconnaissance                                                       |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| *Lien de filiation* (entre parents et enfants)                              | Compter sur la solidarité inter-générationnelle<br>Protection rapprochée                   | Compter pour ses parents et ses enfants<br>Reconnaissance affective            |
+| *Lien de participation élective* (entre conjoints, amis, proches choisis…)  | Compter sur la solidarité de l’entre-soi électif<br>Protection rapprochée                  | Compter pour l’entre-soi électif<br>Reconnaissance affective ou par similitude |
+| *Lien de participation organique* (entre acteurs de la vie professionnelle) | Emploi stable<br>Protection contractualisée                                                | Reconnaissance par le travail et l’estime sociale qui en découle               |
+| *Lien de citoyenneté* (entre membres d’une même communauté politique)       | Protection juridique (droits civils, politiques et sociaux) au titre du principe d’égalité | Reconnaissance de l’individu souverain                                         |
+
+## ☄️ Fragilités et ruptures
+
+Comme l'individu développe lui même ses connexions & liens sociaux, alors un développement fragile peut advenir. Dans certain cas, il est nécessaire : *Les psychiatres ne disent-ils pas qu’il est nécessaire de se détacher pour grandir ?*  Étudier le lien social implique donc d’analyser non seulement la multiplicité et l’intensité des liens sociaux, mais aussi leurs fragilités et leurs éventuelles ruptures.
+
+### Déficit de protection et déni de reconnaissance
+
+La protection et la reconnaissance sont aujourd’hui fragilisées, avec pour autant un système de protection généralisé. Il n'y a plus d'attachement par un petit groupe : il doit être trouvé en autonomie ou source d'émancipation. L’individu précarisé est en quelque sorte condamné, au moins de façon temporaire, à l’expérience de la souffrance sociale. 
+
+#### Le retour de l’insécurité sociale
+
+Poser la question de l’insécurité sociale dans les pays développés peut paraître paradoxal tant nous vivons dans des sociétés parmi les plus sûres qui aient jamais existé. La dégradation du marché du travail va avoir des effets notoires :comment concevoir la solidarité dans un monde économique qui refoule les plus vulnérables dans l’inactivité ou la précarité institutionnalisée ?
+
+#### Les formes du mépris
+
+Chaque société comporte sa part d’indésirables dont on finit par douter de l’humanité et dont il faut se débarrasser d’une manière ou d’une autre. Il existe trois attaques : **l'atteinte à l'intégrité physique**, **l'exclusion juridique**  et **la dpéréciation sociale**. Ces formes de mépris ne sont pas nouvelles, mais elles sont plus diffuses et touchent de plus en plus les individus, indépendamment de leur appartenance à tel ou tel groupe (ex: les immigrés). 
+
+### Le risque de ruptures cumulatives
+Selon Durkheim, la crise du lien social résulte du relâchement des liens sociaux, lequel peut entraîner des ruptures plus nombreuses.
+#### Les différents types de ruptures
+Chaque lien étudié dans le tableau précédent peut être rompu :
+
+
+|                                   | Raison de rupture                                                             | Déficit de protection                                                                                                                                        | Déficit de reconaissance                                                                                    |     |
+| --------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | --- |
+| *Lien de filiation*               | Accouchement sous X<br>Perte du droit de parent (justice)<br>Décès<br>Dispute | Impossibilité de compter sur ces parents/enfants en cas de difficulté                                                                                        | Abandon, mauvais traitement, mésente durable, rejet<br>Sentiment de ne pas compter pour ses parents/enfants |     |
+| *Lien de participation élective*  | Distance, désacord                                                            | Isolement relationel                                                                                                                                         | Rejet du groupe des pairs<br>Trahison, abandon                                                              |     |
+| *Lien de participation organique* | Chômage<br>                                                                   | Lien occasionnel avec le marché de l'emploi<br>Chômage de longue durée, entrée dans une carrière d'assisté                                                   | Humiliation sociale<br>Identité négative<br>Sentiment d'être inutile                                        |     |
+| *Lien de citoyenneté*             | Pas de papiers d'identités                                                    | Éloignement des circuits administratifs<br>Incertitude juridique<br>Vulnérabilité à l'égard des institutions<br>Absence de papiers d'identités<br>Exil forcé | Discrimination juridique<br>Non-reconnaissance de droits civils, politiques et sociaux<br>Apathie politique |     |
+#### L’apprentissage raté
+
+Les sociologues attachent de l’importance aux conditions économiques, sociales et culturelles de la socialisation de l’enfant. Les relations familiales fondent la personnalité et l'apprentissage des normes sociales. Jean Labbens découvre en 1960 que 80% des individus sont pauvre "de famille". Les enfants deviennent marginaux, ce qui empire leur exclusion et les poussent effectivement dans la pauvreté. 
+
+Les sociologues de l’éducation observent les premières traces d’inégalités sociales à l’école au niveau de la moyenne section de la maternelle. 

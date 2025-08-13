@@ -2,3 +2,4 @@
 node_modules
 .vitepress/dist
 .obsidian/workspace-mobile.json
+.obsidian/workspace.json

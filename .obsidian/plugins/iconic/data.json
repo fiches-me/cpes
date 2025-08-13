@@ -22,27 +22,38 @@
   "rememberDeletedItems": false,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": false,
+    "emojiMode": true,
     "rulePage": "file"
   },
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
     "README.md": {
-      "icon": "lucide-file-pen"
+      "icon": "📝"
     },
     "contribution": {
-      "icon": "lucide-book-heart",
+      "icon": "💖",
       "unsynced": [
         "/storage/emulated/0/Obsidian/CPES",
         "b92058207feb00c9"
       ]
     },
+    "contribution/101.md": {
+      "icon": "lucide-file",
+      "color": "#c951f5"
+    },
+    "contribution/github.md": {
+      "icon": "lucide-file",
+      "color": "red"
+    },
+    "contribution/index.md": {
+      "icon": "lucide-dot"
+    },
     "index.md": {
-      "icon": "lucide-home"
+      "icon": "🏠"
     },
     "juillet-aout": {
-      "icon": "lucide-sun",
+      "icon": "🏖️",
       "unsynced": [
         "/storage/emulated/0/Obsidian/CPES",
         "b92058207feb00c9"
@@ -77,8 +88,14 @@
       "icon": "lucide-file",
       "color": "yellow"
     },
+    "node_modules": {
+      "icon": "📦",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
     "public": {
-      "icon": "lucide-folder-symlink",
+      "icon": "🌐",
       "unsynced": [
         "/storage/emulated/0/Obsidian/CPES",
         "b92058207feb00c9"
