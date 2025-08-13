@@ -25,7 +25,7 @@ Les différences de salaires entre les différents continents au $XVI$e siècle 
 
 Le PIB n'est pas une mesure satisfaisante du bien-être. Il néglige un grand nombre de facteurs tels que la santé, l'espérance de vie et le niveau d'éducation. On peut alors calculer *le salaire réel*.
 
-> [!definition]
+> [!DÉFINITION]
 > **Le salaire réel** est le niveau de vie que l'on peut se procurer avec ce que l'on gagne.
 
 Contrairement à d'autres continents, le niveau de vie s'est effondré en Europe. Les manœuvres[^1] ne gagnaient plus assez pour acheter de quoi vivre. En revanche, les ouvriers anglo-saxons gagnaient encore quatre fois ce niveau de subsistance. On comprend alors les bas revenus : les quelques surplus qui pouvaient exister étaient prélevés par l'État, l'aristocratie et les riches marchands. Le niveau de subsistance est une trappe à pauvreté, car il ne motive en rien les chefs d'entreprise à investir dans des machines pour améliorer la production. La révolution industrielle n'est pas seulement la cause, mais aussi la conséquence de salaires élevés.

@@ -13,7 +13,7 @@ Si vous souhaitez participer à la rédaction de fiches, donnez moi votre avis !
 
 ## 📌 Introduction
 
-> [!DEFINITION]
+> [!DÉFINITION]
 > Le **lien social** est l'ensemble des appartenances, des affiliations, des relation qui unissent les gens et les groupes sociaux entres eux.
 
 Le lien social a t-il toujours une place dans notre société qui devient de plus en plus individualiste ? Il n’est pas rare d’entendre parler de « crise du lien social » et de la nécessité de « retisser » ou de « renouer » le lien social. Il ne peut exister de société humaine sans solidarité entre ses membres. Selon Émile Durkheim, la solidarité a changé de nature, de solidarité *mécanique* à solidarité *organique*. Mais elle reste pour autant le principal organisateur de toute vie collective. 
@@ -170,10 +170,12 @@ Poser la question de l’insécurité sociale dans les pays développés peut pa
 Chaque société comporte sa part d’indésirables dont on finit par douter de l’humanité et dont il faut se débarrasser d’une manière ou d’une autre. Il existe trois attaques : **l'atteinte à l'intégrité physique**, **l'exclusion juridique**  et **la dpéréciation sociale**. Ces formes de mépris ne sont pas nouvelles, mais elles sont plus diffuses et touchent de plus en plus les individus, indépendamment de leur appartenance à tel ou tel groupe (ex: les immigrés). 
 
 ### Le risque de ruptures cumulatives
-Selon Durkheim, la crise du lien social résulte du relâchement des liens sociaux, lequel peut entraîner des ruptures plus nombreuses.
-#### Les différents types de ruptures
-Chaque lien étudié dans le tableau précédent peut être rompu :
 
+Selon Durkheim, la crise du lien social résulte du relâchement des liens sociaux, lequel peut entraîner des ruptures plus nombreuses.
+
+#### Les différents types de ruptures
+
+Chaque lien étudié dans le tableau précédent peut être rompu :
 
 |                                   | Raison de rupture                                                             | Déficit de protection                                                                                                                                        | Déficit de reconaissance                                                                                    |     |
 | --------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | --- |
@@ -181,8 +183,27 @@ Chaque lien étudié dans le tableau précédent peut être rompu :
 | *Lien de participation élective*  | Distance, désacord                                                            | Isolement relationel                                                                                                                                         | Rejet du groupe des pairs<br>Trahison, abandon                                                              |     |
 | *Lien de participation organique* | Chômage<br>                                                                   | Lien occasionnel avec le marché de l'emploi<br>Chômage de longue durée, entrée dans une carrière d'assisté                                                   | Humiliation sociale<br>Identité négative<br>Sentiment d'être inutile                                        |     |
 | *Lien de citoyenneté*             | Pas de papiers d'identités                                                    | Éloignement des circuits administratifs<br>Incertitude juridique<br>Vulnérabilité à l'égard des institutions<br>Absence de papiers d'identités<br>Exil forcé | Discrimination juridique<br>Non-reconnaissance de droits civils, politiques et sociaux<br>Apathie politique |     |
+
 #### L’apprentissage raté
 
 Les sociologues attachent de l’importance aux conditions économiques, sociales et culturelles de la socialisation de l’enfant. Les relations familiales fondent la personnalité et l'apprentissage des normes sociales. Jean Labbens découvre en 1960 que 80% des individus sont pauvre "de famille". Les enfants deviennent marginaux, ce qui empire leur exclusion et les poussent effectivement dans la pauvreté. 
 
-Les sociologues de l’éducation observent les premières traces d’inégalités sociales à l’école au niveau de la moyenne section de la maternelle. 
+Les sociologues de l’éducation observent les premières traces d’inégalités sociales à l’école au niveau de la moyenne section de la maternelle. Certaines observations vont même jusqu'à la crèche.
+
+#### La dégradation statutaire
+
+Même ceux que l’on considère habituellement comme protégés de tous les aléas de la vie à la fois par leur statut social, leur niveau de vie et le tissu de leurs relations sociales peuvent connaître l’expérience d’une dégradation statutaire.
+
+> [!DÉFINITION]
+> La dégradation statutaire fait référence à la dégradation (perte de grade) d'un statut (social) et non d'une dégradation physique (type lancer une balle de tenis sur un carreau)
+
+Le chômage peut être un facteur, en particulier le **chômage total**, qui correspond au chômage quand le travail *représente une grande partie de l’identité* du chômeur. 
+
+## 🧭 Les nouveaux défis
+
+Comment faire société lorsque l’expérience vécue de l’insécurité et du malaise social conduit certains groupes à chercher une sécurité dans l'entre soi ? La mise en place d’un système de protection sociale généralisé a constitué une des avancées les plus considérables du $XX$° siècle.
+
+### Pour une éthique renouvelée du lien social
+
+À la suite de Léon Bourgeois, la notion de « quasi-contrat social » est fondée sur l’idée que la justice ne peut exister entre les hommes que s’ils deviennent des associés solidaires en neutralisant entre eux les risques auxquels ils sont confrontés
+#### Responsabilité individuelle et responsabilité sociale
