@@ -20,7 +20,7 @@ Le lien social a t-il toujours une place dans notre société qui devient de plu
 
 Ce livre va interroger comment ce changement se réalise, et quel sont ses conséquences.  Sur quoi peut reposer la coexistence pacifique de la solidarité ?
 
-## L’interrogation sociologique
+## 🤔 L’interrogation sociologique
 
 La thèse d’Émile Durkheim intitulée *De la division du travail social,* soutenue le 3 mars 1893 à la faculté des lettres de Bordeaux, peut être considérée comme une introduction au lien social. 
 
@@ -207,3 +207,57 @@ Comment faire société lorsque l’expérience vécue de l’insécurité et du
 
 À la suite de Léon Bourgeois, la notion de « quasi-contrat social » est fondée sur l’idée que la justice ne peut exister entre les hommes que s’ils deviennent des associés solidaires en neutralisant entre eux les risques auxquels ils sont confrontés
 #### Responsabilité individuelle et responsabilité sociale
+
+Même si le solidarisme s'est imposé dans les sociétés modernes, la responsabilité individuelle prend le pas sur la notion de responsabilité sociale prend le dessus depuis ~ 15 ans. Dans les programmes de lutte contre le chômage et la pauvreté, on fait de plus en plus appel à la responsabilité individuelle et au mérite.
+
+Pour rendre l’individu responsable, il faut commencer par lui assurer les possibilités réelles d’exercer sa liberté de jouir du bien-être selon sa propre conception de la vie bonne.
+
+La question de responsabilité est également exprimé à l'école. 
+
+Avant d’incriminer les plus faibles en les rendant responsables de leur sort, il faudrait poser la question de la place des plus désavantagés dans le système social. Elle appelle toutefois l’élaboration de politiques publiques qui visent à rendre les populations les plus défavorisées capables de se saisir de toutes les possibilités de progrès social qui s’offrent à elles.
+
+#### Entre universalisme et particularismes
+
+Dans le domaine des politiques de lutte contre la pauvreté, l’approche catégorielle est très fréquente. Définir le droit à l’assistance revient à définir de façon administrative la population susceptible d’y prétendre.
+
+Dans les politiques dites d’intégration des populations immigrées, la tension est également grande entre une conception visant à défendre le modèle républicain fondé sur la laïcité et l’égalité des citoyens et une autre conception visant à promouvoir le droit à la différence et l’affirmation des identités communautaires.
+
+S’il existe un horizon de justice sociale auquel la société doit tendre, celui-ci sera plus facilement atteint en se référant à des solutions universalistes.
+
+### Penser ensemble la protection et la reconnaissance
+
+Peut-on viser ensemble les deux objectifs de protection et de reconnaissance ? Cette question générale en appelle trois autres :
+1. Peut-on envisager un nouveau modèle d’intégration professionnelle visant à concilier efficacité économique et solidarité sociale dans un environnement marqué par la concurrence internationale ?
+2. Peut-on envisager des politiques fondées sur l’articulation des liens sociaux ?
+3. Comment délimiter les frontières de la solidarité au sens de la définition des territoires dans lesquels elle est censée se développer, du local au national et du national au supranational ?
+#### Vers un nouveau modèle d’intégration professionnelle ?
+
+Plus d’un siècle après la thèse de Durkheim, le lien de participation organique joue encore un rôle primordial dans la régulation sociale. Mais le monde du travail est confronté à de l'individualisation et à de nouvelles formes de souffrances. 
+
+Le Danemark a rendu plus laxiste les conditions de recrutement... mais aussi de licenciement. Et à la grande surprise des chercheurs, cette approche est efficace. Il faut toutefois se garder de l’idée qu’il n’y aurait qu’à transférer ce modèle dans les autres pays, notamment en France, pour résoudre la crise de la société salariale. La configuration institutionnelle qui a conduit à l’émergence du modèle danois est très différente. Le taux de syndicalisation atteint 80 % au Danemark, soit environ huit fois plus qu’en France. Par ailleurs, les Danois adhèrent avec confiance aux institutions de l’État social et approuvent son financement par de hauts niveaux de prélèvement.
+
+#### Vers une politique d’articulation des liens sociaux ?
+
+La solidarité familiale peut elle appuyer la solidarité publique ? 
+
+> [!DÉFINITION]
+> La notion de « solidarité familiale » désigne un ensemble d’échanges, de transferts ou de services dont la caractéristique majeure, comme le rappelle justement Irène Théry, est d’être issue d’un statut relevant de l’état civil des personnes, celui qui confère à chacun une place singulière dans un système de parenté [10]. 
+
+La solidarité familiale serait en quelque sorte ce qui permettrait de vérifier, au-delà du processus de désinstitutionnalisation de la famille, le maintien d’initiatives personnelles d’échanges entre les différentes composantes du réseau de parenté, précisément là où l’on aurait pu s’attendre à un recul. 
+
+Cependant, la solidarité familiale a pour effet de renforcer les inégalités sociales plus que de les réduire et que les supports de ce type restent faibles parmi les populations les plus démunies.
+
+
+#### Les frontières de l’entre-soi
+
+Républicain de conviction, Durkheim était convaincu du rôle fondamental de l’État. Il était soucieux, par exemple, de ne pas laisser la famille se gouverner entièrement elle-même. Il fallait, selon lui, protéger les enfants contre le risque d’un autoritarisme parental excessif et garantir à tous l’accès à l’école.
+
+Des instances territoriales plus proches pourraient prendre le relaie de l'État (mairie -> ville solidaire)
+
+Il est frappant de constater que c’est au moment où les États perdent peu à peu leur souveraineté interne sur leurs économies qu’ils manifestent une réticence à penser la solidarité à un échelon supranational, en particulier à l’échelon européen. En revanche, l’Union européenne peut définir des objectifs sociaux. Des progrès non négligeables ont été réalisés dans ce domaine depuis 2000. 
+
+## Conclusion
+
+En définitive, entre la ville solidaire, l’État national de bien-être et l’Europe pluraliste solidaire éclairée par une ouverture à l’Autre, il est facile d’entrevoir non pas des oppositions de principe, mais au contraire des possibilités d’interdépendance et de synergies.
+
+D’une façon plus générale, les nouveaux défis du lien social conduisent à penser la solidarité non pas comme un système bureaucratique tirant sa seule légitimité du pouvoir absolu de l’État, mais, au contraire, comme un système comprenant des formes multiples et complémentaires de la solidarité, lesquelles correspondent en réalité à la pluralité des liens sociaux : le lien de filiation, le lien de participation élective, le lien de participation organique et le lien de citoyenneté. Ces liens sont entrecroisés et chacun d’eux apporte sa contribution au tissage qui enveloppe les membres d’une société. Renforcer ou renouer le lien social revient alors à renforcer chaque type de liens sociaux de façon à ce que chacun d’entre eux s’entrecroise réellement avec les autres et permette ainsi l’intégration solidaire de tous les membres de la société.
