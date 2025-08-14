@@ -86,12 +86,13 @@
     },
     "juillet-aout/livres/le-lien-social.md": {
       "icon": "lucide-file",
-      "color": "yellow"
+      "color": "green"
     },
     "node_modules": {
       "icon": "📦",
       "unsynced": [
-        "b92058207feb00c9"
+        "b92058207feb00c9",
+        "/storage/emulated/0/Obsidian/CPES"
       ]
     },
     "public": {
