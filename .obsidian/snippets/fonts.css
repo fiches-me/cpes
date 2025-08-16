@@ -2,6 +2,12 @@
 
 /* Apply Plus Jakarta Sans to body and general text */
 body {
+    --h1-font: 'Poppins', 'Swift3D MFFM Emoji', 'Inter', sans-serif;
+    --h2-font: 'Poppins', 'Swift3D MFFM Emoji', 'Inter', sans-serif;
+    --h3-font: 'Poppins', 'Swift3D MFFM Emoji', 'Inter', sans-serif;
+    --h4-font: 'Poppins', 'Swift3D MFFM Emoji', 'Inter', sans-serif;
+    --h5-font: 'Poppins', 'Swift3D MFFM Emoji', 'Inter', sans-serif;
+    --h6-font: 'Poppins', 'Swift3D MFFM Emoji', 'Inter', sans-serif;
     font-family: 'Plus Jakarta Sans', 'Swift3D MFFM Emoji', 'Inter', sans-serif;
 }
 
