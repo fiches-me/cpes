@@ -68,3 +68,5 @@ Pour un polynôme $P(x) = ax^2 + bx + c$ avec $\Delta > 0$ et solutions $x_1 < x
 > $\Delta = 9 > 0 \Rightarrow x_1 = \frac{1}{2}, x_2 = 2$  
 > Si $a=2>0$, tableau des signes : + | - | +  
 > Donc $2x^2 - 5x + 2 > 0 \Rightarrow x < \frac{1}{2}$ ou $x > 2$
+
+> [!NOTE] penser à mettre en facteur
