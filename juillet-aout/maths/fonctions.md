@@ -36,6 +36,7 @@ title: 🚧 Fonctions Usuelles & Suites
 
 ## Suites
 ### Définitions
+Une suite $(u_n) n ∈ \in \mathbb{N}$ est arithmétique s’il existe un réel $r$ indépendant de n tel que, pour tout $n \in \mathbb{N}$ , $u_{n+1} = u_n + r$
 ### Variations d'une suite
 Une suite est croissante si $u_{n+1} - u_n > 0$ ou $\frac{u_{n+1}}{u_n} ≥ 1$
 Une suite est décroissante si $u_{n+1} - u_n < 0$ ou $\frac{u_{n+1}}{u_n} ≤ 1$
