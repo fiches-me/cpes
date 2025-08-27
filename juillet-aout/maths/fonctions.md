@@ -1,9 +1,15 @@
 ---
+<<<<<<< HEAD:juillet-aout/maths/fonctions.md
 title: 🚧 Fonctions Usuelles & Suites
 ---
 
 # 🚧 Fonctions Usuelles & Suites
 
+=======
+title: ⚛️ Fonctions Usuelles
+---
+# ⚛️ Fonctions Usuelles
+>>>>>>> 34b8c99 (📝 Content Update):juillet-aout/maths/e-ln.md
 ## Propriétés Exponentielles
 
 - $e^0 = 1$
