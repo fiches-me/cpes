@@ -39,3 +39,9 @@ Une suite $(u_n) n ∈ \in \mathbb{N}$ est arithmétique s’il existe un réel
 ### Variations d'une suite
 Une suite est croissante si $u_{n+1} - u_n > 0$ ou $\frac{u_{n+1}}{u_n} ≥ 1$
 Une suite est décroissante si $u_{n+1} - u_n < 0$ ou $\frac{u_{n+1}}{u_n} ≤ 1$
+### Formule récurente
+- Suite arithmétique : $u_{n+1} = u_n + r$
+- Suite géomatrique ! $u_{n+1} = u_n × q$
+### Formule de Sommme
+- Suite arithmétique : $S_n = \frac{(1er terme + dernier terme)(nbre de termes)}{2}$
+- Suite géomatrique ! $S_n = u_0 \frac{1-q^n}{1-q}$
