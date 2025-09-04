@@ -31,6 +31,12 @@
     "README.md": {
       "icon": "📝"
     },
+    "bio": {
+      "icon": "🍃",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
     "contribution": {
       "icon": "💖",
       "unsynced": [
@@ -59,9 +65,6 @@
         "b92058207feb00c9"
       ]
     },
-    "juillet-aout/index.md": {
-      "icon": "lucide-dot"
-    },
     "juillet-aout/livres": {
       "icon": "lucide-book-copy",
       "unsynced": [
@@ -69,29 +72,22 @@
         "b92058207feb00c9"
       ]
     },
-    "juillet-aout/livres/classe.md": {
-      "icon": "lucide-file",
-      "color": "red"
-    },
-    "juillet-aout/livres/ihem.md": {
-      "icon": "lucide-file",
-      "color": "green"
-    },
-    "juillet-aout/livres/index.md": {
-      "icon": "lucide-dot"
-    },
-    "juillet-aout/livres/la-prosperite-du-vice.md": {
-      "icon": "lucide-file",
-      "color": "green"
-    },
-    "juillet-aout/livres/le-lien-social.md": {
-      "icon": "lucide-file",
-      "color": "green"
-    },
     "juillet-aout/maths": {
       "icon": "lucide-square-function",
       "unsynced": [
         "/storage/emulated/0/Obsidian/CPES",
+        "b92058207feb00c9"
+      ]
+    },
+    "livres": {
+      "icon": "📚",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
+    "maths": {
+      "icon": "🔢",
+      "unsynced": [
         "b92058207feb00c9"
       ]
     },

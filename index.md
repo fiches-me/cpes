@@ -10,11 +10,14 @@ hero:
     alt: "Fiche's Logo"
   actions:
     - theme: brand
-      text: 🏖 Summer Sheets
-      link: /juillet-aout/
-    - theme: alt
-      text: 💖 Contribute
+      text: ✨ Contribute
       link: /contribution/
+    - theme: alt
+      text: 🔢 Maths
+      link: /maths/
+    - theme: alt
+      text: 🍃 Bio
+      link: /bio/
 
 features:
   - title: Feature A
