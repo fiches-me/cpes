@@ -31,12 +31,14 @@ Pour $x \in \mathbb{R}$ et $a \in \mathbb{R}^+$, on a :
 - $|x| < a \;\;\Longleftrightarrow\;\; -a < x < a$
 - $|x| > a \;\;\Longleftrightarrow\;\; x < -a \;\;\text{ou}\;\; x > a$
 
+- En cas de multiplication/division par nombre négatif, **il faut inverser** le sens de l'inéquation
+
 ### Fractions et puissances
 
 - $\dfrac{1}{x} = x^{-1}$
 - $x^{-1} \times x^2 = x$
 
-### Identités remarquables
+### Identités "remarquables"
 
 - $(x + y)^2 = x^2 + 2xy + y^2$
 - $(x - y)^2 = x^2 - 2xy + y^2$
@@ -68,3 +70,7 @@ Pour un polynôme $P(x) = ax^2 + bx + c$ avec $\Delta > 0$ et solutions $x_1 < x
 > $\Delta = 9 > 0 \Rightarrow x_1 = \frac{1}{2}, x_2 = 2$  
 > Si $a=2>0$, tableau des signes : + | - | +  
 > Donc $2x^2 - 5x + 2 > 0 \Rightarrow x < \frac{1}{2}$ ou $x > 2$
+
+> [!NOTE] penser à mettre en facteur
+
+### 

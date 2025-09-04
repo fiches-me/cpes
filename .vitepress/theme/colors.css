@@ -139,6 +139,7 @@
   --vp-c-gray-2:    var(--pmr-color-l-gray-120);
   --vp-c-gray-3:    var(--pmr-color-l-gray-100);
   --vp-c-gray-soft: var(--pmr-color-l-alpha-gray);
+  --vp-button-alt-bg: var(--vp-c-bg-soft);
 
   --vp-c-text-1: var(--pmr-color-l-gray-140);
   --vp-c-text-2: var(--pmr-color-l-gray-100);
