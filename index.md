@@ -27,7 +27,3 @@ features:
   - title: Feature C
     details: Thanks for your patience.
 ---
-
-## 🇫🇷 Liens Utiles
-Les livres des vacances de cet été sont résumés [juste ici](./juillet-aout/index) ! Vous pouvez également lire [ces pages](./contribution/index) pour savoir comment contribuer au site.
-## 🇬🇧 Quick Links
