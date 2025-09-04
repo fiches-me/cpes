@@ -29,7 +29,7 @@ const vitePressConfigs = {
       pattern: 'https://github.com/fiches-cc/cpes/edit/main/:path'
     },
     nav: [
-      { text: '🔢 Maths', link: '/maths' },
+      { text: '🏖 Juillet-Août', link: '/juillet-aout' },
       { text: '💖 Nous Aider', link: '/contribution' },
     ],
     footer: {
@@ -51,8 +51,8 @@ export default defineConfig(
       vitePressConfigs, [
       {
         documentRootPath: '/',
-        scanStartPath: 'maths',
-        resolvePath: '/maths/',
+        scanStartPath: 'juillet-aout',
+        resolvePath: '/juillet-aout/',
         useTitleFromFrontmatter: true,
         useFolderTitleFromIndexFile: true,
         sortMenusByFrontmatterOrder: true,

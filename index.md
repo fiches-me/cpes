@@ -10,14 +10,11 @@ hero:
     alt: "Fiche's Logo"
   actions:
     - theme: brand
-      text: ✨ Contribute
+      text: 🏖 Summer Sheets
+      link: /juillet-aout/
+    - theme: alt
+      text: 💖 Contribute
       link: /contribution/
-    - theme: alt
-      text: 🔢 Maths
-      link: /maths/
-    - theme: alt
-      text: 🍃 Bio
-      link: /bio/
 
 features:
   - title: Feature A
@@ -27,3 +24,7 @@ features:
   - title: Feature C
     details: Thanks for your patience.
 ---
+
+## 🇫🇷 Liens Utiles
+Les livres des vacances de cet été sont résumés [juste ici](./juillet-aout/index) ! Vous pouvez également lire [ces pages](./contribution/index) pour savoir comment contribuer au site.
+## 🇬🇧 Quick Links

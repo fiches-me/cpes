@@ -33,6 +33,5 @@
     "editor:configure-toolbar"
   ],
   "promptDelete": false,
-  "strictLineBreaks": true,
-  "alwaysUpdateLinks": true
+  "strictLineBreaks": true
 }
