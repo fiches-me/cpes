@@ -34,7 +34,8 @@
     "bio": {
       "icon": "🍃",
       "unsynced": [
-        "b92058207feb00c9"
+        "b92058207feb00c9",
+        "/storage/emulated/0/Obsidian/CPES"
       ]
     },
     "contribution": {
@@ -82,13 +83,15 @@
     "livres": {
       "icon": "📚",
       "unsynced": [
-        "b92058207feb00c9"
+        "b92058207feb00c9",
+        "/storage/emulated/0/Obsidian/CPES"
       ]
     },
     "maths": {
       "icon": "🔢",
       "unsynced": [
-        "b92058207feb00c9"
+        "b92058207feb00c9",
+        "/storage/emulated/0/Obsidian/CPES"
       ]
     },
     "node_modules": {
@@ -107,6 +110,9 @@
     },
     "public/logo.png": {
       "icon": "lucide-image"
+    },
+    "public/maths.pdf": {
+      "icon": "lucide-file-type"
     }
   },
   "bookmarkIcons": {},

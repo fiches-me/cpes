@@ -24,7 +24,7 @@ Comme tous les livres d’introduction à la SES, <u>La Prospérité du Vice</u>
 ## 🌍 Pourquoi l’Occident ?
 
 > [!NOTE]
-> Cette partie a d’abord été rédigée sur papier puis sur fiches.cc. Elle ne possède pas les mêmes sections que le livre.
+> Cette partie a d’abord été rédigée sur papier puis sur fiches.me. Elle ne possède pas les mêmes sections que le livre.
 
 ### L’Empire romain
 
