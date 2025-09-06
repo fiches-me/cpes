@@ -23,3 +23,7 @@ Effectuons un peu d'**Épistémologie** (science des science). Nous nous baseron
 
 ### Méthode
 Maintenant que nous avons l'objet de la science économique, *il nous faut la méthode*. Il existe 2 grandes façon, qui font toujours débat aujourd'hui.
+
+#### Courant dit *Historique*
+#### Courant dit *Marginaliste*
+## Les 10 commandements
