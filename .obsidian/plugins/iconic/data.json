@@ -56,6 +56,12 @@
     "contribution/index.md": {
       "icon": "lucide-dot"
     },
+    "eco": {
+      "icon": "💸",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
     "index.md": {
       "icon": "🏠"
     },
