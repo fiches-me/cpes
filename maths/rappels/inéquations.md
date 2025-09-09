@@ -37,6 +37,7 @@ Pour $x \in \mathbb{R}$ et $a \in \mathbb{R}^+$, on a :
 
 - $\dfrac{1}{x} = x^{-1}$
 - $x^{-1} \times x^2 = x$
+- $x^a \times x^b = x^{a + b}$
 
 ### Identités "remarquables"
 
@@ -47,7 +48,7 @@ Pour $x \in \mathbb{R}$ et $a \in \mathbb{R}^+$, on a :
 ### Résolution de polynômes du 3ᵉ degré
 
 1. Trouver une racine "évidente", solution de l'équation. On l’appelle $E_1$.  
-2. Réduire le polynôme au second degré en effectuant la division euclidienne du polynôme initial par $x - E_1$.  
+2. Réduire le polynôme au second degré en effectuant la division euclidienne du polynôme initial par $x - E_1$ (*On factorise le polynome*).
 
    > [!WARNING]  
    > Si le reste n’est pas nul, c’est qu’il y a une erreur de calcul.  
@@ -71,6 +72,5 @@ Pour un polynôme $P(x) = ax^2 + bx + c$ avec $\Delta > 0$ et solutions $x_1 < x
 > Si $a=2>0$, tableau des signes : + | - | +  
 > Donc $2x^2 - 5x + 2 > 0 \Rightarrow x < \frac{1}{2}$ ou $x > 2$
 
-> [!NOTE] penser à mettre en facteur
-
-### 
+> [!NOTE] 
+> Penser à mettre en facteur

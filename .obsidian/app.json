@@ -5,6 +5,7 @@
   "showUnsupportedFiles": false,
   "attachmentFolderPath": "./",
   "mobileToolbarCommands": [
+    "editor:undo",
     "editor:set-heading",
     "editor:toggle-bold",
     "editor:toggle-italics",
@@ -18,7 +19,6 @@
     "editor:toggle-checklist-status",
     "editor:indent-list",
     "editor:unindent-list",
-    "editor:undo",
     "editor:redo",
     "editor:insert-footnote",
     "editor:insert-table",
