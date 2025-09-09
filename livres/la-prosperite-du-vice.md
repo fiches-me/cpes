@@ -1,6 +1,7 @@
 ---
 title: 📘 La Prospérité du Vice
 order: 4
+finished: true
 ---
 
 <!--

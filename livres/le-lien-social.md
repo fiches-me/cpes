@@ -1,6 +1,7 @@
 ---
 title: 📙 Le Lien Social
 order: 2
+finished: true
 ---
 <!--
 COMMENTAIRE POUR LES ÉDITEURS

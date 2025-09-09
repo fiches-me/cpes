@@ -1,6 +1,7 @@
 ---
 title: 📕 Classe
 order: 1
+finished: false
 ---
 <!--
 COMMENTAIRE POUR LES ÉDITEURS

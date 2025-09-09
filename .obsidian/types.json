@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "order": "number"
+    "order": "number",
+    "weight": "number",
+    "finished": "checkbox"
   }
 }

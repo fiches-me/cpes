@@ -1,6 +1,7 @@
 ---
 title: 📗 Introduction à l'histoire économique mondiale
 order: 3
+finished: true
 ---
 <!--
 COMMENTAIRE POUR LES ÉDITEURS

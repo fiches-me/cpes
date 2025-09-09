@@ -10,6 +10,7 @@
   "showMenuActions": true,
   "showSuggestionIcons": true,
   "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
   "showItemName": "desktop",
   "biggerSearchResults": "mobile",
   "maxSearchResults": 50,
@@ -59,7 +60,8 @@
     "eco": {
       "icon": "💸",
       "unsynced": [
-        "b92058207feb00c9"
+        "b92058207feb00c9",
+        "/storage/emulated/0/Obsidian/CPES"
       ]
     },
     "index.md": {
@@ -135,6 +137,126 @@
     }
   },
   "ribbonIcons": {},
-  "fileRules": [],
+  "fileRules": [
+    {
+      "id": "zzpvI",
+      "name": "Draft",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "property:draft",
+          "operator": "isTrue"
+        }
+      ],
+      "enabled": true,
+      "color": "gray"
+    },
+    {
+      "id": "zpmzX",
+      "name": "Closed",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "property:finished",
+          "operator": "isTrue"
+        }
+      ],
+      "enabled": true,
+      "color": "green"
+    },
+    {
+      "id": "Xtee9",
+      "name": "Index",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "index"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-dot"
+    },
+    {
+      "id": "vPQ6p",
+      "name": ">10 headings",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "contains",
+          "value": "md"
+        },
+        {
+          "source": "headings",
+          "operator": "countIsMore",
+          "value": "10"
+        }
+      ],
+      "enabled": true,
+      "color": "blue"
+    },
+    {
+      "id": "RPxe1",
+      "name": ">5 headings",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "headings",
+          "operator": "countIsMore",
+          "value": "5"
+        },
+        {
+          "source": "extension",
+          "operator": "contains",
+          "value": "md"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-file",
+      "color": "cyan"
+    },
+    {
+      "id": "5vpYz",
+      "name": ">2 heading",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "contains",
+          "value": "md"
+        },
+        {
+          "source": "headings",
+          "operator": "countIsMore",
+          "value": "2"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-file",
+      "color": "yellow"
+    },
+    {
+      "id": "063A6",
+      "name": "<2 headings",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "contains",
+          "value": "md"
+        },
+        {
+          "source": "headings",
+          "operator": "countIsLess",
+          "value": "3"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-file",
+      "color": "red"
+    }
+  ],
   "folderRules": []
 }
