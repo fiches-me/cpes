@@ -44,10 +44,10 @@ a = 1
 **Déclaration** : créer une variable sans lui donner de valeur.
 **Types** : Type de l'information qu'une variable contient. En python, il en existe 4 :
 
-1. `int`
-2. `float`
-3. `bool`
-4. `str`
+1. `int` : Nombre entier (🇬🇧 Integrer)
+2. `float` : Nombre flottant (🇬🇧 Floating Number)
+3. `bool` : Booléen (🇬🇧 Boolean)
+4. `str` : Chaîne de Caractères (🇬🇧 String)
 
 **Entrée** : Entrée utilisateur
 
@@ -89,3 +89,28 @@ else
 ```
 
 ## Boucles
+### Boucles bornées
+### Boucles non bornées
+### Boucles imbriquées
+> 🇬🇧 Nested Loops. Also Inner/Outrer loops
+
+Il est possible d'imbriquer différentes boucles (et conditions entres elles) 
+
+###### Pseudo-Code
+```pseudo-code
+Si <condition>
+   Si <condition>
+      instruction
+   Fin Si
+Fin Si
+```
+###### Python
+```python
+if a == 1:
+   if b == 2:
+      print(a, b)
+      
+# Toujours pas de endif (Fin Si)
+```
+
+**On effectue la boucle de l'intérieur et on la répète.**
