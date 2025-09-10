@@ -30,6 +30,8 @@ const vitePressConfigs = {
     },
     nav: [
       { text: '🔢 Maths', link: '/maths' },
+      { text: 'Info', link: '/info' },
+      { text: 'Eco', link: '/eco' },
       { text: '💖 Nous Aider', link: '/contribution' },
     ],
     footer: {
@@ -53,6 +55,22 @@ export default defineConfig(
         documentRootPath: '/',
         scanStartPath: 'maths',
         resolvePath: '/maths/',
+        useTitleFromFrontmatter: true,
+        useFolderTitleFromIndexFile: true,
+        sortMenusByFrontmatterOrder: true,
+        excludeFilesByFrontmatterFieldName: 'draft',
+      },{
+        documentRootPath: '/',
+        scanStartPath: 'eco',
+        resolvePath: '/eco/',
+        useTitleFromFrontmatter: true,
+        useFolderTitleFromIndexFile: true,
+        sortMenusByFrontmatterOrder: true,
+        excludeFilesByFrontmatterFieldName: 'draft',
+      },{
+        documentRootPath: '/',
+        scanStartPath: 'info',
+        resolvePath: '/info/',
         useTitleFromFrontmatter: true,
         useFolderTitleFromIndexFile: true,
         sortMenusByFrontmatterOrder: true,
