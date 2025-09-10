@@ -67,6 +67,12 @@
     "index.md": {
       "icon": "🏠"
     },
+    "info": {
+      "icon": "🖥️",
+      "unsynced": [
+        "/storage/emulated/0/Obsidian/CPES"
+      ]
+    },
     "juillet-aout": {
       "icon": "🏖️",
       "unsynced": [
