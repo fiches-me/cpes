@@ -218,3 +218,7 @@ strong {
 i, em {
   color: var(--pmr-color-secondary);
 }
+
+u {
+  text-decoration-thickness: 8%;
+}

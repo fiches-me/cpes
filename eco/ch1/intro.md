@@ -1,14 +1,16 @@
 ---
 title: 📗 Introduction
-weight: 0
+order: 0
 finished: true
 ---
+
 # Introduction
 
 > [!Rappel]
 > Une science se défini par un objet et une méthode.
 
 Au tout début, l'économie est une **science morale** (science *normative* contre science *positive*).
+
 ## Aristote
 
 Aristote est le premier à parler d'économie. Il l'étudie à l'echelle du foyer, de la gestion du budget (échelle *microéconomique*). Il condamné l'**usure** (l'activité banquaire)

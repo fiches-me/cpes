@@ -1,6 +1,5 @@
 ---
 layout: home
-
 hero:
   name: "FICHES.ME"
   text: "Take you revision to the next level 🚀"
@@ -18,7 +17,6 @@ hero:
     - theme: alt
       text: 🍃 Bio
       link: /bio/
-
 features:
   - title: Feature A
     details: This frontend is not definitive

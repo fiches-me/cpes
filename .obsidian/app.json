@@ -34,5 +34,8 @@
   ],
   "promptDelete": false,
   "strictLineBreaks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "node_modules/"
+  ]
 }

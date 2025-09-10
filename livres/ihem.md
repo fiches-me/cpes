@@ -165,6 +165,7 @@ En 1830, l'Europe et l'Amérique du Nord sont à la tête  du monde. Comment les
 ### La Russie impériale
 
 La Russie était depuis longtemps la région la plus arriérée d'Europe. La construction d'un marché national avec des chemins de fers et l'instauration de droits de douanes permirent au pays de se développer. La Russie fit également recours à des investissements étrangers. Elle permit donc à l'industrie de passer de 2% du PIB en 1885 à 8% en 1913. Cependant, la demande d'emploi n'a jamais assez évolué avec l'offre, le chômage resta conséquent et il entrena la crise de 1917.
+
 ### Le Japon
 
 Le Japon est un cas particulièrement intéressant, car il fut le premier pays d'Asie à rattraper l'Occident. Des progrès techniques ont eux lieux, mais comme dans d'autres pays ils n'étaient pas encore rentables. Cependant, certains outils agricoles furent utilisés (gestion de l'eau, houe, nouvelles espèces de riz) qui engendra une période de prospérité. Pour une société agraire, la scolarité été également très élevé : 43% des garçons et 10% des filles.

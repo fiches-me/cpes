@@ -207,6 +207,7 @@ Comment faire société lorsque l’expérience vécue de l’insécurité et du
 ### Pour une éthique renouvelée du lien social
 
 À la suite de Léon Bourgeois, la notion de « quasi-contrat social » est fondée sur l’idée que la justice ne peut exister entre les hommes que s’ils deviennent des associés solidaires en neutralisant entre eux les risques auxquels ils sont confrontés
+
 #### Responsabilité individuelle et responsabilité sociale
 
 Même si le solidarisme s'est imposé dans les sociétés modernes, la responsabilité individuelle prend le pas sur la notion de responsabilité sociale prend le dessus depuis ~ 15 ans. Dans les programmes de lutte contre le chômage et la pauvreté, on fait de plus en plus appel à la responsabilité individuelle et au mérite.
@@ -231,6 +232,7 @@ Peut-on viser ensemble les deux objectifs de protection et de reconnaissance ? C
 1. Peut-on envisager un nouveau modèle d’intégration professionnelle visant à concilier efficacité économique et solidarité sociale dans un environnement marqué par la concurrence internationale ?
 2. Peut-on envisager des politiques fondées sur l’articulation des liens sociaux ?
 3. Comment délimiter les frontières de la solidarité au sens de la définition des territoires dans lesquels elle est censée se développer, du local au national et du national au supranational ?
+
 #### Vers un nouveau modèle d’intégration professionnelle ?
 
 Plus d’un siècle après la thèse de Durkheim, le lien de participation organique joue encore un rôle primordial dans la régulation sociale. Mais le monde du travail est confronté à de l'individualisation et à de nouvelles formes de souffrances. 
@@ -247,7 +249,6 @@ La solidarité familiale peut elle appuyer la solidarité publique ?
 La solidarité familiale serait en quelque sorte ce qui permettrait de vérifier, au-delà du processus de désinstitutionnalisation de la famille, le maintien d’initiatives personnelles d’échanges entre les différentes composantes du réseau de parenté, précisément là où l’on aurait pu s’attendre à un recul. 
 
 Cependant, la solidarité familiale a pour effet de renforcer les inégalités sociales plus que de les réduire et que les supports de ce type restent faibles parmi les populations les plus démunies.
-
 
 #### Les frontières de l’entre-soi
 

@@ -1,7 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { withSidebar } from 'vitepress-sidebar';
 import { withMermaid } from "vitepress-plugin-mermaid";
-import { maths } from 'markdown-it-mathjax3';
 import { footnote } from "@mdit/plugin-footnote";
 import mdItObsidianCallouts from "markdown-it-obsidian-callouts";
 
@@ -12,7 +11,12 @@ const vitePressConfigs = {
   cleanUrls: true,
   lastUpdated: true,
   markdown: {
+    lineNumbers: true,
     math: true,
+    languageAlias: {
+      'pseudo-code': 'python',
+      'conf': 'yaml',
+    },
     config: (md) => {
       // use more markdown-it plugins!
       md.use(footnote)

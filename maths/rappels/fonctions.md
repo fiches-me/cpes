@@ -1,6 +1,7 @@
 ---
 title: ⚛️ Fonctions Usuelles & Suites
 ---
+
 # ⚛️ Fonctions Usuelles & Suites
 
 ## Propriétés Exponentielles
@@ -25,6 +26,7 @@ title: ⚛️ Fonctions Usuelles & Suites
 - $ln(\frac{1}{e}) = -1$
 - $ln(e^x) = e^{ln(x)}  = x$*
 - 
+
 ### Opérations "magiques"
 
 - $ln(x×y) = ln(x) + ln(y)$
@@ -34,14 +36,22 @@ title: ⚛️ Fonctions Usuelles & Suites
 - $ln(x)^n = n ln(x)$ avec $n$ entier relatif
 
 ## Suites
+
 ### Définitions
+
 Une suite $(u_n) n ∈ \in \mathbb{N}$ est arithmétique s’il existe un réel $r$ indépendant de n tel que, pour tout $n \in \mathbb{N}$ , $u_{n+1} = u_n + r$
+
 ### Variations d'une suite
+
 Une suite est croissante si $u_{n+1} - u_n > 0$ ou $\frac{u_{n+1}}{u_n} ≥ 1$
 Une suite est décroissante si $u_{n+1} - u_n < 0$ ou $\frac{u_{n+1}}{u_n} ≤ 1$
+
 ### Formule récurente
+
 - Suite arithmétique : $u_{n+1} = u_n + r$
 - Suite géomatrique ! $u_{n+1} = u_n × q$
+
 ### Formule de Sommme
+
 - Suite arithmétique : $S_n = \frac{(1er terme + dernier terme)(nbre de termes)}{2}$
 - Suite géomatrique ! $S_n = u_0 \frac{1-q^n}{1-q}$

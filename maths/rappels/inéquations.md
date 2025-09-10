@@ -7,7 +7,9 @@ title: ↔️ Calcul algébrique
 ## Les bases
 
 ### Polynômes
+
 - Formule pour calculer $\Delta$ delta :
+
 $$\Delta = b^2 - 4ac$$
 
 - Si $\Delta < 0$ : pas de solution à l'équation :
@@ -20,9 +22,9 @@ $$\Delta = b^2 - 4ac$$
 
 - Si $\Delta > 0$ : deux solutions à l'équation :
 
-  $$S_1 = \frac{-b-\sqrt{\Delta}}{2a}$$  
+  $$S_1 = \frac{-b-\sqrt{\Delta}}{2a}$$
 
-  $$S_2 = \frac{-b+\sqrt{\Delta}}{2a}$$  
+  $$S_2 = \frac{-b+\sqrt{\Delta}}{2a}$$
 
 ### Formules d'inéquations
 
