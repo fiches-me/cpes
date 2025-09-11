@@ -1,15 +1,20 @@
 ---
 title: TP n°1
-finished: false
+finished: true
 ---
+
 # TP n°1
+
 ## Exercice 1
+
 ```python [Exercice_1.py]
 print("premier programme")
 nom = input ("Donnez votre nom : ")
 print("Bonjour", nom)
 ```
+
 ## Exercice 2
+
 ```python [Exercice_2.py]
 text = input("Donner un entier : ")
 x = int(text)
@@ -23,7 +28,12 @@ else:
 
 print("Valeur absolue : ", z)
 ```
+
 ## Exercice 3
+
+> [!SUMMARY]
+> J'ai utilisé ici des **fonctions**. C'est un moyen de mettre plusieurs algorithmes dans le même fichier.
+
 ```python [Exercice_3.py]
 def somme():
     print("Calcul de la somme de 2 nombres")
