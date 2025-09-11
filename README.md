@@ -15,3 +15,5 @@ Ce repo regroupe un ensemble de fiches de révision écrites [en markdown](./con
 ## 🇬🇧 How-To
 
 This repo contains multiples revision sheets write [using markdown](./contribution/101). Each `index` file represent a categorie, which contains other .md files which refers as sheets. 
+
+## 💖 Want to contribute?
