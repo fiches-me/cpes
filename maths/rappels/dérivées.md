@@ -1,5 +1,6 @@
 ---
 title: ➿ Dérivées
+finished: true
 ---
 
 # ➿ Dérivées

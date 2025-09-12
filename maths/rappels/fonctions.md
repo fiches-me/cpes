@@ -1,5 +1,6 @@
 ---
 title: ⚛️ Fonctions Usuelles & Suites
+finished: true
 ---
 
 # ⚛️ Fonctions Usuelles & Suites

@@ -15,8 +15,11 @@ hero:
       text: 🔢 Maths
       link: /maths/
     - theme: alt
-      text: 🍃 Bio
-      link: /bio/
+      text: 🖥️ Info
+      link: /info/
+    - theme: alt
+      text: 💸 Eco
+      link: /eco/
 features:
   - title: Feature A
     details: This frontend is not definitive

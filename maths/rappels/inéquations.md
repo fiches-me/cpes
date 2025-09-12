@@ -1,5 +1,6 @@
 ---
 title: ↔️ Calcul algébrique
+finished: true
 ---
 
 # ↔️ Calcul algébrique
