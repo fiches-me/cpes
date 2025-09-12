@@ -34,8 +34,8 @@ const vitePressConfigs = {
     },
     nav: [
       { text: '🔢 Maths', link: '/maths' },
-      { text: 'Info', link: '/info' },
-      { text: 'Eco', link: '/eco' },
+      { text: '🖥️ Info', link: '/info' },
+      { text: '💸 Eco', link: '/eco' },
       { text: '💖 Nous Aider', link: '/contribution' },
     ],
     footer: {
