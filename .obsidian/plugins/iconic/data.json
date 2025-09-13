@@ -122,12 +122,6 @@
         "/storage/emulated/0/Obsidian/CPES",
         "b92058207feb00c9"
       ]
-    },
-    "public/logo.png": {
-      "icon": "lucide-image"
-    },
-    "public/maths.pdf": {
-      "icon": "lucide-file-type"
     }
   },
   "bookmarkIcons": {},
@@ -156,7 +150,21 @@
         }
       ],
       "enabled": true,
-      "color": "gray"
+      "color": "gray",
+      "icon": "lucide-file-pen"
+    },
+    {
+      "id": "4wx1x",
+      "name": "Unfinished",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "property:finished",
+          "operator": "isFalse"
+        }
+      ],
+      "enabled": true,
+      "color": "red"
     },
     {
       "id": "zpmzX",
@@ -170,6 +178,54 @@
       ],
       "enabled": true,
       "color": "green"
+    },
+    {
+      "id": "wVvke",
+      "name": "Files",
+      "match": "any",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "contains",
+          "value": "pdf"
+        },
+        {
+          "source": "extension",
+          "operator": "contains",
+          "value": "docs"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-file-type"
+    },
+    {
+      "id": "wVvkd",
+      "name": "Images",
+      "match": "any",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "contains",
+          "value": "png"
+        },
+        {
+          "source": "extension",
+          "operator": "contains",
+          "value": "jpg"
+        },
+        {
+          "source": "extension",
+          "operator": "contains",
+          "value": "jpeg"
+        },
+        {
+          "source": "extension",
+          "operator": "contains",
+          "value": "avif"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-image"
     },
     {
       "id": "Xtee9",
