@@ -1,6 +1,6 @@
 ---
 title: 🪤 Base Algorithmique
-finished: false
+finished: true
 ---
 
 # 🪤 Base Algorithmi<u>que</u>

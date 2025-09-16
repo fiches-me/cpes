@@ -1,12 +1,11 @@
 ---
 layout: home
 hero:
-  name: "FICHES.ME"
-  text: "Take you revision to the next level 🚀"
-  # tagline: "Both French & English content"
+  name: FICHES.ME
+  text: Take you revision to the next level 🚀
   image:
     src: /logo.png
-    alt: "Fiche's Logo"
+    alt: Fiche's Logo
   actions:
     - theme: brand
       text: ✨ Contribute

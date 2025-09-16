@@ -1,5 +1,6 @@
 ---
 title: "💸 Economie : Introduction"
+finished: true
 ---
 
 # Qu'es ce que l'Economie ?

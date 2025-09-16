@@ -1,3 +1,4 @@
 ---
 title: 📚 Livres
+finished: true
 ---
