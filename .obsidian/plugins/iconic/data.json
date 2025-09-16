@@ -29,6 +29,12 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "Liste des Fichiers.base": {
+      "icon": "lucide-database",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
     "README.md": {
       "icon": "📝"
     },
