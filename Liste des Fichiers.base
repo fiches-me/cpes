@@ -1,0 +1,23 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    order:
+      - file.basename
+      - title
+      - draft
+      - finished
+    sort:
+      - property: file.basename
+        direction: ASC
+      - property: draft
+        direction: ASC
+      - property: title
+        direction: ASC
+      - property: file.name
+        direction: DESC
+      - property: finished
+        direction: ASC
+    columnSize:
+      note.title: 418
