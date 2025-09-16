@@ -1,5 +1,6 @@
 ---
 title: C'est quoi la sociologie ?
+finished:
 ---
 # C'est quoi la sociologie ?
 ## Introduction

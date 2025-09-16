@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Primary",
+  "cssTheme": "primary-2.11.0-beta",
   "accentColor": "#c94949",
   "enabledCssSnippets": [
     "fonts"
