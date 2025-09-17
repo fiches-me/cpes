@@ -276,7 +276,9 @@
   "lintOnFileChange": false,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
-  "foldersToIgnore": [],
+  "foldersToIgnore": [
+    "node_modules"
+  ],
   "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",

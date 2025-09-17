@@ -69,7 +69,6 @@ input("Texte")
 
 ## Conditionnelles
 
-
 ::: code-group
 
 ```pseudo-code [Pseudo-Code]
@@ -89,12 +88,50 @@ else
 ```
 
 :::
+
 ## Boucles
 
 ### Boucles bornées
 
+Répétition **finie** et **fixé** de fois d'une séquence d'instructions
+
+::: code-group
+
+```pseudo-code [Pseudo-Code]
+Pour i allant de 1 à N
+   instruction
+Fin Pour
+```
+
+```python [Python]
+for i in range(1, n+1):
+        #range(début [inclu], fin [exclu], pas)
+   print(i)
+```
+
+:::
+
+On peut également mettre un pas négatif pour faire des boucles décroissants
 
 ### Boucles non bornées
+
+Aussi appelés boucles conditionnelles, elle permettent de répéter une action jusqu'à une condition donnée.
+
+::: code-group
+
+```pseudo-code [Pseudo-Code]
+Tant que i < 1:
+   i <- i + 1
+Fin tant que
+```
+
+```python [Python]
+while i < 1:
+   i = i + 1
+   #i += 1
+```
+
+:::
 
 ### Boucles imbriquées
 

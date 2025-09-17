@@ -77,7 +77,6 @@ else:
 > [!SUMMARY]
 > Python utilise les **modules**. Ce point n'a pas encore été vue en classe, et c'est un outil très puissant de Python. Ces modules permettent d'importer du code déjà existant pour faire du code plus puissant (des requêtes web, du dessin, des bot discord si vous êtes complètement $crazy$). Ici, nous utiliseront **random** qui permet de générer des chiffres *pseudo-aléatoires* (voir [la documentation](https://docs.python.org/3/library/random.html))
 
-
 ```python [GuessGame.py]
 from random import randint
 

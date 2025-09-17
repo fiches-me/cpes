@@ -129,6 +129,12 @@
         "/storage/emulated/0/Obsidian/CPES",
         "b92058207feb00c9"
       ]
+    },
+    "socio": {
+      "icon": "👤",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
     }
   },
   "bookmarkIcons": {},
