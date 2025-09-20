@@ -1,6 +1,7 @@
 ---
 title: 📗 Introduction
 order: 0
+finished: true
 ---
 
 # 📗 Introduction
@@ -12,3 +13,15 @@ Un être vivant se caractérise par une entrée et une sortie de matière. Certa
 Les êtres vivant doivent rester dans un certain équilibre que l'on appelle **homéostasie**. Des choses tel que la température du corps, l'acidité (ph), le taux de glucide dans le sang doivent être maintenus à certaines valeurs.
 
 On appelle **milieu intérieur** tout espace situé *dans* le corps mais relié d’une certaine manière à l’extérieur (ex. : poumons, estomac). S’il n’existe aucune connexion avec l’extérieur, on parle alors de **milieu interne** (ex. : sang).
+
+## Les bases du vivant
+
+> [!INFO]
+> Ces notions ne sont pas discuté dans lecours mais dans une des vidéos que nous devions regarder pendant les vacances. Comme je trouvais le contenu intéressant, je l'ai ajouté ici.
+
+1. Le vivant se développe  
+2. Il se maintient  
+3. Il se reproduit  
+4. Selon l'expression de son patrimoine génétique  
+5. Grâce à un apport permanent en énergie  
+6. Le vivant évolue  
