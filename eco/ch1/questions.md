@@ -35,5 +35,3 @@ draft: true
 3. Lorsque la main d'oeuvre est plus productive, les propriétaires terriens vont demander plus, car la terre devient plus rentable. Mais également, avec une population plus riche, la population augmente, et plus des terres de moins en moins fertiles sont mises en culture. La rente dépend de la fertilité des terres, donc la rente augmente. Théorie de la rente différentielle par David Ricardo.
 4. Les marchants ne sont pas très utiles, ils investissent uniquement dans leur interet propre. Il sont en quelque sorte improductif. Il est donc d'accord avec les physiocrates
 5. Ils ne doivent pas entraver le marcher, uniquement garantir un contexte propice aux échanges. Beaucoup disent que Smith est le père du libéralisme, mais Ricardo l'est bien plus que lui.
-
-W : salaires, Wages

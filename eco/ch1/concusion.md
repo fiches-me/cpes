@@ -1,6 +1,7 @@
 ---
 title: 📌 Conclusion
 order: 9
+finished: true
 ---
 
 # 📌 Conclusion : L’économie politique existe-t-elle encore aujourd’hui ?
