@@ -1,6 +1,7 @@
 {
   "pinned": [
     "obsidian-linter:lint-file",
+    "obsidian-linter:lint-all-files-in-folder",
     "obsidian-git:push"
   ]
 }
