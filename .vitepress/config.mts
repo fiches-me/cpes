@@ -63,7 +63,8 @@ export default defineConfig(
         useFolderTitleFromIndexFile: true,
         sortMenusByFrontmatterOrder: true,
         excludeFilesByFrontmatterFieldName: 'draft',
-      },{
+      },
+      {
         documentRootPath: '/',
         scanStartPath: 'eco',
         resolvePath: '/eco/',
@@ -71,10 +72,29 @@ export default defineConfig(
         useFolderTitleFromIndexFile: true,
         sortMenusByFrontmatterOrder: true,
         excludeFilesByFrontmatterFieldName: 'draft',
-      },{
+      },
+      {
         documentRootPath: '/',
         scanStartPath: 'info',
         resolvePath: '/info/',
+        useTitleFromFrontmatter: true,
+        useFolderTitleFromIndexFile: true,
+        sortMenusByFrontmatterOrder: true,
+        excludeFilesByFrontmatterFieldName: 'draft',
+      },
+      {
+        documentRootPath: '/',
+        scanStartPath: 'bio',
+        resolvePath: '/bio/',
+        useTitleFromFrontmatter: true,
+        useFolderTitleFromIndexFile: true,
+        sortMenusByFrontmatterOrder: true,
+        excludeFilesByFrontmatterFieldName: 'draft',
+      },
+      {
+        documentRootPath: '/',
+        scanStartPath: 'socio',
+        resolvePath: '/socio/',
         useTitleFromFrontmatter: true,
         useFolderTitleFromIndexFile: true,
         sortMenusByFrontmatterOrder: true,
