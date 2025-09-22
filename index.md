@@ -8,17 +8,14 @@ hero:
     alt: Fiche's Logo
   actions:
     - theme: brand
-      text: ✨ Contribute
-      link: /contribution/
-    - theme: alt
-      text: 🔢 Maths
-      link: /maths/
-    - theme: alt
       text: 🖥️ Info
       link: /info/
     - theme: alt
       text: 💸 Eco
       link: /eco/
+    - theme: alt
+      text: ✨ Contribute
+      link: /contribution/
 features:
   - title: Feature A
     details: This frontend is not definitive
