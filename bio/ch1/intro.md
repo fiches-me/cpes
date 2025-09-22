@@ -2,6 +2,8 @@
 title: 📗 Introduction
 order: 0
 finished: true
+tags:
+  - bio
 ---
 
 # 📗 Introduction

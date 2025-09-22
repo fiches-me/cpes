@@ -1,5 +1,7 @@
 ---
 title: "IA: Introduction"
+tags:
+  - ia
 ---
 
 # IA: Introduction

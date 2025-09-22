@@ -1,6 +1,9 @@
 ---
 title: TP n°2
 finished: true
+tags:
+  - info
+  - tp
 ---
 
 # TP n°2

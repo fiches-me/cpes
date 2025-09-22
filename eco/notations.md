@@ -1,6 +1,9 @@
 ---
 title: notations
 draft: true
+tags:
+  - eco
+  - définitions
 ---
 $W$ : salaires, ( origine : Wages)
 $L$ = travail

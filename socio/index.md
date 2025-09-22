@@ -1,6 +1,8 @@
 ---
 title: C'est quoi la sociologie ?
 finished:
+tags:
+  - socio
 ---
 
 # C'est quoi la sociologie ?

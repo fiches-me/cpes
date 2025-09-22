@@ -1,5 +1,8 @@
 ---
 title: "Algorithmique : La Suite"
+tags:
+  - info
+  - cours
 ---
 # Algorithmique : La Suite
 ## Chaînes de caractères

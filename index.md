@@ -1,4 +1,5 @@
 ---
+title: 🏠 Accueil
 layout: home
 hero:
   name: FICHES.ME

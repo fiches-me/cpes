@@ -1,6 +1,9 @@
 ---
 title: 🪤 Base Algorithmique
 finished: true
+tags:
+  - info
+  - cours
 ---
 
 # 🪤 Base Algorithmi<u>que</u>
