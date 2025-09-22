@@ -29,13 +29,6 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
-    "Liste des Fichiers.base": {
-      "icon": "lucide-database",
-      "unsynced": [
-        "b92058207feb00c9",
-        "/storage/emulated/0/Obsidian/CPES"
-      ]
-    },
     "README.md": {
       "icon": "📝"
     },
@@ -44,6 +37,12 @@
       "unsynced": [
         "b92058207feb00c9",
         "/storage/emulated/0/Obsidian/CPES"
+      ]
+    },
+    "bio/ch1": {
+      "icon": "1️⃣",
+      "unsynced": [
+        "b92058207feb00c9"
       ]
     },
     "contribution": {
@@ -71,6 +70,18 @@
         "/storage/emulated/0/Obsidian/CPES"
       ]
     },
+    "eco/ch1": {
+      "icon": "1️⃣",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
+    "eco/ch2": {
+      "icon": "2️⃣",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
     "index.md": {
       "icon": "🏠"
     },
@@ -78,6 +89,18 @@
       "icon": "🖥️",
       "unsynced": [
         "/storage/emulated/0/Obsidian/CPES",
+        "b92058207feb00c9"
+      ]
+    },
+    "info/ia": {
+      "icon": "🤖",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
+    "info/tp": {
+      "icon": "🧪",
+      "unsynced": [
         "b92058207feb00c9"
       ]
     },
