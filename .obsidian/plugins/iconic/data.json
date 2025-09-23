@@ -29,6 +29,12 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "Liste des Fichiers.base": {
+      "icon": "lucide-database",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
     "README.md": {
       "icon": "📝"
     },
@@ -213,8 +219,9 @@
           "operator": "isFalse"
         }
       ],
-      "enabled": true,
-      "color": "red"
+      "enabled": false,
+      "color": "red",
+      "icon": "lucide-file-x"
     },
     {
       "id": "zpmzX",
@@ -226,8 +233,9 @@
           "operator": "isTrue"
         }
       ],
-      "enabled": true,
-      "color": "green"
+      "enabled": false,
+      "color": "green",
+      "icon": "lucide-file-check"
     },
     {
       "id": "wVvke",
@@ -276,6 +284,34 @@
       ],
       "enabled": true,
       "icon": "lucide-image"
+    },
+    {
+      "id": "kY2be",
+      "name": "> 20 headings",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-file-badge-2",
+      "color": "pink"
+    },
+    {
+      "id": "xRERZ",
+      "name": "> 15 headings",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-file-badge-2",
+      "color": "purple"
     },
     {
       "id": "vPQ6p",
