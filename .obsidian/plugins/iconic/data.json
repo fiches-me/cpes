@@ -219,7 +219,7 @@
           "operator": "isFalse"
         }
       ],
-      "enabled": false,
+      "enabled": true,
       "color": "red",
       "icon": "lucide-file-x"
     },
@@ -233,7 +233,7 @@
           "operator": "isTrue"
         }
       ],
-      "enabled": false,
+      "enabled": true,
       "color": "green",
       "icon": "lucide-file-check"
     },
