@@ -3,10 +3,13 @@ title: "Algorithmique : La Suite"
 tags:
   - info
   - cours
+finished: true
 ---
 # Algorithmique : La Suite
 ## Chaînes de caractères
 > 🇬🇧 Character Strings
+
+Une chaîne de caractères est une série de lettres, enchaînées entres elles. *Pour le moment, la métaphore est inutile, mais elle pourrait l'être un jour. Dans tout les cas, elle permet de se souvenir du mot anglais Characters String.*
 
 ::: code-group
 
@@ -62,9 +65,6 @@ for i in ch1:
 
 :::
 
-> [!ATTENTION]
-> Ces notations en pseudo-code ne sont pas encore validés.
-
 Les chaînes de caractères sont constitués de caractères indicés à partir de 0. On y accède grâce à leurs indices.
 
 **L'indice -1 est une pythonerie. Un mot de longueur n a des caractères indicés de 0 à n-1.
@@ -106,3 +106,39 @@ def estPositif(n):
 :::
 ### Appel de fonctions
 
+Une fonction ne s'exécute pas par défaut quand on lance le programme (fichier). Il faut donc l'**appeler**.
+
+Si on reprend nos variables définies en haut, on a :
+
+::: code-group
+
+```pseudo-code [Pseudo-Code]
+Afficher estPositif(-10)
+```
+
+```python [Python]
+print(estPositif(-10))   ​
+```
+
+:::
+
+### Spécifications
+
+> [!DÉFINITION]
+> Les spécifications d'une fonction sont les **comportements attendus** de celle-ci. Il existe des conditions (d'entrée et de sortie) et des résultats (idem). Il existe également des pré/post conditions.
+
+En python, il existe quelques fonctions utilisables par défaut dans les programmes et/ou le shell. Nous avons déjà vu `range()`, et nous allons nous intéresser à `help()`. Cette fonction affiche une page d'aide sur une fonction fournie en paramètre. Pour rendre cette fonction plus pertinente, on ajoutera dans nos fonctions python un **docstring** :
+
+```python
+def maSuperFonction(brainrot):
+   """
+   Le truc en vert, c'est le docstring !
+   On indique (par convention) le comportement de la fonction dans celui-ci.
+   
+   Entrée: une chaîne de caractères incompréhensible.
+   Sortie : une chaîne de caractères toujours incompréhensible, mais moins.
+   """
+```
+### Tests
+
+Après avoir écrit la fonction, il faut tester qu'elle fonctionne ! On écrit les tests à la fin d'un fichier python avec la fonction `assert` qui prend comme condition un booléen qui doit renvoyer `True` pour que la fonction assert n'arrête pas le programme (sinon elle coupe tout, attention !)

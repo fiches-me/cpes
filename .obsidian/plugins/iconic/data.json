@@ -32,7 +32,8 @@
     "Liste des Fichiers.base": {
       "icon": "lucide-database",
       "unsynced": [
-        "b92058207feb00c9"
+        "b92058207feb00c9",
+        "/storage/emulated/0/Obsidian/CPES"
       ]
     },
     "README.md": {
@@ -48,7 +49,14 @@
     "bio/ch1": {
       "icon": "1️⃣",
       "unsynced": [
-        "b92058207feb00c9"
+        "b92058207feb00c9",
+        "/storage/emulated/0/Obsidian/CPES"
+      ]
+    },
+    "bio/ch2": {
+      "icon": "2️⃣",
+      "unsynced": [
+        "/storage/emulated/0/Obsidian/CPES"
       ]
     },
     "contribution": {
@@ -79,13 +87,15 @@
     "eco/ch1": {
       "icon": "1️⃣",
       "unsynced": [
-        "b92058207feb00c9"
+        "b92058207feb00c9",
+        "/storage/emulated/0/Obsidian/CPES"
       ]
     },
     "eco/ch2": {
       "icon": "2️⃣",
       "unsynced": [
-        "b92058207feb00c9"
+        "b92058207feb00c9",
+        "/storage/emulated/0/Obsidian/CPES"
       ]
     },
     "index.md": {
@@ -101,13 +111,15 @@
     "info/ia": {
       "icon": "🤖",
       "unsynced": [
-        "b92058207feb00c9"
+        "b92058207feb00c9",
+        "/storage/emulated/0/Obsidian/CPES"
       ]
     },
     "info/tp": {
       "icon": "🧪",
       "unsynced": [
-        "b92058207feb00c9"
+        "b92058207feb00c9",
+        "/storage/emulated/0/Obsidian/CPES"
       ]
     },
     "juillet-aout": {
@@ -162,7 +174,8 @@
     "socio": {
       "icon": "👤",
       "unsynced": [
-        "b92058207feb00c9"
+        "b92058207feb00c9",
+        "/storage/emulated/0/Obsidian/CPES"
       ]
     }
   },
@@ -219,7 +232,7 @@
           "operator": "isFalse"
         }
       ],
-      "enabled": true,
+      "enabled": false,
       "color": "red",
       "icon": "lucide-file-x"
     },
@@ -233,7 +246,7 @@
           "operator": "isTrue"
         }
       ],
-      "enabled": true,
+      "enabled": false,
       "color": "green",
       "icon": "lucide-file-check"
     },
