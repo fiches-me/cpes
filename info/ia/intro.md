@@ -2,6 +2,7 @@
 title: "IA: Introduction"
 tags:
   - ia
+finished: true
 ---
 
 # IA: Introduction
@@ -46,11 +47,7 @@ Il est important de donner à l'IA **les données d'apprentissages**. Pour mon I
 Ici, les données étiquetées ne sont pas doné. Il faut que l'IA forme de groupe, pas forcément nommées.
 
 ### Par Renforcement
-
-Exemple : l'IA joue toute seule. On lui explique les règles, et on lui offre des récompenses.
-
-> [!TODO] Récupérer les defs sur ecampus mais qui marche pas sinon c'est pas drôle
-
+L'IA joue toute seule. On lui explique les règles, et on lui offre des récompenses. Elle comprend elle même quoi faire et comment le faire mieux.
 
 ## Principes de l'apprentissage supervisé
 
