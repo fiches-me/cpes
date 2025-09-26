@@ -108,6 +108,15 @@ export default defineConfig(
         useFolderTitleFromIndexFile: true,
         sortMenusByFrontmatterOrder: true,
         excludeFilesByFrontmatterFieldName: 'draft',
+      },
+      {
+        documentRootPath: '/',
+        scanStartPath: 'livres',
+        resolvePath: '/livres/',
+        useTitleFromFrontmatter: true,
+        useFolderTitleFromIndexFile: true,
+        sortMenusByFrontmatterOrder: true,
+        excludeFilesByFrontmatterFieldName: 'draft',
       }
     ]),
   )
