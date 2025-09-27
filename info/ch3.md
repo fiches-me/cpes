@@ -65,3 +65,7 @@ for e in tab:
 ```
 
 :::
+
+## Tableaux à 2 dimensions
+
+Que ce passe t-il quand l'on ajoute un tableau dans un tableau ? On obtient un **tableau de tableau**, aussi appellé **tableau 2D/bidimensionnel** ou **matrice**.

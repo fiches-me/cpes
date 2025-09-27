@@ -1,5 +1,5 @@
 ---
-title: TP n°2
+title: TP n°3
 finished: true
 tags:
   - info
@@ -8,94 +8,94 @@ tags:
 
 # TP n°2
 
-## Dice Game
+> [!INFORMATION]
+> I will switch the language of theses revision sheets to english to match with the TPs
 
-### Two Dice Game
+## Cosinus
 
-```python [TwoDice.py]
-dice1 = int(input("Give the value of the first dice: "))
-if 0 < dice1 < 7:
-    dice1 = int(dice1)
-    print("It is correct!")
-    dice2 = int(input("Give the value of the second dice: "))
-    if 0 < dice2 < 7:
-        print("It is correct!")
-        if dice1 > dice2:
-            print("The two values are", dice1, dice2)
-        else:
-            print("The two values are", dice2, dice1)
+```python
+def customCos(adjacent, hypotenuse):
+    if hypotenuse == 0:
+        return None
+    return (adjacent / hypotenuse)
+```
+
+## Journalist
+
+```python
+def monday(word : str):
+    return word + " " + word
+
+def tuesday(word : str):
+    if len(word) % 2 == 0:
+        return (word + "-")*5 + word
+    return (word + ",")*2 + word
+
+def wednesday(word : str):
+    if len(word) % 2 == 0:
+        return word
+    return "odd"
+
+def thursday(word : str):
+    return word*(len(word) % 3)
+
+def friday(word):
+    return word
+
+def transformWord(word : str, day : int):
+    if day == 1:
+        return monday(word)
+    elif day == 2:
+        return tuesday(word)
+    elif day == 3:
+        return wednesday(word)
+    elif day == 4:
+        return thursday(word)
+    elif day == 5:
+        return friday(word)
     else:
-        print("This value is incorrect !")
-else:
-    print("This value is incorrect !")
-dice2 = int(input("Give the value of the second dice: "))
+        return "You need to select a day between 1 and 5"
 ```
 
-### Three Dice Game
+Here is the edited version which support lists (so whole sentences) :
 
-> [!SUMMARY]
-> J'ai fais le choix d'utiliser des listes pour que le code soit plus lisible. Au moment où nous avons fait ce TP, nous ne sommes pas censés connaitre les listes.
-
-```python [ThreeDice.py]
-dice1 = int(input("Give the value of the first dice: "))
-if 0 < dice1 < 7:
-    print("It is correct!")
-    dice2 = int(input("Give the value of the second dice: "))
-    if 0 < dice2 < 7:
-        print("It is correct!")
-        dice3 = int(input("Give the value of the third dice: "))
-        if 0 < dice3 < 7:
-            print("It is correct!")
-            dice_list = [dice1, dice2, dice3]
-            dice_list.sort(reverse=True)
-            print("The three values are:", dice_list[0], dice_list[1], dice_list[2])
-            if dice_list == [4, 2, 1]:
-                print("You win!")
-            else:
-                print("You loose...")
-    else:
-        print("This value is incorrect !")
-else:
-    print("This value is incorrect !")
+```python
+def transformSentence(sentence : str, day : int):
+    words = sentence.split(" ")
+    newSentence = ""
+    for word in words:
+        newSentence += transformWord(word, day) + " "
+    return newSentence
 ```
 
-## Selection and Guaranty
+## Strings 'n' Loops
+### DNA Search
 
-```python [g30.py]
-delay = int(input("Please enter your train's delay (in minutes. 1h = 60min): "))
-price = int(input("Please enter your train's ticket price: "))
-
-if delay <= 30:
-    print("Sorry, you are not eligible to refunds for this delay")
-elif delay <= 120:
-    print("You can be refunded", price * 0.25)
-elif delay <= 180:
-    print("You can be refunded", price * 0.5)
-else:
-    print("You can be refunded", price * 0.75)
+```python
+def search(gene, DNAseq):
+    for i in range(len(DNAseq)):
+        if DNAseq[i:i+len(gene)] == gene:
+            return True
+    return False
 ```
 
-## Guessing Game
+### Word Reverse
 
-> [!SUMMARY]
-> Python utilise les **modules**. Ce point n'a pas encore été vue en classe, et c'est un outil très puissant de Python. Ces modules permettent d'importer du code déjà existant pour faire du code plus puissant (des requêtes web, du dessin, des bot discord si vous êtes complètement $crazy$). Ici, nous utiliseront **random** qui permet de générer des chiffres *pseudo-aléatoires* (voir [la documentation](https://docs.python.org/3/library/random.html))
+```python
+def reverse(word):
+    assert word != None and word != "", "Input word must be a non-empty string"
+    newWord = ""
+    for i in range(len(word), 0, -1):
+        newWord += word[i-1]
+    return newWord
+```
 
-```python [GuessGame.py]
-from random import randint
+### Word Number
 
-Playing = ""
-
-while Playing != "no":
-    number_to_guess = randint(1, 100)
-    tries = 0
-    while tries < 10 and number_to_guess != guess:
-        guess = int(input("Guess a number: "))
-        if guess < number_to_guess:
-            print("More")
-        elif guess > number_to_guess:
-            print("Less")
-        else:
-            print("You win! Tries:", tries + 1)
-        tries += 1
-    Playing = input("Do you want to play again? Yes or No").lower()
+```python
+def word_number(sentence):
+    num = 1
+    for i in sentence:
+        if i == " ": num += 1
+    return num
 ```
