@@ -88,33 +88,53 @@ Il existe des échantillons probabilistes et non probabilistes. Il est important
 
 ##### Les échantillons probabilistes
 
+Les échantillons probabilistes/au hasard/aléatoires signifient **qu'aucun critères** ne doivent procéder aux chois des individus. *C'est souvent extrèmement dificile*
+
+Un échantillon aléatoire **simple** donne à tout le monde la même probabilité. Un échantillon **stratifié** décompose la population en groupe et réalise un échantillon aléatoire sur chaque groupe. Enfin, un échantillon **en grappes** suppose que les individus de la population sont naturellement regroupés en paquets relativement homogènes.
+
+##### Les échantillons non-probabilistes
+
+Aussi synonyme de*non aléatoire* ou *empirique*. Ici, on choisis en fonction de critères ne garantissant pas le caractère aléatoire. Ils respectent un **quota** selon les critères de compositions de la population étudié. Ils font peuvent faire appelle ) des **volontaires** ou **spontanés** pour se soumettre à n'enquête.
+
+Il arrive que des échantillons non probabilistes soient créés au fil des circonstances : c'est un **échantillon accidentel**.
+
+> [!WARNING] On ne peux pas généraliser le résultat
+
+##### Comment constituer mon échantillon ?
+
+> [!BUG] Section en cours de rédaction. J'arrive Marcel
+
+### Comment enquêter ?
+
+#### Les méthodes quantitatives
+
+##### Sources
+
+##### limites 
+
 ---
 
-TROU
-
----
-
-### Les méthodes qualitatives
+#### Les méthodes qualitatives
 
 B. Malinovski (1844, 1942) est l'un des premiers à s'être essayé à des enquêtes de terrains, terme global qui regroupe toutes les enquêtes qualitatives
 
-#### L'observation
+##### L'observation
 
 Suppose une analyse sur le long terme. L'observation peut être **désengagée** ou **participative**. Limite : je ne peux pas tout observer. L'École de Chicago l'utilise principalement.
 
-#### L'entretient
+##### L'entretient
 
 Discussion non/semi/dirigée. Les questions sont plus ouvertes qu'un questionnaire mais au risque de l'être trop. C'est une méthode chronophage, coûteuse, et difficile à généraliser. 
 
-#### Archives
+##### Archives
 
 Self-explainatory.
 
-#### Monographies
+##### Monographies
 
 Etudes complètes et détaillées  d'un groupe ou d'un individu. Pratique, mais toujours difficilement généralisable.
 
-## Résumé
+### Résumé
 
 Globalement, le biais des chercheurs, des questions et ce qu'on appelle la "violence symbolique" interviennent dans tout les cas.
 
@@ -125,7 +145,7 @@ Globalement, le biais des chercheurs, des questions et ce qu'on appelle la "viol
 | Invonvénients                | Possiblement obsolète<br>Négligence microsocio / qualtitatif    | Qualité des résultats<br>Représentativité<br>Aucune explications | Traitement des données<br>Généralisation | Danger du terrain<br>On ne peut pas tout observer |
 | Exemples                     | Ressensement<br>Bourdieux                                       | Pratiques des Français<br>Galloup                                | Kaufmann<br>Sport JO<br>Coconel          | Ecole de Chicago<br>                              |
 
-## Construction de variables
+### Construction de variables
 
 Toute démarche sociologique demande des informations empiriques qui me fournissent d'autres informations, qu'on appelle **variables**. Ce sont elles qui doivent être codés, croisés...
 
@@ -145,9 +165,9 @@ Les variables sont elles aussi quantitatives ou qualitatives. Voici quelques exe
 
 Et bien, bien d'autres...
 
-## Analyser les résultats
+### Analyser les résultats
 
-### Relations entre 2 variables
+#### Relations entre 2 variables
 
 On étudie les **liens de corrélations** entre 2 variables, un effet qui les relie entre elle. Il peut être **positif** (évolution dans le même sens) ou **négatif** (évolution dans le sens opposé). Dans certains cas, il y a une **3ième variable** (aussi appelé variable *caché* ou *de confusion*) qui explique la corrélation.
 
@@ -155,6 +175,6 @@ Une corrélation **n'est pas une causalité**. Une causalité montre clairement 
 
 On peut également utilise des méthodes graphiques comme les **nuages de points** ou des **tableaux croisés** pour visualiser ces 2 variables.
 
-### Analyse de multiples variables
+#### Analyse de multiples variables
 
 On utilise une **analyse factorielle** quand il y a plus de 2 variables à traiter. On trouve alors les variables les plus pertinentes dans un échantillon, on réduit les dimensions de notre tableau sans perdre d'informations importantes. 

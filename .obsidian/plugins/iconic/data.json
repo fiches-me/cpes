@@ -196,20 +196,6 @@
       "icon": "lucide-file-pen"
     },
     {
-      "id": "Xtee9",
-      "name": "Index",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "name",
-          "operator": "contains",
-          "value": "index"
-        }
-      ],
-      "enabled": true,
-      "icon": "lucide-dot"
-    },
-    {
       "id": "4wx1x",
       "name": "Unfinished",
       "match": "all",
@@ -351,6 +337,20 @@
       "enabled": true,
       "icon": "lucide-file",
       "color": "blue"
+    },
+    {
+      "id": "Xtee9",
+      "name": "Index",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "index"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-dot"
     },
     {
       "id": "5vpYz",
