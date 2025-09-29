@@ -80,10 +80,61 @@ Quantitative ou Qualitative
 
 #### Population, échantillon et individu
 
-Certaines populations sont plus accessibles que d'autres. Il faut choisir un Echantillon (ensemble de travail réel) et les individus (chaque personne étudié, correspond à une unité statistique).
+Certaines populations sont plus accessibles que d'autres. Il faut choisir un Échantillon (ensemble de travail réel) et les individus (chaque personne étudié, correspond à une unité statistique).
 
-#### La consitution des échantillons
+#### La constitution des échantillons
 
 Il existe des échantillons probabilistes et non probabilistes. Il est important car il permet un résultat fiable & généralisable.
 
-##### Les échantillons probabilises
+##### Les échantillons probabilistes
+
+---
+
+TROU
+
+---
+### Les méthodes qualitatives
+B. Malinovski (1844, 1942) est l'un des premiers à s'être essayé à des enquêtes de terrains, terme global qui regroupe toutes les enquêtes qualitatives
+#### L'observation
+Suppose une analyse sur le long terme. L'observation peut être **désengagée** ou **participative**. Limite : je ne peux pas tout observer. L'École de Chicago l'utilise principalement.
+#### L'entretient
+Discussion non/semi/dirigée. Les questions sont plus ouvertes qu'un questionnaire mais au risque de l'être trop. C'est une méthode chronophage, coûteuse, et difficile à généraliser. 
+#### Archives
+Self-explainatory.
+#### Monographies
+Etudes complètes et détaillées  d'un groupe ou d'un individu. Pratique, mais toujours difficilement généralisable.
+
+
+## Résumé
+
+Globalement, le biais des chercheurs, des questions et ce qu'on appelle la "violence symbolique" interviennent dans tout les cas.
+
+|                              | Statistiques Officielles                                        | Questionnaires<br>Sondages<br>Enquêtes statistiques              | Entretiens                               | Observations                                      |
+| ---------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------- |
+| Mode de collecte des données | Archives, documents administratifs, enquêtes<br>-> Institutions | $Q$ à choix multiples                                            | $Q$ dirigés/non dirigés/semi dirigés     | Participative<br>désengagée                       |
+| Avantages                    | Rapide<br>Concret<br>Accessible car existe déjà                 | Généralisation possible<br>Outils existants                      | Point de vue<br>Plus profond             | Réel<br>Concret                                   |
+| Invonvénients                | Possiblement obsolète<br>Négligence microsocio / qualtitatif    | Qualité des résultats<br>Représentativité<br>Aucune explications | Traitement des données<br>Généralisation | Danger du terrain<br>On ne peut pas tout observer |
+| Exemples                     | Ressensement<br>Bourdieux                                       | Pratiques des Français<br>Galloup                                | Kaufmann<br>Sport JO<br>Coconel          | Ecole de Chicago<br>                              |
+## Construction de variables
+
+Toute démarche sociologique demande des informations empiriques qui me fournissent d'autres informations, qu'on appelle **variables**. Ce sont elles qui doivent être codés, croisés...
+
+1. Une variable permet de rendre explicite des similitudes ou différences
+2. Il faut expliciter les variables et la manière dont elle sont construites
+3. Il faut standardiser pour permettre un classement
+
+Les variables sont elles aussi quantitatives ou qualitatives. Voici quelques exemples de variables qualitatives :
+
+- Origine/Milieu social
+- Diplôme
+- Genre (et non sexe)
+- Profession/PCS
+- Situation familiale
+- revenu/mode de vie/trajectoire personnelle
+- Politique/religion
+
+Et bien, bien d'autres...
+
+## Analyser les résultats
+### Relations entre 2 variables
+### Analyse de multiples variables
