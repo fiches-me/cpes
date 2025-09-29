@@ -108,11 +108,15 @@ Il arrive que des échantillons non probabilistes soient créés au fil des circ
 
 #### Les méthodes quantitatives
 
-##### Sources
+La première enquête quantitative est européenne. Elle date des années trente avec Gallup qui prédit l’élection de Roosevelt grâce à un panel de 5000 personnes. 
 
-##### limites 
+##### Quelles sont les données quantitatives ? 
 
----
+On utilise des questionnaires ou des sondages, avec des questions ouvertes ou fermées. Les réponses ouvertes peuvent être plus précises mais aussi plus vagues, quand les réponses fermées peuvent empêcher une certaine nuance.
+
+##### Quelles sont leurs limites ?
+
+Tout d'abord, nos questionnaires ne prévoient pas tout, et les données peuvent être interprétés différemment. On ne intersession pas aux non réponses. Également, nous considérons que nous avons tous la même compétence politique, ce qui n'est pas le cas.
 
 #### Les méthodes qualitatives
 

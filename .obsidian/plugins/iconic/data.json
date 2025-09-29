@@ -277,8 +277,9 @@
       "match": "all",
       "conditions": [
         {
-          "source": "name",
-          "operator": "contains"
+          "source": "headings",
+          "operator": "countIsMore",
+          "value": "20"
         }
       ],
       "enabled": true,
@@ -291,8 +292,9 @@
       "match": "all",
       "conditions": [
         {
-          "source": "name",
-          "operator": "contains"
+          "source": "headings",
+          "operator": "countIsMore",
+          "value": "15"
         }
       ],
       "enabled": true,
