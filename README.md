@@ -15,4 +15,8 @@ This repo contains multiples revision sheets write [using markdown](./contributi
 
 ## 💖 Want to contribute?
 
-We have contribution guide & guidelines! 
+We have contribution guide & guidelines!
+
+## 📬 Contact
+
+For any questions/requests, you can contact the mainteners team by mail at cpes@funa.dev
