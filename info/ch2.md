@@ -1,5 +1,5 @@
 ---
-title: "Algorithmique : La Suite"
+title: "💾 Algorithmique : La Suite"
 tags:
   - info
   - cours

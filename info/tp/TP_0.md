@@ -1,5 +1,5 @@
 ---
-title: TP n°0
+title: 💻 TP n°0
 finished: true
 tags:
   - info

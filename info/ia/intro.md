@@ -1,11 +1,11 @@
 ---
-title: "IA: Introduction"
+title: "💡 IA: Introduction"
 tags:
   - ia
 finished: true
 ---
 
-# IA: Introduction
+# 💡 IA: Introduction
 
 ## Qu'es ce que intelligence artificielle ?
 

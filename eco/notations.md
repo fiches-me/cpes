@@ -1,5 +1,5 @@
 ---
-title: notations
+title: ✒️ Notations
 draft: true
 tags:
   - eco

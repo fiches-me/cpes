@@ -1,12 +1,12 @@
 ---
-title: 📗 Introduction
+title: 📘 Introduction
 order: 0
 finished: true
 tags:
   - eco
 ---
 
-# Introduction
+# 📘 Introduction
 
 > [!Rappel]
 > Une science se défini par un objet et une méthode.

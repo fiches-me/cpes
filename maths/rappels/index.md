@@ -1,4 +1,4 @@
 ---
-title: Rappels
+title: 💡 Rappels
 finished: true
 ---

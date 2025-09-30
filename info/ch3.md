@@ -1,5 +1,5 @@
 ---
-title: Tableaux
+title: 🗃 Tableaux
 ---
 # Tableaux
 ## Tableaux à une dimension

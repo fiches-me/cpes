@@ -1,4 +1,4 @@
 ---
-title: Chapitre 1
+title: 📘 Chapitre 1
 order: 2
 ---

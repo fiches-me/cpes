@@ -1,5 +1,5 @@
 ---
-title: Bonnes Pratiques
+title: 💖 Bonnes Pratiques
 draft: true
 ---
 

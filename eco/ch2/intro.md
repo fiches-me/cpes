@@ -1,12 +1,12 @@
 ---
-title: 📗 Introduction
+title: 📘 Introduction
 order: 0
 finished: true
 tags:
   - eco
 ---
 
-# 📗 Introduction
+# 📘 Introduction
 
 Le néoclassicisme va vouloir poursuivre le travail des classiques et essayer de rendre l'économie politique une science.
 

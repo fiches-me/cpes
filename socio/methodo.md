@@ -1,5 +1,5 @@
 ---
-title: "Sociologie : Méthodologie"
+title: "✒️ Sociologie : Méthodologie"
 ---
 
 # Sociologie : Méthodologie

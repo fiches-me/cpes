@@ -1,5 +1,5 @@
 ---
-title: Conférence Mardi
+title: 🎓 Conférence Mardi
 draft: true
 ---
 Ce chapitre explicite les rapports éducation/contexte historique parentale avec celui offert à l'enfant, les differents choix & styles parentaux (ex: écrans, fessée, allaitement, lecture).

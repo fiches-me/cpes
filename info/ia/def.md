@@ -1,5 +1,5 @@
 ---
-title: "IA : Définitions"
+title: "📚 IA : Définitions"
 tags:
   - ia
   - définitions
