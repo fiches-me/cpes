@@ -88,6 +88,12 @@
         "b92058207feb00c9"
       ]
     },
+    "eco/ch3": {
+      "icon": "3️⃣",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
     "index.md": {
       "icon": "🏠"
     },
@@ -169,6 +175,12 @@
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {
+    "features": {
+      "icon": "lucide-code-2"
+    },
+    "hero": {
+      "icon": "lucide-code-2"
+    },
     "name": {
       "icon": "lucide-pen-tool"
     },

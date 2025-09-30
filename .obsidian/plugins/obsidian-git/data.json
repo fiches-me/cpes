@@ -1,6 +1,6 @@
 {
-  "commitMessage": "\"⬆️ (doc) Push {{hostname}} {{date}} - {{numFiles}} modifications\"",
-  "autoCommitMessage": "\"⬆️ (doc) Push {{hostname}} {{date}} - {{numFiles}} modifications\"",
+  "commitMessage": "📝 Push {{hostname}} {{date}} - {{numFiles}} modifications",
+  "autoCommitMessage": "📝 Push {{hostname}} {{date}} - {{numFiles}} modifications",
   "commitMessageScript": "",
   "commitDateFormat": "MM-DD HH:mm",
   "autoSaveInterval": 0,
