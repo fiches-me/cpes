@@ -1,3 +1,3 @@
 ---
-title: 📗 Chapitre 2
+title: 💞 Chapitre 2
 ---
