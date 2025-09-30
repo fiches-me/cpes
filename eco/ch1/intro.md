@@ -17,7 +17,7 @@ Au tout début, l'économie est une **science morale** (science *normative* cont
 
 Aristote est le premier à parler d'économie. Il l'étudie à l'echelle du foyer, de la gestion du budget (échelle *microéconomique*). Il condamné l'**usure** (l'activité banquaire)
 
-## St. Thomas d'Aquin 
+## St. Thomas d'Aquin
 
 Il est religieux, et conservera donc une vision normative de l'économie. Pour lui, il faut assumer le commerce tant qu'il ne desequilibre pas la société. Il faut installer ce qu'il appelle une **justice de distribution** et un **juste prix** pour éviter la création de valeur.
 

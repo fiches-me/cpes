@@ -94,6 +94,9 @@
         "b92058207feb00c9"
       ]
     },
+    "eco/fish.md": {
+      "icon": "lucide-fish"
+    },
     "index.md": {
       "icon": "🏠"
     },
@@ -193,6 +196,26 @@
   },
   "ribbonIcons": {},
   "fileRules": [
+    {
+      "id": "oLNeb",
+      "name": "Fish",
+      "match": "any",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "fiche"
+        },
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "fish"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-fish",
+      "color": "blue"
+    },
     {
       "id": "zzpvI",
       "name": "Draft",
