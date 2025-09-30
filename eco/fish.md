@@ -48,7 +48,11 @@ Le classicisme économique comment à Smith (classique) et va jusqu'à Léon Wal
 
 Il y a un débat entre Malthus et Ricardo sur la *loi de Say*. Selon Jean-Baptise Say (français), **toute offre crée sa demande**, et il ne peut donc pas avoir de sur-production. Malthus est contre, Ricardo pour. Malthus explique que face à augmentation de l'accumulation des richesses, il faut anticiper la demande, car seuls les rentiers pourraient consommer plus. Or, ils **épargnent**. Donc aucune raison que l'offre crée la demande. Il était en faveur des corn laws pour limiter les rentiers.A l'inverse, pour Ricardo, seul l'intervention de l'État peut créer un déséquilibre. Première opposition : **le rôle de l'État**.
 
-Le néoclassicisme va vouloir poursuivre le travail des classiques et essayer de rendre l'économie politique une science, par la formalisation mathématique. 
+La valeur est également une opposition fondamentale. Certain auront une vision **Objective** (ceux qui réfléchissent à la valeur travail, tel que Mill, Smith, Ricardo) ou **Subjective** (la valeur est conféré par l'individu, et elle est donc subjective, selon Say et Condillac).
+
+Marx considère que l'économie classique est définie par **la réflexion sur la valeur travail** et que tout les économistes en accord avec la loi de Say sont **vulgaires**. A l'inverse, Keynes considère les classiques comme  **adhèrent à la loi de Say**.
+
+Le néoclassicisme va vouloir poursuivre le travail des classiques et essayer de rendre l'économie politique une science par un basculement de la philosophie morale à la science via la formalisation mathématique.
 ## 🔥 La loi des débouchés et sa critique
 ## 💞 Filiations classiques / néoclassiques
 ## 🌄 Un nouveau paradigme néoclassique

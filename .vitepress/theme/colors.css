@@ -225,7 +225,6 @@ u {
 }
 
 .dark .VPDoc {
-  border-radius: 1rem;
   background-color: var(--pmr-color-d-gray-90);
 }
 
@@ -236,4 +235,8 @@ u {
 
 .VPContent {
   background-color: var(--vp-c-bg-alt);
+}
+
+.VPLocalNav {
+  border-radius: 0 0 1rem 1rem;
 }
