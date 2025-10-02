@@ -44,7 +44,7 @@ Ce sujet est une analyse, *mais extrêmement guidée*. La première étape est d
 		- Eviter les erreurs
 		- Point de vue différés -> richesse des données
 2. *Mais à quel prix ?*
-	1. Long et Couteuse
+	1. Long et Coûteuse
 		- Un entretient demande des chercheurs
 		- Une observation demande du temps
 		- Le terrain peut être difficile 

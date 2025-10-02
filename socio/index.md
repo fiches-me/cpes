@@ -94,7 +94,7 @@ Un échantillon aléatoire **simple** donne à tout le monde la même probabilit
 
 ##### Les échantillons non-probabilistes
 
-Aussi synonyme de*non aléatoire* ou *empirique*. Ici, on choisis en fonction de critères ne garantissant pas le caractère aléatoire. Ils respectent un **quota** selon les critères de compositions de la population étudié. Ils font peuvent faire appelle ) des **volontaires** ou **spontanés** pour se soumettre à n'enquête.
+Aussi synonyme de *non aléatoire* ou *empirique*. Ici, on choisis en fonction de critères ne garantissant pas le caractère aléatoire. Ils respectent un **quota** selon les critères de compositions de la population étudié. Ils font peuvent faire appelle ) des **volontaires** ou **spontanés** pour se soumettre à n'enquête.
 
 Il arrive que des échantillons non probabilistes soient créés au fil des circonstances : c'est un **échantillon accidentel**.
 
