@@ -2,17 +2,22 @@
 title: 🐟 Fish Santé
 draft: true
 ---
+
 # 🐟 Fish Santé
+
 ## Échanges d'énergies avec l'environnement 
 
 Il existe un grand nombre d'organismes vivant différents : bactéries, champignons, animaux, végétaux.
 
-Un être vivant se caractérise par une entrée et une sortie de matière. Certains sont **hétérotrophes** : ils dépendent d'autres êtres vivants pour se nourrir, car ils se nourrissent de **matière organique** (animaux, bactéries). Si ils ne consomment pas de matière organique, alors ils consomment de la **matière minérale** qu'ils "ingèrent" et on les appelle **autotrophes**.
+**hétérotrophes** ➡️ **matière organique** (animaux, bactéries)
+**autotrophes** ➡️ **matière minérale**
 
 Les êtres vivant doivent rester dans un certain équilibre que l'on appelle **homéostasie**. Des choses tel que la température du corps, l'acidité (ph), le taux de glucide dans le sang doivent être maintenus à certaines valeurs.
 
 On appelle **milieu intérieur** tout espace situé *dans* le corps mais relié d’une certaine manière à l’extérieur (ex. : poumons, estomac). S’il n’existe aucune connexion avec l’extérieur, on parle alors de **milieu interne** (ex. : sang).
+
 ### Echanges de Matière Organique (M.O.)
+
 L'être humain a besoin de 3 principaux nutriments :  
 - **Lipides** (≈30%) → énergie de réserve, constitution des membranes, hormones 
 - **Glucides** (≈55%) → principale source d’énergie  
@@ -31,7 +36,9 @@ Le système digestif mesure, de la bouche au côlon, environ **7 à 8 mètres**.
 - La digestion humaine réabsorbe une grande quantité d’eau (**≈7 L**). Même si ce chiffre paraît élevé, il permet d’éviter la déshydratation, puisque nous n’absorbons en moyenne que **1 à 2 L d’eau** par la boisson et l’alimentation.  
 - Le rôle du **microbiote intestinal** est essentiel : il participe à la digestion de certaines fibres, produit des vitamines (K, B12), et protège contre les microbes pathogènes.  Il permet 99,97% de la digestion !
 - Les **villosités intestinales** et les **microvillosités** de l’intestin grêle permettent d’augmenter considérablement la surface d’absorption (surface équivalente à un terrain de tennis !).  Elles assurent le passage des nutriments (glucose, acides aminés, acides gras, eau, vitamines, sels minéraux) dans le sang et la lymphe.
+
 ### Echanges gazeux
+
 L'échange gazeux avec l'environnement doit être le plus efficace possible. Pour le déterminer, on utilise la **loi de Fick** :
 
 $$F = \frac{K × S × |P_2 - P_1|}{E}$$
@@ -52,6 +59,7 @@ Phospholipides, cholestérols et protéines seront dissous dans l'eau du Surfact
 ### Élimination des déchets
 
 Deux reins de ~ 10cm filtrent le sang et fabriquent l'urine. Ils sont reliés à deux conduits, l'Uretère, qui stockent l'urine dans la vessie avant de se déverser dans l’urètre. Chaque rein possède une envelope externe, le **cortex rénale**. Le sang chargé en urée arrive par l'artère rénale et repart dans la veine rénale. Le cortex rénale est composé de **néphrons** qui filtrent le sang.1600L de sang passent chaque jour dans les deux reins : c'est **300 fois** le volume total de sang dans le corps. On obtient 180L de filtrat initial, où nous récupérerons les glucides/lipides/protides pour arriver à un final de **1,5L d'urine**.
+
 ## Reproduction des êtres humains
 
 > [!TIP] Fun Fact
@@ -64,8 +72,11 @@ Toutes nos cellules actuelles possèdent le même patrimoine génétique qu'une 
 Le testicule contient des milliers de **tubes séminifères** (production de gamètes, spermatozoïdes) et de cellules interstitielles (production d'hormones). Les testicules doivent être à l’extérieur car les spermatozoïdes doivent êtres développés à une certaine température. Le spermatozoïde possède un petit chitoplasme (comparé à son noyau) qui rend son espérance de vie limité. Le sperme contient du glucose pour permettre au métabolisme des spermatozoïdes de survivre.
 
 Les ovaires produisent aussi les gametes et les hormones. Cependant, l'organe génital féminin permet également d'acceuilr le fœtus. C'est un organe pair, *comme les testicules chez l'homme*, mais possède uniquement quelques millions de follicules
+
 ## 📋 Documents
+
 ### Doc 1
+
 On doit réformer notre système de santé qui n'a pas su s'adapter aux nouveaux défits de notre génération.
 
 - Transition démographique : vieillissement rapide de la population (baby-boomers, dépendance future).
