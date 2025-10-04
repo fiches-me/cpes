@@ -69,3 +69,25 @@ for e in tab:
 ## Tableaux à 2 dimensions
 
 Que ce passe t-il quand l'on ajoute un tableau dans un tableau ? On obtient un **tableau de tableau**, aussi appellé **tableau 2D/bidimensionnel** ou **matrice**.
+
+Voici un exemple de définition :
+
+::: code-group
+
+```pseudo-code [Pseudo-Code]
+T tableau de tableaux d'entiers de taille 3 de taille 2
+T <- [[1,2,3],[4,5, 6]]
+```
+
+```python [Python]
+tab1 = [[1,2,3],[4,5, 6]]
+```
+
+:::
+
+On y accède alors avec `T[i][j]`, où *i* est la la ligne et *j* la colonne.
+
+> [!BUG] Pythonerie
+> En python, il est possible de créer des tableaux en deux dimensions avec des sous tableaux de taille différente, comme `T = [[1], 2, 3[], [4, 5]]`. Nous éviterons au maximum leurs utilisations.
+
+L'oppérateur **+** sur les tableaux concatène les tableaux. `[0] + [1]` =  `[0, 1]`.

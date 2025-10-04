@@ -1,12 +1,18 @@
 ---
-title: 💻 TD n°3
+title: 💻 TP n°3
 tags:
   - info
   - tp
+finished: true
 ---
 
 # 💻 TD n°3
+
+> [!INFO]
+> I started to add **types definitions** to my variables. It's the things after the barable with the little **:**. It tells python which variables i'm expecting to get in the function, and which one I will give back. *Note that it's only an aesthetic behavior, python will allow you to not respect them.*
+> 
 ## Exercice 1
+
 ```python
 def orderedList(liste: list) -> bool:
     """
@@ -28,13 +34,21 @@ def orderedList(liste: list) -> bool:
         mini = e
     return True
 
-
+# To test all ma functions, I use a python tool called "doctest",
+# See the tip in this page.
 if __name__ == "__main__":
     import doctest
     doctest.testmod()
+    # As doctest.testmod() raise an error, the message will be printed
+    # only if all the test succeeded!
+    print("All tests succeeded.")
 ```
 
+> [!TIP]
+> To test all my functions in a cleaner way than adding `asserts` lines everywhere, I used **doctests**. These are tests for your function, defined by one input (>>>) and what it should output. The last if launch these tests.
+
 ## Exercice 2
+
 ```python
 def listMinimum(liste: list) -> int:
     """
@@ -80,12 +94,18 @@ def minimumGreaterThan(liste: list, mini: int) -> int:
             m = e
     return m 
 
+# To test all ma functions, I use a python tool called "doctest",
+# See the tip in this page.
 if __name__ == "__main__":
     import doctest
     doctest.testmod()
+    # As doctest.testmod() raise an error, the message will be printed
+    # only if all the test succeeded!
+    print("All tests succeeded.")
 ```
 
 ## Exercice 3
+
 ```python
 def textToString(texte: str) -> list:
     """
@@ -118,12 +138,12 @@ def sentenceCounter(texte: str) -> list:
     return opt 
 
 # To test all ma functions, I use a python tool called "doctest",
-# which exxecute the code with ">>>" in the function's docstrings
-
-# This code actually run them only if I run this file dirrectly
+# See the tip in this page.
 if __name__ == "__main__":
     import doctest
     doctest.testmod()
+    # As doctest.testmod() raise an error, the message will be printed
+    # only if all the test succeeded!
     print("All tests succeeded.")
 ```
 
@@ -134,6 +154,10 @@ def extendedCaesar(ch: str, shift: int = 1) -> str:
     return chr(ord(ch) + 1)
     
 def caesarSentence(texte: str) -> str:
+    """
+    Convert a sentence to caesar.
+    Use the previously made functions.
+    """
     opt = ""
     for e in texte:
         opt += extendedCaesar(e)
