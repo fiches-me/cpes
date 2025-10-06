@@ -81,3 +81,8 @@ Ce sujet est une analyse, *mais extrêmement guidée*. La première étape est d
 	4. Difficilement généralisables
 	   -> Intime, point de vue
 	   -> Traitement difficile
+
+## Rédaction d'une sous partie
+> Cette sous-partie correspond au II.2 du plan si dessus.
+
+Nous allons également voir que les enquêtes qualitatives introduisent de nombreux biais, provenant des questions, des chercheurs et des enquêtes eux-mêmes. Tout d'abord, les enquêtes qualitatives (particulièrement en entretien) créent un premier biais par la façon dont les questions sont posées. En effet, poser une question sur quelque chose assume que ce quelque chose existe. Bourdieu montrera également qu'il arrive que certains entretenus ne réussissent pas à comprendre la question ou y répondent mal. Ensuite, le chercheur lui-même est un biais à sa propre enquête. L'angle d'attaque qu'il a décidé de prendre sur sa question le limite, et dans le cas des observations participatives, il peut également prendre parti pour la population observée et aller à l'encontre de son enquête. Enfin, un troisième biais, plus subtil, entre en jeu si les enquêtés savent à l'avance qu'ils seront enquêtés. Les individus agissent différemment quand ils se savent observés. La vanité humaine nous pousse à dissimuler nos défauts dans ces types de situations. Nous pourrions donc cacher certains comportements intéressants pour le sociologue

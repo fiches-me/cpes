@@ -26,7 +26,11 @@
     "emojiMode": true,
     "rulePage": "file"
   },
-  "appIcons": {},
+  "appIcons": {
+    "help": {
+      "icon": "lucide-heart"
+    }
+  },
   "tabIcons": {},
   "fileIcons": {
     "Liste des Fichiers.base": {
@@ -56,7 +60,8 @@
     "bio/ch2": {
       "icon": "2️⃣",
       "unsynced": [
-        "/storage/emulated/0/Obsidian/CPES"
+        "/storage/emulated/0/Obsidian/CPES",
+        "b92058207feb00c9"
       ]
     },
     "contribution": {
@@ -208,7 +213,11 @@
       "icon": "lucide-pen-tool"
     }
   },
-  "ribbonIcons": {},
+  "ribbonIcons": {
+    "command-palette:Open command palette": {
+      "icon": "lucide-terminal"
+    }
+  },
   "fileRules": [
     {
       "id": "oLNeb",

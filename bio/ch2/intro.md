@@ -1,6 +1,8 @@
 ---
 title: 📗 Introduction
 ---
+# 📗 Introduction
+
 Deux gametes forment une cellule œuf. 
 
 La cellule œuf va ensuite se diviser : toutes nos cellules actuelles possèdent le même patrimoine génétique que celle ci.
