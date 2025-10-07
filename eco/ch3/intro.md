@@ -2,6 +2,7 @@
 title: 📘 Introduction
 order: 0
 draft: false
+finished: true
 ---
 # 📘 Introduction
 
