@@ -1,6 +1,6 @@
 ---
 title: ✒️ Notations
-draft: true
+draft: false
 tags:
   - eco
   - définitions
@@ -17,3 +17,4 @@ $C$ = Consommation
 $\gamma$ = Production
 $S$ = Épargne (origine: X)
 $I$ = Investissement
+$R$ = Real interest rate
