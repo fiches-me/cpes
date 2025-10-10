@@ -1,12 +1,12 @@
 ---
-title: 💻 TP n°1
+title: 💻 PW n°1
 finished: true
 tags:
   - info
   - tp
 ---
 
-# TP n°1
+# PW n°1
 
 ## Dice Game
 
@@ -78,7 +78,7 @@ else:
 ## Guessing Game
 
 > [!SUMMARY]
-> Python utilise les **modules**. Ce point n'a pas encore été vue en classe, et c'est un outil très puissant de Python. Ces modules permettent d'importer du code déjà existant pour faire du code plus puissant (des requêtes web, du dessin, des bot discord si vous êtes complètement $crazy$). Ici, nous utiliseront **random** qui permet de générer des chiffres *pseudo-aléatoires* (voir [la documentation](https://docs.python.org/3/library/random.html))
+> Python uses **modules**, a point not seen in class yet but a really powerful tool of Python. With theses, you can make almost anything by using pre-existing code to build your tools (so you can create web pages, do drawings, and even make discord bot if you like it $crazy$). Here, we will take a look at **random**, which can generates pseudo-random numbers ( [read the docs](https://docs.python.org/3/library/random.html)).
 
 ```python [GuessGame.py]
 from random import randint

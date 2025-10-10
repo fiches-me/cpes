@@ -1,12 +1,12 @@
 ---
-title: 💻 TP n°2
+title: 💻 PW n°2
 finished: true
 tags:
   - info
   - tp
 ---
 
-# TP n°2
+# PW n°2
 
 > [!INFORMATION]
 > I will switch the language of theses revision sheets to english to match with the TPs

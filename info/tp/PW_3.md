@@ -1,17 +1,17 @@
 ---
-title: 💻 TP n°3
+title: 💻 PW n°3
 tags:
   - info
   - tp
 finished: true
 ---
 
-# 💻 TD n°3
+# 💻 PW n°3
 
 > [!INFO]
 > I started to add **types definitions** to my variables. It's the things after the barable with the little **:**. It tells python which variables i'm expecting to get in the function, and which one I will give back. *Note that it's only an aesthetic behavior, python will allow you to not respect them.*
 > 
-## Exercice 1
+## Exercise 1
 
 ```python
 def orderedList(liste: list) -> bool:
@@ -47,7 +47,7 @@ if __name__ == "__main__":
 > [!TIP]
 > To test all my functions in a cleaner way than adding `asserts` lines everywhere, I used **doctests**. These are tests for your function, defined by one input (>>>) and what it should output. The last if launch these tests.
 
-## Exercice 2
+## Exercise 2
 
 ```python
 def listMinimum(liste: list) -> int:
@@ -104,7 +104,7 @@ if __name__ == "__main__":
     print("All tests succeeded.")
 ```
 
-## Exercice 3
+## Exercise 3
 
 ```python
 def textToString(texte: str) -> list:
@@ -147,7 +147,7 @@ if __name__ == "__main__":
     print("All tests succeeded.")
 ```
 
-## Exercice 4
+## Exercise 4
 ```python
 def extendedCaesar(ch: str, shift: int = 1) -> str:
     # Take the ASCII value, add one, and convert it back

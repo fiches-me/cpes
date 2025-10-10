@@ -4,9 +4,10 @@ finished: true
 tags:
   - info
   - tp
+order: 0
 ---
 
-# TP n°0
+# 💻 TP n°0
 
 ## Exercice 1
 

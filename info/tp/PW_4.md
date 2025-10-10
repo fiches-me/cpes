@@ -6,9 +6,9 @@ tags:
 finished: true
 ---
 
-# 💻 TP n°4
+# 💻 PW n°4
 
-## Exercice 1
+## Exercise 1
 
 > [!INFO]
 > I started to add **types definitions** to my variables. It's the things after the barable with the little **:**. It tells python which variables i'm expecting to get in the function, and which one I will give back. *Note that it's only an aesthetic behavior, python will allow you to not respect them.*
@@ -25,7 +25,7 @@ def search(elt: int, tab: list)->list:
     return response
 ```
 
-## Exercice 2
+## Exercise 2
 
 ```python
 def print_matrix(m:list)->None:
@@ -38,7 +38,7 @@ def print_matrix(m:list)->None:
         print()
 ```
 
-## Exercice 3
+## Exercise 3
 
 ```python
 def average1(tab:list)->int:
@@ -84,7 +84,7 @@ def averageCol(m: list, col:int)->int:
 
 All of these functions created up there contain a `assert` line before executing to avoid any division by zero. This code will so work with empty lists.  
 
-## Exercice 4
+## Exercise 4
 
 ```python
 def print_matrix(m:list)->None:
@@ -128,10 +128,10 @@ def zoomPicture(startMatrix:list, k:int) -> list:
     return endMatrix
 ```
 
-## Exercice Bonus
+## Bonus Exercise
 
 > [!INFO]
-> This exercice was added to e-campus for the brave List enjoyers. It is not necessarily complex, but you have to do maths in python to achieve the goal. 
+> This exercise was added to e-campus for the brave List enjoyers. It is not necessarily complex, but you have to do maths in python to achieve the goal. 
 
 ```python
 def pascal(k:int)->list:
