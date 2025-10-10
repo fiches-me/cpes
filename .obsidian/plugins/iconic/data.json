@@ -116,6 +116,12 @@
         "/storage/emulated/0/Obsidian/CPES"
       ]
     },
+    "eco/ch3/graphes": {
+      "icon": "lucide-pie-chart",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
     "eco/fish.md": {
       "icon": "lucide-fish"
     },
