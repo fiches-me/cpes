@@ -44,8 +44,8 @@ const vitePressConfigs = {
       copyright: 'Copyright © 2019-2025 FUNASITIEN'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/fiches-cc/cpes' }
-    //  { icon: 'discord', link: 'https://join.aelysium.group/' }
+      { icon: 'github', link: 'https://github.com/fiches-me/cpes' },
+      { icon: 'discord', link: 'https://dsc.gg/drmcld' }
     ]
   },
   sitemap: {

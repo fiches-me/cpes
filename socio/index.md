@@ -4,7 +4,6 @@ finished:
 tags:
   - socio
 ---
-
 # C'est quoi la sociologie ?
 
 ## Introduction
@@ -182,3 +181,55 @@ On peut également utilise des méthodes graphiques comme les **nuages de points
 #### Analyse de multiples variables
 
 On utilise une **analyse factorielle** quand il y a plus de 2 variables à traiter. On trouve alors les variables les plus pertinentes dans un échantillon, on réduit les dimensions de notre tableau sans perdre d'informations importantes. 
+
+## La sociologie est elle neutre ?
+
+> Ici, un synonyme de neutre serait **objectif**
+
+**A quel point la sociologie est objective ?** 
+
+1. Les enquêtes ont des limites
+2. Le commanditaire doit être satisfait
+3. Mes études sont liés à mon vécu 
+4. La sociologie aborde des questions personnelles refoulés généralement par la société. **La sociologie dérange.**
+5. Oppositions entres sociologues (Pinson Charlot)
+6. Enquêtes quantitatives : non réponses
+
+**Mais où est elle objecive ?**
+
+1. Science -> méthode rigoureuses
+2. Son but est de comprendre, et son but est réussi
+3. Elle est une science pour elle même
+
+##### Reproduire le réel et non le juger
+
+Comte écrit le livre <u>Loi des 3 états</u> qui explicite ces 3 états : 
+1. état théologique, l'esprit humain cherche les connaissances absolue au travers d'explications magiques ou surnaturelles. 
+2. état métaphysique : essence de l'homme, contrat social de rousseau
+3. état positif/scientifique : expliqué par des faits établies. Les mathématiques sont érigées en modèle. La sociologie n'a pas encore atteint ce degré de positivité, et doit s’appuyer sur les sciences de la nature pour y parvenir.
+
+La sociologie a donc un statut spécifique supérieure aux autres sciences. C'est la science positive de la société.
+
+SI j'observe les fait, si j'évacue la métaphysique, si je cherche des lois sociales, alors j'ai bien une science objective. Mais comme le milieu que j'étudie est celui où je vie, ériger une distance est compliqué.
+
+Durkheim va écrire un ouvrage, <u>Les règles de la méthode sociologique</u>, qui poursuit le travail de Comte. Selon lui :
+
+- la sociologie étudie les faits sociaux : toutes manières de penser, d'agir, de sentir, issue d'une volonté individuelle et d'un pouvoir de **coercition**.
+- se détacher des prénotions
+- étudier le social par le social
+
+Max Weber, sociologue allemand, dit qu'il faut adopter la posture de la **neutralité axiologique**. les jugements de valeurs ne sont pas des rapports aux valeurs. Dans le rapport des valeurs, on étudie la réalité en fonction se ses intérêts. Il propose un idéale type de la bureaucratie (un modèle, portrait robot) pour mieux la comprendre.
+
+Bachelard écrit un livre en 1938 intitulé <u>La formation de l'esprit critique</u>, qui explique que le fait scientifique est conquis, construit, constaté.
+
+Ils essayent de mettre en place un processus d'objectivation du social. Un framework pour la sociologie. **Il n'existe pas d'état objectif** mais tout le travaille du sociologue réside dans la création de ce processus. 
+
+### Controverses
+
+La querelle des méthodes : la sociologie est elle une science comme les autres ?
+
+Dilthey va opérer une distinction entre les sciences de la nature et les sciences de l'esprit. Chacune doit donc avoir sa propre méthode. 
+
+La question la sociologie est elle une science humaine ? La question reste en suspend. 
+
+Au dela de tout les roles que le sociologue endosse, il faut y voir une complémentarité dans les rôles de celui ci. 
