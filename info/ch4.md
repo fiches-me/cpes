@@ -59,7 +59,7 @@ Effectuer une terminaison et une correction partielle d'un algorithme revient à
 
 ## Algorithmes sur les tableaux
 ### Trie par séléction
-
+Tri dit conditionel. On prend le minimum de la partie droite d'un tableau, que l'on va déplacer à gauche. On réduit peu à peu la taille du tableau de droite pour finir avec un tableau de gauche trié.-
 ::: code-group
 
 ```pseudo-code [Pseudo-Code]
@@ -89,7 +89,12 @@ def trie_selection(tab):
       tab[i_min] = tmp
    return tab
 ```
-
+#### Correction
+- **Terminaison** : la fonction contient 2 seule boucle bornées. La première est sur la longeur du tableau et sur i. Aucun n'est modifié dans la boucle. La deuxième est aussi sur la longeur du tableau et sur j. Aucun des deux n'est modifié dans la boucle. La fonction va donc se terminer.
+- **Correction Partielle** :
+   1. **Invariant** : à la fin du tour de boucle i + 1, le tableau contient les i premiers éléments triés en ordre croissant et tous inferieurs ou égaux aux autres éléments du tableau.
+   2. **Initialisation** : pour `i = 0`, on trouve le minimum et on le place à l'indice 0. Il est en tant que minimum plus petit que tout les autres, l'invariant est donc vérifié pour `i = 0`.
+   3. **Hérédité** : Supposont que l'invariant est vrai au tour de boucle i. Vérifions qu'il se conserve au tour i + 1.
 :::
 ### Trie par insertion
 
