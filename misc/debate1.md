@@ -1,0 +1,2 @@
+| Counnter Arguments | "Solutions" |
+| ------------------ | ----------- |
