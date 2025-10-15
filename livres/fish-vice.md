@@ -2,29 +2,142 @@
 title: 🐟 Fish Prospérité du vide
 draft: true
 ---
-### Résumé "La Prospérité du Vice"
+# 📘 Fiche de révision – *La Prospérité du vice* (Daniel Cohen, 2009)
 
-**Introduction :**
-Le livre "La Prospérité du Vice" explore le système économique occidental et ses conséquences, en se demandant pourquoi l'Occident s'est développé plus rapidement que d'autres continents comme la Chine, qui avait pourtant des inventions clés.
+## 📖 Informations générales
+- **Auteur :** Daniel Cohen  
+  Économiste français, professeur à l’ENS, membre du Conseil d’analyse économique.  
+  Spécialiste reconnu de macroéconomie et de la mondialisation. Mort ☠️
+- **Année :** 2009  
+- **Thème central :** Comment l’économie façonne la société et influence le destin des civilisations.  
+- **Problématique :** L’Occident, moteur du progrès et de la croissance, pourrait-il entraîner le monde dans un nouveau "suicide collectif" — écologique ou économique ?
 
-**Pourquoi l'Occident ? :**
-- **L'Empire romain :** La productivité était basée sur l'esclavage, ce qui a conduit à une croissance sans limites mais aussi à la chute de l'Empire.
-- **Le Moyen Âge :** La peur des Vikings et des brigands a conduit à la formation de châteaux et à la protection des seigneurs. Les inventions étaient réservées aux élites.
-- **La machine à vapeur :** Cette partie est en cours de rédaction.
+---
 
-**Prospérité et dépression :**
-- **Les conséquences économiques de la guerre :** La Première Guerre mondiale a laissé l'Europe en ruine et a conduit à la création de la République de Weimar en Allemagne, qui a échoué en raison des sanctions du traité de Versailles et de l'hyperinflation.
-- **La Grande Dépression et ses leçons :** La crise de 1929 a été un point bas pour le capitalisme, et Keynes a théorisé que le capitalisme est instable sans intervention.
-- **Les Trente Glorieuses :** La France a connu une croissance économique rapide, mais cette période a pris fin avec le ralentissement de la croissance américaine.
-- **La fin des solidarités :** L'État-providence a été créé pour lutter contre les conséquences sociales de la crise, mais la baisse de la croissance a rendu difficile le financement des dépenses sociales.
+## 🧩 Introduction
+- Passage de la société **rurale** à la société **industrielle**.
+- Le danger du XXIᵉ siècle : **répétition des erreurs de l’Occident** à l’échelle mondiale.
+- La croissance devient une **drogue collective** : le bonheur dépend du progrès matériel.
+- **Objectif du livre :** comprendre comment l’économie modèle l’histoire humaine et inversement.
 
-**À l'heure de la mondialisation :**
-- **Le retour de l'Inde et de la Chine :** La Chine et l'Inde ont connu une croissance économique rapide grâce à des réformes et à l'ouverture à l'économie mondiale.
-- **La fin de l'histoire et l'Occident :** La théorie de la fin de l'histoire de Fukuyama et la critique de l'Occident par Huntington sont discutées, mais aucune des deux ne semble parfaitement applicable.
+---
 
-**Le krach écologique :**
-- **La planète encombrée :** La consommation excessive et la croissance économique menacent l'environnement, et les États peinent à tenir leurs promesses en matière de changement climatique.
-- **Le krach financier :** La crise financière de 2008 a été causée par des pratiques financières risquées et a conduit à des débats sur la régulation du capitalisme.
+## 🏛️ I. Pourquoi l’Occident ?
 
-**Conclusion :**
-L'humanité a connu des périodes de croissance et de crise, et doit maintenant faire face aux défis de la mondialisation et de la durabilité environnementale.
+### 1. Genèse
+- L’agriculture (10 000 ans av. J.-C.) → explosion démographique → classes oisives (rois, prêtres…).
+- Blocage sous Rome : esclavage et stagnation technologique → frein au progrès.
+
+### 2. Naissance du monde moderne
+- **Renouveau médiéval (XIIᵉ s.)** : productivité agricole, humanisme, curiosité scientifique.
+- Fin du féodalisme : guerres, monnaie, chute démographique → libération des paysans.
+- **XVIIIᵉ siècle :** la bourgeoisie domine grâce à la propriété privée.
+- L’Europe invente un modèle politique inédit : **l’État-nation** → moteur de puissance.
+
+---
+
+## 🌾 II. La loi de Malthus
+- Famine, peste, guerre = régulateurs démographiques.  
+- **Malthus :** la croissance de la population empêche l’enrichissement durable.  
+- Les inégalités seraient "utiles" car elles évitent la surpopulation.  
+- La France devient le premier pays malthusien.  
+- Vision pessimiste : l’homme dominé par des lois naturelles qu’il ne comprend pas.
+
+---
+
+## 🔥 III. Prométhée libéré : la Révolution industrielle
+- Rupture avec Malthus : le progrès technique permet une **croissance soutenue**.  
+- Angleterre : stratégie d’exportation industrielle / importation de ressources.  
+- La science devient la clé du développement.
+
+---
+
+## 📈 IV. La croissance perpétuelle
+- **Smith :** le marché transforme la cupidité individuelle en bien collectif.  
+- **Marx :** le marché est un système d’exploitation du prolétariat.  
+- Le progrès technique devient un **troisième facteur de production** (avec capital et travail).  
+- **Schumpeter :** innovation et destruction créatrice → moteur du capitalisme.
+- **Paradoxe :** concurrence → monopoles → déséquilibres croissants.
+
+---
+
+## ⚔️ V. Prospérité et dépression
+
+### 1. Conséquences de la guerre
+- 1ʳᵉ GM née dans la prospérité.  
+- Weimar : hyperinflation → ruine des classes moyennes → montée du nazisme.
+
+### 2. Crise de 1929
+- Effondrement du système financier et du commerce mondial.
+- **Keynes :** relancer la demande → intervention de l’État nécessaire.
+
+### 3. Trente Glorieuses
+- Croissance massive, tertiarisation, gains de productivité.  
+- Fin du cycle avec le **rattrapage américain**.
+
+### 4. Fin des solidarités
+- État-providence (Bismarck, Beveridge) : protection sociale, retraites par répartition.  
+- Mais dépendance à la croissance → crise dès son ralentissement.  
+- Le bonheur moderne dépend **de la progression du niveau de vie**, non du niveau absolu.
+
+### 5. Guerre et paix
+- **Kondratiev :** guerres plus fréquentes en périodes de prospérité.
+- Croissance → ambitions → tensions internationales.
+
+---
+
+## 🌍 VI. La prospérité du vice à l’heure de la mondialisation
+
+### 1. Retour de l’Inde et de la Chine
+- Chine : retard historique dû à son repli (Mongols, fermeture commerciale).
+- Deng Xiaoping : ouverture au marché, stratégie d’exportations + épargne élevée.
+- Compétition interne des provinces chinoises → rappel de l’Europe du XVIᵉ.
+
+### 2. Fin de l’histoire et Occident
+- Pays faibles : absence d’institutions, de capital humain, et de nation solide.
+- Japon : modèle de réussite (éducation, industrie, cohésion nationale).
+- Rejet de l’Occident dans certains pays (Iran, Turquie, Japon, Allemagne).
+
+### 3. Krach écologique
+- Crise planétaire : réchauffement, raréfaction des ressources, pollution.
+- 1 % du PIB mondial suffirait à enrayer le réchauffement.  
+- De nombreuses civilisations ont disparu pour ne pas avoir anticipé ce type de crise.
+
+### 4. Krach financier
+- Fin du capitalisme keynésien → capitalisme financier (années 1980).  
+- Externalisation, spéculation, titrisation → **crise des subprimes (2008)**.
+- **Greed** (avidité) = symbole d’un capitalisme déconnecté du réel.
+- Débat : libéraux (laisser-faire) vs keynésiens (intervention de l’État).
+
+### 5. Capitalisme immatériel
+- Valeur = information et conception, non production.  
+- Rendements croissants → géants technologiques dominants.  
+- **Star-system** : société inégalitaire mais mimétique (rêve de réussite).  
+- Vers 2050 : transition démographique mondiale (1,85 enfant/femme).  
+- Mondialisation culturelle → diffusion des modèles occidentaux.
+
+---
+
+## 🧭 Conclusion
+- La croissance a sorti l’humanité de la misère mais crée de nouveaux dangers.  
+- Le monde est désormais **clos**, non infini : il faut repenser les limites de la croissance.  
+- La prospérité du vice = progrès né de nos penchants (avidité, compétition) mais potentiellement destructeur.
+
+---
+
+## ✅ Points clés à retenir
+- La croissance est un moteur **psychologique autant qu’économique**.  
+- Le capitalisme repose sur des passions humaines (désir, jalousie, compétition).  
+- L’Occident n’est pas un modèle universel : son histoire est aussi celle de ses **crises**.  
+- Le XXIᵉ siècle devra concilier **progrès, stabilité et durabilité**.
+
+---
+
+## ⭐ Pour la prépa
+- Livre **essentiel** pour comprendre la logique du capitalisme, la mondialisation et les crises.  
+- À connaître pour les sujets d’HGG sur :  
+  - la croissance,  
+  - les inégalités,  
+  - la mondialisation,  
+  - l’histoire économique de l’Occident.  
+- Lecture fluide et utile dès la première année.

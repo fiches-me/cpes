@@ -64,12 +64,6 @@
         "b92058207feb00c9"
       ]
     },
-    "bio/ch3": {
-      "icon": "3️⃣",
-      "unsynced": [
-        "b92058207feb00c9"
-      ]
-    },
     "contribution": {
       "icon": "💖",
       "unsynced": [
@@ -114,12 +108,6 @@
       "unsynced": [
         "b92058207feb00c9",
         "/storage/emulated/0/Obsidian/CPES"
-      ]
-    },
-    "eco/ch3/graphes": {
-      "icon": "lucide-pie-chart",
-      "unsynced": [
-        "b92058207feb00c9"
       ]
     },
     "eco/fish.md": {
@@ -181,6 +169,12 @@
       "icon": "🔢",
       "unsynced": [
         "b92058207feb00c9",
+        "/storage/emulated/0/Obsidian/CPES"
+      ]
+    },
+    "misc": {
+      "icon": "🚧",
+      "unsynced": [
         "/storage/emulated/0/Obsidian/CPES"
       ]
     },
