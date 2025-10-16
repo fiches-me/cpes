@@ -18,3 +18,7 @@
 - Emphasize the fact that we are already in it. Ethics is on the way, critics is pessimistic.
 - Need research, as a geopolitical concern. We can't be behind another time. 
 - Freedom to decide what you can do with your body -> out of physical boundaries.
+
+
+> [!WARNING]
+> Medicine isn't our whole subject. While you can restore capabilities, they will always focus on the newly-created ones.
