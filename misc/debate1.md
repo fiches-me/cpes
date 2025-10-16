@@ -1,3 +1,5 @@
+# Debate 
+
 | Counter Arguments                                      | "Solutions"                                                                                                                                                                                  |
 | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Increase inequalities between rich & poors             | Logical evolution of humanity. Transhumanism would be democratised and accesible from everyone. Such technologies would allow humans to be better. Mandatory on a Geopolitical point of vue. |
