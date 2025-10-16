@@ -50,17 +50,53 @@
         "/storage/emulated/0/Obsidian/CPES"
       ]
     },
-    "bio/ch1": {
+    "bio/A1": {
+      "icon": "🧬",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
+    "bio/A1/ch1": {
+      "icon": "1️⃣",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
+    "bio/A1/ch2": {
+      "icon": "2️⃣",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
+    "bio/A1/images": {
+      "icon": "lucide-image",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
+    "bio/A4": {
+      "icon": "🦴",
+      "unsynced": [
+        "b92058207feb00c9"
+      ]
+    },
+    "bio/A4/ch1": {
       "icon": "1️⃣",
       "unsynced": [
         "b92058207feb00c9",
         "/storage/emulated/0/Obsidian/CPES"
       ]
     },
-    "bio/ch2": {
+    "bio/A4/ch2": {
       "icon": "2️⃣",
       "unsynced": [
         "/storage/emulated/0/Obsidian/CPES",
+        "b92058207feb00c9"
+      ]
+    },
+    "bio/A4/ch3": {
+      "icon": "3️⃣",
+      "unsynced": [
         "b92058207feb00c9"
       ]
     },
@@ -172,6 +208,7 @@
         "/storage/emulated/0/Obsidian/CPES"
       ]
     },
+
     "misc": {
       "icon": "🚧",
       "unsynced": [
@@ -334,6 +371,19 @@
       ],
       "enabled": true,
       "icon": "lucide-image"
+    },
+    {
+      "id": "E4Suu",
+      "name": "> 30 headings",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-file-heart"
     },
     {
       "id": "kY2be",

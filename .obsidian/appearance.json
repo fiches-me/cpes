@@ -2,9 +2,11 @@
   "cssTheme": "primary-2.11.0-beta",
   "accentColor": "#c94949",
   "enabledCssSnippets": [
-    "fonts"
+    "fonts",
+    "colors"
   ],
   "textFontFamily": "Plus Jakarta Sans,Swift3D MFFM Emoji,Inter",
   "nativeMenus": false,
-  "theme": "system"
+  "theme": "system",
+  "monospaceFontFamily": "JetBrains Mono"
 }
