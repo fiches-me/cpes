@@ -9,6 +9,10 @@
 | No energy                                              | Energy is coming directly from your brain (C.F. C2N) as you can't plug in yourself.                                                                                                          |
 | Create inequalities between having such and not having | Not an inequality if it's a real choice. So we need progress to democratize it.                                                                                                              |
 | Risk of going into eugenism                            |                                                                                                                                                                                              |
+| Lost of emotions                                       | Help TDA- Autistic and on related individuals to share their emotions                                                                                                                        |
+| Cost will increase                                     | False, development make cost cheaper                                                                                                                                                         |
+| Serial health risks                                    | Need to research. Why? Medicine                                                                                                                                                              |
+| Polution/Env damage                                    |                                                                                                                                                                                              |
 
 ## Document Study
 
