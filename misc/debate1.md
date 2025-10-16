@@ -13,6 +13,9 @@
 | Cost will increase                                     | False, development make cost cheaper                                                                                                                                                         |
 | Serial health risks                                    | Need to research. Why? Medicine                                                                                                                                                              |
 | Polution/Env damage                                    |                                                                                                                                                                                              |
+| Don't know how brain works                             |                                                                                                                                                                                              |
+| Data/Brain control                                     |                                                                                                                                                                                              |
+| More competition between countries                     | Already here, and not tacking the train in time could be dangerous for us.                                                                                                                   |
 
 ## Document Study
 
