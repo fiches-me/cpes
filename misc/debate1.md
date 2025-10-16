@@ -8,7 +8,7 @@
 | Pollution created by such technologies                 | Already here. And don't need to be *that* ressource-heavy (as it's small). Also, we need research to improve that.                                                                           |
 | No energy                                              | Energy is coming directly from your brain (C.F. C2N) as you can't plug in yourself.                                                                                                          |
 | Create inequalities between having such and not having | Not an inequality if it's a real choice. So we need progress to democratize it.                                                                                                              |
-| Risk of going into eugenism                            | *This one i'm lost*                                                                                                                                                                          |
+| Risk of going into eugenism                            | *This one i'm lost :(*                                                                                                                                                                       |
 | Lost of emotions                                       | Help TDA- Autistic and on related individuals to share their emotions                                                                                                                        |
 | Cost will increase                                     | False, development make cost cheaper                                                                                                                                                         |
 | Serial health risks                                    | Need to research. Why? Medicine                                                                                                                                                              |
@@ -25,6 +25,11 @@
 - Emphasize the fact that we are already in it. Ethics is on the way, critics is pessimistic.
 - Need research, as a geopolitical concern. We can't be behind another time. 
 - Freedom to decide what you can do with your body -> out of physical boundaries.
+- Logical step in human evolution
+- Health issues *obws*
+- Research should be done to make guidance possible
+
+###### -> **The key is not only to raise problems, but to find concrete, ethical and safe solutions trough research**
 
 
 > [!WARNING]
