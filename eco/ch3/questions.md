@@ -1,5 +1,6 @@
 ---
 draft: true
+title: 📚 Questions
 ---
 ## Document 3
 1. Firm’s sales revenue minus the firm’s purchases, *something out of the cost*.

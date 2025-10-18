@@ -1,3 +1,6 @@
+---
+title: "🎭 Debate: Transhumanism"
+---
 # Debate 
 
 ## Counter-Counter Arguments

@@ -1,5 +1,5 @@
 ---
-title: Vocab
+title: 📚 Vocab
 draft: true
 ---
 - Economics: science économique
