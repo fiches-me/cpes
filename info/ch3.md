@@ -90,4 +90,7 @@ On y accède alors avec `T[i][j]`, où *i* est la la ligne et *j* la colonne.
 > [!BUG] Pythonerie
 > En python, il est possible de créer des tableaux en deux dimensions avec des sous tableaux de taille différente, comme `T = [[1], 2, 3[], [4, 5]]`. Nous éviterons au maximum leurs utilisations.
 
-L'oppérateur **+** sur les tableaux concatène les tableaux. `[0] + [1]` =  `[0, 1]`.
+L'opérateur **+** sur les tableaux concatène les tableaux. `[0] + [1]` =  `[0, 1]`.
+
+> [!WARNING]
+> Un tableau n × m est différent d'un tableur m × n !

@@ -92,21 +92,55 @@ def trie_selection(tab):
 #### Correction
 - **Terminaison** : la fonction contient 2 seule boucle bornées. La première est sur la longeur du tableau et sur i. Aucun n'est modifié dans la boucle. La deuxième est aussi sur la longeur du tableau et sur j. Aucun des deux n'est modifié dans la boucle. La fonction va donc se terminer.
 - **Correction Partielle** :
-   1. **Invariant** : à la fin du tour de boucle i + 1, le tableau contient les i premiers éléments triés en ordre croissant et tous inferieurs ou égaux aux autres éléments du tableau.
-   2. **Initialisation** : pour `i = 0`, on trouve le minimum et on le place à l'indice 0. Il est en tant que minimum plus petit que tout les autres, l'invariant est donc vérifié pour `i = 0`.
-   3. **Hérédité** : Supposont que l'invariant est vrai au tour de boucle i. Vérifions qu'il se conserve au tour i + 1.
+    1. **Invariant** : à la fin du tour de boucle i + 1, le tableau contient les i premiers éléments triés en ordre croissant et tous inferieurs ou égaux aux autres éléments du tableau.
+    2. **Initialisation** : pour `i = 0`, on trouve le minimum et on le place à l'indice 0. Il est en tant que minimum plus petit que tout les autres, l'invariant est donc vérifié pour `i = 0`.
+    3. **Hérédité** : Supposons que l'invariant est vrai au tour de boucle i. Vérifions qu'il se conserve au tour i + 1. Au tour de boucle i + 1, on trouve le minimum parmi les éléments de l'indice i + 1 à la fin de la liste. D'après l'invariant, ce minimum est plus grand ou égal à tout les i + 1 premiers éléments du tableau. En plaçant cet élément à l'indice i + 1, les i + *2* éléments de la liste sont triés en ordre croissant. Comme cet élément est le minimum de la partie à trier, l'entièreté de l’invariant est donc vérifié au rang i + 1.
+    4. **Conclusion** : l'invariant est vérifié en début de boucle et se maintient. Il est donc vrai en fin de boucle.
 :::
 ### Trie par insertion
 
 ::: code-group
 
 ```pseudo-code [Pseudo-Code]
-a <- 1
+Fonction trie_insertion(T):
+   Pour i allant de 1 à longeur de T - 1:
+      v <- T[i]
+      j <- i
+      Tant Que j > 0 et T[j-1] > v:
+         T[j] <- T[j - 1]
+         j = j - 1
+      Fin tant que
+      T[j] <- v
+    Fin pour
+    Renvoyer T
 ```
 
 ```python [Python]
-a = 1
+def trie_instertion(tab: list) -> list:
+   for k in range(1, len(k) - 1):
+      cle = tab[k]
+      indice = k - 1
+      while indice >= 0 and T[indice] > cle:
+         T[indice + 1] =  T[indice]
+         indice -= 1
+      tab[indice + 1] = cle
+   return tab
 ```
 
 :::
+
+#### Correction
+- **Terminaison** : la boucle pour est sur la longueur du tableau T et un indice i. Aucun des deux n'est modifié dans la boucle, elle se termine donc. Pour la boucle tant que :
+	- **Variant** : j-1
+	- j - 1 positif car j strictement positif sinon on entre pas dans la boucle
+	- j est décrémenté donc j - 1 est décroissant
+	- j - 1 atteins 0 et on sort donc de la boucle *si ce n'était pas déjà fait*.
+- **Correction Partielle** :
+    1. **Invariant** : à la fin du tour de boucle i, les i + 1 éléments du tableau sont triés en ordre croissant *et n'ont pas été modifiés*.
+    2. **Initialisation** : pour `i = 1` (au premier tour de boucle), si le deuxième élément est plus petit que le premier, alors on rentre dans la boucle j (while) et on échange les éléments. Sinon, on ne les échanges pas, mais ils sont déjà triés par ordre croissant. Dans les deux cas, les i + 1 éléments du tableau sont triés en ordre croissant et sans modifications. L'invariant est donc vérifié pour `i = 0`.
+    3. **Hérédité** : Supposons que l'invariant est vrai au tour de boucle i. Vérifions qu'il se conserve au tour i + 1. Les i premiers éléments sont rangés en ordre croissant. Grâce à la boucle `while`, on range l'élément `T[i + 1]` tel que l'ordre croissant soit respecté.  
+    4. **Conclusion** : l'invariant est vérifié en début de boucle et se maintient. Il est donc vrai en fin de boucle.
+
+> [!NOTE]
+> Les tris suivants sont des tries avec *effets de bords* : le tableau donné dans la fonction est **directement modifié**, donc il n'est pas nécessaire d'utiliser l'objet en `return` pour le récupérer trié.
 ### Dichotomie
