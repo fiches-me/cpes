@@ -44,5 +44,6 @@
     "landscape": false,
     "margin": "2",
     "downscalePercent": 80
-  }
+  },
+  "readableLineLength": true
 }

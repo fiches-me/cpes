@@ -5,7 +5,7 @@ draft: true
 
 # 🐟 Fish Santé
 
-## Échanges d'énergies avec l'environnement 
+## 🧊 Échanges d'énergies avec l'environnement 
 
 Il existe un grand nombre d'organismes vivant différents : bactéries, champignons, animaux, végétaux.
 
@@ -26,7 +26,7 @@ L'être humain a besoin de 3 principaux nutriments :
 Le système digestif mesure, de la bouche au côlon, environ **7 à 8 mètres**.  Il est composé de :  
 - **La bouche** : mastication, mélange avec la salive (enzymes comme l’amylase salivaire)  
 - **L’œsophage** : transport des aliments par mouvements péristaltiques  
-- **L’estomac** : brassage, sécrétion d’acide chlorhydrique et de pepsine (début de la digestion des protéines)  
+- **L’estomac** : brassage, sécrétion d’acide chlorhydrique et de pepsine (début de la digestion des protéines). *Aucune absorption de nutriments.*
 - **L’intestin grêle (≈6 m)** : lieu principal de digestion et d’absorption  
   - **Foie** : produit la bile (digestion des lipides)  
   - **Vésicule biliaire** : stocke la bile  
@@ -60,7 +60,7 @@ Phospholipides, cholestérols et protéines seront dissous dans l'eau du Surfact
 
 Deux reins de ~ 10cm filtrent le sang et fabriquent l'urine. Ils sont reliés à deux conduits, l'Uretère, qui stockent l'urine dans la vessie avant de se déverser dans l’urètre. Chaque rein possède une envelope externe, le **cortex rénale**. Le sang chargé en urée arrive par l'artère rénale et repart dans la veine rénale. Le cortex rénale est composé de **néphrons** qui filtrent le sang.1600L de sang passent chaque jour dans les deux reins : c'est **300 fois** le volume total de sang dans le corps. On obtient 180L de filtrat initial, où nous récupérerons les glucides/lipides/protides pour arriver à un final de **1,5L d'urine**.
 
-## Reproduction des êtres humains
+## 💞 Reproduction des êtres humains
 
 > [!TIP] Fun Fact
 > **Un vrai sosie n'existe pas !** La probabilité d'obtenir un sosie génétique est de $10^14$  soit 100 000 000 000 000.
@@ -73,35 +73,10 @@ Le testicule contient des milliers de **tubes séminifères** (production de gam
 
 Les ovaires produisent aussi les gametes et les hormones. Cependant, l'organe génital féminin permet également d'acceuilr le fœtus. C'est un organe pair, *comme les testicules chez l'homme*, mais possède uniquement quelques millions de follicules
 
-## 📋 Documents
+### Naissance et alimentation lactée du bébé
+L'accouchement est possible grace aux contractions de l'utérus sous contrôle hormonal (ocytocine). Jusqu'à maintenant, on pensait que les hormones étaient produisent directement par la mère, mais il est possible que le bébé produisent également des hormones.
+ Le placenta doit être expulsé pour éviter de futurs infections
+ Les contractions forme une boucle de rétrocontrôle positive, les contractions produisent des hormones qui elles même alimentent les contractions.
 
-### Doc 1
-
-On doit réformer notre système de santé qui n'a pas su s'adapter aux nouveaux défits de notre génération.
-
-- Transition démographique : vieillissement rapide de la population (baby-boomers, dépendance future).
-- Transition épidémiologique : passage des maladies aiguës aux maladies chroniques (80 % des décès en France).
-- Transition technologique : big data, IA, génomique, e-santé… → potentiel immense mais mal exploité, créant un paradoxe entre innovations et conditions de travail dégradées des soignants.
-
-Globalement, l'efficacité, le budget, la gouvernance (bureaucratie) et la confiance en notre système de santé est au plus bas. Pour y palier, l'auteur propose 3 évolutions stratégiques :
-
-- passer d’un système centré sur le soin à un système centré sur la santé globale ;
-- passer d’un pilotage basé sur l’offre à un pilotage basé sur les besoins ;
-- passer d’un étatisme centralisé à une démocratie sanitaire et sociale.
-
-Il faut considérer la santé comme **un levier de valeur** (10,5 % du PIB, 2,2 M d’emplois, soft-power)
-
-### Doc 2
-
-Globalement nos données de santés sont hébergés chez Microsoft et c'est pas bien. Fun fact : Doctolib fait pareil avec AWS. Cet atricle tourne autour des enjeux de ces données médicales. Les corps et les maladies ont été de plus en plus saisis sous forme de données – codées, quantifiées, classées – et cela a transformé la relation entre patient·es, soignant·es, institutions et industries.
-
-### Vidéo sur le Vivant
-
-Définition du vivant
-
-1. Le vivant se développe  
-2. Il se maintient  
-3. Il se reproduit  
-4. Selon l'expression de son patrimoine génétique  
-5. Grâce à un apport permanent en énergie  
-6. Le vivant évolue  
+Comme tout les mammifères, nous avons tous des glandes mammaires. Les alvéoles ne se remplissent uniquement après l’accouchement mais après la naissance, avec la diminution brutale d'œstrogène dans le sang de la mère. *Les vaches doivent donner naissance à un veau par an pour permettre la production de lait.*  La succion du bébé va enclencher la production d'hormones qui va induire la production de lait, tel que la prolactine et l'ocytocine. Le lait de la mère contient ses propres anticorps; pour en fournir au nouveau née.
+## L'homme perçoit son environnement et y réagit
