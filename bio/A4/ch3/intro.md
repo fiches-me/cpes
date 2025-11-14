@@ -4,4 +4,4 @@ order: 0
 ---
 
 # Intro
-On a parlé dans le premier chapitre de ce qui nous diffère des autres animaux : nous sommes des êtres sociaux, caractéristiques uniquement humaines.  
+Dans le premier chapitre, on a étudié ce qui nous distingue des autres animaux : nous sommes des êtres sociaux, avec des caractéristiques comportementales et culturelles propres.

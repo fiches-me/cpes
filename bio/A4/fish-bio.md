@@ -69,6 +69,8 @@ Toutes nos cellules actuelles possèdent le même patrimoine génétique qu'une 
 
 ### Les appareils génitaux
 
+Les organes en charge du développement de gamètes s'appellent gonades.
+
 Le testicule contient des milliers de **tubes séminifères** (production de gamètes, spermatozoïdes) et de cellules interstitielles (production d'hormones). Les testicules doivent être à l’extérieur car les spermatozoïdes doivent êtres développés à une certaine température. Le spermatozoïde possède un petit chitoplasme (comparé à son noyau) qui rend son espérance de vie limité. Le sperme contient du glucose pour permettre au métabolisme des spermatozoïdes de survivre.
 
 Les ovaires produisent aussi les gametes et les hormones. Cependant, l'organe génital féminin permet également d'acceuilr le fœtus. C'est un organe pair, *comme les testicules chez l'homme*, mais possède uniquement quelques millions de follicules
