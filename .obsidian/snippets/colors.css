@@ -1,3 +1,8 @@
 .red-underline {
   text-decoration-color: var(--color-l-red-30);
 }
+
+.wrong-underline {
+  text-decoration-color: var(--color-l-red-30);
+  text-decoration-style: wavy;
+}
