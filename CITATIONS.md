@@ -4,6 +4,9 @@
 > [!QUOTE] Pépite
 > (Dans une petite salle de travaille) C'est plus pratique pour les agressions sexuelles
 
+## Raphaël 
+Les gens ont peur des communistes et de jean Luc melanchon 
+
 # Profs
 ## Gras-Sayerle
 - Je l'écrirais l'an prochain
@@ -15,5 +18,3 @@ Doc 2
 2. 2
 3. Le taux de c chill de pas posséder de monnaie
 4. Oui mais pas "suivre bêtement les économistes"
-## Raphaël 
-Les gens ont peur des communistes et de jean Luc melanchon 
