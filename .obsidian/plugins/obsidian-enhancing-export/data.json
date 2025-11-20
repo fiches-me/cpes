@@ -16,7 +16,8 @@
       "name": "Typst"
     },
     {
-      "name": "PDF"
+      "name": "PDF",
+      "customArguments": "--pdf-engine=xelatex"
     },
     {
       "name": "Word (.docx)"
@@ -56,5 +57,6 @@
   "openExportedFile": true,
   "env": {},
   "showExportProgressBar": true,
-  "lastEditName": "Latex"
+  "lastEditName": "PDF",
+  "openExportedFileLocation": true
 }
