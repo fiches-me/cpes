@@ -8,7 +8,7 @@ tags:
 
 # 🪤 Base Algorithmi<u>que</u>
 
-*Et pas Algorithm<u><i>ie</i></u>, ça veux rien dire.*
+*Et pas Algorithm<u><i>ie</i></u>, ça ne veux rien dire.*
 
 ## Introduction
 

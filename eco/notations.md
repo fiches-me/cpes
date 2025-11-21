@@ -17,4 +17,6 @@ order: 1
 - $\gamma$ = Production
 - $S$ = Épargne (origine: X)
 - $I$ = Investissement
-- $R$ = Real interest rate
+- $R$ = 
+- $i$ = Nominal interest rate
+- $r$ = Real interest rate

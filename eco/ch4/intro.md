@@ -1,5 +1,6 @@
 ---
 order: 0
+title: 📘 Introduction
 ---
 # Introduction
 John Maynard Keynes is a fellow British Cambridge economist. Nowadays, he is considered as the father of the macro-economy. He never used the term of neoclassical and consider them of "just" classics.
