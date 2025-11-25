@@ -14,6 +14,7 @@ Et hop elle te fait un bisous avec ces fesses
 ## Javier
 Je suis comme un processeur qui est en train de throtle
 
+L'ADN c'est un low-language
 ## Raphaël 
 Les gens ont peur des communistes et de jean Luc melanchon 
 
@@ -27,3 +28,4 @@ J'étais en mode chill avec un couteau
 
 ## Ondrejko
 - Il faut m’arrêter sinon je galope
+- ...avec mes fichiers de dinosaures
