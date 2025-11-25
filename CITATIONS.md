@@ -29,3 +29,6 @@ J'étais en mode chill avec un couteau
 ## Ondrejko
 - Il faut m’arrêter sinon je galope
 - ...avec mes fichiers de dinosaures
+
+## Écoute
+Je me suis fait viré du grec en 3em
