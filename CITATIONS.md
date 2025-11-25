@@ -24,3 +24,6 @@ J'étais en mode chill avec un couteau
 - Je l'écrirais l'an prochain
 - C'est un néophyte Marcel
 - (en parlant à Maxense) Mais oui bebou
+
+## Ondrejko
+- Il faut m’arrêter sinon je galope
