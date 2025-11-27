@@ -9,12 +9,14 @@ Maylys qui montre ses biceps : "Ouech remontre !"
 On se lave les oreilles comme on se lave le cul
 
 ## Maylys
-Et hop elle te fait un bisous avec ces fesses
+Et hop elle te fait un bisous avec ses fesses
 
 ## Javier
 Je suis comme un processeur qui est en train de throtle
 
 L'ADN c'est un low-language
+
+La viande hachée te hache
 ## Raphaël 
 Les gens ont peur des communistes et de jean Luc melanchon 
 
@@ -30,5 +32,5 @@ J'étais en mode chill avec un couteau
 - Il faut m’arrêter sinon je galope
 - ...avec mes fichiers de dinosaures
 
-## Écoute
+## Eco
 Je me suis fait viré du grec en 3em
