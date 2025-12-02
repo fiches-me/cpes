@@ -1,6 +1,7 @@
 ---
 order: 4
 title: 📌 Conclusion
+finished: true
 ---
 
 # Conclusion
