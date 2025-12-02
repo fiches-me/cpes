@@ -34,3 +34,5 @@ J'étais en mode chill avec un couteau
 
 ## Eco
 Je me suis fait viré du grec en 3em
+
+Le cul de Tobin est un ratio
