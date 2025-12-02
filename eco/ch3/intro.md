@@ -7,23 +7,23 @@ finished: true
 # 📘 Introduction
 
 > [!TIP] English in sight !
-> This class is in English (as the flag may indicate). All the courses and fishes will also be in english.
+> This class is in English. All the courses and notes will also be in English.
 
-Economics try to understand how wealth is distributed.  It need simplifications, that's where models come in. Three approaches with a justification for modeling:
+Economics tries to understand how wealth is distributed. It needs simplifications, that's where models come in. There are three approaches with a justification for modeling:
 
-- **Inductive reasoning** : large empirical datas to build laws
-- **Deductive reasoning** : build laws to create empirical datas
-- **Constructivism** : scientific knowledge is always an interpretation of reality, which mean that no static truth exists (like [Montaigne's doubt](https://kerna.fiches.me/philo/ch1/g2)). No model can never fully reflect reality.
+- **Inductive reasoning**: Using large empirical data to build laws.
+- **Deductive reasoning**: Building laws to create empirical data (or predictions).
+- **Constructivism**: Scientific knowledge is always an interpretation of reality. No model can fully reflect reality (similar to [Montaigne's doubt](https://kerna.fiches.me/philo/ch1/g2)).
 
-Neoclassicals have a more deductive approach. Heterodoxes are more on inductives reasoning.
+Neoclassicals have a more deductive approach. Heterodox economists rely more on inductive reasoning.
 
-Here is an example of a simple economic model (jittery because of fiches.me's code).
+Here is an example of a simple economic model:
 
 ```mermaid
 xychart-beta
-    title "Demande vs Offre"
-    x-axis [1,2, 3, 4, 5]
-    y-axis "Valeurs" 0 --> 15
-    line "Demande" [1, 2, 5, 8, 13]
-    line "Offre" [13, 8, 5, 2, 1]
+    title "Supply vs Demand"
+    x-axis [1, 2, 3, 4, 5]
+    y-axis "Price" 0 --> 15
+    line "Demand" [13, 8, 5, 2, 1]
+    line "Supply" [1, 2, 5, 8, 13]
 ```

@@ -20,9 +20,9 @@ L'**homéostasie** est la capacité de l'organisme à maintenir son milieu inté
 ### Nutrition et Digestion
 
 L'être humain a besoin de 3 principaux macronutriments :
-- **Lipides** (≈30%) : Énergie de réserve, structure des membranes, hormones. Voir [Lipides](../../A1/ch1/g2.md).
-- **Glucides** (≈55%) : Principale source d’énergie immédiate. Voir [Glucides](../../A1/ch1/g3.md).
-- **Protéines** (≈15%) : Structure et fonctionnement cellulaire (enzymes). Voir [Protéines](../../A1/ch1/g4.md).
+- **Lipides** (≈30%) : Énergie de réserve, structure des membranes, hormones. Voir [Lipides](../A1/ch1/g2.md).
+- **Glucides** (≈55%) : Principale source d’énergie immédiate. Voir [Glucides](../A1/ch1/g3.md).
+- **Protéines** (≈15%) : Structure et fonctionnement cellulaire (enzymes). Voir [Protéines](../A1/ch1/g4.md).
 
 Le système digestif assure la transformation des aliments en nutriments assimilables :
 1. **Bouche** : Digestion mécanique (mastication) et chimique (amylase salivaire).

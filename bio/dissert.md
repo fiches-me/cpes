@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Une dissertation scientifique possède des arguments : il n'est pas possible de faire une thèse - antithèse. Globalement, dans une dissertation, notre avis n'est pas intéressant, 
 
 La structure de la dissertation reste la même : Introduction, Développement, Conclusion. Contrairement à une étude de doc, il faut expliciter le sujet et créer la problématique, donc ~ 1 page. 

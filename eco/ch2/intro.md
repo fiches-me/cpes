@@ -8,8 +8,8 @@ tags:
 
 # 📘 Introduction
 
-Le néoclassicisme va vouloir poursuivre le travail des classiques et essayer de rendre l'économie politique une science.
+Le **Néoclassicisme** (fin XIXe) entend poursuivre le travail des Classiques tout en transformant l'Économie Politique en une véritable **Science Économique**.
 
-Le paradigme néoclassique va introduire la formalisation mathématique poussé dans l'économie. L'enjeu va être de construire une science objective, donc contre l'aspect normatif, de la tradition éthique. On cherche à **construire** une science économique et **rejeter** une économie politique.
+Le paradigme néoclassique introduit la **formalisation mathématique poussée** (marginalisme). L'enjeu est de construire une science objective, débarrassée de l'aspect normatif et moral.
 
-**Que reprennent-ils ? Que rejettent ils ? Quelles sont les conséquences ? Les fondements et la révolution qui s'y associe ?**
+**Que reprennent-ils ? Que rejettent-ils ? Quelles sont les conséquences de cette révolution ?**

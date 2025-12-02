@@ -3,50 +3,57 @@ title: "💸 Economie : Introduction"
 finished: true
 ---
 
-# Qu'est ce que l'Economie ?
+# Qu'est-ce que l'Économie ?
 
 ## Analyse Épistémologique
 
-Effectuons un peu d'**Épistémologie** (science des science). Nous nous baserons sur 3 citations :
+L'épistémologie est l'étude critique des sciences, de leur formation et de leurs conditions de validité. Nous nous baserons sur trois définitions classiques pour cerner l'objet de la science économique.
 
-### Lionel Robbins
+### 1. Lionel Robbins (1932)
 
-> « la science qui étudie le comportement humain comme une relation entre des fins et des moyens rares à usages alternatifs »
+> « L'économie est la science qui étudie le comportement humain comme une relation entre des fins et des moyens rares à usages alternatifs. »
 
-➡ Définition de l'**Objet** de la science économique : la relation entre les fins & les moyens
+➡ **Objet** : La gestion de la **rareté**. L'économie est la science des choix sous contrainte.
 
-### Paul Samuelson
+### 2. Paul Samuelson (1948)
 
-> « la manière dont les sociétés utilisent les ressources rares pour produire des marchandises ayant une valeur et pour les répartir entre une multitude d’individus »
+> « L'économie est l'étude de la manière dont les sociétés utilisent des ressources rares pour produire des marchandises ayant une valeur et pour les répartir entre une multitude d’individus. »
 
-➡ Ajoute à la définition de Robbins **la valeur**, **la répartition** et **la production**.
+➡ **Ajouts** : Notions de **Production**, **Valeur** et **Répartition**.
+*   **Microéconomie** : Comportement des agents individuels (ménages, entreprises).
+*   **Macroéconomie** : Étude des agrégats économiques à l'échelle nationale ou mondiale (État, inflation, chômage).
 
-*Qui produit ?* Quand c'est les entreprises, on fera des analyses *microéconomiques*. À l'échelle de l'État, c'est de la **macroéconomie**.
+### 3. Edmond Malinvaud (1975)
 
-### Edmon Malinvaud
+> « L'économie est la science qui étudie comment des ressources rares sont employées pour la satisfaction des besoins des hommes vivant en société ; elle s’intéresse, d’une part, aux opérations essentielles que sont la production, la distribution et la consommation des biens, d’autre part, aux institutions et aux activités ayant pour objet de faciliter ces opérations. »
 
-> « l’économie est la science qui étudie comment des ressources rares sont employées pour la satisfaction des besoins des hommes vivant en société ; elle s’intéresse, d’une part, aux opérations essentielles que sont la production, la distribution et la consommation des biens, d’autre part, aux institutions et aux activités ayant pour objet de faciliter ces opérations »
+➡ **Ajouts** : **Consommation**, **Distribution** et rôle des **Institutions**.
 
-➡  Ajoute à la définition la **distribution**, la **consommation** et les **institutions** qui organisent le tout.
+---
 
-### Méthode
+## Méthode : Comment faire de l'économie ?
 
-Maintenant que nous avons l'objet de la science économique, *il nous faut la méthode*. Il existe 2 grandes façon, qui font toujours débat aujourd'hui.
+Il existe deux grandes approches méthodologiques qui s'opposent souvent :
 
-#### Courant dit *Historique*
+### L'Approche Historique (Inductive)
+Représentée par des économistes comme Pierre Cahuc.
+*   **Méthode** : Observation des faits historiques et empiriques pour en tirer des lois générales.
+*   **Critique des modèles** : Rejet des modèles mathématiques abstraits jugés trop éloignés de la réalité complexe.
 
-Pierre Cahuc est un économique historique. Il utilise les observations pour former ses théories. Il ne réalise absolument pas de modèles, car ils s’éloignent trop de la réalité.
+### L'Approche Hypothético-Déductive (Marginaliste)
+Représentée par des économistes comme Dani Rodrik.
+*   **Méthode** : Construction de modèles théoriques simplifiés (mathématiques) pour isoler des mécanismes et faire des prédictions.
+*   **Défense des modèles** : Même imparfaits, les modèles sont des outils nécessaires pour comprendre des mécanismes spécifiques.
 
-#### Courant dit *Marginaliste*
+> [!QUOTE] Dani Rodrik (2017)
+> « Chaque modèle est comparable à une pièce de puzzle qui révèle un fragment du tableau. Pris ensemble, les modèles des économistes sont notre meilleur guide cognitif pour parcourir par monts et par vaux l’expérience sociale. »
+> — *Peut-on faire confiance aux économistes ?*
 
-Dani Rodrik (2017) est quand à lui un économiste marginaliste, qui utilise les modèles, même si ils ne sont pas parfaits, car ils permettent d'obtenir des résultats concrets. Dans son livre <u>Peut-on faire confiance aux économistes ?</u>, il dit :
+## Les 10 commandements de l'économiste (selon Rodrik)
 
-> [!QUOTE]
-> Chaque modèle est comparable à une pièce de puzzle qui révèle un fragment du tableau. Pris ensemble, les modèles des économistes sont notre meilleur guide cognitif pour parcourir par monts et par vaux l’expérience sociale. 
+Dani Rodrik propose des règles pour une pratique humble et rigoureuse de l'économie, mettant en garde contre l'application aveugle des modèles.
 
-## Les 10 commandements
-
- Dani Rodrik met en garde les non économistes et les économistes avec ces 10 commandements
+Voir aussi : [Introduction à la méthode](../../eco/methodo.md)
 
 | **Dix commandements pour les non-économistes**                                                                                                                                         | **Dix commandements pour les économistes**                                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

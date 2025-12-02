@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 ## Remarques Générales
 
 Le but d'une étude de doc est au dela de lire des documents. Il faut les **décrire** et les **interpréter**. 
