@@ -3,51 +3,51 @@ title: 🐟 Fish Santé
 draft: true
 ---
 
-# 🐟 Fish Santé
+# 🐟 Fiche de Révision : Physiologie Humaine
 
-## 🧊 Échanges d'énergies avec l'environnement 
+## 🧊 Échanges d'énergie et de matière
 
-Il existe un grand nombre d'organismes vivant différents : bactéries, champignons, animaux, végétaux.
+Les organismes vivants sont classés selon leur source de carbone :
+- **Hétérotrophes** : Consomment de la **matière organique** (animaux, champignons, nombreuses bactéries).
+- **Autotrophes** : Produisent leur matière organique à partir de **matière minérale** (végétaux chlorophylliens).
 
-**hétérotrophes** ➡️ **matière organique** (animaux, bactéries)
-**autotrophes** ➡️ **matière minérale**
+### Homéostasie
 
-Les êtres vivant doivent rester dans un certain équilibre que l'on appelle **homéostasie**. Des choses tel que la température du corps, l'acidité (ph), le taux de glucide dans le sang doivent être maintenus à certaines valeurs.
+L'**homéostasie** est la capacité de l'organisme à maintenir son milieu intérieur stable (température, pH, glycémie) malgré les variations extérieures.
+- **Milieu intérieur** : Liquides extracellulaires (sang, lymphe, liquide interstitiel) dans lesquels baignent les cellules.
+- **Milieu extérieur** : Tout espace en communication directe avec l'extérieur (lumière du tube digestif, voies respiratoires).
 
-On appelle **milieu intérieur** tout espace situé *dans* le corps mais relié d’une certaine manière à l’extérieur (ex. : poumons, estomac). S’il n’existe aucune connexion avec l’extérieur, on parle alors de **milieu interne** (ex. : sang).
+### Nutrition et Digestion
 
-### Echanges de Matière Organique (M.O.)
+L'être humain a besoin de 3 principaux macronutriments :
+- **Lipides** (≈30%) : Énergie de réserve, structure des membranes, hormones. Voir [Lipides](../../A1/ch1/g2.md).
+- **Glucides** (≈55%) : Principale source d’énergie immédiate. Voir [Glucides](../../A1/ch1/g3.md).
+- **Protéines** (≈15%) : Structure et fonctionnement cellulaire (enzymes). Voir [Protéines](../../A1/ch1/g4.md).
 
-L'être humain a besoin de 3 principaux nutriments :  
-- **Lipides** (≈30%) → énergie de réserve, constitution des membranes, hormones 
-- **Glucides** (≈55%) → principale source d’énergie  
-- **Protéines** (≈15%) → construction et renouvellement des cellules  
+Le système digestif assure la transformation des aliments en nutriments assimilables :
+1. **Bouche** : Digestion mécanique (mastication) et chimique (amylase salivaire).
+2. **Estomac** : Brassage acide (HCl) et digestion des protéines (pepsine).
+3. **Intestin grêle** : Lieu principal de la digestion et de l'**absorption**.
+    - Reçoit la **bile** (foie/vésicule biliaire) pour émulsionner les graisses.
+    - Reçoit le **suc pancréatique** (pancréas) contenant des enzymes digestives.
+    - La surface d'absorption est augmentée par les **villosités** et **microvillosités**.
+4. **Gros intestin** : Réabsorption d'eau, microbiote, formation des fèces.
 
-Le système digestif mesure, de la bouche au côlon, environ **7 à 8 mètres**.  Il est composé de :  
-- **La bouche** : mastication, mélange avec la salive (enzymes comme l’amylase salivaire)  
-- **L’œsophage** : transport des aliments par mouvements péristaltiques  
-- **L’estomac** : brassage, sécrétion d’acide chlorhydrique et de pepsine (début de la digestion des protéines). *Aucune absorption de nutriments.*
-- **L’intestin grêle (≈6 m)** : lieu principal de digestion et d’absorption  
-  - **Foie** : produit la bile (digestion des lipides)  
-  - **Vésicule biliaire** : stocke la bile  
-  - **Pancréas** : sécrète les sucs pancréatiques (enzymes qui digèrent lipides, glucides et protéines)  
-- **Le gros intestin (≈1,5 m)** : réabsorption de l’eau, fermentation bactérienne, formation des matières fécales  
+> [!NOTE] Microbiote
+> Le microbiote intestinal participe à la digestion des fibres, produit des vitamines (K, B12) et protège contre les pathogènes.
 
-- La digestion humaine réabsorbe une grande quantité d’eau (**≈7 L**). Même si ce chiffre paraît élevé, il permet d’éviter la déshydratation, puisque nous n’absorbons en moyenne que **1 à 2 L d’eau** par la boisson et l’alimentation.  
-- Le rôle du **microbiote intestinal** est essentiel : il participe à la digestion de certaines fibres, produit des vitamines (K, B12), et protège contre les microbes pathogènes.  Il permet 99,97% de la digestion !
-- Les **villosités intestinales** et les **microvillosités** de l’intestin grêle permettent d’augmenter considérablement la surface d’absorption (surface équivalente à un terrain de tennis !).  Elles assurent le passage des nutriments (glucose, acides aminés, acides gras, eau, vitamines, sels minéraux) dans le sang et la lymphe.
+### Échanges gazeux (Respiration)
 
-### Echanges gazeux
+Les échanges gazeux suivent la **Loi de Fick** qui détermine le flux de diffusion ($F$) :
 
-L'échange gazeux avec l'environnement doit être le plus efficace possible. Pour le déterminer, on utilise la **loi de Fick** :
+$$F = \frac{K \times S \times \Delta P}{E}$$
 
-$$F = \frac{K × S × |P_2 - P_1|}{E}$$
+Pour maximiser les échanges :
+- **Surface ($S$)** : Maximisée (≈ 90 $m^2$ grâce aux alvéoles pulmonaires).
+- **Épaisseur ($E$)** : Minimisée (barrière alvéolo-capillaire très fine).
+- **Différence de pression ($\Delta P$)** : Maintenue par la ventilation et la circulation sanguine.
 
-La Surface $S$ doit être la plus grande possible, et l’épaisseur $E$ la plus petite. $E$ vaux 0,2 à 0,6 et $S$ = 90 $m^2$. La concentration en oxygène est plus élevé dans les poumons que dans le sang puis dans les globules rouges que dans les organes pour faciliter <u style="">l'incorporation</u> de l'oxygène.
-
-Une concentration trop grande de $CO_2$ entraîne la formation de $HCO_3$  qui acidifie le corps humain, ce qui ralentie et oxide l'organisme.  **La différence de pression favorise le transfert du $CO_2 / O_2$.
-
-L'air pénètre par les narines, où les poils filtrent l'air qui passe. Les grosses particules de poussière/pollution sont bloquées.
+L'oxygène ($O_2$) diffuse des alvéoles vers le sang. Le dioxyde de carbone ($CO_2$) diffuse du sang vers les alvéoles pour être éliminé. Une accumulation de $CO_2$ acidifie le sang (baisse du pH).
 
 Les **alvéoles** sont les espaces principaux de transmissions de l'air vers le sang. 
 La **bronchiole terminale** est la fin des tuyaux de ramifications. Il se finit par le **sac alvéolaires**. Toute ces ramifications forment la surface d'échange (spolier : elle est grande).  
@@ -76,9 +76,11 @@ Le testicule contient des milliers de **tubes séminifères** (production de gam
 Les ovaires produisent aussi les gametes et les hormones. Cependant, l'organe génital féminin permet également d'acceuilr le fœtus. C'est un organe pair, *comme les testicules chez l'homme*, mais possède uniquement quelques millions de follicules
 
 ### Naissance et alimentation lactée du bébé
+
 L'accouchement est possible grace aux contractions de l'utérus sous contrôle hormonal (ocytocine). Jusqu'à maintenant, on pensait que les hormones étaient produisent directement par la mère, mais il est possible que le bébé produisent également des hormones.
  Le placenta doit être expulsé pour éviter de futurs infections
  Les contractions forme une boucle de rétrocontrôle positive, les contractions produisent des hormones qui elles même alimentent les contractions.
 
 Comme tout les mammifères, nous avons tous des glandes mammaires. Les alvéoles ne se remplissent uniquement après l’accouchement mais après la naissance, avec la diminution brutale d'œstrogène dans le sang de la mère. *Les vaches doivent donner naissance à un veau par an pour permettre la production de lait.*  La succion du bébé va enclencher la production d'hormones qui va induire la production de lait, tel que la prolactine et l'ocytocine. Le lait de la mère contient ses propres anticorps; pour en fournir au nouveau née.
+
 ## L'homme perçoit son environnement et y réagit
