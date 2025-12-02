@@ -2,13 +2,14 @@
 title: 📗 Introduction
 order: 0
 ---
+
 # 📗 Introduction
 
+La reproduction sexuée implique la rencontre de deux gamètes haploïdes pour former une cellule-œuf (zygote) diploïde.
 
-Deux gamètes forment une cellule-œuf.
+La cellule-œuf se divise ensuite par mitoses successives : toutes nos cellules somatiques possèdent le même patrimoine génétique hérité de cette cellule initiale.
 
-La cellule-œuf se divise ensuite : toutes nos cellules ultérieures possèdent le même patrimoine génétique hérité de cette cellule initiale.
+> [!NOTE] Probabilité
+> La probabilité d'obtenir deux individus génétiquement identiques (hors vrais jumeaux) est infinitésimale ($1$ sur $10^{14}$), assurant l'unicité de chaque individu.
 
-> [!ATTENTION]
-> **Un vrai sosie n'existe pas !** La probabilité d'obtenir un sosie génétique est de $10^14$  soit 100 000 000 000 000.
-
+Ce chapitre aborde la production des gamètes, la fécondation, le développement embryonnaire et la naissance.
