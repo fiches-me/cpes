@@ -21,9 +21,9 @@ Le language **SQL (Structured Query Language)** est le language commun à presqu
 
 **Schéma d'une BDD** : schéma représentant l'ensemble des tables d'une base de données, sous forme de schéma relationnel. *Voir exemples si dessous.*
 
-**Clé Primaire** : Attribut ou ensemble d'attributs *unique(s)* permettant d'identifier chaque [enregistrements](#enregistrements)
+**Clé Primaire** : Attribut ou ensemble d'attributs *unique(s)* permettant d'identifier chaque [enregistrements](#enregistrements). *Attributs soulignés dans l'exemple si dessous.*
 
-**Clé Étrangère** :  Attribut ou ensemble d'attributs représentant une clef primaire provenant d'une autre table.
+**Clé Étrangère** :  Attribut ou ensemble d'attributs représentant une clef primaire provenant d'une autre table.*Attributs en italique dans l'exemple si dessous.*
 
 | Exemple de Texte                                                                                                                                              | Exemple de Tableau                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
@@ -34,9 +34,26 @@ Dans le modèle relationnel, on sépare les données relatives en plusieurs tabl
 
 - Chaque table contient des données relatives à un même sujet
 - On évite toute redondance des données (stocker 2 fois la même chose)
-- On ne stock pas de résultats, on fera les calculs après
+- On ne stock pas de résultats, on fera les calculs après.
+- Chaque attribut de la table doit contenir une seule information (nom et prénom sont 2 attributs différents).
+- On référence les différentes informations des tables à l'aide de clés.
 
 > [!QUESTION] Pourquoi ?
 > Malgré les améliorations considérables de l'informatique depuis les années 2000, manipuler des grosses base de données est **extrêmement coûteux**. Des requêtes SQL peuvent prendre plusieurs heures, si ce n'est des jours, sur des bases de données de quelques Go. Il est donc important, *toujours aujourd'hui,* de réduire la taille de ses bases de données
- 
+
+Pour créer un model relationnel, on doit donc :
+
+1. Déterminer les objets que l'on souhaite manipuler
+2. Modéliser les objets comme des relations en déterminant quels sont les relations et quels sont les attributs. On décide donc les schémas pour chaque relation, avec les "bon" domaines pour chacun des attributs.
+3. Définir les contraintes de la BDD, c'est à dire les propriétés logiques que nos données doivent respecter.
 ### Contraintes d'intégrités
+
+Il existe 4 contraintes applicables à des tables :
+
+1. **Contrainte de domaine** : les valeurs d'un attribut doivent toutes appartenir à un même domaine prédéfinit
+2. **Contrainte de relation** : les clés primaires doivent êtres uniques (et donc non nulles).
+3. **Contrainte de référence** : chaque clé étrangère doit faire référence à une clé primaire *existante dans la BDD*.
+4. **Contrainte utilisateur** : contrainte(s) ajoutée(s) par le développeur.
+
+> [!WARNING] Attention
+> Il n'est **pas possible** de supprimer un enregistrement si sa clef primaire est présente en tant que clef étrangère dans d'autres tables. Il faut alors supprimer ces enregistrement *avant* de supprimer celui de la table "primaire".
