@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 30">
+    <defs>
+        <marker id="markerLineE" markerWidth="10" markerHeight="2" refX="10" refY="1" orient="auto">
+            <path d="M0,1 L10,1" style="stroke:#202020; stroke-width: 2;"/>
+        </marker>
+        <marker id="markerLineS" markerWidth="10" markerHeight="2" refX="0" refY="1" orient="auto">
+            <path d="M0,1 L10,1" style="stroke:#202020; stroke-width: 2;"/>
+        </marker>
+    </defs>
+    <rect x="2" y="1" height="6" width="23" style="stroke:#202020; fill: none; stroke-width: 0.5;"/>
+    <rect x="2" y="7" height="17" width="23" style="stroke:#202020; fill: none; stroke-width: 0.5;"/>
+    <rect x="48" y="1" height="6" width="16" style="stroke:#202020; fill: none; stroke-width: 0.5;"/>
+    <rect x="48" y="7" height="17" width="16" style="stroke:#202020; fill: none; stroke-width: 0.5;"/>
+
+    <text x="3" y="5" style="font-family: 'open sans'; font-size: 4px">citations</text>
+    <text x="3" y="12" style="font-family: 'open sans'; font-size: 4px; font-weight: bold;">id_citation</text>
+    <text x="3" y="17" style="font-family: 'open sans'; font-size: 4px">texte</text>
+    <text x="3" y="22" style="font-family: 'open sans'; font-size: 4px">id_film</text>
+    <text x="49" y="5" style="font-family: 'open sans'; font-size: 4px">films</text>
+    <text x="49" y="11" style="font-family: 'open sans'; font-size: 4px; font-weight: bold;">id_film</text>
+    <text x="49" y="16" style="font-family: 'open sans'; font-size: 4px">titre</text>
+    <text x="49" y="21" style="font-family: 'open sans'; font-size: 4px">annee</text>
+
+    <path d="M25,21 L37,21 L37,10 L48,10" style="stroke:#202020; fill: none; stroke-width: 0.5;marker-start: url(#markerLineS);marker-end: url(#markerLineE);"/>
+
+    <text x="26" y="20" style="font-family: 'open sans'; font-size: 4px">n</text>
+    <text x="44" y="9" style="font-family: 'open sans'; font-size: 4px">1</text>
+
+</svg>
