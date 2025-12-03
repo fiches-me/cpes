@@ -3,6 +3,7 @@ title: 📠 Bases de données relationnelles
 tags:
   - info
   - cours
+finished: true
 ---
 # 📠 Bases de données relationnelles
 
@@ -28,6 +29,7 @@ Le language **SQL (Structured Query Language)** est le language commun à presqu
 | Exemple de Texte                                                                                                                                              | Exemple de Tableau                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | **Films**:<br>- <u>id_film</u> `int`<br>- titre `str`<br>- annee `int`<br>**Citations**:<br>- <u>id_citations</u> `int`<br>- texte `str`<br>- *id_film* `int` | ![Exemple de schéma relationnel](./relations.svg) |
+> Graphique de [KXS.FR](https://kxs.fr/cours/bd)
 ## Intégrité et anomalies
 ### Principes Généraux
 Dans le modèle relationnel, on sépare les données relatives en plusieurs tables tel que :
