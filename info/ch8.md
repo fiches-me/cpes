@@ -5,6 +5,7 @@ tags:
   - cours
 finished: true
 ---
+
 # 📠 Bases de données relationnelles
 
 Les bases de données (abrégé BDD) sont apparues à la fin des années 60 pour répondre à un besoin de gestion qualitative et quantitative des données informatiques. Les BDD relationnelles issues des recherches de Edgar Codd (1923 - 2003) sont celles qui ont connu le plus grand essor et qui sont le plus utilisées aujourd'hui.
@@ -14,6 +15,7 @@ Les **systèmes de gestions de bases de données (SGBD)** (*Database Management 
 Le language **SQL (Structured Query Language)** est le language commun à presque tous les SGBD. 
 
 ## Définition
+
 **Modèle Relationnel** : modèle dans lequel les données sont représentés par des n-uplets appelés <strong id="enregistrements">enregistrements</strong> (ou **entités**) dabs des **tables** (aussi appelés **relations**). Les colones de la table sont appelés **propriétés** ou **attributs**. Une table de dimensions $m \times n$ est dite de **cardinal** $m$ et d'**arité** $n$.
 
 **Base de données relationnelles** : ensemble de tables/relations.
@@ -29,9 +31,13 @@ Le language **SQL (Structured Query Language)** est le language commun à presqu
 | Exemple de Texte                                                                                                                                              | Exemple de Tableau                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | **Films**:<br>- <u>id_film</u> `int`<br>- titre `str`<br>- annee `int`<br>**Citations**:<br>- <u>id_citations</u> `int`<br>- texte `str`<br>- *id_film* `int` | ![Exemple de schéma relationnel](./relations.svg) |
+
 > Graphique de [KXS.FR](https://kxs.fr/cours/bd)
+
 ## Intégrité et anomalies
+
 ### Principes Généraux
+
 Dans le modèle relationnel, on sépare les données relatives en plusieurs tables tel que :
 
 - Chaque table contient des données relatives à un même sujet
@@ -48,6 +54,7 @@ Pour créer un model relationnel, on doit donc :
 1. Déterminer les objets que l'on souhaite manipuler
 2. Modéliser les objets comme des relations en déterminant quels sont les relations et quels sont les attributs. On décide donc les schémas pour chaque relation, avec les "bon" domaines pour chacun des attributs.
 3. Définir les contraintes de la BDD, c'est à dire les propriétés logiques que nos données doivent respecter.
+
 ### Contraintes d'intégrités
 
 Il existe 4 contraintes applicables à des tables :

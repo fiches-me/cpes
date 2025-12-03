@@ -5,8 +5,11 @@ tags:
   - cours
 finished: true
 ---
+
 # Algorithmique : La Suite
+
 ## Chaînes de caractères
+
 > 🇬🇧 Character Strings
 
 Une chaîne de caractères est une série de lettres, enchaînées entres elles. *Pour le moment, la métaphore est inutile, mais elle pourrait l'être un jour. Dans tout les cas, elle permet de se souvenir du mot anglais Characters String.*
@@ -73,7 +76,9 @@ Les chaînes de caractères sont constitués de caractères indicés à partir d
 > Il n'est pas possible de modifier une chaîne de caractère avec les indices (faire `ch1[1] = "a"`. ) Il faut découper et concaténer.
 
 ## Fonctions
+
 ### Définition
+
 Pour simplifier les algorithmes, on peut décomposer les problèmes en sous problèmes que l'on résout avec des **fonctions**.
 
 > [!DÉFINITION]
@@ -104,6 +109,7 @@ def estPositif(n):
 ```
 
 :::
+
 ### Appel de fonctions
 
 Une fonction ne s'exécute pas par défaut quand on lance le programme (fichier). Il faut donc l'**appeler**.
@@ -139,6 +145,7 @@ def maSuperFonction(brainrot):
    Sortie : une chaîne de caractères toujours incompréhensible, mais moins.
    """
 ```
+
 ### Tests
 
 Après avoir écrit la fonction, il faut tester qu'elle fonctionne ! On écrit les tests à la fin d'un fichier python avec la fonction `assert` qui prend comme condition un booléen qui doit renvoyer `True` pour que la fonction assert n'arrête pas le programme (sinon elle coupe tout, attention !)

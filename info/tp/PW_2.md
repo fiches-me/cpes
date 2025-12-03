@@ -69,6 +69,7 @@ def transformSentence(sentence : str, day : int):
 ```
 
 ## Strings 'n' Loops
+
 ### DNA Search
 
 ```python
