@@ -28,6 +28,8 @@ J'étais en mode chill avec un couteau
 - C'est un néophyte Marcel
 - (en parlant à Maxense) Mais oui bebou
 - J'ai besoin de le kidnapper (Ok, je ferme la porte) – tu passeras chez moi ?
+- Y'a deux m à comma sinon on s'évanouie
+- 
 ## Ondrejko
 - Il faut m’arrêter sinon je galope
 - ...avec mes fichiers de dinosaures
