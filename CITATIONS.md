@@ -8,6 +8,7 @@ Maylys qui montre ses biceps : "Ouech remontre !"
 
 On se lave les oreilles comme on se lave le cul
 
+Elle glisse ta darrone
 ## Maylys
 Et hop elle te fait un bisous avec ses fesses
 
@@ -17,6 +18,10 @@ Je suis comme un processeur qui est en train de throtle
 L'ADN c'est un low-language
 
 La viande hachée te hache
+
+## Guilhem
+J'aimerais bien être sourd et muet m
+
 ## Raphaël 
 Les gens ont peur des communistes et de jean Luc melanchon 
 
