@@ -70,10 +70,7 @@ Voir aussi : [Introduction à la méthode](../eco/methodo.md)
 
 ```mermaid
 timeline
-    title Histoire de la Pensée Économique (Cours)
-    Antiquité & Moyen Age
-        : Aristote
-        : St. Thomas d'Aquin
+    title Histoire de la Pensée Économique
     Mercantilisme (XVIe-XVIIIe)
         : Jean Bodin
         : Antoine de Montchrestien
@@ -89,13 +86,16 @@ timeline
         : Thomas Malthus
         : Sismondi
         : John Stuart Mill
-        1867 : Karl Marx
+        : Karl Marx
+```
+```mermaid
+timeline
+    title Histoire de la Pensée Économique
     Néoclassiques (1870s-1930)
         1870s : Walras, Jevons, Menger
         : Alfred Marshall
         : Vilfredo Pareto
         : Irving Fisher
-        : Arthur Cecil Pigou
         : Hermann Heinrich Gossen
     Révolution Keynésienne (1930s)
         1917 : John Maurice Clark
@@ -110,3 +110,4 @@ timeline
         : Joseph Stiglitz
         : Gregory Mankiw
 ```
+
