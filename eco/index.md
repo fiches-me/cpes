@@ -67,3 +67,46 @@ Voir aussi : [Introduction à la méthode](../eco/methodo.md)
 | 8. Les économistes ne vénèrent pas (tous) les marchés, mais ils en connaissent mieux que vous le fonctionnement.                                                                       | 8. Il n’y a rien de mal à répondre « je ne sais pas » à une question portant sur l’économie ou la politique.                                                                               |
 | 9. Si vous croyez que tous les économistes pensent la même chose, allez les voir en séminaire.                                                                                         | 9. Tout n’est pas une question d’efficience.                                                                                                                                               |
 | 10. Si vous croyez que les économistes sont particulièrement grossiers avec les non-économistes, allez les voir en séminaire.                                                          | 10. Remplacer les valeurs du public par les vôtres est un abus de votre expertise.                                                                                                         |
+
+```mermaid
+timeline
+    title Histoire de la Pensée Économique (Cours)
+    Antiquité & Moyen Age
+        : Aristote
+        : St. Thomas d'Aquin
+    Mercantilisme (XVIe-XVIIIe)
+        : Jean Bodin
+        : Antoine de Montchrestien
+        : Thomas Mun
+        : William Petty
+        : John Locke
+    Physiocratie (1750-1770)
+        : François Quesnay
+    Classiques (1776-1870)
+        1776 : Adam Smith
+        1803 : Jean-Baptiste Say
+        1817 : David Ricardo
+        : Thomas Malthus
+        : Sismondi
+        : John Stuart Mill
+        1867 : Karl Marx
+    Néoclassiques (1870s-1930)
+        1870s : Walras, Jevons, Menger
+        : Alfred Marshall
+        : Vilfredo Pareto
+        : Irving Fisher
+        : Arthur Cecil Pigou
+        : Hermann Heinrich Gossen
+    Révolution Keynésienne (1930s)
+        1917 : John Maurice Clark
+        1936 : John Maynard Keynes
+        : Michał Kalecki
+    Synthèse & Contemporains
+        : John Hicks
+        : Paul Samuelson
+        : Jan Tinbergen
+        : James Tobin
+        : Robert Lucas
+        : Joseph Stiglitz
+        : Gregory Mankiw
+```
