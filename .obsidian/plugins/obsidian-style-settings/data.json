@@ -1,4 +1,7 @@
 {
   "primary-theme@@popover-width": 800,
-  "primary-theme@@popover-height": 800
+  "primary-theme@@popover-height": 800,
+  "primary-theme@@editor-border-width": "2px",
+  "primary-theme@@file-header-border-width": "2px",
+  "primary-theme@@interface_editor-bg": "editor-bgpattern-dotgrid"
 }
