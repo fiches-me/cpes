@@ -66,3 +66,14 @@ Il existe 4 contraintes applicables à des tables :
 
 > [!WARNING] Attention
 > Il n'est **pas possible** de supprimer un enregistrement si sa clef primaire est présente en tant que clef étrangère dans d'autres tables. Il faut alors supprimer ces enregistrement *avant* de supprimer celui de la table "primaire".
+
+### Structure et anomalies
+
+La **structure d'une BDDR** est un ensemble de schémas relationnels.
+
+Des anomalies peuvent apparaîtrent dans cette structure si des modifications non prévues ont été effectuées. On distingue :
+
+- les **redondances de données** qui correspondent au contraintes de relations
+- les **anomalies d'insertion** qui correspondent à toutes les contraintes
+- les **anomalies de suppression** qui correspondent au contraintes de référence
+- les **anomalies de mises à jour** qui correspondent à toutes les contraintes
