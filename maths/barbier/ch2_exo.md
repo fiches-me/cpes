@@ -43,11 +43,15 @@ De plus, x > 0 et y > 0. Donc $\frac{1}{x + y} > 0$. On a bien $\forall (x, y) \
 > Ici, on démontre chaque partie une à une, et non toute l'inéquation d'un coup. Cela évite de démontrer quelque chose avec ce que l'on cherche à démontrer.
 
 #### ←
+
 Soit a > 0 fixé. On a donc :
 $\forall x \in ]0, + \infty[, |f(x) - f(a)| \le \frac{1}{x + a}$
 Donc $(*) \lim\limits_{x \to + \infty} |f(x) - f(a)| \le  \frac{1}{x + a}$
+
 Or, $$\lim\limits_{x \to + \infty} |f(x) - f(a)| = |\lim\limits_{x \to + \infty} f(x) - f(a)| = |\lim\limits_{x \to + \infty} f(x) - \lim\limits_{x \to + \infty}f(a)|$$
+
 Étoile devient 
+
 $$(*) |\lim\limits_{x \to + \infty} f(x) - \lim\limits_{x \to + \infty}f(a)| \le 0$$
 
 Comme une valeur absolue est toujours positive, on a 
@@ -59,8 +63,11 @@ Donc $\lim\limits_{x \to + \infty} f(x) = f(a)$
 Soit b fixé. On trouve de la même manière que $\lim\limits_{x \to + \infty} f(x) = f(b)$. Par unicité de la limite, on a f(a) = f(b).f est donc constante !
 
 # Exercice 5
+
 Soit $x \ge 0$. 
+
 $$\sqrt{x + 1} - \sqrt{x} = \frac{(\sqrt{x + 1} - \sqrt{x})(\sqrt{x + 1} + \sqrt{x})}{\sqrt{x + 1} + \sqrt{x}} = \frac{1}{\sqrt{x + 1} + \sqrt{x}}$$
+
 $\lim\limits_{x \to + \infty} \sqrt{x + 1} + \sqrt{x} = + \infty$
 
 Par contient de limites, on obtient $\lim\limits_{x \to + \infty}\sqrt{x + 1} - \sqrt{x} = 0^+$
