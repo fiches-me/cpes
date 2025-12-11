@@ -23,8 +23,11 @@ L'ADN c'est un low-language
 La viande hachée te hache
 
 ## Guilhem
+> Note: Ces cittations ont été ajoutés par d'autres personnes que moi, sinon c'est pas drôle
+
 J'aimerais bien être sourd et muet
 
+Je préfère la prod à la com
 ## Raphaël 
 Les gens ont peur des communistes et de jean Luc melanchon 
 
