@@ -10,10 +10,11 @@ On se lave les oreilles comme on se lave le cul
 
 Elle glisse ta darrone
 
-100%! Je suis trop bon en numérique
+100%! Je suis trop bon en cyberharcelement !
 ## Maylys
 Et hop elle te fait un bisous avec ses fesses
 
+Regarde, j'ai fais un gros caca (Poilu ou pas?)
 ## Javier
 Je suis comme un processeur qui est en train de throtle
 
@@ -22,11 +23,13 @@ L'ADN c'est un low-language
 La viande hachée te hache
 
 ## Guilhem
-J'aimerais bien être sourd et muet m
+J'aimerais bien être sourd et muet
 
 ## Raphaël 
 Les gens ont peur des communistes et de jean Luc melanchon 
 
+## Camille
+Je meurs mais c'est bon
 ## Nina
 J'étais en mode chill avec un couteau
 # Profs

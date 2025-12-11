@@ -16,7 +16,7 @@ Le language **SQL (Structured Query Language)** est le language commun à presqu
 
 ## Définition
 
-**Modèle Relationnel** : modèle dans lequel les données sont représentés par des n-uplets appelés <strong id="enregistrements">enregistrements</strong> (ou **entités**) dabs des **tables** (aussi appelés **relations**). Les colones de la table sont appelés **propriétés** ou **attributs**. Une table de dimensions $m \times n$ est dite de **cardinal** $m$ et d'**arité** $n$.
+**Modèle Relationnel** : modèle dans lequel les données sont représentés par des n-uplets appelés <strong id="enregistrements">enregistrements</strong> (ou **entités**) dans des **tables** (aussi appelés **relations**). Les colones de la table sont appelés **propriétés** ou **attributs**. Une table de dimensions $m \times n$ est dite de **cardinal** $m$ et d'**arité** $n$.
 
 **Base de données relationnelles** : ensemble de tables/relations.
 
@@ -26,7 +26,7 @@ Le language **SQL (Structured Query Language)** est le language commun à presqu
 
 **Clé Primaire** : Attribut ou ensemble d'attributs *unique(s)* permettant d'identifier chaque [enregistrements](#enregistrements). *Attributs soulignés dans l'exemple si dessous.*
 
-**Clé Étrangère** :  Attribut ou ensemble d'attributs représentant une clef primaire provenant d'une autre table.*Attributs en italique dans l'exemple si dessous.*
+**Clé Étrangère** :  Attribut ou ensemble d'attributs représentant une clef primaire provenant d'une autre table. *Attributs en italique dans l'exemple si dessous.*
 
 | Exemple de Texte                                                                                                                                              | Exemple de Tableau                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
