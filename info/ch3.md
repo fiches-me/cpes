@@ -1,6 +1,9 @@
 ---
 title: 🗃 Tableaux
 finished: true
+tags:
+  - info
+  - cours
 ---
 
 # Tableaux
