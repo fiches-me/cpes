@@ -1,3 +1,17 @@
+.container::after {
+  content: "⚠️ Maintenance prévu le mercredi 17 décembre";
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: #ff4444;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  z-index: 9999;
+}
+
+
 /**
  * This css file is generated.
  * Make changes to `scss` version.
