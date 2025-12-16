@@ -23,7 +23,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Build & Publish with Moka
-        uses: fiches-me/moka@0.0.1
+        uses: fiches-me/moka@v0.1.1-alpha1
 
   deploy:
     environment:
