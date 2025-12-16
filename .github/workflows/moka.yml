@@ -2,7 +2,7 @@ name: Deploy Moka site to Pages
 
 on:
   push:
-    branches: [main]
+    branches: [moka]
   workflow_dispatch:
 
 permissions:
