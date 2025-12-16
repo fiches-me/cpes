@@ -1,5 +1,6 @@
 ---
 draft: true
+title: "✒️ Biologie : Méthodologie"
 ---
 
 Une dissertation scientifique possède des arguments : il n'est pas possible de faire une thèse - antithèse. Globalement, dans une dissertation, notre avis n'est pas intéressant, 

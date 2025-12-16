@@ -1,5 +1,6 @@
 ---
 draft: true
+title: Correction Mi-S1
 ---
 
 ## Remarques Générales
