@@ -1,3 +1,7 @@
+---
+title: Note CH1
+---
+
 Associativité et Commutativité : vérifier les deux sens
 Élément neutre : absurde ou équation (voir système si deux variables)
 

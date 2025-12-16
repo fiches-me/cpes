@@ -1,3 +1,6 @@
+---
+title: Citations CPES1 2025-2026
+---
 # Élèves
 ## Ulysse
 

@@ -1,3 +1,6 @@
+---
+title: ⚛️ Rappels Limites
+---
 # Limites : rappels
 ## Limites sur les additions
 

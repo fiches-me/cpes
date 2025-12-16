@@ -4,7 +4,6 @@
 </center>
 
 ---
-
 ## 🇫🇷 Comment ça marche
 
 Ce repo regroupe un ensemble de fiches de révision écrites [en markdown](./contribution/101). Chaque fichier `index` définie une catégorie, qui possède elle même plusieurs fiches. 

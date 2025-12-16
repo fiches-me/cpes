@@ -1,3 +1,6 @@
+---
+title: "📚 Bio : Définitions"
+---
 ## Anhydre
 Se dit d'un milieu ou d'une substance qui ne contient pas d'eau. En biologie, désigne souvent le cœur hydrophobe des protéines où l'eau est exclue.
 

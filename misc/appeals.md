@@ -1,3 +1,7 @@
+---
+title: List of appeals
+---
+
 # Appeals in advertisement
 *How to get an ad to stand out?* Use **appeals** to grab the viewer's attention.
 ## Emotional
