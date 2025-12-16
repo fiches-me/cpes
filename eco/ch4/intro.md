@@ -1,6 +1,7 @@
 ---
 order: 0
 title: 📘 Introduction
+finished: true
 ---
 
 # Introduction

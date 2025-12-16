@@ -67,7 +67,7 @@ Effectuer une terminaison et une correction partielle d'un algorithme revient à
 Tri dit conditionel. On prend le minimum de la partie droite d'un tableau, que l'on va déplacer à gauche. On réduit peu à peu la taille du tableau de droite pour finir avec un tableau de gauche trié.-
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 T tableau de n nombres entiers
 
 Fonction trie_selection(T):
@@ -109,7 +109,7 @@ def trie_selection(tab):
 
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 Fonction trie_insertion(T):
    Pour i allant de 1 à longeur de T - 1:
       v <- T[i]

@@ -35,7 +35,7 @@ tags:
 
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 a <- 1
 ```
 
@@ -57,7 +57,7 @@ a = 1
 
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 afficher "Texte"
 a <- entree une valeur
 ```
@@ -74,7 +74,7 @@ input("Texte")
 
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 Si <condition booléenne>:
    instruction
 Sinon:
@@ -100,7 +100,7 @@ Répétition **finie** et **fixé** de fois d'une séquence d'instructions
 
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 Pour i allant de 1 à N
    instruction
 Fin Pour
@@ -122,7 +122,7 @@ Aussi appelés boucles conditionnelles, elle permettent de répéter une action 
 
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 Tant que i < 1:
    i <- i + 1
 Fin tant que
@@ -144,7 +144,7 @@ Il est possible d'imbriquer différentes boucles (et conditions entres elles)
 
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 Si <condition>
    Si <condition>
       instruction

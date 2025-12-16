@@ -36,7 +36,7 @@ En python, on les implémenté avec `List`
 
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 T tableau de 5 entiers
 T <- [1,2,3,4,5]
 T <- [0 pour k allant de 1 à 5]
@@ -57,7 +57,7 @@ Les tableaux peuvent être parcouru comme les chaînes de caractères. Contraire
 
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 T tableau de 5 entiers
 T <- [1,2,3,4,5]
 Pour e dans T
@@ -81,7 +81,7 @@ Voici un exemple de définition :
 
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 T tableau de tableaux d'entiers de taille 3 de taille 2
 T <- [[1,2,3],[4,5, 6]]
 ```

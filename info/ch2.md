@@ -16,7 +16,7 @@ Une chaîne de caractères est une série de lettres, enchaînées entres elles.
 
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 ch1 <- "Une chaîne de caractères"
 ch2 <- 'Une autre chaîne de caractères'
 ```
@@ -38,7 +38,7 @@ Pour parcourir une chaîne de caractère, on peut utiliser des boucles :
 
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 Pour i allant de 1 à Longeur de ch1:
    Afficher ch1[i]
 Fin Pour
@@ -55,7 +55,7 @@ for i in range(len(ch1)):
 
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 Pour i dans ch1:
    Afficher i
 Fin Pour
@@ -90,7 +90,7 @@ En python, une fonction envoie par défaut `None` si aucun bloc `return` n'est u
 
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 Fonction estPositif(n):
    Si n >= 0:
       Renvoyer Vrai
@@ -118,7 +118,7 @@ Si on reprend nos variables définies en haut, on a :
 
 ::: code-group
 
-```pseudo-code [Pseudo-Code]
+```python [Pseudo-Code]
 Afficher estPositif(-10)
 ```
 
