@@ -51,3 +51,11 @@ J'étais en mode chill avec un couteau
 Je me suis fait viré du grec en 3em
 
 Le cul de Tobin est un ratio
+
+Ça commence à me péter les couilles
+
+Quand on a pas de sous on arrête de consommer ? Nononon on fait comme moi on s'endette
+
+Bref, je parle pas latin je m'en tappe
+
+Merde, j'ai oublié de prendre de l'argent, en même temps j'en ai pas
