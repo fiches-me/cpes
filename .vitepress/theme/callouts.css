@@ -1,4 +1,4 @@
-.container::after {
+.maintenance::after {
   content: "⚠️ Maintenance prévu le mercredi 17 décembre";
   position: fixed;
   bottom: 0;
