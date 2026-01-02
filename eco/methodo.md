@@ -20,7 +20,7 @@ Elles permettent de **prouver des connaissances**. Il faut sélectionner les inf
 
 ## Forme
 
-La forme est probablement **la plus difficile à maîtriser**. *Une belle expression sans idées intéresse peux.*
+La forme est probablement **la plus difficile à maîtriser**. *Une belle expression sans idées intéresse peu.*
 
 ### L'introduction
 
