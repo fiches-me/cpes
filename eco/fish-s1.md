@@ -80,14 +80,14 @@ Critique l'optimisme libéral.
 Développe l'[Accélérateur Keynésien (Clark)](#Accélérateur%20Keynésien%20(Clark))
 #### Keynes
 
-**Rupture avec les néoclassiques : la monnaie n'est plus neutre te c'est la demande qui guide l'offre** (par la [Profitabilité](#Profitabilité)). Il introduit les concepts de [Multiplicateurs Keynésien](#Multiplicateurs%20Keynésien)  et d'[Accélérateur Keynésien](#Accélérateur%20Keynésien). Il insiste sur l'importance des **politiques xxx** (*lien por favor*).
+**Rupture avec les néoclassiques : la monnaie n'est plus neutre te c'est la demande qui guide l'offre** (C et I -> Y par la [Profitabilité](#Profitabilité)). Il introduit les concepts de [Multiplicateurs Keynésien](#Multiplicateurs%20Keynésien)  et d'[Accélérateur Keynésien](#Accélérateur%20Keynésien). Il insiste sur l'importance des **politiques xxx** (*lien por favor*).
 #### Paul Samuelson
 
 Co-auteur de **la synthèse**, un ouvrage qui réconcilie les travaux néoclassiques et keynésiens.
 
 #### John Hicks
 
-Co-auteur de **la synthèse**, un ouvrage qui réconcilie les travaux néoclassiques et keynésiens.
+Co-auteur de **la synthèse**, un ouvrage qui réconcilie les travaux néoclassiques et keynésiens. Formalise une partie des concepts de Keynes.
 
 #### Tobin
 Propose l'équation du **Q de tobin** qui permet de calculer si un investissement sera profitable ou non.
@@ -123,7 +123,7 @@ Propose l'équation du **Q de tobin** qui permet de calculer si un investissemen
 
 ### La Fable du Troc
 
-La monnaie n'est introduite que pour résoudre le problème de la **double coïncidence des besoins**. Elle ne fait que facilité les échanges et **elle est donc neutre**.
+La monnaie n'est introduite que pour résoudre le problème de la **double coïncidence des besoins**. Elle ne fait que facilité les échanges et **est donc neutre**.
 
 ### Théorie Quantitative de la Monnaie 
 
@@ -145,20 +145,23 @@ L'utilité diminue à chaque unité suplémentaire
 Le consommateur répartie son budget entres différents produits en fonction de l'utilité marginale, pondérée par le prix des produits
 
 ### Profitabilité
-
+xxx
 ### Propension à consommer
-
+La propension moyenne à consommer se calcule avec $c = \frac{C}{Y}$ et permet de savoir **quel part du revenu est consommé**. 
 ### Multiplicateurs Keynésien
+Constante qui permet de déterminer si une modification de l’investissement/des dépenses de l'état : augmentation du revenu Y est partiellement repensée, ce qui stimule la production, etc.
+### Accélérateur (d'investissement) Keynésien (Clark)
 
-### ⚠ Accélérateur Keynésien (Clark)
-
-Permet de prévoir comment un investissement impacte l'offre. On le calcule de la manière suivante : 
+Permet de prévoir comment l'investissement va réagir lorsque la production varie (car la demande varie).   
 $$
 K_t = v \times \gamma_t \text{  with  } v = \frac{K}{\gamma}
 \Longleftrightarrow
 K_{t + 1} - K_t = v(\gamma_{t + 1} - \gamma_t) = I_t
 $$
 ### Stabilisateurs Automatiques
-### Politiques xxx
+Utilisation de **fiscalité proportionnelle** pour amortir les fluctuations d'une économie.
+### Politiques conjoncturelles (de court terme)
 #### Politiques Monétaires
+Modification du taux d’intérêt **de la banque centrale** qui agit sur la quantité de monnaie en circulation dans l'économie. Cela permet aux banques de second rang d'emprunter plus ou moins d'argent et donc de créer plus ou moins de monnaie. 
 #### Politiques Budgétaires
+Intervention de l'état par l'intermédiaire de son budget - très souvent une **augmentation des dépenses publiques**- mais qui peut aussi **toucher les recettes**.
