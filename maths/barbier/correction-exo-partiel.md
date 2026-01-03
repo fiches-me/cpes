@@ -87,3 +87,11 @@ Par conséquent :
 $$
 \boxed{f'(a)=2-\frac{1}{2\sqrt{a}} \quad \text{pour tout } a>0.}  
 $$
+
+## Question 5
+
+ La fonction (f) est continue sur $[0,+\infty[$, décroissante sur $]0,\frac{1}{16}]$ et croissante sur $[\frac{1}{16},+\infty[$.  
+Par le théorème de la bijection, l’équation (f(x)=a) admet :
+- deux solutions si $-\frac{1}{8}<a<0$,
+- une solution si $a=-\frac{1}{8}$ ou $a>0$,
+- aucune solution si $a<-\frac{1}{8}$.
