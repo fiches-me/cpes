@@ -1,5 +1,5 @@
 ---
-title: Correction Mi-S1
+title: Correction Exo Partiel S1
 ---
 
 ## Question 1
