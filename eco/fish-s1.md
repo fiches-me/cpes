@@ -31,7 +31,7 @@ Invente le terme d'**Économie Politique**.
 
 #### Jean Bodin (Français)
 
-Théorise le lien entre l'abondance de monnaie et la hausse des prix (**Inflation**).
+Théorise le lien entre **l'abondance de monnaie** et la hausse des prix (**Inflation**).
 
 #### Thomas Mun
 
@@ -39,7 +39,7 @@ Dirigeant de la Compagnie des Indes Orientales, il prône une **balance commerci
 
 #### William Petty
 
-Précurseur de la valeur-travail et de l'arithmétique politique (statistiques).
+*Précurseur de la valeur-travail* et de l'arithmétique politique (**statistiques**).
 
 #### John Locke
 
@@ -63,13 +63,15 @@ Auteur des **principes de  l'économie politique et de l'impôt**. Il est contre
 
 #### Malthus
 
-Craint que l'épargne excessive des rentiers ne réduise la **demande effective**. Il propose des travaux publics pour stimuler l'emploi.
+Craint que l'épargne excessive des rentiers ne réduise la **demande effective**. Il propose des travaux publics pour stimuler l'emploi. Il est surtout connu pour sa **loi de population** : la population augmente de façon **géométrique** (1, 2, 4, 8...) tandis que les ressources alimentaires n'augmentent que de façon **arithmétique** (1, 2, 3, 4...). Ce déséquilibre mène fatalement à la famine sans "obstacles" (guerres, épidémies ou contrainte morale).
 
 #### Sismondi
 
 Critique l'optimisme libéral.
 
 #### Marx
+
+Théoricien du capitalisme qu'il voit comme un système d'exploitation. Il définit la **plus-value** comme la valeur produite par le travailleur mais captée par le capitaliste (travail non payé). Il prédit la **baisse tendancielle du taux de profit** : pour rester compétitifs, les capitalistes remplacent les hommes par des machines (capital constant), mais comme seul le travail humain crée de la valeur, le taux de profit finit par chuter.
 
 #### Jean-Baptiste Say
 
@@ -117,6 +119,12 @@ Propose l'équation du **Q de tobin** qui permet de calculer si un investissemen
 
 ### Théorie de la Rente Différentielle 
 
+Théorisée par **Ricardo**, elle explique que la rente foncière dépend de la qualité des terres. 
+1. On cultive d'abord les terres les plus fertiles. 
+2. Avec la croissance démographique, on doit cultiver des terres moins fertiles (terres marginales) où produire coûte plus cher. 
+3. Le prix du marché s'aligne sur le coût de production de la terre la **moins fertile**. 
+4. Les propriétaires des terres fertiles empochent la différence : c'est la **rente**.
+
 ### Loi des Débouchés
 
 **L'offre crée sa propre demande.**
@@ -145,7 +153,10 @@ L'utilité diminue à chaque unité suplémentaire
 Le consommateur répartie son budget entres différents produits en fonction de l'utilité marginale, pondérée par le prix des produits
 
 ### Profitabilité
-xxx
+Concept central chez Keynes et les classiques pour l'investissement. 
+- Chez les **Classiques**, elle est menacée par la hausse des salaires et de la rente (état stationnaire). 
+- Chez **Keynes**, l'investissement dépend de la comparaison entre l'**efficacité marginale du capital** (rendement escompté) et le **taux d'intérêt** (coût du financement). Si le rendement attendu est supérieur au taux d'intérêt, l'investissement est jugé profitable.
+
 ### Propension à consommer
 La propension moyenne à consommer se calcule avec $c = \frac{C}{Y}$ et permet de savoir **quel part du revenu est consommé**. 
 ### Multiplicateurs Keynésien
