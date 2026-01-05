@@ -154,3 +154,20 @@ def trie_instertion(tab: list) -> list:
 > Les tris suivants sont des tries avec *effets de bords* : le tableau donné dans la fonction est **directement modifié**, donc il n'est pas nécessaire d'utiliser l'objet en `return` pour le récupérer trié.
 
 ### Dichotomie
+
+```python
+def dichotomie(liste : list, x : int):
+  found = False
+  start = 0
+  end = len(liste) -1
+  while found == False and start <= end:
+    mid = (start + end) // 2
+    if liste[mid] == x:
+      found = true
+    else :
+      if x > liste[mid]:
+        start = mid + 1
+      else:
+        end = mid - 1
+  return found
+```
