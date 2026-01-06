@@ -1,6 +1,6 @@
 ---
 title: Chapitre 2
-draft: true
+draft: false
 ---
 
 ## Table des matières
