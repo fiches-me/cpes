@@ -120,7 +120,7 @@ Fonction trie_insertion(T):
       j <- i
       Tant Que j > 0 et T[j-1] > v:
          T[j] <- T[j - 1]
-         j = j - 1
+         j <- j - 1
       Fin tant que
       T[j] <- v
     Fin pour
@@ -132,8 +132,8 @@ def trie_instertion(tab: list) -> list:
    for k in range(1, len(k) - 1):
       cle = tab[k]
       indice = k - 1
-      while indice >= 0 and T[indice] > cle:
-         T[indice + 1] =  T[indice]
+      while indice >= 0 and tab[indice] > cle:
+         tab[indice + 1] =  tab[indice]
          indice -= 1
       tab[indice + 1] = cle
    return tab
@@ -167,7 +167,7 @@ def dichotomie(liste : list, x : int):
   while found == False and start <= end:
     mid = (start + end) // 2
     if liste[mid] == x:
-      found = true
+      found = True
     else :
       if x > liste[mid]:
         start = mid + 1
