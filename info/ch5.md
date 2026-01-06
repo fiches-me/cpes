@@ -56,7 +56,7 @@ Pour encoder des flottants, on suivra la norme IEEE754 (Institute of Electrical 
 
 On doit pouvoir l'écrire, en décimal, de la manière suivante :
 
-$$s \times m \times 2^e-1023$$
+$$s \times m \times 2^{e-1023}$$
 
 la mantisse est écrite en puissance de deux inversés (1/2, 1/4...).
 
