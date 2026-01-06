@@ -8,6 +8,9 @@ finished: true
 
 # 📠 Bases de données relationnelles
 
+> [!IMPORTANT]
+> Besoin d'un résumé efficace ? Regardez [cette fiche de révision](https://kxs.fr/cours/mysql/) par mon ancien prof d'info
+
 Les bases de données (abrégé BDD) sont apparues à la fin des années 60 pour répondre à un besoin de gestion qualitative et quantitative des données informatiques. Les BDD relationnelles issues des recherches de Edgar Codd (1923 - 2003) sont celles qui ont connu le plus grand essor et qui sont le plus utilisées aujourd'hui.
 
 Les **systèmes de gestions de bases de données (SGBD)** (*Database Management System*) sont des applications/logiciels informatiques permettant de créer et de gérer des bases de données (ex: PostgreSQL).
