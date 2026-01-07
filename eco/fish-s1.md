@@ -71,7 +71,7 @@ Auteur des **principes de  l'économie politique et de l'impôt**. Il est contre
 
 #### Sismondi (1773–1842)
 
-Critique l'optimisme libéral.
+Critique l'optimisme libéral. L -> K
 
 #### Karl Marx (1818–1883)
 
