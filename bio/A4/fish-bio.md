@@ -3,7 +3,7 @@ title: 🐟 Fish Santé
 draft: true
 ---
 
-# 🐟 Fiche de Révision : Physiologie Humaine
+# 🐟 Fish de Révision : Physiologie Humaine
 
 ## 🧊 Échanges d'énergie et de matière
 
