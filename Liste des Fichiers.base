@@ -2,8 +2,6 @@ filters:
   and:
     - file.ext == "md"
     - file.name != "README"
-formulas:
-  Untitled: ""
 properties:
   note.title:
     displayName: Titre (web)
@@ -13,6 +11,8 @@ properties:
     displayName: Finie ?
   file.basename:
     displayName: Nom du fichier
+  file.folder:
+    displayName: Dossier
 views:
   - type: table
     name: Table
@@ -21,14 +21,21 @@ views:
       - title
       - draft
       - finished
+      - file.folder
     sort:
       - property: draft
+        direction: DESC
+      - property: title
+        direction: ASC
+      - property: file.name
+        direction: DESC
+      - property: file.folder
+        direction: DESC
+      - property: file.path
         direction: ASC
       - property: finished
         direction: ASC
       - property: file.basename
-        direction: ASC
-      - property: title
         direction: ASC
       - property: file.name
         direction: DESC

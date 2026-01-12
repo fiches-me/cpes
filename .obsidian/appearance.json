@@ -5,7 +5,7 @@
     "fonts",
     "colors"
   ],
-  "textFontFamily": "Plus Jakarta Sans,Swift3D MFFM Emoji,Inter",
+  "textFontFamily": "Swift3D MFFM Emoji,Plus Jakarta Sans,Inter",
   "nativeMenus": false,
   "theme": "system",
   "monospaceFontFamily": "JetBrains Mono"
