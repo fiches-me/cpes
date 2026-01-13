@@ -8,5 +8,6 @@
   "textFontFamily": "Swift3D MFFM Emoji,Plus Jakarta Sans,Inter",
   "nativeMenus": false,
   "theme": "system",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "showRibbon": false
 }
