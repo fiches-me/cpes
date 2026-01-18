@@ -1,6 +1,3 @@
----
-title: Citations CPES1 2025-2026
----
 # Élèves
 ## Ulysse
 
@@ -14,8 +11,6 @@ On se lave les oreilles comme on se lave le cul
 Elle glisse ta darrone
 
 100%! Je suis trop bon en cyberharcelement !
-
-Moi je dis jamais non pour les culs
 ## Maylys
 Et hop elle te fait un bisous avec ses fesses
 
@@ -40,6 +35,9 @@ Les gens ont peur des communistes et de jean Luc melanchon
 Je meurs mais c'est bon
 ## Nina
 J'étais en mode chill avec un couteau
+
+## 
+C'est pas le clavier qui fait le codeur mais c'est le codeur qui fait le clavier
 # Profs
 ## Gras-Sayerle
 - Je l'écrirais l'an prochain
