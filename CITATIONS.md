@@ -38,7 +38,7 @@ Je meurs mais c'est bon
 ## Nina
 J'étais en mode chill avec un couteau
 
-## 
+## Marcel
 C'est pas le clavier qui fait le codeur mais c'est le codeur qui fait le clavier
 # Profs
 ## Gras-Sayerle
