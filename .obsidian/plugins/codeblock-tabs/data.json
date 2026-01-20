@@ -1,9 +1,0 @@
-{
-  "extraLang": {
-    "dataview": false,
-    "dataviewjs": false,
-    "py": true,
-    "python": true
-  },
-  "defaultTitle": "Code"
-}

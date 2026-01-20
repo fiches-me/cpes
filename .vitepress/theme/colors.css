@@ -240,3 +240,7 @@ u {
 .VPLocalNav {
   border-radius: 0 0 1rem 1rem;
 }
+
+h1 strong {
+ font-weight: 800 !important;
+}
