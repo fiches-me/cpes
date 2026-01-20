@@ -39,6 +39,36 @@ Touts les biens/services utilisés lors d'un processus de production (exemple : 
 
 C'est la consommation de tout les biens *et services* achetés par les ménages pour satisfaire leurs besoins. *C'est le gros agrégea utilisé en statistique publiques.*
 
+## Épargne
+
 Il y a également une différence à faire entre la dépense de consommation et la consommation, qui prend alors en compte l'inflation. 
 
-L'épargne est une variable de flux : on considère que l'épargne, chaque mois, est ajouté au total d'épargne en banque. La sur-épargne est une variable de stock : c'est l'épargne déjà stocké qui n'est pas utilisée. 
+L'épargne est une variable de flux : on considère que l'épargne, chaque mois, est ajouté au total d'épargne en banque. La sur-épargne est une variable de stock : c'est l'épargne déjà stocké qui n'est pas utilisée.  
+
+Une économie qui va bien **possède peu de sur-épargne**. On peut voir qu'en France, après 2020, on observe l'apparition d'**épargne de précaution**. Il existe également beaucoup de forme d’épargne, avec des actifs (boursiers, immobiliers), des plans d'épargnes (retraite), etc. 
+C'est le **patrimoine des individus**.
+On analyse ici donc les **stratégies patrimoniales**.
+
+## Déciles
+Pour classer les personnes en fonction de leurs richesses, on utilise les déciles. On coupe la quantité 
+
+```mermaid
+timeline
+    title Organisation des déciles
+    D1 : + Pauvres
+	D2 : x
+	D3 : x
+	D4 : x
+	D5 : Patrimoine
+	D6 : Médian
+	D7 : x
+	D8 : x
+	D9 : x
+	D10 : + Riches
+```
+
+Les plus défavorisés (30%, D1, D2, D3) n'ont pas accès au patrimoine immobilier. Il emprunte également beaucoup. On observe également que plus on monte dans la richesse, plus l'épargne est optimisée. 
+
+![](patrimoine-déciles.png)
+
+La différence de quantité de patrimoine est également clivante. Le patrimoine des D10 est d'environ 1.500.00€, contre 15.000 pour le D1 (le patrimoine médian en France est de 200.000€). **Comment appréhender les choix d'épargne ?**
