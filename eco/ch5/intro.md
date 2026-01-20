@@ -33,4 +33,12 @@ La consommation **durable/non-durable** est calculé en fonction de la longévit
 
 Un bien est dit marchand si un profit est généré par un produit (les productions non-marchandes produisent à perte, comme des écoles, où sans bénéfices, comme l'auto-consommation, les potagers). 
 ## Consommation **intermédiaire**
+
+Touts les biens/services utilisés lors d'un processus de production (exemple : du papier pour faire un journal). On oppose cette consommation à la **consommation finale**, calculé à la fin du processus de production.
 ## Consommation **effective** des ménages
+
+C'est la consommation de tout les biens *et services* achetés par les ménages pour satisfaire leurs besoins. *C'est le gros agrégea utilisé en statistique publiques.*
+
+Il y a également une différence à faire entre la dépense de consommation et la consommation, qui prend alors en compte l'inflation. 
+
+L'épargne est une variable de flux : on considère que l'épargne, chaque mois, est ajouté au total d'épargne en banque. La sur-épargne est une variable de stock : c'est l'épargne déjà stocké qui n'est pas utilisée. 
