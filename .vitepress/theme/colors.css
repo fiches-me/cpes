@@ -246,3 +246,12 @@ h2 strong,
 h3 strong {
  font-weight: 800 !important;
 }
+
+.red-underline {
+  text-decoration-color: var(--color-l-red-30);
+}
+
+.wrong-underline {
+  text-decoration-color: var(--color-l-red-30);
+  text-decoration-style: wavy;
+}

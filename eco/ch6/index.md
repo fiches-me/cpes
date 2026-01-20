@@ -1,4 +1,5 @@
 ---
 order: 6
-aliases:
+draft: true
+title: Chapitre 6
 ---
