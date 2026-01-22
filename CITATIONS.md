@@ -13,6 +13,8 @@ Elle glisse ta darrone
 100%! Je suis trop bon en cyberharcelement !
 
 Moi je dis jamais non pour les culs hein
+
+OH MARCEL ! Je suis GAY !
 ## Maylys
 Et hop elle te fait un bisous avec ses fesses
 
@@ -30,6 +32,9 @@ La viande hachée te hache
 J'aimerais bien être sourd et muet
 
 Je préfère la prod à la com
+
+OH MARCEL ! OH MARCEL ! Je lui fais des enfants.
+
 ## Raphaël 
 Les gens ont peur des communistes et de jean Luc melanchon 
 
