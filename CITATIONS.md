@@ -26,6 +26,8 @@ L'ADN c'est un low-language
 
 La viande hachée te hache
 
+Mon grand père est le plus féministe des conservateur 
+
 ## Guilhem
 > Note: Ces cittations ont été ajoutés par d'autres personnes que moi, sinon c'est pas drôle
 
