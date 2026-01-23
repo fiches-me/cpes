@@ -1,8 +1,12 @@
 .trash
 node_modules
 .vitepress/dist
-.obsidian
+
 .vitepress/cache
 projets-solidaires.md
 work.md
 devoir.md
+
+.obsidian/themes
+.obsidian/appearance.json
+*workspace.json

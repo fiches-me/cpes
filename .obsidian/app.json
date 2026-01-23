@@ -1,0 +1,50 @@
+{
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "./",
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:attach-file",
+    "editor:toggle-code",
+    "editor:insert-link",
+    "editor:toggle-blockquote",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-footnote",
+    "editor:insert-table",
+    "editor:insert-mathblock",
+    "editor:insert-horizontal-rule",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:go-start",
+    "editor:go-end",
+    "obsidian-git:view-file-on-github",
+    "obsidian-linter:lint-file",
+    "editor:configure-toolbar"
+  ],
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "node_modules/"
+  ],
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 80
+  },
+  "showLineNumber": true,
+  "readableLineLength": true
+}
