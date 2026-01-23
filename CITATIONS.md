@@ -15,6 +15,8 @@ Elle glisse ta darrone
 Moi je dis jamais non pour les culs hein
 
 OH MARCEL ! Je suis GAY !
+
+(En parlant des animateurs de RDR) Il doit être content de voir des couilles toute la journée.
 ## Maylys
 Et hop elle te fait un bisous avec ses fesses
 
