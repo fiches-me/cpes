@@ -46,5 +46,6 @@
     "downscalePercent": 80
   },
   "showLineNumber": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "tabSize": 2
 }
