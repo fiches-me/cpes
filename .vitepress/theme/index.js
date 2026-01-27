@@ -3,6 +3,6 @@ import './fonts.css'
 import './callouts.css'
 import './colors.css'
 
-import '../../.obsidian/snippets/colors.css'
+import '../../.obsidian/snippets/utils.css'
 
 export default DefaultTheme

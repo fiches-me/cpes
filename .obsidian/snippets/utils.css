@@ -6,3 +6,10 @@
   text-decoration-color: var(--color-l-red-30);
   text-decoration-style: wavy;
 }
+
+.grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 1rem;
+  align-items: center;
+}
