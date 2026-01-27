@@ -1,5 +1,5 @@
 ---
-title: Chapitre 3
+title: ⚡ Chapitre 3
 ---
 
 ## Table des matières
