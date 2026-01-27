@@ -73,3 +73,9 @@ Quand on a pas de sous on arrête de consommer ? Nononon on fait comme moi on s'
 Bref, je parle pas latin je m'en tappe
 
 Merde, j'ai oublié de prendre de l'argent, en même temps j'en ai pas
+
+Il veut être heureux le consommateur, contrairement à nous, ce matin, qui nous sommes levé bien trop tot. 
+
+Elle va pivoter cette putain de courbe
+
+Là mon bac d'art plastique prend tout son sens
