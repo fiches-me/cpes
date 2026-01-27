@@ -94,15 +94,6 @@ export default defineConfig(
       },
       {
         documentRootPath: '/',
-        scanStartPath: 'socio',
-        resolvePath: '/socio/',
-        useTitleFromFrontmatter: true,
-        useFolderTitleFromIndexFile: true,
-        sortMenusByFrontmatterOrder: true,
-        excludeFilesByFrontmatterFieldName: 'draft',
-      },
-      {
-        documentRootPath: '/',
         scanStartPath: 'contribution',
         resolvePath: '/contribution/',
         useTitleFromFrontmatter: true,
