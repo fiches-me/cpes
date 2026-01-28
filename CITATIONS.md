@@ -39,6 +39,8 @@ Je préfère la prod à la com
 
 OH MARCEL ! OH MARCEL ! Je lui fais des enfants.
 
+Tu veux que je te passe mon sigma ?
+
 ## Raphaël 
 Les gens ont peur des communistes et de jean Luc melanchon 
 
