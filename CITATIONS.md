@@ -84,3 +84,5 @@ Il veut être heureux le consommateur, contrairement à nous, ce matin, qui nous
 Elle va pivoter cette putain de courbe
 
 Là mon bac d'art plastique prend tout son sens
+
+Les individus vont faire de la merde, et ne pas épargner... comme moi quoi
