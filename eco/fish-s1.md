@@ -184,9 +184,9 @@ Constante qui permet de déterminer si une modification de l’investissement/de
 Permet de prévoir comment l'investissement va réagir lorsque la production varie (car la demande varie).   
 
 $$
-K_t = v \times \huge{y}_t \text{  with  } v = \frac{K}{\huge{y}}
+K_t = v \times \large{y}_t \text{  with  } v = \frac{K}{\large{y}}
 \Longleftrightarrow
-K_{t + 1} - K_t = v(\huge{y}_{t + 1} - \huge{y}_t) = I_t
+K_{t + 1} - K_t = v(\large{y}_{t + 1} - \large{y}_t) = I_t
 $$
 
 ### Stabilisateurs Automatiques

@@ -21,7 +21,7 @@ finished: true
 
 ### Opérations "de bases"
 
-- $\huge{y}\normalsize = ln(x) \Longleftrightarrow x = e^y$
+- $\large{y}\normalsize = ln(x) \Longleftrightarrow x = e^y$
 - $ln(1) = 0$
 - $ln(e) = 1$
 - $ln(\frac{1}{e}) = -1$
