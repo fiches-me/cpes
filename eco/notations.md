@@ -14,16 +14,16 @@ order: 1
 - $\frac{W}{P}$ : Real Wages (salaire réel)
 - $L$ = travail (origine: Labor)
 - $C$ = Consommation
-- $\gamma$ = Production
+- $\huge{y}$ = Production
 - $S$ = Épargne (origine: X)
 - $I$ = Investissement
 - $R$ = Real interest rate. $R = \frac{W}{P}$
 - $G$ = Public Expanses
 
 ## Formules contables
-- $\gamma = C + I + G + (X - M)$[^1] 
-- $\gamma = C + S + T$[^2] 
-- $\gamma = W + Div + S_F$
+- $\huge{y}\normalsize= C + I + G + (X - M)$[^1] 
+- $\huge{y}\normalsize= C + S + T$[^2] 
+- $\huge{y}\normalsize= W + Div + S_F$
 - Real GDP = $\frac{Nominal GDP}{CPI}$
 ## Neoclassical framework
 - The Money Supply is fixed.

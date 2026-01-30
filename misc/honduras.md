@@ -1,3 +1,6 @@
+---
+title: Honduras
+---
 Greetings: A simple "buenos días" can go a long way in making new friends. It's polite to greet shop assistants and locals, especially in smaller towns.
 
 Family: Family is very important in Honduras, and children often grow up close to their parents. It's common for Hondurans to share their family backgrounds with visitors.
