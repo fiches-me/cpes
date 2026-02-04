@@ -9,4 +9,6 @@ devoir.md
 
 .obsidian/themes
 .obsidian/appearance.json
-*workspace.json
+workspace-mobile.json
+workspace.json
+workspaces.json
