@@ -47,6 +47,9 @@ Tu veux que je te passe mon sigma ?
 ## Raphaël 
 Les gens ont peur des communistes et de jean Luc melanchon 
 
+## Maxence
+J'écoute la playlist de Jeffrey Epstein
+
 ## Camille
 Je meurs mais c'est bon
 ## Nina
@@ -61,7 +64,7 @@ C'est pas le clavier qui fait le codeur mais c'est le codeur qui fait le clavier
 - (en parlant à Maxense) Mais oui bebou
 - J'ai besoin de le kidnapper (Ok, je ferme la porte) – tu passeras chez moi ?
 - Y'a deux m à comma sinon on s'évanouie
-- 
+
 ## Ondrejko
 - Il faut m’arrêter sinon je galope
 - ...avec mes fichiers de dinosaures
