@@ -24,6 +24,11 @@ OH MARCEL ! Je suis GAY !
 Et hop elle te fait un bisous avec ses fesses
 
 Regarde, j'ai fais un gros caca (Poilu ou pas?)
+
+tu veux que je t'encule en diagonale ?!
+
+Faut qu'on nique l'IA
+
 ## Javier
 Je suis comme un processeur qui est en train de throtle
 
