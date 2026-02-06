@@ -22,6 +22,16 @@ $$$$
 
 La fréquence relative associée est $\frac{n_j}{n}$
 ### Variables continues
+Dans certain cas, les valeurs sont trop variés et les petits changements ne sont pas intéressants. On peut alors **partitionner**, càd créer des catégories (que l'on appelle **classes**) :
+
+$$$$
+
+L'effectif de la classe $$ est $$. C'est données sont facilement representables avec des graphiques (histogramme).
+
+Les histogrammes permettent d'afficher quelques données supplémentaires. Le **mode** d'un histogramme est la classe la plus représentée. On peut calculer les effectifs cumulés avec $$
+
+#### Lien avec les probas
+#### Lien avec la fonction de répartition
 ## Indicateurs Statistiques
 ### Indicateurs de localisation
 ### Indicateurs de dispersion/variabilité
