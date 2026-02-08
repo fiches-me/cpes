@@ -95,6 +95,6 @@ Là mon bac d'art plastique prend tout son sens
 
 Les individus vont faire de la merde, et ne pas épargner... comme moi quoi
 
-Es ce que t'est elastique à la consommation de croquette toi ? Elle a mangé mon pain au chocolat ce matin
+Es ce que t'est élastique à la consommation de croquette toi ? Elle a mangé mon pain au chocolat ce matin
 
 Nan mais je sais que tu m'aime mais c'est pas le moment là
