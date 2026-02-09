@@ -1,26 +1,25 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig, UserConfig } from 'vitepress'
 import { withSidebar } from 'vitepress-sidebar';
 import { withMermaid } from "vitepress-plugin-mermaid";
 import { footnote } from "@mdit/plugin-footnote";
-import mdItObsidianCallouts from "markdown-it-obsidian-callouts";
 
+import mathjax3 from 'markdown-it-mathjax3';
 // https://vitepress.dev/reference/site-config
-const vitePressConfigs = {
+const vitePressConfigs : UserConfig<any> = {
   title: "📑 FICHES.ME",
   description: "Mes super fiches ig",
   cleanUrls: true,
   lastUpdated: true,
   markdown: {
     lineNumbers: true,
-    math: true,
+    math: false,
     languageAlias: {
       'pseudo-code': 'python',
       'conf': 'yaml',
     },
     config: (md) => {
-      // use more markdown-it plugins!
       md.use(footnote)
-      md.use(mdItObsidianCallouts)
+      //md.use(mathjax3)
     }
   },
   titleTemplate: ':title - FICHES',
@@ -52,64 +51,23 @@ const vitePressConfigs = {
     hostname: 'https://cpes.fiches.me'
   }
 }
+
+const sections = ['maths', 'eco', 'info', 'bio', 'contribution', 'livres'];
+
+const sidebarOptions = sections.map((section) => ({
+  documentRootPath: '/',
+  scanStartPath: section,
+  resolvePath: `/${section}/`,
+  useTitleFromFrontmatter: true,
+  useFolderTitleFromIndexFile: true,
+  sortMenusByFrontmatterOrder: true,
+  excludeFilesByFrontmatterFieldName: 'draft',
+  hyphenToSpace: true, 
+  underscoreToSpace: true,
+}));
+
 export default defineConfig(
-  withMermaid(
-    withSidebar(
-      vitePressConfigs, [
-      {
-        documentRootPath: '/',
-        scanStartPath: 'maths',
-        resolvePath: '/maths/',
-        useTitleFromFrontmatter: true,
-        useFolderTitleFromIndexFile: true,
-        sortMenusByFrontmatterOrder: true,
-        excludeFilesByFrontmatterFieldName: 'draft',
-      },
-      {
-        documentRootPath: '/',
-        scanStartPath: 'eco',
-        resolvePath: '/eco/',
-        useTitleFromFrontmatter: true,
-        useFolderTitleFromIndexFile: true,
-        sortMenusByFrontmatterOrder: true,
-        excludeFilesByFrontmatterFieldName: 'draft',
-      },
-      {
-        documentRootPath: '/',
-        scanStartPath: 'info',
-        resolvePath: '/info/',
-        useTitleFromFrontmatter: true,
-        useFolderTitleFromIndexFile: true,
-        sortMenusByFrontmatterOrder: true,
-        excludeFilesByFrontmatterFieldName: 'draft',
-      },
-      {
-        documentRootPath: '/',
-        scanStartPath: 'bio',
-        resolvePath: '/bio/',
-        useTitleFromFrontmatter: true,
-        useFolderTitleFromIndexFile: true,
-        sortMenusByFrontmatterOrder: true,
-        excludeFilesByFrontmatterFieldName: 'draft',
-      },
-      {
-        documentRootPath: '/',
-        scanStartPath: 'contribution',
-        resolvePath: '/contribution/',
-        useTitleFromFrontmatter: true,
-        useFolderTitleFromIndexFile: true,
-        sortMenusByFrontmatterOrder: true,
-        excludeFilesByFrontmatterFieldName: 'draft',
-      },
-      {
-        documentRootPath: '/',
-        scanStartPath: 'livres',
-        resolvePath: '/livres/',
-        useTitleFromFrontmatter: true,
-        useFolderTitleFromIndexFile: true,
-        sortMenusByFrontmatterOrder: true,
-        excludeFilesByFrontmatterFieldName: 'draft',
-      }
-    ]),
-  )
+  //withMermaid(
+    withSidebar(vitePressConfigs, sidebarOptions)
+  //)
 );
