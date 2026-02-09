@@ -69,6 +69,7 @@ C'est pas le clavier qui fait le codeur mais c'est le codeur qui fait le clavier
 - (en parlant à Maxense) Mais oui bebou
 - J'ai besoin de le kidnapper (Ok, je ferme la porte) – tu passeras chez moi ?
 - Y'a deux m à comma sinon on s'évanouie
+- Faux regarder à gauche et à droite... bon je t'ai grié la priorité mais
 
 ## Ondrejko
 - Il faut m’arrêter sinon je galope
