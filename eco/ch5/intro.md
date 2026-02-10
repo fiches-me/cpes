@@ -22,6 +22,7 @@ Nous avons déjà vu vaguement à quoi resemble la consommation : d'abord Y, pui
 => Document 1
 
 La consommation a plusieurs sous-définitions :
+
 ## Consommation **durable/non-durable**
 
 La consommation **durable/non-durable** est calculé en fonction de la longévité des biens. Les biens sont triés dans les catégories suivantes :
@@ -32,9 +33,11 @@ La consommation **durable/non-durable** est calculé en fonction de la longévit
 ## Consommation **marchande/non-marchande**
 
 Un bien est dit marchand si un profit est généré par un produit (les productions non-marchandes produisent à perte, comme des écoles, où sans bénéfices, comme l'auto-consommation, les potagers). 
+
 ## Consommation **intermédiaire**
 
 Touts les biens/services utilisés lors d'un processus de production (exemple : du papier pour faire un journal). On oppose cette consommation à la **consommation finale**, calculé à la fin du processus de production.
+
 ## Consommation **effective** des ménages
 
 C'est la consommation de tout les biens *et services* achetés par les ménages pour satisfaire leurs besoins. *C'est le gros agrégea utilisé en statistique publiques.*
@@ -50,6 +53,7 @@ C'est le **patrimoine des individus**.
 On analyse ici donc les **stratégies patrimoniales**.
 
 ## Déciles
+
 Pour classer les personnes en fonction de leurs richesses, on utilise les déciles. On coupe la quantité 
 
 ```mermaid
@@ -69,6 +73,6 @@ timeline
 
 Les plus défavorisés (30%, D1, D2, D3) n'ont pas accès au patrimoine immobilier. Il emprunte également beaucoup. On observe également que plus on monte dans la richesse, plus l'épargne est optimisée. 
 
-![](patrimoine-déciles.png)
+![](images/patrimoine-déciles.png)
 
 La différence de quantité de patrimoine est également clivante. Le patrimoine des D10 est d'environ 1.500.00€, contre 15.000 pour le D1 (le patrimoine médian en France est de 200.000€). **Comment appréhender les choix d'épargne ?**

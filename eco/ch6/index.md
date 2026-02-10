@@ -1,5 +1,6 @@
 ---
 order: 6
-draft: true
+draft: false
 title: Chapitre 6
 ---
+# La théorie de l'équilibre général
