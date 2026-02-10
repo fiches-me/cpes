@@ -2,6 +2,7 @@ import { defineConfig, UserConfig } from 'vitepress'
 import { withSidebar } from 'vitepress-sidebar';
 import { withMermaid } from "vitepress-plugin-mermaid";
 import { footnote } from "@mdit/plugin-footnote";
+import mdItObsidianCallouts from 'markdown-it-obsidian-callouts';
 
 import mathjax3 from 'markdown-it-mathjax3';
 // https://vitepress.dev/reference/site-config
@@ -19,7 +20,7 @@ const vitePressConfigs : UserConfig<any> = {
     },
     config: (md) => {
       md.use(footnote)
-      //md.use(mathjax3)
+      md.use(mdItObsidianCallouts)
     }
   },
   titleTemplate: ':title - FICHES',
