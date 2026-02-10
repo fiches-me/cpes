@@ -31,3 +31,6 @@ Réseau de filaments protéiques internes assurant la forme et la mobilité de l
 > 2. **Sous-muqueuse** (tissu conjonctif plus dense + vaisseaux)
 > 3. **Musculeuse** (muscles lisses circulaires et longitudinaux)
 > 4. **Séreuse** (tissu conjonctif externe de protection)
+
+---
+## Lymphe
