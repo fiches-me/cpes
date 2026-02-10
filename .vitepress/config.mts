@@ -12,7 +12,7 @@ const vitePressConfigs : UserConfig<any> = {
   lastUpdated: true,
   markdown: {
     lineNumbers: true,
-    math: false,
+    math: true,
     languageAlias: {
       'pseudo-code': 'python',
       'conf': 'yaml',
