@@ -62,6 +62,8 @@ J'étais en mode chill avec un couteau
 
 ## Marcel
 C'est pas le clavier qui fait le codeur mais c'est le codeur qui fait le clavier
+
+je me sauve le verre 
 # Profs
 ## Gras-Sayerle
 - Je l'écrirais l'an prochain
