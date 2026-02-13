@@ -99,3 +99,7 @@ Les individus vont faire de la merde, et ne pas épargner... comme moi quoi
 Es ce que t'est élastique à la consommation de croquette toi ? Elle a mangé mon pain au chocolat ce matin
 
 Nan mais je sais que tu m'aime mais c'est pas le moment là
+
+## Firens
+
+Epstein, come back! But not as Epstein.

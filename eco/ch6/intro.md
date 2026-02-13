@@ -15,6 +15,9 @@ Cependant, cet expression n'est pas prouvé. Le but de cet article est de prouve
 
 On réfléchit également autour de **panier de biens**, définit par leur lieu, date et xxx de disponibilité.
 
+> [!NOTE]
+> On trouvera dans ce modèle un grand nombre d'équivalences, qui correspondent à l'idée du troc. Ce modèle est basée sur le troc, il n'y a pas vraiment de monnaie.
+
 Toute l'information nécessaire à l'échange de bien est disponible à tous.
 
 Quelques notations :
@@ -45,7 +48,7 @@ Le TMS correspond à la pente de la tangente en ce point. On appelle xxx le bien
 C'est un **taux de réserve**, car si le prix est plus élevé que ce qu'ils étaient prêt à donner, alors ils ne feront pas l'échange
 
 > [!EXAMPLE]
-> Toujours avec l'exemple différent, si le produit 1 vaux bien 2€ et le produit 2 1€, alors tout va bien. Si il faut abandonner plus de $p_1$ (si il vaux moins chère), alors le consommateur n'effectuera pas l'échange
+> Toujours avec l'exemple différent, si $p_1$ vaux bien 2€ et $p_2$ 1€, alors tout va bien. Si il faut abandonner plus de $p_1$ (si il vaux moins chère), alors le consommateur n'effectuera pas l'échange
 
 *Nous avons parlé d'utilité au dessus : il est possible de créer une **fonction d'utilité u(.) croissante**.* Si $u(Q) \ge u(Q^\prime)$ alors $Q \succeq Q^\prime$. Si $u(Q) = u(Q^\prime)$ alors $Q \sim Q^\prime$ 
 
@@ -62,5 +65,27 @@ Le lien entre courbe d’indifférence & fonction d'utilité est que $u(.)$ perm
 
 L'individu $A$ a pour dotation initiale $Q_0 = (9, 6)$. Il a pour préférence $u_A (q_1, q_2) = \sqrt{q_1} \times q_2$ Pour trouver l'équation de la courbe d'indifférence, il faut donc $u_A (q_1, q_2) = u_A(Q_0)$. Ici $q_2 = \frac{18}{\sqrt{q_1}}$ (de la forme $y = f(x)$).  
 
-> [!NOTE]
-> On retrouve ici un grand nombre d'équivalences, qui correspondent à l'idée du troc, condition du modèle.
+On peut aussi définir des équations avec une autre fonctions, $q_2 = g(q_1)$
+
+Pour la démo, on peut également calculer la dérivé partielle :
+
+$$g^\prime(q_1) = - \frac{u^\prime_{q_1}(q_1, q_2)}{u^\prime_{q_2}(q_1, q_2)}$$
+
+Et on obtient la formule du TMS
+
+$$\text{TMS}_{(q_1, q_2)} = |g^\prime (q_1)| =\frac{u^\prime_{q_1}(q_1, q_2)}{u^\prime_{q_2}(q_1, q_2)}$$
+
+Qui permet de calculer la quantité de bien $q_2$ pour obtenir un bien $q_1$
+
+> [!EXAMPLE]
+> On calcule d'abord le TMS "général"
+>
+> $$\text{TMS}_A = \frac{u^\prime_{q_1}}{u^\prime_{q_2}} = \frac{\frac{1}{2} \times q_1 ^ {- \frac{1}{2}}\times q_2}{q_1^{\frac{1}{2}}} = \frac{q_2}{q_1}$$
+>
+> Puis on l'applique au panier du consommateur
+>
+> $$\text{TMS}_A(Q_{0A}) = \frac{6}{2 \times 0} = \frac{1}{3}$$
+>
+> C'est le prix maximal en bien 2 pour obtenir une unité du bien 1
+
+**Attention!** Ici, si on avait calculé $\text{TMS}(q_2, q_1)$, alors on aurait calculé la qunatité de bien 1 pour acheté un bien 2, qui ici aurait value 3.
