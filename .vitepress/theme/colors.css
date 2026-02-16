@@ -220,6 +220,12 @@ em {
   color: var(--color-secondary);
 }
 
+.vp-doc a,
+.vp-doc a:hover {
+  color: var(--color-d-green-20);
+  text-decoration: underline 1px hsla(154, 57%, 42%, 0.5);
+}
+
 u {
   text-decoration-thickness: 8%;
 }
@@ -244,5 +250,5 @@ u {
 h1 strong,
 h2 strong,
 h3 strong {
- font-weight: 800 !important;
+ font-weight: 900 !important;
 }
