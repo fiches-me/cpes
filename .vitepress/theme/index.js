@@ -2,6 +2,8 @@ import DefaultTheme from 'vitepress/theme'
 import './fonts.css'
 import './callouts.css'
 import './colors.css'
+import './checkboxes.css'
+import './progress.css'
 
 import '../../.obsidian/snippets/utils.css'
 
