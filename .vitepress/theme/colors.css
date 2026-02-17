@@ -220,6 +220,12 @@ em {
   color: var(--color-secondary);
 }
 
+.vp-doc a[href^="#"],
+.vp-doc a[href^="#"]:hover {
+  color: var(--color-d-yellow-20);
+  text-decoration: underline 1px hsla(42, 79%, 51%, 0.5);
+}
+
 .vp-doc a,
 .vp-doc a:hover {
   color: var(--color-d-green-20);
