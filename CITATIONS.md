@@ -121,6 +121,8 @@ Es ce que t'est élastique à la consommation de croquette toi ? Elle a mangé m
 
 Nan mais je sais que tu m'aime mais c'est pas le moment là
 
+Tout le monde va se mettre tout nu et on va échanger !
+
 ## Firens
 
 Epstein, come back! But not as Epstein.
