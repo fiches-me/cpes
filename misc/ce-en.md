@@ -1,0 +1,9 @@
+Christian could be called a Corporate Traveler. As a Lead Editor from a major firm, she is doing trip every once in a month and even every weeks for internal trips in australia. With covid, she switch form waiting in airport lounges to getto,g video calls into people's lounge rooms. 
+
+"Technology works with all clients" she said. Buisness travels are endengared with the pandemic : Boston consulting predict more damage on buisness trips than domestic ones. According to a survey, 9 executives out of 10 plan to travel less after covid.
+The length of the pandemic taught us how to work withouth travels.
+[Sadly], buisness travels are a big part of airplane's company revenu: 40% passengers, 60% revenues for a total of 7.5bn dollars for national planes ; 10% passengers yet a whopping 10.5bn in revenue and an aditionnal 3.5bn invested in agents for buisness classes.
+
+But while domestic border close is a shot term issue, a bigger, long term one is awaiting : corporate climate pledges. More and more buisnesses take care of their environement impact and lead to do less plane trips and avoid mooving for a single meeting. Christian states that with theses changes, quick trips are gonna cease. 
+
+Some hopes is shared in the corporate events sector : the central conference center still manage to plan over 700 events for a total of 1.4M visitors. Geff D., manager of the conference center, says that such activity in a capital city drive the spending (of what?) on economicall benefit. According to Tom V., the energy of a conference can't be reproduced virtually. He anticipate that the recovery of domestic air travel could take from 2 to 3 years, and way worse for buisness ones. Also, travel between europe & US will re-open quickly, wheras Australia will have more issues reoppening with the world.

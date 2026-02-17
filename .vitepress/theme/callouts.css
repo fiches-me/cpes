@@ -1,170 +1,275 @@
-.maintenance::after {
-  content: "⚠️ Maintenance prévu le mercredi 17 décembre";
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  background: #ff4444;
-  color: white;
-  text-align: center;
-  padding: 10px;
-  z-index: 9999;
-}
-
-
-/**
- * This css file is generated.
- * Make changes to `scss` version.
- */
-/**
- * Color about
- */
 :root {
-  --bold-modifier: 200;
-  --line-height-tight: 1.3;
+  /* --------------------------------------------------------- */
+  /* 1. CORE VARIABLES (Bridge between Obsidian & VitePress)   */
+  /* --------------------------------------------------------- */
+  
+  /* Layout & Sizing */
+  --callout-radius: 10px;
   --callout-border-width: 0px;
-  --callout-border-opacity: 0.25;
   --callout-padding: 12px 12px 12px 24px;
-  --callout-radius: 4px;
-  --callout-title-color: inherit;
   --callout-title-padding: 0;
   --callout-title-size: inherit;
-  --callout-title-weight: 600;
   --callout-content-padding: 0;
-  --callout-content-background: transparent;
-  --callout-blend-mode: var(darken);
-  --callout-info: 8, 109, 221;
-  --callout-todo: 8, 109, 221;
-  --callout-default: 8, 109, 221;
-  --callout-bug: 233, 49, 71;
-  --callout-error: 233, 49, 71;
-  --callout-fail: 233, 49, 71;
-  --callout-success: 8, 185, 78;
-  --callout-example: 120, 82, 238;
-  --callout-important: 0, 191, 188;
-  --callout-summary: 0, 191, 188;
-  --callout-tip: 0, 191, 188;
-  --callout-question: 236, 117, 0;
-  --callout-warning: 236, 117, 0;
-  --callout-quote: 158, 158, 158;
+  --callout-gap: 8px; 
+  
+  /* Opacity & Mixing */
+  --callout-color-opacity: 0.1;
+  --callout-title-opacity: 0.5;
+  --callout-border-opacity: 0.25;
+  
+  --callout-title-shadow: none;
+  --callout-content-shadow: none;
+
+  /* --------------------------------------------------------- */
+  /* 2. COLOR PALETTE (Extracted from New SCSS)                */
+  /* --------------------------------------------------------- */
+  --callout-rgb-general:    182, 196, 182;
+  --callout-rgb-note:       200, 175, 155;
+  --callout-rgb-summary:    234, 181, 52;
+  --callout-rgb-abstract:   34, 152, 225;
+  --callout-rgb-tldr:       240, 180, 225;
+  --callout-rgb-info:       71, 162, 187;
+  --callout-rgb-todo:       58, 173, 252;
+  --callout-rgb-tip:        70, 206, 185;
+  --callout-rgb-hint:       70, 206, 185;
+  --callout-rgb-important:  246, 113, 118;
+  --callout-rgb-success:    87, 200, 83;
+  --callout-rgb-check:      87, 200, 83;
+  --callout-rgb-done:       87, 200, 83;
+  --callout-rgb-question:   130, 190, 235;
+  --callout-rgb-help:       250, 128, 96;
+  --callout-rgb-faq:        130, 190, 235;
+  --callout-rgb-warning:    255, 161, 32;
+  --callout-rgb-caution:    255, 161, 32;
+  --callout-rgb-attention:  255, 161, 32;
+  --callout-rgb-fail:       226, 72, 86;
+  --callout-rgb-missing:    226, 72, 86;
+  --callout-rgb-danger:     226, 72, 86;
+  --callout-rgb-error:      226, 72, 86;
+  --callout-rgb-bug:        153, 93, 133;
+  --callout-rgb-example:    216, 141, 130;
+  --callout-rgb-quote:      173, 214, 171;
+  --callout-rgb-cite:       237, 217, 162;
+
+  /* Icon for Fold (SVG Data URI) */
   --callout-collapse-icon: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZD0ibTkgMThsNi02bC02LTYiLz48L3N2Zz4=");
 }
 
-.theme-light {
-  --callout-blend-mode: var(darken);
-}
+/* --------------------------------------------------------- */
+/* 3. BASE CALLOUT STYLING                                   */
+/* --------------------------------------------------------- */
 
-.theme-dark {
-  --callout-blend-mode: var(lighten);
-}
-
-html[data-theme=light] #app {
-  --callout-blend-mode: var(darken);
-}
-
-html[data-theme=dark] #app {
-  --callout-blend-mode: var(lighten);
-}
-
-/**
- * Obsidian callout about
- *
- * The following style is exactly the same as in obsidian
- */
 .callout {
-  overflow: hidden;
-  border-style: solid;
-  border-color: rgba(var(--callout-color), var(--callout-border-opacity));
-  border-width: var(--callout-border-width);
-  border-radius: var(--callout-radius);
+  /* Default variables */
+  --callout-color: var(--callout-rgb-general);
+  --callout-icon: "lucide-pencil"; /* Fallback */
+
+  /* Layout */
   margin: 1em 0;
-  mix-blend-mode: var(--callout-blend-mode);
-  background-color: rgba(var(--callout-color), 0.1);
-  padding: var(--callout-padding);
-  --callout-color: var(--callout-default);
-  --callout-icon: lucide-pencil;
+  padding: 0; /* Reset padding to handle inner elements */
+  display: flex;
+  flex-direction: column;
+  
+  /* Borders & Radius */
+  border-radius: var(--callout-radius);
+  border: var(--callout-border-width) solid rgba(var(--callout-color), var(--callout-border-opacity));
+  
+  /* Background: Uses Modern CSS color-mix for correct blending with VitePress Dark/Light modes */
+  /* var(--vp-c-bg) is the standard VitePress background variable */
+  background-color: color-mix(
+      in srgb, 
+      rgba(var(--callout-color), var(--callout-color-opacity)), 
+      var(--vp-c-bg)
+  );
+  
+  overflow: hidden;
 }
+
+/* --------------------------------------------------------- */
+/* 4. TITLE BAR                                              */
+/* --------------------------------------------------------- */
+
+.callout-title {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--callout-gap);
+  padding: 12px 12px 12px 24px; /* Default internal padding */
+  
+  color: rgb(var(--callout-color));
+  background-color: color-mix(
+      in srgb, 
+      rgba(var(--callout-color), var(--callout-title-opacity)), 
+      var(--vp-c-bg)
+  );
+  
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  
+  font-size: var(--callout-title-size);
+  line-height: 1.3;
+  cursor: default;
+}
+
+/* Collapsible logic */
 details.callout .callout-title {
-  margin: 0;
   cursor: pointer;
 }
-details.callout .callout-title .callout-fold {
+
+/* Inner Title Text */
+.callout-title-inner {
+  font-weight: 600;
+  color: inherit;
+  flex: 1; /* Pushes fold icon to the right */
+}
+
+/* --------------------------------------------------------- */
+/* 5. ICONS                                                  */
+/* --------------------------------------------------------- */
+
+/* Main Icon Wrapper */
+.callout-icon {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Icon SVG scaling */
+.callout-icon svg {
+  height: 1em;
+  width: 1em;
+}
+
+/* Fold Icon (The chevron) */
+.callout-fold {
+  margin-left: auto; /* Aligns fold to the right */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
   background-color: rgb(var(--callout-color));
+  
+  /* Masking logic from Old CSS to render the SVG data URI */
   mask-image: var(--callout-collapse-icon);
   mask-size: 100%;
   -webkit-mask-image: var(--callout-collapse-icon);
   -webkit-mask-size: 100%;
-  height: 24px;
-  width: 24px;
-  transition: 100ms ease-in-out;
+  
+  height: 18px;
+  width: 18px;
+  transition: transform 100ms ease-in-out;
 }
 
-details[close].callout > .callout-title > .callout-fold {
-  transform: rotate(-90deg);
-}
-
+/* Fold Rotation Logic */
 details[open].callout > .callout-title > .callout-fold {
   transform: rotate(90deg);
 }
+details:not([open]).callout > .callout-title > .callout-fold {
+  transform: rotate(0deg); /* Or -90deg depending on preference */
+}
 
-.callout .callout-title {
-  padding: var(--callout-title-padding);
-  display: flex;
-  gap: 4px;
-  font-size: var(--callout-title-size);
-  color: rgb(var(--callout-color));
-  line-height: var(--line-height-tight);
-  align-items: flex-start;
-}
-.callout .callout-title .callout-icon {
-  flex: 0 0 auto;
-  display: flex;
-  align-items: center;
-}
-.callout .callout-title .callout-title-inner {
-  --font-weight: var(--callout-title-weight);
-  font-weight: var(--font-weight);
-  color: var(--callout-title-color);
-}
-.callout .callout-title .callout-title-inner b,
-.callout .callout-title .callout-title-inner strong {
-  --font-weight: calc(var(--callout-title-weight) + var(--bold-modifier));
-  font-weight: var(--font-weight);
-}
-.callout .callout-content {
+/* --------------------------------------------------------- */
+/* 6. CONTENT AREA                                           */
+/* --------------------------------------------------------- */
+
+.callout-content {
+  padding: 0 24px 12px 24px;
+  background-color: transparent;
+  border-bottom-left-radius: var(--callout-radius);
+  border-bottom-right-radius: var(--callout-radius);
   overflow-x: auto;
-  padding: var(--callout-content-padding);
-  background-color: var(--callout-content-background);
 }
-.callout[data-callout=todo] {
-  --callout-color: var(--callout-todo);
-  --callout-icon: lucide-check-circle-2;
+
+/* Fix for collapsed state borders */
+.callout.is-collapsed .callout-title {
+  border-radius: var(--callout-radius);
 }
-.callout[data-callout=success], .callout[data-callout=check], .callout[data-callout=done] {
-  --callout-color: var(--callout-success);
-  --callout-icon: lucide-check;
+
+/* --------------------------------------------------------- */
+/* 7. THEME VARIANTS (Mapping Data Attributes)               */
+/* --------------------------------------------------------- */
+
+/* Note (Default) */
+.callout[data-callout="note"] {
+  --callout-color: var(--callout-rgb-note);
+  --callout-icon: "lucide-pencil"; 
 }
-.callout[data-callout=warning], .callout[data-callout=caution], .callout[data-callout=attention] {
-  --callout-color: var(--callout-warning);
-  --callout-icon: lucide-alert-triangle;
+
+/* Abstract / Summary / TLDR */
+.callout[data-callout="abstract"],
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"] {
+  --callout-color: var(--callout-rgb-abstract); /* or rgb-summary */
+  --callout-icon: "lucide-clipboard-list";
 }
-.callout[data-callout=danger], .callout[data-callout=error] {
-  --callout-color: var(--callout-error);
-  --callout-icon: lucide-zap;
+
+/* Info */
+.callout[data-callout="info"] {
+  --callout-color: var(--callout-rgb-info);
+  --callout-icon: "lucide-info";
 }
-.callout[data-callout=tip], .callout[data-callout=hint] {
-  --callout-color: var(--callout-tip);
-  --callout-icon: lucide-flame;
+
+/* Todo */
+.callout[data-callout="todo"] {
+  --callout-color: var(--callout-rgb-todo);
+  --callout-icon: "lucide-check-circle-2";
 }
-.callout[data-callout=example] {
-  --callout-color: var(--callout-example);
-  --callout-icon: lucide-list;
+
+/* Tip / Hint */
+.callout[data-callout="tip"],
+.callout[data-callout="hint"] {
+  --callout-color: var(--callout-rgb-tip);
+  --callout-icon: "lucide-flame";
 }
-.callout[data-callout=abstract], .callout[data-callout=summary], .callout[data-callout=tldr] {
-  --callout-color: var(--callout-summary);
-  --callout-icon: lucide-clipboard-list;
+
+/* Success / Check / Done */
+.callout[data-callout="success"],
+.callout[data-callout="check"],
+.callout[data-callout="done"] {
+  --callout-color: var(--callout-rgb-success);
+  --callout-icon: "lucide-check";
 }
-.callout[data-callout=quote], .callout[data-callout=cite] {
-  --callout-color: var(--callout-quote);
-  --callout-icon: quote-glyph;
+
+/* Question / FAQ / Help */
+.callout[data-callout="question"],
+.callout[data-callout="faq"],
+.callout[data-callout="help"] {
+  --callout-color: var(--callout-rgb-question);
+  --callout-icon: "lucide-help-circle";
+}
+
+/* Warning / Caution / Attention */
+.callout[data-callout="warning"],
+.callout[data-callout="caution"],
+.callout[data-callout="attention"] {
+  --callout-color: var(--callout-rgb-warning);
+  --callout-icon: "lucide-alert-triangle";
+}
+
+/* Failure / Danger / Error */
+.callout[data-callout="failure"],
+.callout[data-callout="fail"],
+.callout[data-callout="danger"],
+.callout[data-callout="error"] {
+  --callout-color: var(--callout-rgb-fail);
+  --callout-icon: "lucide-zap";
+}
+
+/* Bug */
+.callout[data-callout="bug"] {
+  --callout-color: var(--callout-rgb-bug);
+  --callout-icon: "lucide-bug";
+}
+
+/* Example */
+.callout[data-callout="example"] {
+  --callout-color: var(--callout-rgb-example);
+  --callout-icon: "lucide-list";
+}
+
+/* Quote */
+.callout[data-callout="quote"],
+.callout[data-callout="cite"] {
+  --callout-color: var(--callout-rgb-quote);
+  --callout-icon: "lucide-quote";
 }

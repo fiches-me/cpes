@@ -236,25 +236,90 @@ u {
   text-decoration-thickness: 8%;
 }
 
+/* 5. Typography Tweaks */
+h1 strong,
+h2 strong,
+h3 strong {
+  font-weight: 900 !important;
+}
+
+
+/* 1. Lock the Browser Window */
+/* This prevents the whole page from scrolling */
+html,
+body {
+  height: 100vh;
+  overflow: hidden; /* Disables the main window scrollbar */
+}
+
+/* 2. The Container (The 'Desk') */
+.VPContent {
+  /* Force the container to take exactly the full screen height */
+  height: 100vh;
+  
+  /* Flexbox helps us center the card or stretch it properly */
+  display: flex;
+  flex-direction: column;
+
+  border: 2rem;
+  border-color: #c94949;
+  
+  /* Add padding so the card floats inside (Top/Sides/Bottom) */
+  /* We use calc() to ensure the bottom padding isn't cut off */
+  padding: calc(var(--vp-nav-height) + 1rem) 1rem 1rem 1rem;
+  
+  background-color: var(--vp-c-bg-alt);
+  box-sizing: border-box;
+}
+
+/* 3. The Document (The Scrollable Card) */
+.VPDoc {
+  /* Take up all remaining vertical space in the container */
+  flex: 1;
+  
+  /* CRITICAL: This enables the internal scrolling */
+  overflow-y: auto; 
+  
+  /* Your App Styling */
+  border-radius: 1rem;
+  background-color: var(--color-l-gray-20);
+  position: relative;
+  
+  /* Inner spacing for the text inside the card */
+  padding: 3rem; 
+  
+  /* Optional: Smooth scrolling for internal links */
+  scroll-behavior: smooth;
+
+  border: 1px solid var(--vp-c-divider); 
+  
+  /* Ensure border doesn't add to width and break layout */
+  box-sizing: border-box;
+}
+
+/* 4. Dark Mode Support */
 .dark .VPDoc {
   background-color: var(--color-d-gray-90);
 }
 
-.VPDoc {
-  border-radius: 1rem;
-  background-color: var(--color-l-gray-20);
+/* 5. Custom Scrollbar for the Card (Recommended) */
+/* Since the card now scrolls, standard scrollbars look ugly inside a rounded card. */
+.VPDoc::-webkit-scrollbar {
+  width: 6px;
 }
 
-.VPContent {
-  background-color: var(--vp-c-bg-alt);
+.VPDoc::-webkit-scrollbar-track {
+  background: transparent;
+  margin-top: 1rem;    /* Keeps scrollbar away from rounded top corners */
+  margin-bottom: 1rem; /* Keeps scrollbar away from rounded bottom corners */
 }
 
-.VPLocalNav {
-  border-radius: 0 0 1rem 1rem;
+.VPDoc::-webkit-scrollbar-thumb {
+  background-color: var(--vp-c-divider);
+  border-radius: 20px;
 }
 
-h1 strong,
-h2 strong,
-h3 strong {
- font-weight: 900 !important;
+.aside-curtain {
+  background: transparent !important;
+  background-color: transparent !important;
 }
