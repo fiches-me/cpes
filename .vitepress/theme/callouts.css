@@ -217,7 +217,8 @@ details:not([open]).callout > .callout-title > .callout-fold {
 
 /* Tip / Hint */
 .callout[data-callout="tip"],
-.callout[data-callout="hint"] {
+.callout[data-callout="hint"],
+.callout[data-callout="définition"] {
   --callout-color: var(--callout-rgb-tip);
   --callout-icon: "lucide-flame";
 }
