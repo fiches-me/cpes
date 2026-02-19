@@ -2,9 +2,13 @@ import { defineConfig, UserConfig } from 'vitepress'
 import { withSidebar } from 'vitepress-sidebar';
 import { withMermaid } from "vitepress-plugin-mermaid";
 import { footnote } from "@mdit/plugin-footnote";
-import mdItObsidianCallouts from 'markdown-it-obsidian-callouts';
+import mdItTaskLists from 'markdown-it-task-lists';
+import { taskCheckboxPlugin } from './plugins/markdown-it-task-checkbox.mts';
 
+import mdItObsidianCallouts from 'markdown-it-obsidian-callouts';
+import markdownItObsidian from 'markdown-it-obsidian';
 import mathjax3 from 'markdown-it-mathjax3';
+
 // https://vitepress.dev/reference/site-config
 const vitePressConfigs : UserConfig<any> = {
   title: "📑 FICHES.ME",
@@ -21,6 +25,10 @@ const vitePressConfigs : UserConfig<any> = {
     config: (md) => {
       md.use(footnote)
       md.use(mdItObsidianCallouts)
+      md.use(markdownItObsidian, { enabled: true })
+      md.use(mathjax3)
+      md.use(mdItTaskLists, { enabled: true })
+      // md.use(taskCheckboxPlugin) // Temporarily disabled - causing blank page
     }
   },
   titleTemplate: ':title - FICHES',

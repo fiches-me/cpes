@@ -45,7 +45,7 @@
     "margin": "1",
     "downscalePercent": 80
   },
-  "showLineNumber": true,
+  "showLineNumber": false,
   "readableLineLength": true,
   "tabSize": 2
 }

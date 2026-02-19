@@ -1,0 +1,87 @@
+/* ========================================
+   LAYOUT CONFIGURATION
+   ======================================== */
+
+/* ─────────────────────────────────────
+   Base Layout
+   ───────────────────────────────────── */
+
+html,
+body {
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* ─────────────────────────────────────
+   Content Container with Border
+   ───────────────────────────────────── */
+
+.VPContent {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--vp-c-bg-alt);
+  box-sizing: border-box;
+}
+
+/* ─────────────────────────────────────
+   Document Card (Scrollable Area)
+   ───────────────────────────────────── */
+
+.VPDoc {
+  flex: 1;
+  z-index: 99;
+  overflow-y: auto;
+  position: relative;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  
+  /* Card styling */
+  border-radius: 1rem;
+  padding: 3rem;
+  border: 3px solid var(--color-l-gray-60);
+  
+  /* Light mode background */
+  background-color: var(--color-l-gray-20);
+}
+
+/* Dark Mode Support */
+.dark .VPDoc {
+  background-color: var(--color-d-gray-90);
+}
+
+@media (max-width: 768px) {
+  .VPContent,
+  .VPContent.has-sidebar {
+    padding: 0rem 0rem 8rem 0rem;
+    margin: 0rem 0rem 8rem 0rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .VPContent {
+    padding: calc(var(--vp-nav-height) + 1rem) 1rem 1rem 1rem;
+  }
+}
+
+/* 5. Custom Scrollbar for the Card (Recommended) */
+/* Since the card now scrolls, standard scrollbars look ugly inside a rounded card. */
+.VPDoc::-webkit-scrollbar {
+  width: 6px;
+}
+
+.VPDoc::-webkit-scrollbar-track {
+  background: transparent;
+  margin-top: 1rem;    /* Keeps scrollbar away from rounded top corners */
+  margin-bottom: 1rem; /* Keeps scrollbar away from rounded bottom corners */
+}
+
+.VPDoc::-webkit-scrollbar-thumb {
+  background-color: var(--vp-c-divider);
+  border-radius: 20px;
+}
+
+.aside-curtain {
+  background: transparent !important;
+  background-color: transparent !important;
+}

@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@mdit/plugin-footnote": "^0.22.4",
+    "markdown-it-obsidian": "^1.1.0",
     "markdown-it-obsidian-callouts": "^0.3.3",
+    "markdown-it-task-lists": "^2.1.1",
     "vitepress-plugin-mermaid": "^2.0.17",
     "vitepress-sidebar": "^1.33.1"
   }
