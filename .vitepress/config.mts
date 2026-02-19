@@ -38,7 +38,7 @@ const vitePressConfigs : UserConfig<any> = {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png',
     editLink: {
-      pattern: 'https://github.com/fiches-cc/cpes/edit/main/:path'
+      pattern: 'https://github.com/fiches-me/cpes/edit/main/:path'
     },
     nav: [
       { text: '🔢 Maths', link: '/maths' },
