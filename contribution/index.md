@@ -7,7 +7,7 @@ order: 1
 
 # 🎞 Un peu de contexte...
 
-Notre but n'est pas de coder un site web - j'ai pas pas de vie à ce point - mais nous essayons plutôt de rendre le site accesible à tous. Et ceux même sur la création de fiches.
+Notre but n'est pas de vous apprendre à coder un site web - je n'ai pas *pas* de vie à ce point - mais uniquement de rendre les fiches de révision accessible à tous. **Et petit bonus :** les technologies utilisés sur [fiches.me](../index.md) sont déjà utilisés par UPS et IPP pour les TPs !
 
 Le site se code tout seule. *Aucune magie noir dans le processus,* juste beaucoup de code au préalable - mais en résumé vos fiches sont maquillées de partout puis envoyé au Goulag où elles devient un site web. Conclusion : **Vous faites les fiches, on fait le reste.**
 

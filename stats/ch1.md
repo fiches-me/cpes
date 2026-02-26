@@ -19,25 +19,29 @@ Données : mesures sur des individus issus d'une population.
 
 ### Variables discrètes
 
-Deux types de variables existent : les variables **qualitatives** (ou *catégorielles*), tel que le nom, la couleur des yeux, alors que les variables **quantitatives** représentent des données numériques quantifiable.
 
-Plus précisément, si on étudie $n$ individus de variables $x_1 ... x_n$, on peut les rassembler dans des **modalités** $E={e_1 ... e_n}$. La fréquence absolue de la modalité $e_j$ est le nombre total d'individu $n_j$ dont la variable est égal à $e_j$
+Deux types de variables existent : les variables **qualitatives** (ou *catégorielles*), par exemple le nom ou la couleur des yeux, et les variables **quantitatives**, qui sont numériques et mesurables.
 
-$$n_j = \sum_{i=1}^{n} \mathbb{1} \{ x_i = e_j \}$$
+Plus précisément, si on étudie $n$ individus avec des valeurs $x_1,\dots,x_n$, on peut regrouper les observations en **modalités** $E=\{e_1,\dots,e_k\}$. La fréquence absolue de la modalité $e_j$ est le nombre d'individus $n_j$ pour lesquels la variable vaut $e_j$ :
 
-La fréquence relative associée est $\frac{n_j}{n}$
+$$n_j = \sum_{i=1}^{n} \mathbb{1}\{ x_i = e_j \}$$
+
+La fréquence relative associée est $\dfrac{n_j}{n}$.
+
 
 ### Variables continues
 
-Dans certain cas, les valeurs sont trop variés et les petits changements ne sont pas intéressants. On peut alors **partitionner**, càd créer des catégories (que l'on appelle **classes**) :
+Dans certains cas, les valeurs numériques varient beaucoup et les petits changements ne sont pas informatifs. On peut alors **partitionner**, c.-à-d. créer des catégories (appelées **classes**) :
 
-$$A = \{ [a_{i - 1} , a_i [\}_{i \in [1, k]}$$
+$$A = \{ [a_{i-1}, a_i[\}_{i=1}^k$$
 
-L'effectif de la classe $[a_{j-1} ; a_j$ est $$n_k = \sum_{i=1}^n \mathbb{1} \{ x_i \in [a_{i - 1} , a_i [ \} $$
+L'effectif de la classe $[a_{j-1}, a_j[$ est
+$$n_j = \sum_{i=1}^n \mathbb{1}\{ x_i \in [a_{j-1}, a_j[ \} .$$
 
-C'est données sont facilement representables avec des graphiques (histogramme).
+Ces données sont facilement représentables par des histogrammes.
 
-Les histogrammes permettent d'afficher quelques données supplémentaires. Le **mode** d'un histogramme est la classe la plus représentée. On peut calculer les effectifs cumulés avec $$mj =  \sum_{l=1}^{j} n_e$$
+Les histogrammes permettent d'afficher des informations complémentaires. Le **mode** est la classe la plus représentée. On peut calculer les effectifs cumulés avec
+$$N_j = \sum_{l=1}^{j} n_l.$$ 
 
 #### Lien avec les probas
 
@@ -90,8 +94,20 @@ $$e_n = x_n^* - x_1^*$$
 
 #### Quantiles empiriques
 
-$$\forall p \in ]0, 1[, \tilde{q}_{n,p} = \begin{cases} 
-      \frac12 (x_{np}^* + x_{np + 1}^*) \text{ si } np \in \mathbb{N} \\
-      x_{\lfloor np\rfloor}^* \text{ sinon} \\
+$$\forall p \in ]0,1[, \tilde{q}_{n,p} = \begin{cases}
+      \dfrac12\left(x_{np}^* + x_{np+1}^*\right) &\text{si } np \in \mathbb{N},\\
+      x_{\lfloor np\rfloor}^* &\text{sinon}.
 \end{cases}$$
-Elles permettent de généraliser la médiane ($\tilde{q}_{n, \frac12}$)
+
+Elles généralisent la médiane ($\tilde{q}_{n,\frac12}$). En pratique, on utilise souvent les quantiles $\frac14$, $\frac12$ et $\frac34$, utiles pour les boîtes à moustaches.
+
+==// Pas de lib graphique==
+
+## Éléments d'analyse d'étude statistique
+
+Lorsque nous analysons des données ou leurs représentations, il est important de se poser quelques questions :
+
+- **Introspection** : Suis-je objectif ? Quels biais peuvent affecter mon interprétation ? Ai-je fait preuve de discernement ?
+- **Perspective** : Ai-je considéré un contexte plus large ? Quelles sont les interprétations possibles et les contre-interprétations ? Les résultats concordent-ils avec d'autres études ?
+- **Qualité de la présentation** : La visualisation et les indicateurs sont-ils pertinents ? Quelles informations manquent (taille de l'échantillon, méthode de collecte...) ?
+- **Source** : Qui publie les données ? La source est-elle fiable ? Comment l'étude a-t-elle été financée ? Existe-t-il des études contradictoires ?
