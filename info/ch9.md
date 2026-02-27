@@ -3,7 +3,6 @@ title: Architecture Matérielle
 tags:
   - info
   - cours
-finished: false
 ---
 
 # Architecture Matérielle
@@ -20,94 +19,86 @@ finished: false
 2. Carte mère
 3. Processeur (*CPU*)
 4. Mémoire Vive (*RAM*)
-5. Mémoire Persistante (Disque dur, remplacé par des SDD)
+5. Mémoire persistante (disque dur, de plus en plus remplacée par des SSD)
 6. Cartes périphériques
     - Carte graphique (*GPU*)
     - Carte réseau (Wifi, Bluetooth)
     - Carte Son
 7. Clavier
 8. Souris
-9. Lecteur CD/DVD (oui, ce PC est une antiquité).
-5. Mémoire persistante (disque dur, de plus en plus remplacé par des SSD)
+9. Lecteur optique (CD/DVD) — présent sur les machines plus anciennes.
 
 ### Histoire de l'informatique
 
-- Les algorithmes et les premières machines à calculer datent de l'antiquité
-- De nombreuses vont essayer de suivre les modèles des horloges, comme la Pascaline
-- 1846 machine à ruban perforés
-- 1904 tubes à vides, ampoules, dernier composant nécessaire pour créer des ordinateur
-- 1940 apparition des premiers ordinateurs respectant l'architecture de Von Neumann
-- 1948 apparition du transistor
-
-### Histoire de l'informatique
-
-- Les algorithmes et les premières machines à calculer datent de l'Antiquité.
-- De nombreuses machines s'inspirent des mécanismes d'horlogerie (ex. la Pascaline).
-- 1846 : développement des machines à ruban perforé.
-- Début du XXe siècle (années 1900) : utilisation des tubes à vide pour les premiers calculateurs électroniques.
-- 1940 : apparition des premiers ordinateurs respectant l'architecture de Von Neumann.
-- 1948 : invention du transistor.
+- Les idées d'algorithmes et de machines à calculer existent depuis l'Antiquité.
+- Des mécanismes mécaniques (ex. la Pascaline) ont inspiré des constructions automatiques.
+- 1846 : utilisation des rubans perforés pour le traitement automatique de l'information.
+- Début du XXe siècle : tubes à vide pour les premiers calculateurs électroniques.
+- 1940 : émergence des architectures respectant le modèle de Von Neumann.
+- 1948 : invention du transistor, point de départ de l'électronique moderne.
 
 ### Modèle de Von Neumann
 
->< il manque un schéma ! [fiches.me a besoin d'aide !](../contribution/index.md) >
+> < il manque un schéma ! [fiches.me a besoin d'aide !](../contribution/index.md) >
 
 #### Processeur
 
-Dans le **Modèle de Von Neumann**, le **processeur** est le composant principal qui effectue tout les calculs et donne des instructions aux autres composants.  Le processeur est composé de :
-- Des **Registres** pour enregistrer l'information
-- Un **Accumulateur** qui accumule de l'énergie pour l'*UAL*.
-- Une **Unité Arithmético-logique** qui effectue les calculs grâce à l'énergie de son accumulateur et renvoie les résultats à la mémoire vive
-- Une **Unité de Contrôle** 
+Dans le modèle de Von Neumann, le processeur (CPU) effectue les calculs et coordonne les autres composants. On distingue classiquement :
+- des **registres** (stockage très rapide, interne au CPU) ;
+- une **Unité Arithmético-Logique (UAL / ALU)** qui réalise les opérations arithmétiques et logiques ;
+- une **unité de contrôle** qui décode et orchestre l'exécution des instructions ;
+- parfois un **accumulateur**, concept historique utilisé par certaines architectures.
 
-#### Processeur
-
-Dans le **modèle de Von Neumann**, le **processeur** est le composant principal qui effectue les calculs et coordonne les autres composants. Le processeur comprend :
-- des **registres** pour stocker temporairement l'information ;
-- un **accumulateur** utilisé par l'UAL ;
-- une **Unité Arithmético-Logique (UAL)** qui effectue les opérations arithmétiques et logiques ;
-- une **unité de contrôle** qui orchestre l'exécution des instructions.
+L'unité de contrôle contient typiquement un registre d'instruction (IR) et un compteur de programme (PC).
 
 #### Mémoire
 
-Elle contient les données de l'ordinateur, dont nos programmes. Elle existe sous quatres formes :
+La mémoire regroupe différents types de stockage :
 
-1. La **mémoire persistante** contient les données fixes et "figées" des programmes.
-2. La **méoire vive** contient les informations necessaire aux calculs, mais pas les données en tant que tel. Necessite du courrant.
-3. La **mémoire cache** qui est une sorte de mémoire vive stocké dans la mémoire principale
-4. La **mémoire morte**, persistante et non modifiable, contient les composants crtitiques de l'ordinateur comme le BIOS.
-
-#### Mémoire
-
-La mémoire contient les données et les programmes. On distingue quatre grandes formes :
-
-1. **Mémoire persistante** : stockage long terme (disque dur, SSD) ;
-2. **Mémoire vive (RAM)** : utilisée pendant l'exécution des programmes ; volative et nécessite de l'alimentation électrique ;
-3. **Mémoire cache** : mémoire rapide entre le processeur et la RAM pour accélérer les accès ;
-4. **Mémoire morte (ROM)** : mémoires persistantes non modifiables contenant des éléments critiques (ex. BIOS/firmware).
+1. **Mémoire persistante** (disque dur, SSD) : stockage longue durée ;
+2. **Mémoire vive (RAM)** : stockage temporaire utilisé pendant l'exécution ; volatile ;
+3. **Mémoire cache** : mémoire très rapide, proche du CPU, pour réduire la latence des accès ;
+4. **Mémoire morte (ROM/firmware)** : stockage non modifiable contenant du code d'amorçage (ex. BIOS/UEFI).
 
 #### Bus de données
 
-Les données sont ensuite transportés par lots de 32/64 bits entre différents composants. *Ce sont les lignes imprimés sur la carte mère*
+Les données circulent entre composants via des bus ou interconnexions (largeur typique 32/64 bits). Physiquement, ce sont des pistes imprimées et des traces sur la carte mère.
 
-#### Bus de données
+#### Entrées/Sorties (E/S)
 
-Les données sont transportées par groupes de 32/64 bits entre les composants via des bus physiques et des pistes imprimées sur la carte mère.
+Périphériques d'entrée (clavier, souris, capteurs) et de sortie (écran, haut‑parleur) ; leur gestion passe par des contrôleurs et pilotes.
 
-#### Entrées/Sorties (IO)
+### Résumé
 
-Clavier Vs Écran. Ok pour ne pas être étendu ici.
-
-### Conclusion
-
-Les ordinateurs sont des machines alimentés par de l'electricité, qui effectuent des actions déterminés par un développeur en fonction des entrées d'un utilisateur.
-
-### Conclusion
-
-Les ordinateurs sont des machines alimentées par l'électricité, qui effectuent des actions déterminées par des programmes en fonction des entrées d'un utilisateur.
+Les ordinateurs sont des systèmes électroniques alimentés par l'électricité, exécutant des programmes qui traitent des entrées pour produire des sorties.
 
 ## En Marche
 
 ### Cycles d'exécution
 
-### Système multi-processeurs
+La vitesse d'exécution d'un processeur est liée à sa fréquence d'horloge (en hertz) et à son organisation interne (pipeline, nombre de cœurs). Un cycle d'instruction typique comprend :
+
+1. **Fetch** : lecture de l'instruction depuis la mémoire.
+2. **Decode** : décodage de l'instruction (unité de contrôle).
+3. **Read operands / Execute** : lecture des opérandes et exécution dans l'UAL (ALU).
+4. **Memory access** : accès en lecture/écriture à la mémoire si besoin.
+5. **Write back** : écriture du résultat dans les registres ou la mémoire.
+
+Ces étapes peuvent être exécutées en même temps pour augmenter le débit, ce qui donne l'illusion d'exécuter plusieurs instructions simultanément. Le processeur est souvent appelé un "cœur" car il induit le rythme de l'ordinateur et "tick" comme un vrai cœur.
+
+### Systèmes multi‑processeurs / multicœurs
+
+Les machines modernes ont souvent plusieurs cœurs (4, 8, voire beaucoup plus) : il faut alors organiser l'accès à la mémoire.
+
+Deux grandes approches :
+
+1. **Mémoire partagée** : tous les cœurs accèdent au même espace mémoire (nécessite des mécanismes de synchronisation et de cohérence cache).
+2. **Mémoire distribuée** : chaque processeur/contrôleur dispose d'une portion locale de mémoire ; la communication inter‑nœuds se fait via un interconnect.
+
+Des architectures hybrides existent (mémoire hiérarchique, NUMA) pour concilier performances et scalabilité.
+
+> < il manque un schéma ! [fiches.me a besoin d'aide !](../contribution/index.md) >
+
+### Loi de Moore
+
+D'après Gordon Moore (co‑fondateur d'Intel), le nombre de transistors intégrés par circuit augmentait approximativement d'un facteur deux tous les deux ans. Cette observation empirique, appelée "loi de Moore", a guidé l'industrie pendant des décennies, mais son rythme s'est ralenti récemment et elle n'est plus une règle strictement tenue.
