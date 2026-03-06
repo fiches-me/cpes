@@ -30,7 +30,6 @@ body {
 
 .VPDoc {
   flex: 1;
-  z-index: 99;
   overflow-y: auto;
   position: relative;
   box-sizing: border-box;
@@ -47,6 +46,7 @@ body {
 
 /* Dark Mode Support */
 .dark .VPDoc {
+  border: 3px solid var(--color-l-gray-90);
   background-color: var(--color-d-gray-90);
 }
 
