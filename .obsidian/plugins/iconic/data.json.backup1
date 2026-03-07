@@ -184,6 +184,12 @@
     "contribution/index.md": {
       "icon": "lucide-dot"
     },
+    "craft": {
+      "icon": "🎮",
+      "unsynced": [
+        "14d29b853e3a9ee9"
+      ]
+    },
     "eco": {
       "icon": "💸",
       "unsynced": [
