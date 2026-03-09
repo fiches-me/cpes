@@ -22,6 +22,7 @@ finished: true
 | $e^u$           | $u\prime e^u$                       |
 | $f(ax + b)$     | $af\prime (ax+b)$                   |
 | $ln(u)$         | $\frac{u\prime}{u}$                 |
+| $(f ○ u)^\prime(a)$    | $u^\prime (a) .f^\prime(u(a))$ |
 
 ## Primitives
 
@@ -42,7 +43,6 @@ finished: true
 | $-\frac{u\prime}{u^2}$ | $\frac{1}{u}$         |
 | $u\prime e^u$          | $e^u$                 |
 | $\frac{u\prime}{u}$    | $ln(u)$               |
-| $(f ○ u)^\prime(a)$    | $u^\prime (a) .f^\prime(u(a))$ |
 
 
 ## Intégrales
