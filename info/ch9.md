@@ -30,12 +30,20 @@ tags:
 
 ### Histoire de l'informatique
 
-- Les idées d'algorithmes et de machines à calculer existent depuis l'Antiquité.
-- Des mécanismes mécaniques (ex. la Pascaline) ont inspiré des constructions automatiques.
-- 1846 : utilisation des rubans perforés pour le traitement automatique de l'information.
-- Début du XXe siècle : tubes à vide pour les premiers calculateurs électroniques.
-- 1940 : émergence des architectures respectant le modèle de Von Neumann.
-- 1948 : invention du transistor, point de départ de l'électronique moderne.
+- Les algorithmes et les premières machines à calculer datent de l'antiquité
+- De nombreuses vont essayer de suivre les modèles des horloges, comme la Pascaline
+- 1846 machine à ruban perforés
+- 1904 tubes à vides, ampoules, dernier composant nécessaire pour créer des ordinateur
+- 1940 apparition des premiers ordinateurs respectant l'architecture de Von Neumann
+- 1948 apparition du transistor
+### Histoire de l'informatique
+
+- Les algorithmes et les premières machines à calculer datent de l'Antiquité.
+- De nombreuses machines s'inspirent des mécanismes d'horlogerie (ex. la Pascaline).
+- 1846 : développement des machines à ruban perforé.
+- Début du XXe siècle (années 1900) : utilisation des tubes à vide pour les premiers calculateurs électroniques.
+- 1940 : apparition des premiers ordinateurs respectant l'architecture de Von Neumann.
+- 1948 : invention du transistor.
 
 ### Modèle de Von Neumann
 
@@ -55,16 +63,16 @@ L'unité de contrôle contient typiquement un registre d'instruction (IR) et un 
 
 La mémoire regroupe différents types de stockage :
 
-1. **Mémoire persistante** (disque dur, SSD) : stockage longue durée ;
-2. **Mémoire vive (RAM)** : stockage temporaire utilisé pendant l'exécution ; volatile ;
-3. **Mémoire cache** : mémoire très rapide, proche du CPU, pour réduire la latence des accès ;
-4. **Mémoire morte (ROM/firmware)** : stockage non modifiable contenant du code d'amorçage (ex. BIOS/UEFI).
+1. **Mémoire persistante** : stockage long terme (disque dur, SSD) ;
+2. **Mémoire vive (RAM)** : utilisée pendant l'exécution des programmes ; volative et nécessite de l'alimentation électrique ;
+3. **Mémoire cache** : mémoire rapide entre le processeur et la RAM pour accélérer les accès ;
+4. **Mémoire morte (ROM)** : mémoires persistantes non modifiables contenant des éléments critiques (ex. BIOS/firmware).
 
 #### Bus de données
 
 Les données circulent entre composants via des bus ou interconnexions (largeur typique 32/64 bits). Physiquement, ce sont des pistes imprimées et des traces sur la carte mère.
 
-#### Entrées/Sorties (E/S)
+#### Entrées/Sorties (IO)
 
 Périphériques d'entrée (clavier, souris, capteurs) et de sortie (écran, haut‑parleur) ; leur gestion passe par des contrôleurs et pilotes.
 

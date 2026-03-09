@@ -21,7 +21,7 @@
   "uncolorSelect": false,
   "uncolorQuick": false,
   "rememberDeletedItems": false,
-  "maxBackups": 5,
+  "maxBackups": 0,
   "dialogState": {
     "iconMode": true,
     "emojiMode": true,

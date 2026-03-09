@@ -18,7 +18,7 @@
       "query": "file:index",
       "color": {
         "a": 1,
-        "rgb": 4435408
+        "rgb": 9737364
       }
     },
     {
@@ -53,6 +53,6 @@
   "repelStrength": 14.6810642324391,
   "linkStrength": 1,
   "linkDistance": 147,
-  "scale": 0.18539275341783457,
+  "scale": 0.21213363707201635,
   "close": false
 }
