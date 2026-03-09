@@ -3,6 +3,31 @@ title: 💖 Comment Contribuer
 order: 1
 ---
 
+<script setup>
+import { VPTeamMembers } from 'vitepress/theme'
+
+const members = [
+  {
+    avatar: 'https://github.com/Funasitien.png',
+    name: 'Funasitien',
+    title: 'Créateur',
+    org: 'DEMOCRAFT',
+    orgLink: 'https://democraft.fun',
+    desc: "Mainteneur principal de fiches.me depuis 2024",
+    sponsor: "https://github.com/sponsors/Funasitien",
+    actionText: "Aidez Fiches.me!",
+    links: [
+      { icon: 'github', link: 'https://github.com/Funasitien' }
+    ]
+  },
+  {
+  avatar: "https://github.com/Javier-Cruz-Santos.png",
+  name:"Javier-Cruz-Santos",
+  title: "Mainteneur"
+  }
+]
+</script>
+
 *Créer ou contribuer à un site web peut faire peur. Mais pour rendre nos fiches les plus accessibles possible, nous avant déjà fait tout le code pour qu'il ne vous reste que les fiches*
 
 # 🎞 Un peu de contexte...
@@ -20,3 +45,9 @@ Il est possible de juste prendre un fichier `.txt` et de le renommer en `.md` po
 # 👾 GitHub
 
 Nous utilisons GitHub pour héberger notre site. Il vous faut donc passer par github pour proposer/envoyer vos fiches. [[github.md|On a aussi fait un guide pour ça :)]]. Quand votre fiche est accepté/publié/mise à jour, notre code la contruit et elle sera en live sur le site en moins de 5 minutes !
+
+# 👥Contributeurs
+
+<VPTeamMembers size="medium" :members />
+
+*La liste des contributeurs est synchronisée avec Github toutes les semaines.*
