@@ -42,6 +42,8 @@ finished: true
 | $-\frac{u\prime}{u^2}$ | $\frac{1}{u}$         |
 | $u\prime e^u$          | $e^u$                 |
 | $\frac{u\prime}{u}$    | $ln(u)$               |
+| $(f ○ u)^\prime(a)$    | $u^\prime (a) .f^\prime(u(a))$ |
+
 
 ## Intégrales
 
