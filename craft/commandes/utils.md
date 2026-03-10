@@ -5,8 +5,7 @@ order: 1
 
 # Commandes de base
 
-Les commandes ci-dessous sont les plus utilisées au quotidien.
-
+Voici l'explication 
 ## Interface
 
 - Désactiver/activer la barre de navigation : `/navbar`
@@ -18,8 +17,3 @@ Les commandes ci-dessous sont les plus utilisées au quotidien.
 ## Économie
 
 - Voir votre argent : `/balance`
-
-## Qualité de vie
-
-- Voir l'aide générale : `/help`
-- Voir les commandes d'une extension : `/help <plugin>`
