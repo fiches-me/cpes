@@ -5,13 +5,10 @@ order: 2
 
 # Téléportation
 
-La téléportation permet de gagner du temps, à condition de rester attentif à la destination.
+Quelques commandes de téléportation ont été ajoutés à CPES-CRAFT pour faciliter vos déplacements. 
 
 ## Spawn
-
-- Aller au spawn : `/spawn`
-
-Pratique pour revenir sur une zone sûre, retrouver du monde, ou repartir proprement.
+`/spawn`
 
 ## Joueurs (/tpa, /tpahere)
 
@@ -20,9 +17,11 @@ Pratique pour revenir sur une zone sûre, retrouver du monde, ou repartir propre
 - Accepter une demande : `/tpaccept`
 - Refuser une demande : `/tpdeny`
 
-Astuce : vérifiez toujours où vous arrivez avant d'accepter une demande TP.
+> [!TIP]
+> Vérifiez toujours où vous arrivez avant d'accepter une demande TP.
 
 ## Homes
+Les homes sont des xx que vous pouvez sauvegarder pour y revenir plus tard.
 
 - Poser un home : `/sethome <nom>`
 - Aller à un home : `/home <nom>`
