@@ -3,25 +3,25 @@
    ======================================== */
 
 /* ─────────────────────────────────────
-   Base Layout
-   ───────────────────────────────────── */
-
-html,
-body {
-  height: 100vh;
-  overflow: hidden;
-}
-
-/* ─────────────────────────────────────
    Content Container with Border
    ───────────────────────────────────── */
 
 .VPContent {
   height: 100vh;
   display: flex;
+  overflow: hidden;
   flex-direction: column;
   background-color: var(--vp-c-bg-alt);
   box-sizing: border-box;
+}
+
+/* ─────────────────────────────────────
+   Content Container as Home Page (No Border)
+   ───────────────────────────────────── */
+
+.VPContent .is-home {
+  height: auto;
+  overflow: scroll;
 }
 
 /* ─────────────────────────────────────
