@@ -9,8 +9,6 @@ Ce guide vous aide à installer Minecraft proprement et à rejoindre le serveur 
 
 ## Avant de commencer
 
-L'objectif est simple : avoir un launcher propre, une version correcte, et éviter les usines à malware.
-
 ### Comptes officiels/cracks
 
 - **Compte officiel** : vous vous connectez avec Microsoft, puis vous jouez.
@@ -19,42 +17,28 @@ L'objectif est simple : avoir un launcher propre, une version correcte, et évit
 
 ### Pourquoi éviter TLauncher
 
-Version courte : il y a eu trop de polémiques et de comportements douteux autour de cet outil.
+TLauncher est problématique pour deux raisons :
+1. Tout d'abord, ce launcher a quelques origines douteuses, est maintenu par des russes et est connu pour avoir déjà installé des adwares [virus]. 
+2. TLauncher modifie également de façon plutôt agressive le code du jeu pour implémenter ses propres comptes. Ces modifications bloquent l'accès à certains serveurs, dont CPES-CRAFT
 
-Version utile : il existe des alternatives plus propres, plus stables et mieux maintenues.
+> [!INFO] Pour plus de détails
+> Il existe quelques documentation sur TLauncher, voir plus [ici](#)
+> Pour la partie code, TLauncher modifie l'implémentation DNS de minecraft et modifie les résolutions SRV, utilisés par CPES-CRAFT.
 
 ### Note pour les utilisateurs de MAC 🍎
 
-Les launchers ci-dessous fonctionnent en général bien sur macOS. Si ça bloque :
+Mac possède un écosystème beaucoup plus protégé que sur Windows/Linux. Si vous voulez installer un launcher crack (même open-source/vérifié), il faudra activé les logiciels non vérifié, et donc désactivé certaines sécurités dans vos paramètres. Notez que ces modifications n'auront aucun impact, à moins que vous ne téléchargiez n'importe quoi (dans ce cas t'es cook).
 
-- vérifiez que Java est installé ;
-- autorisez l'application dans les réglages de sécurité ;
-- relancez le launcher une fois après installation.
+Si vous avez des suggestions de launcher mac crack/un tutoriel pour installer les launcher sur mac, nous sommes preneur !
 
 ## Liste des launchers
 
-- **X Launcher** : simple, rapide à prendre en main, marche bien pour débuter.
-- **Prism Launcher** : plus technique, très bien pour gérer plusieurs versions/modpacks.
-- **Launcher officiel** : adapté si vous avez un compte Microsoft et que vous voulez une solution classique.
+### Tout-en-un : X Launcher
 
-## Tout-en-un : X Launcher
+Site : https://xmcl.app/
+Version crack : (Intégré)
 
-Si vous voulez jouer rapidement : c'est l'option la plus simple.
+### Option légère : PrismLauncher
 
-1. Télécharge et installe X Launcher.
-2. Créez ou choisissez votre profil.
-3. Sélectionne la version **1.21.11**.
-4. Lance le jeu, puis ajoute `cpes.funa.dev` dans Multijoueur.
-
-Pour les comptes crack, regarde aussi [Comptes Crack](./crack.md).
-
-## Option légère : PrismLauncher
-
-Prism est une bonne option pour les machines modestes, surtout si vous ajustez les réglages.
-
-1. Installe Prism Launcher.
-2. Crée une instance en **1.21.11**.
-3. Allouez une quantité raisonnable de RAM (inutile de surdimensionner).
-4. Lance le jeu et ajoute `cpes.funa.dev`.
-
-Optionnel : ajoutez des mods d'optimisation (voir [Mods (facultatifs)](./mods.md)).
+Site : https://prismlauncher.org/
+Version crack : https://github.com/Diegiwg/PrismLauncher-Cracked

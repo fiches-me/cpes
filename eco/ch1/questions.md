@@ -10,7 +10,7 @@ draft: true
 ## Document 2
 
 1. Antoine de Montchrestien fait partie du mouvement **mercantilisme**
-2. Economie Politique -> Nom de la science économique à l'époque jusqu'au 19°. Pour lui, l'économie et la vie politique sont largement liés, et l'économie est l'affaire de la nation. C'est une problématique qui doit être pris au sérieux par les dirigeants.
+2. Economie Politique ➡️ Nom de la science économique à l'époque jusqu'au 19°. Pour lui, l'économie et la vie politique sont largement liés, et l'économie est l'affaire de la nation. C'est une problématique qui doit être pris au sérieux par les dirigeants.
 3. Rejet de l'oisiveté (il faut être actif et produire, accumuler des richesses). Valorisation du travail. Vision des marchants très différents : ils sont un pied de la société, et non exclu avec Aristote. 
 4. Le marchant fait du profit. On note le profit **π**, il est égal aux recettes - coûts de productions. Grâce aux activités marchandes, on accumule des métaux précieux qui permettent de financer une armée importante, donc plus puissant que nos voisins.
 5. Exporter plus qu'on importe. On note les exports $X$ et les imports $M$. Il faut donc que $X>M$. Les mercantilistes considèrent que l'économie est un jeu à somme nul. Il y a une quantité limité de richesses sur terre, donc les métaux rares. 

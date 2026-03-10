@@ -3,7 +3,7 @@ title: 📚 Vocab
 draft: true
 ---
 - Economics: science économique
-  -> DO NOT use Economy
+  ➡️ DO NOT use Economy
 - Empirical: empirique
 - Wealth: Richesse
 - Hypothesis/assumption

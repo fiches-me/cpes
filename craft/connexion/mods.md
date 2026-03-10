@@ -5,28 +5,20 @@ order: 2
 
 # Mods (facultatifs)
 
-Vous pouvez jouer sans aucun mod. Cette page sert uniquement à améliorer le confort et les performances.
+Le serveur ne demande **aucun mod obligatoire**. Cependant, nous vous conseillons quelques mods pour améliorer les performances de votre jeux et ajouter quelques fonctionnalités sympas (comme le [Voicechat](#Voicechat)).
 
-## Important
+## Performance
 
-- Le serveur ne demande **aucun mod obligatoire**.
-- Si le jeu bug après ajout de mods, lancez d'abord le jeu sans mods pour tester.
-- Évitez les packs volumineux installés sans vérification, surtout pour une première connexion.
+Il est possible d’améliorer **grandement** (*multiplier par 10 vos FPS*) avec des **modpacks de performances**. Il contiennent des configurations 
 
-## Pack minimal recommandé
+Performance pur
+https://modrinth.com/modpack/adrenaline
+https://modrinth.com/modpack/performium-was-taken
 
-- **Sodium** : meilleurs FPS.
-- **Lithium** : optimisations générales.
-- **FerriteCore** : réduit l'usage mémoire.
+Plus complet (fonctionalités Optifine)
+https://modrinth.com/modpack/additive
+https://modrinth.com/modpack/sodiumplus
 
-## MiniMap (optionnel)
+## Voicechat
 
-- Une minimap peut aider à se repérer.
-- Évitez les réglages abusifs (radar agressif, etc.) pour garder un jeu propre.
-
-## Installation rapide (Prism)
-
-1. Ouvrez votre instance 1.21.11.
-2. Allez dans l'onglet des mods.
-3. Ajoutez les mods un par un.
-4. Lancez le jeu et testez sur `cpes.funa.dev`.
+https://modrinth.com/plugin/simple-voice-chat (installez bien une version fabric)

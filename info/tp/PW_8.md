@@ -15,7 +15,7 @@ J'ai changé les paramêtres tab en matrice pour rendre le code plus lisible.
 Cela reste politiquement correct.
 """
 
-def csv_to_matrix(nom: str) -> list[list]:
+def csv_to_matrix(nom: str) ➡️ list[list]:
     matrice = []
     f = open(nom)
     data = f.readlines()
@@ -26,7 +26,7 @@ def csv_to_matrix(nom: str) -> list[list]:
     return matrice
 
 
-def tri_col(matrice : list[list], col: int) -> list[list]:
+def tri_col(matrice : list[list], col: int) ➡️ list[list]:
     for k in range(1, len(matrice)):
         cle = matrice[k]
         indice = k - 1
@@ -37,7 +37,7 @@ def tri_col(matrice : list[list], col: int) -> list[list]:
 
     return matrice
 
-def sauvegarde(nom: str, matrice : list[list]) -> None:
+def sauvegarde(nom: str, matrice : list[list]) ➡️ None:
     f = open(nom, "w")
     for tab in matrice:
         for element in tab:
@@ -45,7 +45,7 @@ def sauvegarde(nom: str, matrice : list[list]) -> None:
             f.write(",")
         f.write("\n")
 
-def fusion(matrice1: list[list], matrice2: list[list]) -> list[list]:
+def fusion(matrice1: list[list], matrice2: list[list]) ➡️ list[list]:
     matrice = matrice1
     cap = len(matrice) - 1
     assert len(matrice1[0]) > len(matrice2[0])

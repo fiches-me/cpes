@@ -74,7 +74,7 @@ niceScientists("all-scientists.csv")
 ## Bottles
 
 ```python
-def greenBottles(n:int) -> bool:
+def greenBottles(n:int) ➡️ bool:
     file = open(f"{n}-green-bottles.txt", "w")
     for i in range(n, 1, -1):
         file.write(f"{i} green bottles hanging on the wall\n{i} green bottles hanging on the wall\nAnd if one green bottle should accidentally fall\nThere'll be {i - 1} green bottles\n")

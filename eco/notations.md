@@ -29,7 +29,7 @@ order: 1
 - The Money Supply is fixed.
 - Idea on equilibrium
 	- On wages, with the voluntary unenployment
-	  => Circular flow of incomes
+	  ➡️ Circular flow of incomes
 - States intervention breaks it
 	- Involuntary unenployment as some peoples can't found work to their price (with $W/P_{min}$)
 	- surplus lost in good's prices
@@ -45,9 +45,9 @@ order: 1
   TLT : ~ 50 ans (no models possibles)
 ## Elasticity
 The global formula is $\frac{\Delta Q/Q}{\Delta P/P}$
-- Close substitues (bien plutôt substituables), if you can switch from apples to pears (*Competition*) -> **very elastic**. 
-- Necessity goods (bien de 1ère nécessité) -> **inelastic**.
-- Time horizon (horizon temporel) -> elasticity rise with times, as individuals adapt their habits.
+- Close substitues (bien plutôt substituables), if you can switch from apples to pears (*Competition*) ➡️ **very elastic**. 
+- Necessity goods (bien de 1ère nécessité) ➡️ **inelastic**.
+- Time horizon (horizon temporel) ➡️ elasticity rise with times, as individuals adapt their habits.
 
 ---
 [^1]: Production approach

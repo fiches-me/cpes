@@ -8,7 +8,8 @@ order: 2
 Quelques commandes de téléportation ont été ajoutés à CPES-CRAFT pour faciliter vos déplacements. 
 
 ## Spawn
-`/spawn`
+
+La carte de CPES-CRAFT possède un "spawn", un point d'origine accessible avec la commande `/spawn` (l’île sur laquelle vous apparaissait au début du jeu). Elle ne sert à rien pour le moment, mais nous pourrions y ajouter du contenu au fil du temps.
 
 ## Joueurs (/tpa, /tpahere)
 
@@ -21,6 +22,7 @@ Quelques commandes de téléportation ont été ajoutés à CPES-CRAFT pour faci
 > Vérifiez toujours où vous arrivez avant d'accepter une demande TP.
 
 ## Homes
+
 Les homes sont des xx que vous pouvez sauvegarder pour y revenir plus tard.
 
 - Poser un home : `/sethome <nom>`

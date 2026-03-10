@@ -104,7 +104,7 @@ def print_matrix(m:list)->None:
                 print('  ', end="")
         print()
 
-def zoomList(startList:list, k:int) -> list:
+def zoomList(startList:list, k:int) ➡️ list:
 	"""
 	Multiply each list element by k. 
 	"""
@@ -114,7 +114,7 @@ def zoomList(startList:list, k:int) -> list:
             endList.append(e)
     return endList
 
-def zoomPicture(startMatrix:list, k:int) -> list:
+def zoomPicture(startMatrix:list, k:int) ➡️ list:
 	"""
 	Zoom a picture created from a Matrix.
 	"""

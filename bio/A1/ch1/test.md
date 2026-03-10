@@ -3,7 +3,7 @@ title: Test
 order: 10
 ---
 # Fiche Test : interactions
-## Le lien Informationnel : ADN -> ARN -> Protéines
+## Le lien Informationnel : ADN ➡️ ARN ➡️ Protéines
 
 C'est le "Dogme Central" de la biologie moléculaire. Tes notes en parlent séparément dans g4.md (Acides Nucléiques) et g5.md (Protéines), mais voici le lien fonctionnel.
 Les protéines sont les ouvrières (g5.md : enzymes, transport, structure), mais elles ne "savent" pas comment se construire. Le plan est dans l'ADN.
@@ -57,7 +57,7 @@ Schéma simplifié de la Glycoprotéine :
   |||||||||
 ```
 
-## Le lien Énergétique : Glycogène/Lipides -> ATP
+## Le lien Énergétique : Glycogène/Lipides ➡️ ATP
 
 C'est le lien entre la matière (g2 Lipides, g3 Glucides) et l'énergie utilisable (g4 ATP).
 L'ATP (g4.md) est la monnaie. Le Glucose et les Triglycérides sont le compte en banque. Pour dépenser l'argent, il faut faire un retrait (Oxydation).

@@ -52,7 +52,7 @@ L'oxygène ($O_2$) diffuse des alvéoles vers le sang. Le dioxyde de carbone ($C
 Les **alvéoles** sont les espaces principaux de transmissions de l'air vers le sang. 
 La **bronchiole terminale** est la fin des tuyaux de ramifications. Il se finit par le **sac alvéolaires**. Toute ces ramifications forment la surface d'échange (spolier : elle est grande).  
 
-Une diffusion air -> liquide serait trop entravé. Avec le **surfactant**, la diffusion devient liquide -> liquide. Egalement, il permet de conservé les sacs écartés
+Une diffusion air ➡️ liquide serait trop entravé. Avec le **surfactant**, la diffusion devient liquide ➡️ liquide. Egalement, il permet de conservé les sacs écartés
 
 Phospholipides, cholestérols et protéines seront dissous dans l'eau du Surfactant pour éviter quel a paroi se rétracte sous l'effet des liaisons hydrogènes. C'est ce qui faillie dans certains cas d’asthmes. 
 
