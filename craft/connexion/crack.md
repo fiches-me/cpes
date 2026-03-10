@@ -9,11 +9,10 @@ Pour l'installation d'une version crack de Minecraft, consultez d'abord [cette p
 
 ## J'ai besoin d'un mot de passe, pourquoi ?
 
-Sur les serveurs qui acceptent le crack, une commande de type `/register` puis `/login` peut être demandée pour protéger votre pseudo.
+Comme vous n'avez pas vraiment de comptes, n'importe qui pourrais utiliser votre pseudo et vous voler vos précieux diamants. Lors de votre première connexion, il vous sera demandé de créer un *mot de passe*. Il vous sera demandé à chaque changement d'adresse IP. 
 
-- Choisissez un mot de passe que vous pouvez retenir.
-- Ne communiquez ce mot de passe à personne.
-- Si vous changez de pseudo, il faudra parfois refaire l'enregistrement.
+> [!INFO] Côté sécurité...
+> Votre mot de passe est crypté de tel sorte que même nous sommes incapables de le récupérer.
 
 ## Serveur inaccessible : vous n'êtes pas connecté à Microsoft
 
@@ -23,13 +22,6 @@ Vérifie que :
 
 - vous êtes bien en mode crack/offline dans votre launcher ;
 - votre pseudo ne correspond pas à un compte officiel existant ;
-- votre version est bien **1.21.11**.
+- vous n'utilisez pas TLauncher (voir [Installer Minecraft](./installation.md)). Il bloque l'accès au serveur.
 
-## À vérifier en 30 secondes
-
-- N'utilisez pas TLauncher (voir [Installer Minecraft](./installation.md)).
-- Testez avec un autre pseudo simple (lettres/chiffres uniquement).
-- Redémarrez complètement le launcher avant de réessayer.
-- Si besoin, passez sur un launcher recommandé (X Launcher ou Prism).
-
-Si le problème persiste, envoyez une capture du message exact dans le salon d'aide pour faciliter le diagnostic.
+Si le problème persiste, vous pouvez demander de l'aide sur notre [serveur discord](https://dsc.gg/cpescraft)
