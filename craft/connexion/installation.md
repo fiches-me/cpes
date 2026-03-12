@@ -27,7 +27,7 @@ TLauncher est problématique pour deux raisons :
 
 ### Note pour les utilisateurs de MAC 🍎
 
-Mac possède un écosystème beaucoup plus protégé que sur Windows/Linux. Si vous voulez installer un launcher crack (même open-source/vérifié), il faudra activé les logiciels non vérifié, et donc désactivé certaines sécurités dans vos paramètres. Notez que ces modifications n'auront aucun impact, à moins que vous ne téléchargiez n'importe quoi (dans ce cas t'es cook).
+Mac possède un écosystème beaucoup plus protégé que sur Windows/Linux. Si vous voulez installer un launcher crack (même open-source/vérifié), il faudra activer les logiciels non vérifié, et donc désactiver certaines sécurités dans vos paramètres. Notez que ces modifications n'auront aucun impact, à moins que vous ne téléchargiez n'importe quoi (dans ce cas t'es cook).
 
 Si vous avez des suggestions de launcher mac crack/un tutoriel pour installer les launcher sur mac, nous sommes preneur !
 
@@ -40,7 +40,7 @@ Version crack : (Intégré)
 
 #### Guide Complet
 
-L'installation de X Launcher est plutôt simple. Pour commencer, téléchargez exécutable compatible avec votre ordinateur via le lien si dessus, et lancez le. Appuyiez ensuite sur suivant jusqu'à arriver à la sélection des comptes 
+L'installation de X Launcher est plutôt simple. Pour commencer, téléchargez exécutable compatible avec votre ordinateur via le lien si dessus, et lancez le. Appuyer ensuite sur suivant jusqu'à arriver à la sélection des comptes 
 
 ![Image n°1](../images/x1.png)
 
@@ -85,9 +85,28 @@ Version crack : https://github.com/Diegiwg/PrismLauncher-Cracked
 
 #### Guide Complet
 
+L'installation de X Launcher est plutôt simple. Pour commencer, téléchargez exécutable compatible avec votre ordinateur via le lien si dessus. Vous pouvez, sur ce launcher aussi, choisir votre langue. 
+
 ![Image n°1](../images/prism1.png)
+
+> Sélectionnez la puis cliquer sur "Suivant"
+
 ![Image n°2](../images/prism2.png)
+
+> Idem pour le thème, cliquez sur suivant
+
 ![Image n°3](../images/prism3.png)
+
+Vous aurez maintenant le choix d'ajouter un **compte Microsoft** (si vous avez la version officiell) ou un **compte hors-ligne** (si vous avez la version crack). Connectez vous avec le compte de votre choix.
+
 ![Image n°4](../images/prism4.png)
+
+Vous devez maintenant ajouter une instance Minecraft. Nous allons vous faire télécharger une version optimiser pour faire respirer votre ordinateur. Cliquez sur l'icone **Ajouter une Instance** pour commencer.
+
 ![Image n°6](../images/prism6.png)
+
+Cliquez sur l'icone verte **Modrinth**. Cherchez ensuite **Adrenaline** dans la barre de recherche. Cliquez sur le premier résultat, cliquez sur le menu déroulant, et sélectionnez la première version qui contient `1.21.11`. Cliquez sur OK, puis attendez que Prism télécharge le jeu.
+
 ![Image n°7](../images/prism7.png)
+
+Cliquez sur **Lancer**. **C'est fait 🥳**
