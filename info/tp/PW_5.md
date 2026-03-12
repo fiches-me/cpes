@@ -10,7 +10,7 @@ order: 5
 ## Multiplications
 
 ```python
-def multiply(tab: list, k: int) -> list:
+def multiply(tab: list, k: int) ➡️ list:
     """
     Multiplies each element in the list by k.
     Input: list and integrer
@@ -58,7 +58,7 @@ if __name__ == "__main__":
 ## Selection
 
 ```python
-def selectionSort(t: list) -> list:
+def selectionSort(t: list) ➡️ list:
     """
     The one and only. Selection Sort
 

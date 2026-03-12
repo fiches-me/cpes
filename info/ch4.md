@@ -128,7 +128,7 @@ Fonction trie_insertion(T):
 ```
 
 ```python [Python]
-def trie_instertion(tab: list) -> list:
+def trie_instertion(tab: list) ➡️ list:
    for k in range(1, len(k) - 1):
       cle = tab[k]
       indice = k - 1

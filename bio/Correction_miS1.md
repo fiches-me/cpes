@@ -30,7 +30,7 @@ Il est possible de résumer les documents dans un tableau
 | 4   | dépression (agent stresseurs) entraîne chute d'hormones ocytocine |                                                                                                                                                                                                                                                          | dépression entraine chute d'hormones lactacines<br>Diff en pourcentage permette |
 
 *Bleu* cf Diapo 1
-CC : baisse Prolactine -> contraction -> Moins d'espaces -> insuffisance 
+CC : baisse Prolactine ➡️ contraction ➡️ Moins d'espaces ➡️ insuffisance 
 
 ---
 Les échelles doivent êtres incluses dans la copie. 

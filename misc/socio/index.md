@@ -197,7 +197,7 @@ On utilise une **analyse factorielle** quand il y a plus de 2 variables à trait
 
 **Mais où est elle objecive ?**
 
-1. Science -> méthode rigoureuses
+1. Science ➡️ méthode rigoureuses
 2. Son but est de comprendre, et son but est réussi
 3. Elle est une science pour elle même
 

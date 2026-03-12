@@ -254,7 +254,7 @@ Cependant, la solidarité familiale a pour effet de renforcer les inégalités s
 
 Républicain de conviction, Durkheim était convaincu du rôle fondamental de l’État. Il était soucieux, par exemple, de ne pas laisser la famille se gouverner entièrement elle-même. Il fallait, selon lui, protéger les enfants contre le risque d’un autoritarisme parental excessif et garantir à tous l’accès à l’école.
 
-Des instances territoriales plus proches pourraient prendre le relaie de l'État (mairie -> ville solidaire)
+Des instances territoriales plus proches pourraient prendre le relaie de l'État (mairie ➡️ ville solidaire)
 
 Il est frappant de constater que c’est au moment où les États perdent peu à peu leur souveraineté interne sur leurs économies qu’ils manifestent une réticence à penser la solidarité à un échelon supranational, en particulier à l’échelon européen. En revanche, l’Union européenne peut définir des objectifs sociaux. Des progrès non négligeables ont été réalisés dans ce domaine depuis 2000. 
 

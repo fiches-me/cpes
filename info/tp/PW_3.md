@@ -14,7 +14,7 @@ finished: true
 ## Exercise 1
 
 ```python
-def orderedList(liste: list) -> bool:
+def orderedList(liste: list) ➡️ bool:
     """
     Check if a list is ordered (from smaller to bigger).
 
@@ -50,7 +50,7 @@ if __name__ == "__main__":
 ## Exercise 2
 
 ```python
-def listMinimum(liste: list) -> int:
+def listMinimum(liste: list) ➡️ int:
     """
     Return the smallest value of a list.
 
@@ -72,7 +72,7 @@ def listMinimum(liste: list) -> int:
             mini = e
     return mini 
 
-def minimumGreaterThan(liste: list, mini: int) -> int:
+def minimumGreaterThan(liste: list, mini: int) ➡️ int:
     """
     Return the smallest value of a list which is greater that mini.
 
@@ -107,7 +107,7 @@ if __name__ == "__main__":
 ## Exercise 3
 
 ```python
-def textToString(texte: str) -> list:
+def textToString(texte: str) ➡️ list:
     """
     Return the list from a text.
 
@@ -122,7 +122,7 @@ def textToString(texte: str) -> list:
         opt.append(e)
     return opt 
 
-def sentenceCounter(texte: str) -> list:
+def sentenceCounter(texte: str) ➡️ list:
     """
     Return a list of the length of each word in a text.
     
@@ -150,11 +150,11 @@ if __name__ == "__main__":
 ## Exercise 4
 
 ```python
-def extendedCaesar(ch: str, shift: int = 1) -> str:
+def extendedCaesar(ch: str, shift: int = 1) ➡️ str:
     # Take the ASCII value, add one, and convert it back
     return chr(ord(ch) + 1)
     
-def caesarSentence(texte: str) -> str:
+def caesarSentence(texte: str) ➡️ str:
     """
     Convert a sentence to caesar.
     Use the previously made functions.

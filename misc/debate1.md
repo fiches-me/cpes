@@ -17,7 +17,7 @@ title: "🎭 Debate: Transhumanism"
 | Serial health risks                                    | Need to research. Why? Medicine                                                                                                                                                              |
 | Polution/Env damage                                    | Could lead to better understanding because we are smarter                                                                                                                                    |
 | Don't know how brain works                             | So we need research :)                                                                                                                                                                       |
-| Data/Brain control                                     | Regulation -> Research. If we don't take it seriously, such rules will not be resolved.                                                                                                      |
+| Data/Brain control                                     | Regulation ➡️ Research. If we don't take it seriously, such rules will not be resolved.                                                                                                      |
 | More competition between countries                     | Already here, and not tacking the train in time could be dangerous for us.                                                                                                                   |
 
 ## Document Study
@@ -27,12 +27,12 @@ title: "🎭 Debate: Transhumanism"
 - Immortality (*kiss the infinity*). We need time to pursue our goals. Devalue Time. Strees of population? Spirit of data (C.F kurgesartz).
 - Emphasize the fact that we are already in it. Ethics is on the way, critics is pessimistic.
 - Need research, as a geopolitical concern. We can't be behind another time. 
-- Freedom to decide what you can do with your body -> out of physical boundaries.
+- Freedom to decide what you can do with your body ➡️ out of physical boundaries.
 - Logical step in human evolution
 - Health issues *obws*
 - Research should be done to make guidance possible
 
-###### -> **The key is not only to raise problems, but to find concrete, ethical and safe solutions trough research**
+###### ➡️ **The key is not only to raise problems, but to find concrete, ethical and safe solutions trough research**
 
 
 > [!WARNING]

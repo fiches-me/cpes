@@ -10,7 +10,7 @@ order: 6
 ## Tuples
 
 ```python
-def tupleToList(t: tuple) -> list:
+def tupleToList(t: tuple) ➡️ list:
     """
     read the name dah
     """
@@ -19,7 +19,7 @@ def tupleToList(t: tuple) -> list:
         liste.append(e)
     return liste
 
-def maxX(tab: list) -> int:
+def maxX(tab: list) ➡️ int:
     """
     """
     maxi = -float("inf")

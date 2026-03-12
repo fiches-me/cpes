@@ -71,7 +71,7 @@ Auteur des **principes de  l'économie politique et de l'impôt**. Il est contre
 
 #### Sismondi (1773–1842)
 
-Critique l'optimisme libéral. L -> K
+Critique l'optimisme libéral. L ➡️ K
 
 #### Karl Marx (1818–1883)
 
@@ -93,7 +93,7 @@ Développe l'[Accélérateur Keynésien (Clark)](#Accélérateur%20Keynésien%20
 
 #### John Maynard Keynes (1883–1946)
 
-**Rupture avec les néoclassiques : la monnaie n'est plus neutre te c'est la demande qui guide l'offre** (C et I -> Y par la [Profitabilité](#Profitabilité)). Il introduit les concepts de [Multiplicateurs Keynésien](#Multiplicateurs%20Keynésien)  et d'[Accélérateur Keynésien](#Accélérateur%20Keynésien). Il insiste sur l'importance des **politiques xxx** (*lien por favor*).
+**Rupture avec les néoclassiques : la monnaie n'est plus neutre te c'est la demande qui guide l'offre** (C et I ➡️ Y par la [Profitabilité](#Profitabilité)). Il introduit les concepts de [Multiplicateurs Keynésien](#Multiplicateurs%20Keynésien)  et d'[Accélérateur Keynésien](#Accélérateur%20Keynésien). Il insiste sur l'importance des **politiques xxx** (*lien por favor*).
 
 #### John Hicks (1904–1989)
 

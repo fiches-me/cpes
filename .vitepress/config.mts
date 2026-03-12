@@ -42,9 +42,10 @@ const vitePressConfigs : UserConfig<any> = {
     },
     nav: [
       { text: '🔢 Maths', link: '/maths' },
-      { text: '🖥️ Info', link: '/info' },
-      { text: '💸 Eco', link: '/eco' },
-      { text: '🍃 Bio', link: '/bio' },
+      { text: '🖥️ Info',   link: '/info' },
+      { text: '💸 Eco',   link: '/eco' },
+      { text: '🍃 Bio',   link: '/bio' },
+      { text: '🎮 CPES-CRAFT', link: '/craft' },
       { text: '💖 Nous Aider', link: '/contribution' },
     ],
     footer: {

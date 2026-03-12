@@ -20,6 +20,6 @@ $\sum\limits_{i=0}^n ( a_i x_i ) +b$
 - Résau convolutif : "*Réseau de réseaux*",
 - Transformeur : Architecture pour l'analyse de texte qui intègre un mechanisme d'attention.
 
-Les NLP étaient d'abord très "logique" avant de passer à des systèmes dd'intelligence artificiele (Blue car -> Bleu voiture)
+Les NLP étaient d'abord très "logique" avant de passer à des systèmes dd'intelligence artificiele (Blue car ➡️ Bleu voiture)
 
 On peut également, on peut assembler des modèles 

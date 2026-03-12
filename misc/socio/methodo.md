@@ -39,10 +39,10 @@ Ce sujet est une analyse, *mais extrêmement guidée*. La première étape est d
 1. *Une méthode technique*
     1. Une enquête de terrain
 	    - Plus proche du réel
-	    - Données explicatives -> plus une question de savoir mais comprendre
+	    - Données explicatives ➡️ plus une question de savoir mais comprendre
     2. Façon multiples (observation, entretiens, monographies)
 		- Eviter les erreurs
-		- Point de vue différés -> richesse des données
+		- Point de vue différés ➡️ richesse des données
 2. *Mais à quel prix ?*
 	1. Long et Coûteuse
 		- Un entretient demande des chercheurs
@@ -52,10 +52,10 @@ Ce sujet est une analyse, *mais extrêmement guidée*. La première étape est d
 		- Biais des questions
 		- Biais des chercheurs
 		- Biais symbolique
-		- Biais "de la caméra" -> on n'agit pas différemment quand on sais être regardé.
+		- Biais "de la caméra" ➡️ on n'agit pas différemment quand on sais être regardé.
 	3. Difficilement généralisable
-		- Données de natures différentes -> Traitement des données
-		- Récits personnels -> couteau à double tranchant
+		- Données de natures différentes ➡️ Traitement des données
+		- Récits personnels ➡️ couteau à double tranchant
 
 > [!TIP]
 > Ici, il n'y a pas d'exemples dans le plan. Ils sont nécessaires et si ajouté pendant le plan rendent la rédaction plus rapide. 
@@ -63,24 +63,24 @@ Ce sujet est une analyse, *mais extrêmement guidée*. La première étape est d
 ### Correction de Plan
 1. *Intérêts*
 	1. Ne réduit pas la sociologie à la 
-	   -> Exemple : Coffmann et l'Asile
+	   ➡️ Exemple : Coffmann et l'Asile
 	2. Contextualiser pour comprendre le sens que l'individu donne à son action.
-	   -> Comprendre les trajectoires improbables
+	   ➡️ Comprendre les trajectoires improbables
 	3. Meilleur connaissance des pratiques intimes
-	   -> Coffmann et les machines
+	   ➡️ Coffmann et les machines
 	4. Adapter son questionnaire
-	   -> Un entretient peux être non directif
+	   ➡️ Un entretient peux être non directif
 2. Limites
 	1. Coûts techniques et matériels
-	   -> Chronophages, Coûteux 
+	   ➡️ Chronophages, Coûteux 
 	2. Problème inhérent : objectivation lors d'une observation participante
-	   -> Être objectif lors d'une observation participante
+	   ➡️ Être objectif lors d'une observation participante
 	3. Relation inégale
-	   -> Violence symbolique Bourdieu
-	   -> Formulation des questions. Je peux ne pas comprendre/mal comprendre
+	   ➡️ Violence symbolique Bourdieu
+	   ➡️ Formulation des questions. Je peux ne pas comprendre/mal comprendre
 	4. Difficilement généralisables
-	   -> Intime, point de vue
-	   -> Traitement difficile
+	   ➡️ Intime, point de vue
+	   ➡️ Traitement difficile
 
 ## Rédaction d'une sous partie
 > Cette sous-partie correspond au II.2 du plan si dessus.
