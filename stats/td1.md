@@ -30,15 +30,13 @@ X suit une loi de Bernoulli, de succès "succès" et comme paramètres $n = 1$ e
 
 ## Question 0
 
-La loi de X est $P(X = n) = \frac 56 ^n + \frac 16$  
-
+X suis une loi géométrique de paramètre $p = \frac 16$ est $P(X = n) = \frac 56 ^{n - 1} + \frac 16 = (1 - p)^{n-1} \times p$. Il y a $\color{red} n -1$ échecs pour $\color{green} 1$ succès.
 ## Question 1
+Problème : $X(\Omega) = \mathbb{N}^*$
+- $E(X) = \frac 1p = 6$
+- $V(X) = \frac {1-p}{p^2} = 30$
 
-- $E(X) = 6$
-- $V(X) = 30$
-
-*Ces valeurs ont été trouvés par le calcul. Je n'ai pas continué l'exercice car je n'ai pas réussi à les prouver.*
-
+*Suite non corrigée*
 # Exercice 3
 
 ## Question 1
@@ -50,10 +48,16 @@ La loi de X est $P(X = n) = \frac 56 ^n + \frac 16$
 
 ## Question 2
 
-1. x
-2. x
-3. x
-4. x
+1. $\Theta _n = \frac 1n \sum (X_i - t_n )^2$
+     $= \frac 1n \sum X_i^2 -2t_n X_i- t_n^2$
+     $= \frac 1n \sum X_i^2 - 2 t_n \times \frac 1n \sum X_i + \frac 1n \times n t_n^2$
+     $= \frac 1n \sum X_i^2 - 2 t_n^2 + t_n^2$
+2.  Les lois $X_i$ sont de même loi iid, donc les $X_i^2$ le sont aussi. Donc $\forall i \in [1, n], E(X_i^2) = E(X_1^2)$
+     Donc .f.
+3. Sachant que $E(X_1) = \mu = E(t_n)$, on ajoute et retranche $(E(X_1))^2$ à la formule.
+ $E(\Theta _n) = E(X_i^2) - (E(X_1))^2 - (E(t_n) - (E(X_i))^2)$
+   $E(\Theta _n) = V(X_i) - V(t_n)$
+4. $E(\Theta_n) =\sigma^2 - \frac {\sigma^2}{n} = \sigma^2 \frac{n-1}{n}$
 
 # Exercice 4
 
