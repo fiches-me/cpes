@@ -23,7 +23,7 @@ La carte de CPES-CRAFT possède un "spawn", un point d'origine accessible avec l
 
 ## Homes
 
-Les homes sont des xx que vous pouvez sauvegarder pour y revenir plus tard.
+Les homes sont des lieux que vous pouvez sauvegarder pour y revenir plus tard.
 
 - Poser un home : `/sethome <nom>`
 - Aller à un home : `/home <nom>`
