@@ -9,7 +9,7 @@ Le serveur ne demande **aucun mod obligatoire**. Cependant, nous vous conseillon
 
 ## Performance
 
-Il est possible d’améliorer **grandement** (*multiplier par 10 vos FPS*) avec des **modpacks de performances**. Il contiennent des configurations 
+Il est possible d’améliorer **grandement** (*multiplier par 10 vos FPS*) avec des **modpacks de performances**. 
 
 Performance pur
 https://modrinth.com/modpack/adrenaline
