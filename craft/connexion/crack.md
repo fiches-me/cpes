@@ -24,6 +24,6 @@ Vérifie que :
 
 - vous êtes bien en mode crack/offline dans votre launcher ;
 - votre pseudo ne correspond pas à un compte officiel existant ;
-- vous n'utilisez pas TLauncher (voir [Pourquoi éviter TLauncher](installation.md#Pourquoi%20éviter%20TLauncher)]). Il bloque l'accès au serveur.
+- vous n'utilisez pas TLauncher (voir [Pourquoi éviter TLauncher](installation.md#Pourquoi%20éviter%20TLauncher)). Il bloque l'accès au serveur.
 
 Si le problème persiste, vous pouvez demander de l'aide sur notre [serveur discord](https://dsc.gg/cpescraft)

@@ -38,7 +38,56 @@ Si vous avez des suggestions de launcher mac crack/un tutoriel pour installer le
 Site : https://xmcl.app/
 Version crack : (Intégré)
 
+#### Guide Complet
+
+L'installation de X Launcher est plutôt simple. Pour commencer, téléchargez exécutable compatible avec votre ordinateur via le lien si dessus, et lancez le. Appuyiez ensuite sur suivant jusqu'à arriver à la sélection des comptes 
+
+![Image n°1](../images/x1.png)
+
+>Choisissez une langue. Par défaut celle de votre ordinateur. 
+
+![Image n°3](../images/x3.png)
+
+> Choisissez votre thème, si vous vouez être $fancy$
+
+![Image n°4](../images/x4.png)
+
+> Choisissez où vous voulez stocker les configurations de votre jeu. Le dossier par défaut est OK.
+
+![Image n°6](../images/x6.png)
+
+Vous pouvez maintenant choisir un compte. Sélectionnez **Microsoft** si vous avez acheté le jeu. Sinon, sélectionnez  **Hors Ligne**. *Les deux systèmes d’authentification Microsoft son équivalent, choisissez celui que vous voulez.*
+
+![Image n°7](../images/x7.png)
+
+Vous devez maintenant ajouter une instance Minecraft. **Ne cliquez pas sur télécharger**, CPES-CRAFT n'est pas accessible sur la version par défaut de X (ici `1.21.8`)  Nous allons vous faire télécharger une version optimiser pour faire respirer votre ordinateur. Cliquez sur l'icone **Marketplace** pour commencer.
+
+![Image n°8](../images/x8.png)
+
+Cherchez ensuite **Adrenaline** dans la barre de recherche. Cliquez sur le premier résultat.
+
+![Image n°9](../images/x9.png)
+
+> Cliquez sur le boutton installer.
+
+![Image n°10](../images/x10.png)
+
+Dans la liste des versions, sélectionnez la dernière version contenant `1.21.11`. Attendez ensuite que X télécharge tout les fichiers
+
+![Image n°11](../images/x11.png)
+
+Cliquez sur **Jouer**. **C'est fait 🥳**
+
 ### Option légère : PrismLauncher
 
 Site : https://prismlauncher.org/
 Version crack : https://github.com/Diegiwg/PrismLauncher-Cracked
+
+#### Guide Complet
+
+![Image n°1](../images/prism1.png)
+![Image n°2](../images/prism2.png)
+![Image n°3](../images/prism3.png)
+![Image n°4](../images/prism4.png)
+![Image n°6](../images/prism6.png)
+![Image n°7](../images/prism7.png)
