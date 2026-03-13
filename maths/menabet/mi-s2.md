@@ -47,6 +47,8 @@ Soit $Card(.)$ le nombre d'éléments dans un ensemble.
 
 Une loi est **uniforme** si tout les événements ont la même probabilité de tomber. On note alors $P_u : E \rightarrow \frac{Card(E)}{Card(\Omega)}$
 
+
+
 ### Variables Aléatoires
 
 x
