@@ -1,4 +1,4 @@
-# Fish Mi-S
+# Fish Mi-S2
 
 ## Dérivabilité
 
