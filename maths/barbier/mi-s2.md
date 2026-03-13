@@ -1,5 +1,12 @@
 # Fish Mi-S
 
+## Dérivabilité
+
+> [!IMPORTANT] Taux d'accroissement
+> f est dérivable en a si f aiment une limite finie en a.
+> $f^ \prime (a) = \frac {f(a+h) - f(a} {h}$
+
+
 ## Complexes
 
 ### Bases
