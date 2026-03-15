@@ -1,5 +1,5 @@
 ---
-title: Comptes Crack
+title: 🏴‍☠️ Comptes Crack
 order: 4
 ---
 

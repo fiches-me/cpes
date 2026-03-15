@@ -1,5 +1,5 @@
 ---
-title: Téléportation
+title: 🪄 Téléportation
 order: 2
 ---
 

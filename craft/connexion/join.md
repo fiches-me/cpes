@@ -1,5 +1,5 @@
 ---
-title: Ajouter le serveur
+title: ➕ Ajouter le serveur
 order: 2
 ---
 

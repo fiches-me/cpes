@@ -1,5 +1,5 @@
 ---
-title: Mods (facultatifs)
+title: 🧩 Mods (facultatifs)
 order: 3
 ---
 

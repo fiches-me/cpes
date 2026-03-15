@@ -1,5 +1,5 @@
 ---
-title: Installer Minecraft
+title: 📥 Installer Minecraft
 order: 1
 ---
 

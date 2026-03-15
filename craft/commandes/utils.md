@@ -1,5 +1,5 @@
 ---
-title: Commandes de base
+title: 🔎 Commandes de base
 order: 1
 ---
 

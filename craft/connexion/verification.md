@@ -1,5 +1,5 @@
 ---
-title: Vérification
+title: ✅ Vérification
 order: 5
 ---
 
