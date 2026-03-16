@@ -86,6 +86,11 @@
   background-color: transparent !important;
 }
 
-img {
+.VPDoc img {
+  width: 100%;
+}
+
+thead, tbody {
+  display: inline-table;
   width: 100%;
 }
