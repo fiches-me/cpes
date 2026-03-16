@@ -1,6 +1,7 @@
 ---
 draft: true
 ---
+
 ## 🗺️ Organisation fonctionnelle de la cellule — synthèse
 
 ![](./images/tableau-récapitulatif.png)
@@ -46,6 +47,12 @@ Voir le tableau récapitulatif des jonctions :
 
 - Symbiose : digestion, modulation immunitaire, production de métabolites.
 - Dysbiose : prolifération de souches pathogènes → inflammation, perte de fonctions barrières.
+
+---
+
+# **Fin révisions mi-s2**
+
+---
 
 ## 🚪 Membranes et échanges — résumé détaillé
 
