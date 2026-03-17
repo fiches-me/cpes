@@ -126,3 +126,12 @@ header,
   position: relative;
   z-index: 10;
 }
+
+.title {
+  font-family: "Poppins";
+  font-weight: 900;
+}
+
+.VPLink {
+  /* Fix link button transparent + border */
+}
