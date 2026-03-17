@@ -129,9 +129,10 @@ header,
 
 .title {
   font-family: "Poppins";
-  font-weight: 900;
+  font-weight: 900 !important;
 }
 
 .VPLink {
   /* Fix link button transparent + border */
+  background: var(--color-l-gray-20);
 }
