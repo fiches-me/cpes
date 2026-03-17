@@ -132,7 +132,11 @@ header,
   font-weight: 900 !important;
 }
 
-.VPLink {
-  /* Fix link button transparent + border */
+.pager {
+  border-width: 3px;
   background: var(--color-l-gray-20);
+}
+
+.dark .pager {
+  background: var(--color-d-gray-90);
 }
