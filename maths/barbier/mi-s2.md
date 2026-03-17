@@ -55,8 +55,10 @@ Voir [dérivées](../rappels/dérivées.md) pour les dérivés des fonctions usu
 ### Bases
 
 $C = \{a + ib | a, b \in R$ et $i^2 =-1 \}$ 
-$z$ = $z^* \Longleftrightarrow$ $Re(z) = Re(z^*)$ et $Im(z) = Im(z^*)$
-$\sum z^k = \frac{1 - z^{n - 1}}{1 - z}$
+
+> $z$ = $z^* \Longleftrightarrow$ $Re(z) = Re(z^*)$ et $Im(z) = Im(z^*)$
+
+$\sum z^k = \frac{1 - z^{n + 1}}{1 - z}$
 
 ### Conjugués & Modules
 
