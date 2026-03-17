@@ -39,6 +39,7 @@ Passez votre souris devant l’icône du serveur et **cliquez dessus**.
 ### *Que faire après ?*
 
 - Installer les **[mods facultatifs](mods.md)** pour une **meilleure expérience de jeu** (*W le voice chat*).
+- Renseignez vous sur les **[commandes utiles](../commandes/utils.md)**.
 - Suivre **[ce guide](crack.md)** si vous jouez sur un **compte "crack"**.
 - **[Rejoindre le Discord](https://dsc.gg/cpescraft)** pour discuter avec les autres joueurs (et **espionner Marcel** 👀).
 
