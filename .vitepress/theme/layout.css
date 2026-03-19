@@ -133,7 +133,7 @@ header,
 }
 
 .pager {
-  border-width: 3px;
+  border: 2px solid var(--vp-c-divider);
   background: var(--color-l-gray-20);
 }
 
