@@ -6,12 +6,14 @@
 
 - Suites arithmétiques
 - Suites Géométriques
-- Suites Arithmético-géométriques
-- Suites linéaires d'ordre 2
+- Suites Arithmético-géométriques ($a^n (u_0 - \frac{b}{1 - a}) + \frac{b}{1 - a}$)
+- Suites linéaires d'ordre 2 ($E_q = x^2 - ax - b = 0$ et $u_0 = \lambda + \mu, u_1 = \lambda r_1 + \mu r_2$)
 
 ### Définition des limites
 
 - Limite finie & infinie d'une suite
+	1. $\forall A > 0, \exists N \in \mathbb{N}, [n > N \Rightarrow u_N > A$
+	2. $\forall \epsilon > 0, \exists N \in \mathbb{N}, [n > N \Rightarrow |u_n - l| < \epsilon]$
 - Bornitude des Suites convergentes
 - Opérations sur les limites 
 - Point fixe

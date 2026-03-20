@@ -62,7 +62,7 @@ const vitePressConfigs : UserConfig<any> = {
   }
 }
 
-const sections = ['maths', 'eco', 'info', 'bio', 'contribution', 'livres', 'craft'];
+const sections = ['maths', 'eco', 'info', 'bio', 'contribution', 'livres', 'craft', 'stats'];
 
 const sidebarOptions = sections.map((section) => ({
   documentRootPath: '/',

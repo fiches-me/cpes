@@ -22,3 +22,8 @@ Find positive points
 > Party
 
 Imagine your coworkers drunk at a party. One of them is really mad and they start to fight on each other. What 
+
+
+## Exercises
+### 1
+Definition of Emotional
