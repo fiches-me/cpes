@@ -4,6 +4,8 @@ order: 0
 title: 🔎 Introduction
 ---
 
+# 🔎 Introduction
+
 Le métabolisme peut être définit comme l'ensemble des réaction biochimiques au sein d'un organisme, organe ou xxx. Il existe deux réaction de métabolisme : catabolisme (dégradation des molécules) et anabolisme (synthèse des molécules). L’anabolisme qui demande de l'énergie est souvent couplée à une réaction catabolisme qui produit de l'énergie
 
 Les enzymes participent souvent dans ces réactions, pour permettre à celle ci de se dérouler dans les conditions du vivants (et dans les temps). En tant que catalyseurs, **elles accélèrent** les réactions.

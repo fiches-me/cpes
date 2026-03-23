@@ -191,7 +191,7 @@ details:not([open]).callout > .callout-title > .callout-fold {
 /* ─────────────────────────────────────
    Abstract / Summary / TLDR
    ───────────────────────────────────── */
-.callout[data-callout="abstract"],
+
 .callout[data-callout="summary"],
 .callout[data-callout="tldr"] {
   --callout-color: var(--callout-rgb-abstract);
@@ -287,5 +287,11 @@ details:not([open]).callout > .callout-title > .callout-fold {
 .callout[data-callout="quote"],
 .callout[data-callout="cite"] {
   --callout-color: var(--callout-rgb-quote);
+  --callout-icon: "lucide-quote";
+}
+
+.callout[data-callout="important"],
+.callout[data-callout="définition"] {
+  --callout-color: var(--callout-rgb-important);
   --callout-icon: "lucide-quote";
 }

@@ -66,4 +66,30 @@ Texte : la seule grosse différence est celle du commissaire priseur.
 
 ## Dossier 4
 
+### Exercice 1
+
+1. Les biens sont **substituables** car Cobb-Douglass.
+2. Pour les 3 cas:
+	1. 1/3 + 1/3 < 1 donc décroissant
+	2. 1/3 + 2/3 = 1 donc constant
+	3. 1 + 1/3 > 1 donc croissant
+3. Pour les 3 cas, $P_m (q_1) = f^\prime_{q_2} (q_1, q_2) = \beta q_1^\alpha q_2^{\beta - 1}$$f^{\prime\prime}{q_2} (q_1, q_2) = \beta (\beta - 1)q_1^\alpha q_2^{\beta - 2}$. Tout est positif sauf $(\beta - 1)$, donc :
+	1. 1/3 - 1 < 0 donc décroissant
+	2. 2/3 - 1 < 0 donc décroissant
+	3. 1 - 1 = 0 donc constante
+4. Sinon, les producteurs produirais sans fin et donc aucun équilibre ne serait possible. Le producteur *pense* que tout est infini, sa fonction de profit n'a donc théoriquement pas de maximum. Pour que cette augmentation s'arrête à un moment, il faut que le coût vienne à un moment couper son profit. 
+5. Même chose, mais d'un point de vu production : plus il produit, plus son coût de production est bas.
+
+### Exercice 2
+
+1. Les fonctions de production sont **cardinales** donc **on ne peut pas changer la fonction**.
+2. 1/4 + 1/2 < 1 donc décroissant.
+3. $P_m (q_2) = \frac 12 q_1 ^{\frac 14} q_2 ^{- \frac 12}$. $\frac 12 - 1 < 0$ et $\frac 14 - 1 < 0$ donc tt les deux décroissant.
+4. Voir [Le TMST et les rendements d’échelle](g2.md#Le%20TMST%20et%20les%20rendements%20d’échelle)
+5. $TMST ( q_1, q_2) = \frac{\alpha q_2}{\beta q_1} = \frac{q_2}{2 q_1}$ Il faut donc 2 $q_1$ pour remplacer 1 $q_2$. On résout $f(1, 1) = 1 \Leftrightarrow q_2 = \frac{1}{\sqrt{q_1}}$
+6. Au panier 1,1, la droite d'isocoûts ne touche pas l'isoquante. Donc pas optimal. Tangente : | pente isocoût au panier | = | TMST au panier |
+7. $TMST = \frac{p_1}{p_2}$
+8. x
+9. Fct Cobb Douglass donc les conditions de second ordre sont validés. 
+
 ## Dossier 5
