@@ -79,6 +79,8 @@ C'est pas le clavier qui fait le codeur mais c'est le codeur qui fait le clavier
 
 je me sauve le verre 
 
+Oui Menabet prend moi par derrière! 
+
 # Profs
 
 ## Gras-Sayerle
