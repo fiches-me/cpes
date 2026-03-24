@@ -25,6 +25,8 @@ OH MARCEL ! Je suis GAY !
 
 Vous jouez à Minecraft sur M. Barro ?
 
+Ohh merci Guilhem, je crois que je vais vraiment te faire des enfants.
+
 ## Maylys
 
 Et hop elle te fait un bisous avec ses fesses
