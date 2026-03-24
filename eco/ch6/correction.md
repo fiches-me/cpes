@@ -92,4 +92,47 @@ Texte : la seule grosse différence est celle du commissaire priseur.
 8. x
 9. Fct Cobb Douglass donc les conditions de second ordre sont validés. 
 
+### Exercice 3
+
+1. La production est discontinue, donc la 3° fonction ne peut pas être utilisé. Donc la fonction **b** est la meilleure.
+2. Droite $q_1 = \frac 12 q_2$
+3. Cette droite ne dépend pas du prix. Les inputs sont **complémentaires**, donc il doit éviter un maximum le gaspillage peu importe le prix de ses deux inputs.
+
+### Texte John Hicks
+
+Quelques points :
+1. Si les inputs ne sont pas substituables, c'est la d. Il n'y a aucun moyen *d'optimiser le process*. 
+2. Le capital et le travail suivent les mêmes optimisations, les machines et les humains sont substituables (yes).
+
+### Exercice 4
+
+1. La fonction de coût est le coût minimum pour q outputs. $C(q) = p_1 q_1(q) + p_2 q_2(q)$.
+
+   $$\begin{cases} f(q_1, q_2) = q \\ TMST (q_1, q_2) \end{cases} \Longleftrightarrow C(q) = q ^\frac 43 . 2 ^\frac 13 . \frac 32$$
+
+2. On dérive C. C' est positive, donc le coût de production augmente avec la quantité produite. C'' positive aussi, donc le coût de production est croissant. Les rendements d'échelle sont décroissant.
+3. $\pi (q) = q . p - C(q)$. $\pi ^\prime$ 
+4. k croissant pas possible
+5. x
+6. rendements d'échelle constant
+7. $\begin{cases} q_1 ^\frac 12 q_2 ^\frac 12 = 1  \\ \frac{q_2}{q_1} = \frac{p_1}{p_2} \end{cases} \Longleftrightarrow \begin{cases} q^*_1  = \sqrt{\frac{p_2}{p_1}} \\ q^*_2 = \sqrt{ \frac{p_1}{p_2} } \end{cases}$
+8. rendements d'échelle constant, donc co$ut unitaire constant? $C(q) = CU \times q = 2 \sqrt{p_1 p_2} . q$
+9. $\pi (q) = p . q . C(q)$. $\pi (q) = 0 \Leftrightarrow p = 2\sqrt{p_1p_2}$. Si $p < 2\sqrt{p_1p_2}$, s(p) = 0.
+10. Si P plus grand, +inf. Si c'est égal, on ne sais pas
+
+> Le profit est nul car on est en rendement d'échelle constant. 
+
 ## Dossier 5
+
+### Exercice 1
+
+### Exercice 2
+
+#### Partie A
+
+1. x
+2. Constant, car même rapport
+3. $\bar{L}$ vérifie $f(\bar{L}) = 1 \Leftrightarrow 2\bar{L}= 1 \Leftrightarrow \bar{L} = \frac 12$. Donc le coût unitaire est de $\frac w2$
+4. $\pi (s) = p . q - C(Q) = p . q - \frac w2 q = q (p - \frac w2)$. Soit $p < \frac w2$, alors l'offre et la demande est nulle, $p > \frac w2$, alors indéfini. Si =, why not.
+
+#### Partie B

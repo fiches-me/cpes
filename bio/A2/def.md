@@ -48,7 +48,6 @@ Réseau de collagènes, élastine, protéoglycanes et glycoprotéines (fibronect
 - ==**Peroxysome**== : détoxification (catabolisme des peroxydes), oxydases, bêta-oxydation partielle (nouveau).
 - ==**Endosome**== : compartiment de tri des vésicules endocytées, maturation vers lysosome (nouveau).
 - **Ribosomes** : sites de traduction (libres ou associés au RER).
-- ==**Chloroplaste**== : organite photosynthétique chez les plantes (double membrane, thylakoïdes) — ajouter si utile (nouveau).
 
 ## Matrice extracellulaire (MEC) — compléments
 Réseau de collagènes, élastine, protéoglycanes et glycoprotéines (fibronectine, laminine). Assure support mécanique, filtration, migration cellulaire et régulation des signaux ; remodelée en permanence par les MMPs.
