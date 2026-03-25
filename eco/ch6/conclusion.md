@@ -13,7 +13,7 @@ On introduit ici une formulation simple pour illustrer le lien entre la forme de
 
 Considérons un agent qui choisit le travail fourni $\ell$ et la consommation $q$, avec salaire horaire $w$ et prix du bien $p$ ; la contrainte de revenu est
 $$p\,q = w\,\ell.$$ 
-Prenons la forme utile dans la littérature pédagogique
+Prenons la forme classique
 $$u(\ell,q)=\ell^{\alpha}(q-\bar q),\qquad \alpha>0.$$ 
 
 Remplaçant $q$ par $w\ell/p$ on obtient la fonction objective en $\ell$ :
