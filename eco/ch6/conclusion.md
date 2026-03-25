@@ -5,7 +5,7 @@ order: 4
 
 # Conclusion : qu'en est t-il du marché du travail
 
-Ce modèle oublie totalement la présence du marché du travail. Or, on observe quand même des liens entre conso et prod. Or, les conso sont aussi travailleurs (dans la vraie vie), ce qui crée ici une confrontation (plus haut/bas salaire). Ce modèle ne considère donc pas ses conflits (arbitrage travail/loisir, u(\mathcal{l}, q) = \mathcal{l} ^\alpha (q - \bar{q}) ).
+Ce modèle oublie totalement la présence du marché du travail. Or, on observe quand même des liens entre conso et prod. Or, les conso sont aussi travailleurs (dans la vraie vie), ce qui crée ici une confrontation (plus haut/bas salaire). Ce modèle ne considère donc pas ses conflits (arbitrage travail/loisir, $u(\ell, q) = \ell^\alpha (q - \bar{q})$).
 
 ## Lien entre la forme de l'offre de travail et le minimum de survie
 
@@ -18,12 +18,12 @@ $$u(\ell,q)=\ell^{\alpha}(q-\bar q),\qquad \alpha>0.$$
 
 Remplaçant $q$ par $w\ell/p$ on obtient la fonction objective en $\ell$ :
 $$U(\ell)=\ell^{\alpha}\Big(\frac{w\ell}{p}-\bar q\Big).$$
-La condition du premier ordre (pour une solution intérieure \(\ell>0\)) est
+La condition du premier ordre (pour une solution intérieure $\ell>0$) est
 $$\frac{dU}{d\ell}=\ell^{\alpha-1}\Big((\alpha+1)\frac{w\ell}{p}-\alpha\bar q\Big)=0,$$
 d'où
-$$\ell^*=rac{\alpha\,\bar q\,p}{(\alpha+1)w}.$$ 
+$$\ell^*=\frac{\alpha\,\bar q\,p}{(\alpha+1)w}.$$ 
 On en déduit la consommation associée
-$$q^*=\frac{w\ell^*}{p}=\frac{\alpha}{\alpha+1}\,\bar q<\bar q.$$ 
+$$q^*=\frac{w\ell^*}{p}=\frac{\alpha}{\alpha+1}\,\bar q < \bar q.$$ 
 
 Conclusion immédiate : pour cette spécification multiplicative, la solution intérieure donne toujours $q^*<\bar q$, donc le « minimum de survie » $\bar q$ est en pratique contraignant et l'optimum réel devient un coin où la contrainte $q\ge\bar q$ s'impose.
 
