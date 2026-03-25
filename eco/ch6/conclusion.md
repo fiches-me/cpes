@@ -5,7 +5,7 @@ order: 4
 
 # Conclusion : qu'en est t-il du marché du travail
 
-Ce modèle oublie totalement la présence du marché du travail. Or, on observe quand même des liens entre conso et prod. Or, les conso sont aussi travailleurs (dans la vraie vie), ce qui crée ici une confrontation (plus haut/bas salaire). Ce modèle ne considère donc pas ses conflits (arbitrage travail/loisir, $u(\mathcal{l}, q) = \mathcal{l} ^\alpha (q - \bar{q})$).
+Ce modèle oublie totalement la présence du marché du travail. Or, on observe quand même des liens entre conso et prod. Or, les conso sont aussi travailleurs (dans la vraie vie), ce qui crée ici une confrontation (plus haut/bas salaire). Ce modèle ne considère donc pas ses conflits (arbitrage travail/loisir, u(\mathcal{l}, q) = \mathcal{l} ^\alpha (q - \bar{q}) ).
 
 ## Lien entre la forme de l'offre de travail et le minimum de survie
 
@@ -35,5 +35,3 @@ Interprétation économique courte :
 - Avec une utilité multiplicative comme ci‑dessus, l'optimum intérieur tend à produire une consommation inférieure au seuil de survie, donc le seuil devient un coin contraignant. 
 - Sous ce coin contraint, une hausse du salaire réduit le travail minimal requis (effet substitution/income canal distincts selon la forme fonctionnelle). 
 - De façon générale, la pente et la convexité de la fonction d'utilité (ici le paramètre $\alpha$) déterminent le signe et la taille de la réponse du travail au salaire — le travail peut croître ou décroître avec $w$ selon la spécification et selon si la contrainte de survie est active.
-
-Souhaites‑tu que je reformule cela plus simplement, ou que j'ajoute un petit graphe illustratif et un exemple numérique dans [eco/ch6/conclusion.md](eco/ch6/conclusion.md#L1-L1) ?
