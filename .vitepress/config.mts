@@ -59,7 +59,12 @@ const vitePressConfigs : UserConfig<any> = {
   },
   sitemap: {
     hostname: 'https://cpes.fiches.me'
-  }
+  },
+  transformPageData(ctx) {
+    const canonicalUrl = `https://cpes.fiches.me/${ctx.relativePath.replace(/\.(md|html)$/, '').replace(/\index$/, '')}`;
+    ctx.frontmatter.head = ctx.frontmatter.head || [];
+    ctx.frontmatter.head.push(['link', { rel: 'canonical', href: canonicalUrl }]);
+  },
 }
 
 const sections = ['maths', 'eco', 'info', 'bio', 'contribution', 'livres', 'craft', 'stats'];
