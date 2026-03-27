@@ -137,3 +137,7 @@ Quelques points :
 4. $\pi (s) = p . q - C(Q) = p . q - \frac w2 q = q (p - \frac w2)$. Soit $p < \frac w2$, alors l'offre et la demande est nulle, $p > \frac w2$, alors indéfini. Si =, why not.
 
 #### Partie B
+
+1. Situation pas de travail (autarcique), ou travail (donc avec production)
+2. $L^* = 0$ et $q^* = 0\Leftrightarrow w < TMS(12, 2) = \frac 16$. Dans cette situation, le consommateur ne veut pas travailler et le producteur produire un max. Incompatible, donc pas d'équilibre.
+3. On sais que $p = \frac w2$. Le salaire d'équilibre est donc $\frac wp ^* = 2$.  La quantité de travail globale est de $6 - \frac 12 = \frac{11}{2} = L^*$. $f(\frac{11}{2}) = 11$.
