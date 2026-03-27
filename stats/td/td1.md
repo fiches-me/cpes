@@ -1,3 +1,8 @@
+---
+title: 🧮 TD Statistiques N°1
+order: 1
+---
+
 # Exercice 1
 
 ## Question 1
