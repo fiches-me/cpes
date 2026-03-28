@@ -32,10 +32,10 @@ order: 2
 1. D'après le tableau :
     1. P(x<1) = 0.8414
     2. P(0<x<1.42) = 0.9222 - 0.5 = 0.4222
-    3. P(x>1.13) = P(x<1.13) = tout petit ?
+    3. P(x>1.13) = P(x< - 1.13) =  1 - P(x > -1.13) = 1 - P(x < 1.13) t= 1 - 0.8708 = 0.1292
 2. Toujours d'après le tableau :
-    1. P(−0.75 < X)
-    2. P(−0.75≤X≤0)
+    1. P(X > - 0,75) = P(X < 0.75) = 0.7734
+    2. P(−0.75≤X≤0)= P(0<X<0.75) = 0.7734 - 0.5 = 0.2734
 3. Toujours d'après le tableau :
     1. $P(X \le t)=0.8238 \Leftrightarrow t = 0.93$
     2. $P(X \le t)=0.1112 \Leftrightarrow t = 1 - 3.49?$
