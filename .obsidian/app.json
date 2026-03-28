@@ -39,10 +39,10 @@
     "node_modules/"
   ],
   "pdfExportSettings": {
-    "includeName": false,
+    "includeName": true,
     "pageSize": "A4",
     "landscape": false,
-    "margin": "1",
+    "margin": "2",
     "downscalePercent": 80
   },
   "showLineNumber": false,
