@@ -24,7 +24,20 @@ order: 2
 
 # Exercice 2
 
-1. X
+1. $\mathbb{P} (T_2) = \begin{cases} 1 \text{ si } \forall i \in [\![1, n]\!] , X_i = 1 \\ 0 \text{ sinon}\end{cases}$
+   Donc T suis une loi de Bernoulli de probabilité $p^n$
+2. $\mathbb{E} (T_1) = p$ (cours). Donc $T_1$ est bien un estimateur non biaisé de $p$.
+   $\mathbb{E} (T_2) = p^n \ne p$, donc $T_2$ présente un biais pour $p$.
+3. On calcule les EQM de $T_1$ et $T_2$ :
+    1. $EQM ( T_1 ) = \mathbb{E} ((T_1 - p) ^2)$
+       $= \mathbb{E} ((T_A - \mathbb{E}(T_1)) ^2)$
+       $= \mathbb{V}(T_1)$
+       $=\frac{p(1-p)}n$
+    2. $EQM ( T_2 ) = \mathbb{V} (T_2) + B_2(T_2, p)^2$
+       $= p^n(1 - p^n) + (p^n - p)^2$
+       $=p^{n + 2} + 2^{n + 1}$
+4. On a vu que $T_2$ était biaisé, donc c'est forcément $T_1$ le plus performant.
+5. Quand n tend vers +inf, $EQM(T_1)$ tend vers $EQM(T_2)$ tend vers +inf. La variance de $T_1$ s'annule pour n grand, donc $T_1$ est un bon estimateur.
 
 # Exercice 3
 
