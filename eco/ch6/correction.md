@@ -34,7 +34,43 @@ order: 5
 
 4. $$\begin{cases}TMS (q_1, q_2) = \frac{p_1}{p_2} \\ R = p_1q_1 + p_2\end{cases} \Longleftrightarrow \begin{cases}\frac{2q_2}{q_1} = \frac {p_1}{p_2} \\ 2q_1 + q_2 = 3p_1 + 6p_2\end{cases} \Longleftrightarrow \begin{cases}q_1 = 2 + 4\frac{p_2}{p_1} \\ q_2 = 2 + \frac{p_1}{p_2}\end{cases}$$
 
-   $d_{1A} (p_1, p_2) = 2 + 4 \frac{p_2}{p_1}$ et $d_{2A} (p_1, p_2) = 2 + \frac{p_1}{p_2}$. $o_{1A} (p_1, p_2) = 3$ et $o_{2A} (p_1, p_2) = 6$.
+    $d_{1A} (p_1, p_2) = 2 + 4 \frac{p_2}{p_1}$ et $d_{2A} (p_1, p_2) = 2 + \frac{p_1}{p_2}$. $o_{1A} = 3$ et $o_{2A} = 6$.
+
+#### Détails : dérivation des demandes individuelles (petits d)
+
+Voici la méthode pas-à-pas pour obtenir $d_{i}(p)$ à partir du problème de chaque consommateur.
+
+Exemple — agent A :
+- Hypothèses : on travaille ici avec une utilité donnant $TMS_A=\dfrac{2q_2}{q_1}$ (par exemple $u_A(q_1,q_2)=q_1^2q_2$) et dotation $e_A=(3,6)$, donc $R_A=3p_1+6p_2$.
+- Problème du consommateur :
+   $$\max_{q_1,q_2\ge0}\;q_1^2q_2\quad\text{s.c.}\quad p_1q_1+p_2q_2=R_A.$$ 
+- Lagrangien :
+   $$\mathcal L=q_1^2q_2+\lambda\,(R_A-p_1q_1-p_2q_2).$$
+- Conditions du premier ordre :
+   $$\partial_{q_1}:\;2q_1q_2-\lambda p_1=0,\qquad
+      \partial_{q_2}:\;q_1^2-\lambda p_2=0.$$ 
+- Élimination de $\lambda$ :
+   $$\frac{2q_1q_2}{p_1}=\frac{q_1^2}{p_2}\ \Rightarrow\ 2\frac{q_2}{q_1}=\frac{p_1}{p_2}.$$ 
+   C'est la condition MRS = rapport de prix. On en déduit $q_2=\dfrac{p_1}{2p_2}q_1$.
+- Imposer la contrainte budgétaire :
+   $$p_1q_1+p_2q_2=p_1q_1+p_2\Big(\frac{p_1}{2p_2}q_1\Big)=\frac{3}{2}p_1q_1=R_A.$$ 
+   Donc $q_1=\dfrac{2R_A}{3p_1}$. En remplaçant $R_A=3p_1+6p_2$ on obtient
+   $$d_{1A}(p)=q_1=\;2+4\frac{p_2}{p_1},\qquad
+      d_{2A}(p)=\frac{p_1}{2p_2}d_{1A}=2+\frac{p_1}{p_2}.$$ 
+
+Remarque : la méthode est la même pour tout consommateur — écrire le Lagrangien, obtenir les F.O.C., éliminer $\lambda$, puis utiliser la contrainte budgétaire pour obtenir $d_i(p)$.
+
+#### Rappels rapides sur l'agrégation (petit e)
+
+- La demande excédentaire d'un bien $i$ est
+   $$e_i(p)=\sum_{h} d_{i,h}(p)-\sum_{h} e^0_{i,h}.$$ 
+- Exemple de substitution (bien 1), en reprenant les demandes utilisées dans les calculs :
+   $$D_1(p)=d_{1A}+d_{1B}=(2+4\tfrac{p_2}{p_1})+(2+2\tfrac{p_2}{p_1})=4+6\tfrac{p_2}{p_1}.$$ 
+   Avec dotation totale $E_1=3+3=6$ on obtient
+   $$e_1(p)=D_1(p)-E_1=4+6\tfrac{p_2}{p_1}-6=6\tfrac{p_2}{p_1}-2.$$ 
+   La loi de Walras impose $p_1e_1+p_2e_2=0$, donc $e_2=-(p_1/p_2)e_1$.
+
+Pour résoudre l'équilibre on peut normaliser un prix (par exemple $p_2=1$) et résoudre $e_1(p)=0$ pour trouver le rapport $p_1/p_2$.
 5. Tout dépend des prix relatifs et non des prix nominaux (car la monnaie est neutre et les fonctions de demande sont homogènes de degré 0).
 
 ## Dossier 3

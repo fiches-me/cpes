@@ -11,17 +11,13 @@ La consommation et l'épargne *des ménages* sont au centre des problématiques 
 
 C'est un débat clivant qui oppose souvent les keynésiens et les néoclassiques (partisans de Say).
 
-Généralement, la part du PIB consacrée à la consommation est d'environ 60 %, assez stable, mais on observe parfois des ruptures inexpliquées.
+Généralement, la part du PIB consacrée à la consommation est d'environ 60%, assez stable, mais on observe parfois des ruptures inexpliquées.
 
 **Comprendre la consommation, c'est comprendre comment concevoir des politiques économiques efficaces : faut-il relancer la consommation ?**
 
 Il s'agit de comprendre **l'arbitrage consommation/épargne**.
 
-Nous avons déjà vu, de manière sommaire, la consommation : la variable Y et la fonction de consommation de Keynes, mais rien de plus précis.
-
-=> Document 1
-
-La consommation comporte plusieurs sous-définitions :
+Nous avons déjà vu, de manière sommaire, la consommation : la variable Y et la fonction de consommation de Keynes, mais rien de plus précis. (*Voir le document 1*). Cependant, la consommation comporte plusieurs sous-définitions :
 
 ## Consommation **durable / non durable**
 
