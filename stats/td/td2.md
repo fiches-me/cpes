@@ -20,7 +20,8 @@ order: 2
     $$\mathbb{E}[\widehat{\theta}] = 1 \times (1 - p)^2 = \theta$$
 
    Donc l'estimateur est non biaisé.
-5. s
+5. $\mathbb{E}[\widehat{\theta}] =$
+   $= (1 - 3p)^2 = \theta$
 
 # Exercice 2
 
