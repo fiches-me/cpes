@@ -100,8 +100,11 @@ Il faudrait pas que je détruise ma tête.
 
 ## Ondrejko
 
-- Il faut m’arrêter sinon je galope
-- ...avec mes fichiers de dinosaures
+Il faut m’arrêter sinon je galope
+
+...avec mes fichiers de dinosaures
+
+Houdaille réfléchis
 
 ## Larchet
 
@@ -134,6 +137,7 @@ Tout le monde va se mettre tout nu et on va échanger !
 Mais non, vous adorez l'eau, vous en buvrez jusqu'à exploser.
 
 La pauvre, elle a eu 19
+
 ## Firens
 
 Epstein, come back! But not as Epstein.

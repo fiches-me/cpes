@@ -3,7 +3,7 @@ title: 🧮 TD Statistiques N°2
 order: 2
 ---
 
-> [!NOTE]
+> [!important] Note
 > Mon compilateur ne supporte pas les listes de lettres (a., b., etc). J'ai donc remplacé les lettres par des chiffres, mais les exercices sont les mêmes.
 
 # Exercice 1
