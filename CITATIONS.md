@@ -59,6 +59,8 @@ OH MARCEL ! OH MARCEL ! Je lui fais des enfants.
 
 Tu veux que je te passe mon sigma ?
 
+Donc je te vole ton cannabis ?
+
 ## Raphaël 
 
 Les gens ont peur des communistes et de jean Luc melanchon 
@@ -99,7 +101,7 @@ Guilhem tu pourrais ovuler pour moi stp?
 
 - Je l'écrirais l'an prochain
 - C'est un néophyte Marcel
-- (en parlant à Maxense) Mais oui bebou
+- (en parlant à Maxence) Mais oui bebou
 - J'ai besoin de le kidnapper (Ok, je ferme la porte) – tu passeras chez moi ?
 - Y'a deux m à comma sinon on s'évanouie
 - Faux regarder à gauche et à droite... bon je t'ai grié la priorité mais
@@ -126,7 +128,7 @@ Bref, je parle pas latin je m'en tappe
 
 Merde, j'ai oublié de prendre de l'argent, en même temps j'en ai pas
 
-Il veut être heureux le consommateur, contrairement à nous, ce matin, qui nous sommes levé bien trop tot. 
+Il veut être heureux le consommateur, contrairement à nous, ce matin, qui nous sommes levé bien trop tot.
 
 Elle va pivoter cette putain de courbe
 
