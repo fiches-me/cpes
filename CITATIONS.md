@@ -85,6 +85,8 @@ je me sauve le verre
 
 Oui Menabet prend moi par derrière !
 
+C'est ce que m'a dit Nolann hier (Quoi?) Ça fait du bien à la gorge.
+
 ## Eléa
 
 Il faudrait pas que je détruise ma tête.
