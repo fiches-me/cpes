@@ -27,4 +27,10 @@ On réalise l'estimation d'un paramètre $\theta$, à partir de données $\vec{x
 > 
 > On appelle:
 > 1. $[a(\vec{x}), b(\vec{x})]$ une **estimation d'intervalle**
-> 2. $[a(\vec{X}), b(\vec{X})]$ un **estimateur d'intervalle** 
+> 2. $[a(\vec{X}), b(\vec{X})]$ un **estimateur d'intervalle**
+>    
+>    Une intervalle de confiance **de seuil $\gamma \in [0, 1]$  pour un paramètre $\theta$ est un estimateur d'intervalle $[a(\vec{X}), b(\vec{X})]$ tel que $\mathbb{P} (\theta \ in [a(\vec{X}), b(\vec{X})]) = \gamma$**
+
+> [!TIP] Remarque
+> On se servira des estimateurs d'intervalle pour les résultats mathématiques qu'ils nous permettent d'avoir, mais nous utiliserons les estimations d'intervalles pour les valeurs numériques.
+
