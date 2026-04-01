@@ -10,6 +10,12 @@ order: 2
 > [!DÉFINITION]
 > Un vecteur de données $x=(x_1,\dots,x_n)$ est de taille $n$ (la taille de l'échantillon). Ces données sont réalisées par des variables aléatoires $X=(X_1,\dots,X_n)$.
 
+> [!danger] 
+> Cette fiche est encore en très grosse construction.
+> 
+> Promis, je ratrape mon retard !
+
+
 ---
 
 xxx
@@ -55,8 +61,14 @@ Une variable aléatoire X suis une loi de uniforme ($X \hookrightarrow \mathcal{
 
 ### Loi Géométrique
 
-Une variable aléatoire $X$ suis une loi Géométrique ($X \hookrightarrow \mathcal{p}(\lambda)$) si $X = min \{Y_k = 1 | k \in \mathbb{N}^*\}$. Alors, $\mathbb{P} (X = k) = (1 - p) ^{k - 1} p$
+Une variable aléatoire $X$ suis une loi Géométrique ($X \hookrightarrow \mathcal{P}(\lambda)$) si $X = min \{Y_k = 1 | k \in \mathbb{N}^*\}$. Alors, $\mathbb{P} (X = k) = (1 - p) ^{k - 1} p$
 
 Alors, $\color{red} \mathbb{E} (X) = \frac 1p$ et $\color{green} \mathbb{V} = \frac{1 - p}{p^2}$
 
 *Cette loi modélise des la répétition d'une épreuve de Bernoulli jusqu'à son premier succès.*
+
+### Loi Normale
+
+Une variable aléatoire $X$ suis une loi Géométrique ($X \hookrightarrow \mathcal{N}(\mu, \sigma^2)$) si $\forall x \in \mathbb{R}, \mathbb{P}(X = x)= \frac 1{\sqrt{2\pi\sigma^2}} e ^ {- \frac{(x - \mu)^2}{2\sigma^2} }$
+
+Alors, $\color{red} \mathbb{E} (X) = \frac 1p$ et $\color{green} \mathbb{V} = \frac{1 - p}{p^2}$

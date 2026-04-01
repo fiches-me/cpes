@@ -515,6 +515,20 @@
       "icon": "lucide-file-pen"
     },
     {
+      "id": "6e2Qe",
+      "name": "No Lib (Finished, no graphs)",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "property:stats",
+          "operator": "isTrue"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-file-text",
+      "color": "orange"
+    },
+    {
       "id": "4wx1x",
       "name": "Unfinished",
       "match": "all",
@@ -601,7 +615,8 @@
         }
       ],
       "enabled": true,
-      "icon": "lucide-file-heart"
+      "icon": "lucide-file-heart",
+      "color": "pink"
     },
     {
       "id": "kY2be",

@@ -1,6 +1,8 @@
 ---
 title: Statistiques Descriptives
 order: 1
+stats: true
+finished: true
 ---
 
 # Statistiques Descriptives
