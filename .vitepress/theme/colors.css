@@ -265,9 +265,9 @@ strong {
   color: var(--color-primary);
 }
 
-i,
-em {
-  color: var(--color-secondary);
+strong i,
+strong em {
+  color: var(--vp-c-text-1);
 }
 
 .vp-doc a[href^="#"],

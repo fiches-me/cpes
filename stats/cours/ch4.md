@@ -16,6 +16,15 @@ Si on veut modéliser cette situation avec où *chaque individu* suis une [Loi d
 
 Les différences d'estimations donnent certaines informations sur l'assurance/la qualité d'une étude, quantifier la solidité statistique de l'étude (choix de l'échantillon, de la loi, etc...).
 
-**À partir d'estimations ponctuelles de notre experience, on va chercher à en *quantifier son incertitude*. Pour cela, nous allons utiliser des *estimations ensemblistes* afin d'assurer une certaine garantie statistique sur notre experience***
+**À partir d'estimations ponctuelles de notre experience, on va chercher à en *quantifier son incertitude*. Pour cela, nous allons utiliser des *estimations ensemblistes* afin d'assurer une certaine garantie statistique sur notre experience.**
 
-## d!
+## Estimation d'intervalle
+
+On réalise l'estimation d'un paramètre $\theta$, à partir de données $\vec{x} ) (x_1, ..., x_n)$ générés selon les variables aléatoires $\vec{X} = (X_1, ..., X_n)$
+
+> [!définition] 
+> Soient $a(\vec{X})$ et $b(\vec{X})$ des statistiques de nos variables aléatoires $\vec{X}$ pour un paramètre $\theta$. Supposons que $a(\vec{X}) \le \theta \le b(\vec{X})$.
+> 
+> On appelle:
+> 1. $[a(\vec{x}), b(\vec{x})]$ une **estimation d'intervalle**
+> 2. $[a(\vec{X}), b(\vec{X})]$ un **estimateur d'intervalle** 
