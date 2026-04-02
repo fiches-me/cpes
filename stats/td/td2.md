@@ -15,7 +15,7 @@ order: 2
 
     $$B(\widehat{\theta}, \theta) = \mathbb{E}[\widehat{\theta}] - \theta = 2008 - \frac12 2p - 2008 - p = 0$$
 
-4. On calcule le nouveau biais de $\widehat{\theta}$. Comme on doit calculer l'espérance pour $B(\widehat{\theta}, \theta) = E(\widehat{\theta}) - \theta$, on peut faire une "disjonction de cas". Dans la somme de l'espérance, tout les termes sont annulés quand T ne vaux pas 0. On a alors
+4. On calcule le nouveau biais de $\widehat{\theta}$. Comme on doit calculer l'espérance pour $B(\widehat{\theta}, \theta) = E(\widehat{\theta}) - \theta$, on peut faire une "disjonction de cas". Dans la some de l'espérance, tout les termes sont annulés quand T ne vaux pas 0. On a alors
 
     $$\mathbb{E}[\widehat{\theta}] = 1 \times (1 - p)^2 = \theta$$
 
@@ -57,19 +57,31 @@ order: 2
     1. $\mathbb{P}(|X| < t) \Leftrightarrow \mathbb{P}(-t < X < t) \Leftrightarrow \phi(t) - \phi(-t) = 2\phi(t) - 1$
     2. On cherche donc $2\phi(t) - 1 = 0.9 \Leftrightarrow \phi(t) = \tfrac{1.9}{2}\Leftrightarrow \phi(t) = 0.95 \Leftrightarrow t = 1,65$
 
-# Exercice 4
+# Exercice 4 (**corrigé**)
 
-1. D'après la formule du cours, a = 160 et b = 30
-2. $\mathbb{P}(X > 200) = \mathbb{P}\!\left(Y > \frac{200 - 160}{30}\right) = \mathbb{P}\!\left(Y > \tfrac{40}{30}\right) = \mathbb{P}\!\left(Y > \tfrac{4}{3}\right) = 1 - \mathbb{P}\!\left(Y < \tfrac{4}{3}\right) = 1 - 0.9082 = 0,0918$
-3. $\mathbb{P}(X < c) > 0.95 \Leftrightarrow \mathbb{P}\!\left(Y < \frac{c - 160}{30}\right) > 0.95 \Leftrightarrow \mathbb{P}\!\left(Y < \frac{c - 16}{3}\right) > 0.95\Leftrightarrow \frac{c - 16}{3} > 1,65 \Leftrightarrow c = 1,65 \times 3 + 16 = 20,95$ ? *Beaucoup trop. Étant donné que j'ai effectué la question 4 avant de finir celle-ci, je conclus que ma méthode actuelle n'est pas la bonne.*
-4. $\mathbb{P}(X > 200\mid X>160) = \frac{\mathbb{P}(X > 200) \cup \mathbb{P}(X>160)}{\mathbb{P}(X > 200)} = \frac{\mathbb{P}(X>160)}{\mathbb{P}(X > 200)} = \frac{0.5}{0,0918} = 5,446623094 > 1$ donc j'ai fait une erreur 
+1. D'après la formule du cours, $a = 160$ et $b = 30$. 
+2. $\mathbb{P}(X > 200) = \mathbb{P}\!\left(Y > \frac{200 - 160}{30}\right) = \mathbb{P}\!\left(Y > \tfrac{4}{3}\right) = 1 - \mathbb{P}\!\left(Y < \tfrac{4}{3}\right) = 1 - 0.9082 = 0,0918$
+3. Conditions :
+    1. On cherche $c$ tel que $\mathbb{P} (X \le c) \ge 0.95$. 
+	    - Réponse de filous : $c = 10^{10^{10^{10^{10}}}}$.
+	    - Borne $c$ tel que $\mathbb{P} (X \le c) \color{red} = 0.95$.
+	       $\mathbb{P} (X \le c) = \mathbb{P}\!\left(Y < \frac{c - 160}{30}\right)$
+	       On cherche donc $t$ tel que  $\phi(t) = 0.95$. On trouve $t \in [1.64, 1.65]$, on choisit $t = 1.65$.
+	       On inverse $t = \frac{c - 160}{30} = 1.65 \Leftrightarrow c = 1.53 \times 30 + 160 = 209.5$ 
+    2. On cherche $d$ tel que $\mathbb{P} (X \ge d) \ge 0.8$. 
+        - Réponse de filous : $d = - \infty$ ou un truc tout petit.
+        - Borne $d$ tel que $\mathbb{P} (X \ge d) = 0.8$. 
+            $\mathbb{P} (X \ge d) = \mathbb{P}\!\left(Y \ge \frac{d - 160}{30}\right) = 1 - \mathbb{P}\!\left(Y < \frac{d - 160}{30}\right)$. On notera $t^\prime = \frac{d - 160}{30})$
+            $\Leftrightarrow \mathbb{P}(Y \le t^\prime) = 0.2 \Leftrightarrow \mathbb{P}(Y \le - t^\prime) = 0.8$ (*symétrie*)
+            On trouve $-t^\prime = 0.85 \Leftrightarrow \frac{d - 160}{30} = -0.85 \Leftrightarrow d = 134.5$
+4. $\mathbb{P}(X > 200 \mid X>160) = \frac{\mathbb{P}(X > 200) \cap \mathbb{P}(X>160)}{\mathbb{P}(X > 200)} = \frac{\mathbb{P}(X>200)}{\mathbb{P}(Y > 160)} = \frac{\mathbb{P}(Y>\frac 43)}{\mathbb{P}(X > 0)} = \frac{0.0918}{0.5} = 0.1836$
 
-# Exercice 5
+# Exercice 5 (**corrigé**)
 
-1. Cette situation pourrait être modélisé par une loi normale de paramètre k. 
+1. Cette situation pourrait être modélisé par une loi de Bernoulli de paramètre $\frac 1k$. (Car $\frac 1k$ chances de gagner et $\frac {k - 1}k$ pour l'échec).
 2. Soit 2 tirages :
-    1. $k/k \times (k-1)/k \times 1/k$
-    2. Si mon équation est bonne, alors $k \ne 1$ est la meilleur solution car il ne faut pas que les fractions valent 0 ?
+    1. $\frac kk \times \frac{k-1}k \times \frac 1k$. Pour la première boule, nous avons $k$ couleurs possibles. Pour la deuxième boule, il reste $k - 1$ couleurs qui ne correspondent pas à celle de la première. Pour la dernière, il faut qu'elle soit exactement de la même couleur que la première, donc $\frac 1k$. $\mathbb{P}_2 (E \mid k) = \frac{k - 1}{k ^ 2}$
+    2. On étudie donc la function $f : x \rightarrow \frac{x - 1}{x ^ 2}$ avec $k \ge 2$. $f$ admet un extremum en $x = 2$, et elle est croissante avant. Son maximum est donc $x = 2$ avec $\mathbb{P} (E \mid 2) = \frac 14$. On maximise le succès de notre tour de magie avec $2$ couleurs.
 3. Soit 4 tirages :
-    1. $k/k \times (k-1)/k \times 1/k \times 1/k$
-    2. Même réponse, si $k = 1$, les permiers termes sont maximisés mais annulés par un zéro.
+    1. $\frac kk \times \frac{k-1}k \times \frac 1k \times \frac{k-2}k$. Pour la première boule, nous avons $k$ couleurs possibles. Pour la deuxième boule, il reste $k - 1$ couleurs qui ne correspondent pas à celle de la première. Pour la dernière, il faut qu'elle soit exactement de la même couleur que la première, donc $\frac 1k$. $\mathbb{P}_4 (E \mid k) = \frac{(k - 1)(k - 2)}{k ^ 3}$
+    2. On étudie donc la function $g : x \rightarrow \frac{(x - 1)(x - 2)}{x ^ 3}$ avec $k \ge 3$. $g$ admet deux extremum (résolution de delta) en $x_1 = 3 - \sqrt3$ et $x_2 = 3 + \sqrt3$. Or, on veut au moins 3 boules, donc $x_2 = 3 + \sqrt3$ est le maximum. On peut comparer $g(4)$ et $g(5)$
