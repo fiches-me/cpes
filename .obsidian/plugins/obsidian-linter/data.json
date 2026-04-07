@@ -113,7 +113,7 @@
       "enabled": true
     },
     "auto-correct-common-misspellings": {
-      "enabled": true,
+      "enabled": false,
       "ignore-words": "",
       "skip-words-with-multiple-capitals": false,
       "extra-auto-correct-files": []
