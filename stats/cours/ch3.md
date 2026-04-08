@@ -31,11 +31,11 @@ Pour lier la loi à nos données, on estime les paramètres $\mu$ (**moyenne**) 
 
 *Comment calculer la probabilité sans calculatrice ?* Il est possible de 
 
-+: $\mathbb{P} (X \in [a ; b]) = \mathbb{P} (\tilde{X} \in [\frac{a - \mu}\sigma ; \frac{b - \mu}\sigma])$
++: $\mathbb{P} (X \in [a ; b]) = \mathbb{P} (\widetilde{X} \in [\frac{a - \mu}\sigma ; \frac{b - \mu}\sigma])$
 
-+!: $\mathbb{P}(\tilde{X} \le t) = \phi(t)$
-1. Symétrie : $\mathbb{P} (\tilde{X} < t) = \mathbb{P} (\tilde{X} > -t) = \phi(t)$
-2. Valeur Absolue : $\mathbb{P}(|\tilde{X}| < t = \mathbb{P} (-t < \tilde{X} < t) = \phi(t) - \phi(-t) = 2 \phi(t)$
++!: $\mathbb{P}(\widetilde{X} \le t) = \phi(t)$
+1. Symétrie : $\mathbb{P} (\widetilde{X} < t) = \mathbb{P} (\widetilde{X} > -t) = \phi(t)$
+2. Valeur Absolue : $\mathbb{P}(|\widetilde{X}| < t = \mathbb{P} (-t < \widetilde{X} < t) = \phi(t) - \phi(-t) = 2 \phi(t)$
 
 ## Retour sur le Théorème Centrale Limite
 

@@ -1,3 +1,8 @@
+---
+title: 📗 Introduction
+order: 0
+---
+
 # Introduction
 
 Les êtres hétérotrophes sont, pour rappel du [premier chapitre](../../A4/ch1/intro.md), des êtres vivants qui s’alimentent de manière organique (dépendant d'autres végétaux/animaux).

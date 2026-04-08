@@ -79,8 +79,8 @@ $x_1^* = \min_{i \in [1, n]} x_i$ et $x_n^* = \max_{i \in [1, n]} x_i$
 
 #### Médiane Empirique
 
-- Si n est impair, $\tilde{x}_n = x^*_{\frac{n+1}{2}}$
-- Si n est pair, $\tilde{x}_n = \frac12 (x^*_{\frac{n}{2}} + x^*_{\frac{n + 1}{2}})$
+- Si n est impair, $\widetilde{x}_n = x^*_{\frac{n+1}{2}}$
+- Si n est pair, $\widetilde{x}_n = \frac12 (x^*_{\frac{n}{2}} + x^*_{\frac{n + 1}{2}})$
 
 ### Indicateurs de dispersion/variabilité
 
@@ -96,12 +96,12 @@ $$e_n = x_n^* - x_1^*$$
 
 #### Quantiles empiriques
 
-$$\forall p \in ]0,1[, \tilde{q}_{n,p} = \begin{cases}
+$$\forall p \in ]0,1[, \widetilde{q}_{n,p} = \begin{cases}
       \dfrac12\left(x_{np}^* + x_{np+1}^*\right) &\text{si } np \in \mathbb{N},\\
       x_{\lfloor np\rfloor}^* &\text{sinon}.
 \end{cases}$$
 
-Elles généralisent la médiane ($\tilde{q}_{n,\frac12}$). En pratique, on utilise souvent les quantiles $\frac14$, $\frac12$ et $\frac34$, $\frac{1}{10}$ et$\frac{9}{10}$ utiles pour les boîtes à moustaches.
+Elles généralisent la médiane ($\widetilde{q}_{n,\frac12}$). En pratique, on utilise souvent les quantiles $\frac14$, $\frac12$ et $\frac34$, $\frac{1}{10}$ et$\frac{9}{10}$ utiles pour les boîtes à moustaches.
 
 ==// Pas de lib graphique==
 
