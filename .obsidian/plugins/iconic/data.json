@@ -60,7 +60,7 @@
       ]
     },
     "bio/A1": {
-      "icon": "🧬",
+      "icon": "🔬",
       "unsynced": [
         "b92058207feb00c9",
         "2a16e01d96fb73cd",
@@ -142,6 +142,18 @@
         "14d29b853e3a9ee9",
         "2a16e01d96fb73cd",
         "868f1158d8f45abd"
+      ]
+    },
+    "bio/A3": {
+      "icon": "🧬",
+      "unsynced": [
+        "14d29b853e3a9ee9"
+      ]
+    },
+    "bio/A3/ch1": {
+      "icon": "1️⃣",
+      "unsynced": [
+        "14d29b853e3a9ee9"
       ]
     },
     "bio/A4": {

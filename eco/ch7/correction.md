@@ -42,3 +42,22 @@ Compte tenu des D.O., tout optimum de Pareto peut être atteint. Or, il faut con
 ## Texte 2
 
 Le modèle est bricolé à chaque nouvelle situation. Ici, la présence d'externalité justifie l'intervention de l'état permettre au marché de reprendre. 
+
+## Dossier 3
+
+### Exercice 1
+
+1. C1B1 et C2B2 sont comparables. C1B1 est sous optimal (*comparable : amélioration d'une situation, préféré par un agent et préféré/égal à un autre agent*)
+2. Bonnie a une stratégie dominante B1 et Clyde a une stratégie dominante C1.
+3. Bonnie & Clyde vont suivre leurs stratégies dominantes, et vont donc choisir B1C1.
+4. B1C1 est la seul solution non Pareto optimal.
+5. Dilemme du prisoner
+
+### Exercice 2
+
+1. Chaque joueur est capable de se mettre à la place de l'autre. 
+2. D'après la classe, a2 et b2. Peur de perdre. 
+3. A3B3
+4. Ce n'est pas un optimum de Pareto, et elle n'est pas prédictible car personne n'a voté a3b3.
+
+## Dossier 4
