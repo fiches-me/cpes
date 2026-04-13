@@ -1,3 +1,4 @@
 ---
-title: Génétique
+title: 🧬 Génétique
+order: 3
 ---

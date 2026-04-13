@@ -1,5 +1,5 @@
 ---
-title: 🧬 Biochimie — Métabolisme
+title: 🔬 Biochimie — Métabolisme
 order: 1
 ---
 
