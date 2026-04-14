@@ -12,5 +12,4 @@ title: 🖥 Informatique
 - [Chapitre 6](ch6.md)
 - [Chapitre 7](ch7.md)
 - [Chapitre 8](ch8.md)
-- [IA](ia/)
 - [TPs](tp/)
