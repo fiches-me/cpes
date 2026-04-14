@@ -27,6 +27,8 @@ Vous jouez à Minecraft sur M. Barro ?
 
 Ohh merci Guilhem, je crois que je vais vraiment te faire des enfants.
 
+La barre de Marcel elle est ÉNOOOORME (ah ouais) j'espère qu'elle est molle
+
 ## Maylys
 
 Et hop elle te fait un bisous avec ses fesses
