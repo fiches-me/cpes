@@ -1,5 +1,5 @@
 ---
 order: 7
-draft: true
+draft: false
 title: Chapitre 7
 ---
