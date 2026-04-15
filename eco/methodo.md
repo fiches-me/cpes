@@ -43,7 +43,7 @@ Comme il y a de la formalisation mathématique, *il est possible de faire des gr
 
 Chaque partie possède des **sous-parties** qui sont chacune un argument avec une explicitation et/ou un exemple. On peut les écrire avec avec la méthode <u>AEIR</u> (j'Affirme, j'Explique, j'Illustre et je Réaffirme).
 
-> [!TIP]
+> [!HINT]
 > La dernière partie est la réponse finale au sujet
 
 Il faut également penser aux **enjeux**.

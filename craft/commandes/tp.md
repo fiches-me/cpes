@@ -18,7 +18,7 @@ La carte de CPES-CRAFT possède un "spawn", un point d'origine accessible avec l
 - Accepter une demande : `/tpaccept`
 - Refuser une demande : `/tpdeny`
 
-> [!TIP]
+> [!HINT]
 > Vérifiez toujours où vous arrivez avant d'accepter une demande TP.
 
 ## Homes

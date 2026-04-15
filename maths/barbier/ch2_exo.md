@@ -39,7 +39,7 @@ Donc f est constante.
 F est constante. Donc, $\forall (x, y) \in ]0; +\infty[^2, |f(x) - f(y)| = 0$
 De plus, x > 0 et y > 0. Donc $\frac{1}{x + y} > 0$. On a bien $\forall (x, y) \in ]0; +\infty[^2, |f(x) - f(y)| \leq \frac{1}{x + y}$
 
-> [!TIP]
+> [!HINT]
 > Ici, on démontre chaque partie une à une, et non toute l'inéquation d'un coup. Cela évite de démontrer quelque chose avec ce que l'on cherche à démontrer.
 
 #### ←

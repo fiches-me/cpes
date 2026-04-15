@@ -57,7 +57,7 @@ Ce sujet est une analyse, *mais extrêmement guidée*. La première étape est d
 		- Données de natures différentes ➡️ Traitement des données
 		- Récits personnels ➡️ couteau à double tranchant
 
-> [!TIP]
+> [!HINT]
 > Ici, il n'y a pas d'exemples dans le plan. Ils sont nécessaires et si ajouté pendant le plan rendent la rédaction plus rapide. 
 
 ### Correction de Plan

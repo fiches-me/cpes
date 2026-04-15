@@ -39,5 +39,5 @@ Pour lier la loi à nos données, on estime les paramètres $\mu$ (**moyenne**) 
 
 ## Retour sur le Théorème Centrale Limite
 
-> [!TIP] Remarque
+> [!HINT] Remarque
 > Tant que les $X_i$ sont d'espérance et de variances finies, peu importe la distribution, on peut utiliser le TCL.

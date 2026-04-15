@@ -6,7 +6,7 @@ finished: true
 ---
 # 📘 Introduction
 
-> [!TIP] English in sight !
+> [!HINT] English in sight !
 > This class is in English. All the courses and notes will also be in English.
 
 Economics tries to understand how wealth is distributed. It needs simplifications, that's where models come in. There are three approaches with a justification for modeling:

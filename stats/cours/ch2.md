@@ -42,7 +42,7 @@ Une variable aléatoire $X$ suis une loi Binomiale ($X \hookrightarrow \mathcal{
 
 Alors, $\color{red} \mathbb{E} (X) = np$ et $\color{green} \mathbb{V} = np (1 - p)$
 
-> [!TIP] Remarque
+> [!HINT] Remarque
 > Une loi binomiale $B(n , p)$ correspond à la répétition de n loi de Bernoulli $Ber(p)$.
 
 ### Loi de Poisson

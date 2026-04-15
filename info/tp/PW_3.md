@@ -44,7 +44,7 @@ if __name__ == "__main__":
     print("All tests succeeded.")
 ```
 
-> [!TIP]
+> [!HINT]
 > To test all my functions in a cleaner way than adding `asserts` lines everywhere, I used **doctests**. These are tests for your function, defined by one input (>>>) and what it should output. The last if launch these tests.
 
 ## Exercise 2

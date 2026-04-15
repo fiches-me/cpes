@@ -62,7 +62,7 @@ Deux reins de ~ 10cm filtrent le sang et fabriquent l'urine. Ils sont reliés à
 
 ## 💞 Reproduction des êtres humains
 
-> [!TIP] Fun Fact
+> [!HINT] Fun Fact
 > **Un vrai sosie n'existe pas !** La probabilité d'obtenir un sosie génétique est de $10^14$  soit 100 000 000 000 000.
 
 Toutes nos cellules actuelles possèdent le même patrimoine génétique qu'une unique cellule œuf, fusion de deux gamètes et responsable de notre existence. **Comment sommes nous arrivé là ?**
