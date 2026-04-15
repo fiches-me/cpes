@@ -1,6 +1,7 @@
 ---
 title: Loi Normale
 order: 3
+finished: false
 ---
 
 # Loi Normale

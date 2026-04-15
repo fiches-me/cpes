@@ -47,7 +47,7 @@ $$N_j = \sum_{l=1}^{j} n_l.$$
 
 #### Lien avec les probas
 
-On peut alors définit une [fonction de répartition] empirique qui va calculer pour un échantillon $x_1, ... , x_n$ :
+On peut alors définit une **fonction de répartition** empirique qui va calculer pour un échantillon $x_1, ... , x_n$ :
 
 $$\forall x \in \mathbb{R}, F_n(x) = \frac{1}{n} \sum_{i=1}^n \mathbb{1} \{x_i < x \}$$
 

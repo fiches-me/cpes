@@ -1,6 +1,7 @@
 ---
 title: Intervalles de confiance
 order: 4
+finished: false
 ---
 
 # Intervalles de confiance
@@ -179,4 +180,4 @@ $I_{\gamma, approx} = \eta_\gamma^2  \frac{\widehat{p} (1 - \widehat{p}} {r^2}$ 
 > Pour $2r = 0.06$ comme précédemment : pour $\gamma = 0.95, n \approx 1067$. Pour $\gamma = 0.99, n \approx 1849$. 
 
 > [!HINT] Remarque
-> Le développement effectuée dans le cadre de l'intervalle de confiance pour le paramètre $p$ de la loi de Bernoulli s'applique aussi à d'autres types de lois.
+> Le développement effectuée dans le cadre de l'intervalle de confiance pour le paramètre $p$ de la loi de Bernoulli s'applique aussi à d'autres types de lois. Il suffit d'appliquer la construction étape par étape.

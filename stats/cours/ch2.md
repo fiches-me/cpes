@@ -1,6 +1,7 @@
 ---
 title: Estimation Statistique
 order: 2
+finished: false
 ---
 
 # Estimation Statistique
