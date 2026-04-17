@@ -1,3 +1,6 @@
+---
+title: ⚛️ Fonctions Usuelles & Suites
+---
 # Fish Mi-S2
 
 ## Suites

@@ -147,13 +147,15 @@
     "bio/A3": {
       "icon": "🧬",
       "unsynced": [
-        "14d29b853e3a9ee9"
+        "14d29b853e3a9ee9",
+        "868f1158d8f45abd"
       ]
     },
     "bio/A3/ch1": {
       "icon": "1️⃣",
       "unsynced": [
-        "14d29b853e3a9ee9"
+        "14d29b853e3a9ee9",
+        "868f1158d8f45abd"
       ]
     },
     "bio/A4": {
@@ -343,6 +345,17 @@
       "unsynced": [
         "/storage/emulated/0/Obsidian/CPES",
         "b92058207feb00c9",
+        "2a16e01d96fb73cd",
+        "01f8150f95185bac",
+        "14d29b853e3a9ee9",
+        "868f1158d8f45abd"
+      ]
+    },
+    "info/ia": {
+      "icon": "🤖",
+      "unsynced": [
+        "b92058207feb00c9",
+        "/storage/emulated/0/Obsidian/CPES",
         "2a16e01d96fb73cd",
         "01f8150f95185bac",
         "14d29b853e3a9ee9",

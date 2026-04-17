@@ -1,3 +1,6 @@
+---
+title: "SMART: ARCHITECTURE"
+---
 # Architecture – Smart API
 
 Ce document décrit le rôle et l'usage de chaque fichier du projet.
