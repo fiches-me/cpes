@@ -93,6 +93,8 @@ Oui Menabet prend moi par derrière !
 
 C'est ce que m'a dit Nolann hier (Quoi?) Ça fait du bien à la gorge.
 
+Elle est pas méchante mais elle est noire.
+
 ## Eléa
 
 Il faudrait pas que je détruise ma tête.
