@@ -16,7 +16,7 @@
   "maxSearchResults": 20,
   "colorPicker1": "list",
   "colorPicker2": "rgb",
-  "uncolorHover": false,
+  "uncolorHover": true,
   "uncolorDrag": false,
   "uncolorSelect": false,
   "uncolorQuick": false,

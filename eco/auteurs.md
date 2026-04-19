@@ -55,44 +55,149 @@ Smith s'oppose aux Physiocrates (la richesse ne vient pas que de la terre) et au
 ### John Stuart Mill
 
 > À développer. [g3](ch1/g3.md)
+
 ### Karl Marx
+
 > Idem, à trouver une place
+
 ## Chapitre 2
+
 ### Jean-Baptise Say
+
 Économiste français, marqué par la Révolution Industrielle et les écrits d'Adam Smith. Il cherche à adapter les idées libérales en France. Il s'oppose à Napoléon (blocus continental, dépenses militaires) et défend le libre-échange.
 
 ### Malthus
+
 Critique de Say. Craint que l'épargne excessive des rentiers ne réduise la **demande effective**. Il propose des travaux publics pour stimuler l'emploi.
+
 ### Sismondi
+
 Critique de Say. Critique l'optimisme libéral. Il observe que la mécanisation peut créer du chômage et que la consommation ne suit pas toujours la production (paupérisation des ouvriers). Il prône une intervention de l'État pour réguler le progrès technique et protéger les travailleurs.
 
 ### Irving Fisher 
+
 Auteurs TQM ($M \times V = P \times T$)
+
 ### Walras
+
 **École de Lausanne**.
+
 > Walras' law: if we consider one market in the economy and every other market is in equilibrium, then this last one needs to be at the equilibrium too.
+
 ### Vilfredo Pareto
+
 **École de Lausanne**. Introduit l'utilité ordinale
 
 ## Chapitre 3
 
 ### Simon Kuznets
-Créateur du PIB
+
+Créateur du PIB. Estimation de la fonction de consommation moyenne à $C_t = 0.86 Y_t$
 
 ### Alfred Marshall
+
 > Alfred Marshall explains that **Surplus** is the difference between what a consumer is willing to pay and the market price (Consumer Surplus), or the difference between the market price and the producer's willingness to sell (Producer Surplus). Graphically, it is the area between the curves and the equilibrium price. **Surplus is maximized at Equilibrium**.
 
 ## Chapitre 4
+
 ### Keynes
 
 ### Franck Van de Velde
+
 > a Keynesian economist working on wage labor, notes that employees are paid in **money**, *not in goods*. This means there is a gap between production and the appropriation of production's wealth. He proposes a fourth criterion: money is used to pay workers.
 
 ### John Hicks
+
 Formalisation mathématique de Keynes. Co-Auteur de The Synthesis
 
 ### Paul Samuelson
+
 Formalisation mathématique de Keynes. Co-Auteur de The Synthesis
 
 ### Tobin
+
 Q de Tobin
+
+## Chapitre 5
+
+### Fisher 2?
+
+<u class="red-underline"><strong>Théorie de l'intérêt</strong></u> [g1](ch5/g1.md)
+
+### Jan Tinbergen
+
+Création de l'économétrie
+
+### James Duesenberry
+
+Mécanisme de cliquet
+
+### Thomas Brown
+
+Nouvelle équation de la fonction de consommation avec effet psyco : $C_t = c \times \large{y}\normalsize_t + a \times C_{t - 1} + \bar{C}$
+
+### Thorstein Veblen
+
+Consommation ostentatoire (et donc biens de Veblen)
+
+### Franco Modigliani
+
+<u class="red-underline">Utility Analysis and the Consumption Function</u>. Théorie du cycle de vie
+
+### Friedman
+
+Monétariste, école de Chicago. Revenu anticipé/Revenu permanent
+
+### Muth
+
+Anticipations rationnelles du revenu (après Friedman)
+
+### Engel
+
+Auteur des loi d'Engel, premières utilisations des statistiques publiques 
+
+## Chapitre 6
+
+### K. Arrow
+
+Écrit <u class="red-underline">Existence of an Equilibrium for a Competitive Economy</u> avec Debreu. Reprise des théories de Walras pour trouver un vecteur prix qui équilibre l'économie (CPP)
+
+### G. Debreu
+
+Écrit <u class="red-underline">Existence of an Equilibrium for a Competitive Economy</u> avec Debreu. Reprise des théories de Walras pour trouver un vecteur prix qui équilibre l'économie (CPP)
+
+### Edgeworth
+
+J'imagine qu'il existe, si oui il a inventé un diagramme à son nom.
+
+### Cobb-Douglass
+
+J'imagine qu'il existe, si oui il a inventé une fonction à son nom.
+
+## Chapitre 7
+
+### Pareto
+
+Optimum ?
+
+### Arthur Cecil Pigou
+
+ <u class="red-underline">Le Problème du coût social</u> une **taxe pigouvienne**, principe de *pollueur-payeur*.
+
+### Ronald Coase
+
+Droit à poluer
+
+### Gareth Hardin
+
+dans l'article <u class="red-underline">Tragedy of the Commons</u> (1968). La solution proposé à ce problème est d'instaurer des **quotas**. 
+
+### Elinor Ostrom
+
+en 2010, écrit <u class="red-underline">La Gouvernance des Communs</u> où elle insiste sur le fait que les états ne comprennent pas forcément les object naturels qu'il manipulent. Elle propose une **gestion décentralisé du commun**.
+
+> Game theory ?
+
+### Nash
+
+Équilibre de nash

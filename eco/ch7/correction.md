@@ -61,3 +61,13 @@ Le modèle est bricolé à chaque nouvelle situation. Ici, la présence d'extern
 4. Ce n'est pas un optimum de Pareto, et elle n'est pas prédictible car personne n'a voté a3b3.
 
 ## Dossier 4
+
+1. Si il y a coopération, il y a alors monopole. $max(\pi) = D(p)^{-1} \times q - C(q) = (1 - q) q - \frac q2$
+   CPO $\pi(q)^\prime  = 0 \longrightarrow \pi(q)^\prime = 1- 2q - \frac 12 \Leftrightarrow \pi(q^*)^\prime = - 2 < 0$
+   CSO $\pi(q)^\prime < 0$
+2. $\pi_A(q_A) =  D(q_A + \tilde{q_B})^{-1}) q_A - C(q_A) = (1 - q_A - \tilde{q_B}) q_A - \frac{q_A}2$
+   $\pi_A(q_A)^\prime = 0 \longrightarrow  R_A(\tilde{q_B}) = \frac{\frac 12 - \tilde{q_B}}2$. Comme A et B possèdent la même fonction de coût, $R_B(\tilde{q_A}) = \frac{\frac 12 - \tilde{q_A}}2$
+   $S = \begin{cases} q_A = R_A(q_B) \\ q_B = R_B(q_A) \end{cases} = \begin{cases} 2q_A + q_B = \frac 12 \\ q_A + 2q_B = \frac 12 \end{cases} = q_A^* = q_B^* = \frac 16$
+   $q^* = q_A^* + q_B^* = \frac 13$. $p^* = \frac 23$
+3. Le prix est égal au coût marginal, et $C(q)^\prime = \frac 12$.
+4. Le commissaire priseur de Cournot connait les fonctions de réactions et de demandes des entreprises : il n'y a donc pas de processus de tâtonnement 

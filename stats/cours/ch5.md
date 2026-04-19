@@ -8,7 +8,7 @@ finished: false
 
 ## Estimation par maximisation de vraisemblance
 
-La **vraisemblance** est la probabilité qu'un événement arrive souvent. 
+La **vraisemblance** est la probabilité qu'un événement arrive plus ou moins souvent. 
 
 > [!DÉFINITION]
 > Soit une variable aléatoire $X$ de fonction de masse (discrète) / densité (continue) $f$ tel que $\forall x \in X(\Omega)$ , on a une valeur $f(x | \theta)$ où $\theta$ est un paramètre de la loi X.

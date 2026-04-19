@@ -9,6 +9,10 @@ Il existe deux types de financements pour les entreprises : le financement **int
 
 > Tableau Diapo
 
+| **Structure du financement des entreprises françaises (flux, en milliards €)** | **1980** | **1990** | **2000** | **2008** | **2010** | **2018** |
+| :----------------------------------------------------------------------------: | :------: | :------: | :------: | :------: | :------: | :------: |
+|                                Autofinancement                                 |   28,2   |   96,6   |  170,7   |  208,1   |  226,2   |  288,5   |
+
 En France, l'émission d'action a été multiplié par 20 depuis les années 80.
 
 On va distinguer :
