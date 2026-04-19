@@ -9,13 +9,11 @@ draft: true
 
 ### Aristote
 
-Aristote est le premier à parler d'économie (*oikonomia* : administration de la maison). Il l'étudie à l'échelle du foyer, de la gestion du budget (échelle *microéconomique*). Il condamne l'**usure** (l'activité bancaire, prêter de l'argent avec intérêt) et la chrématistique (accumulation de richesses pour elle-même).
+Premier à parler d'économie (en tant qu'administration de la maison). Analyse du budget, donc micro. Condamne l'usure (prêter de l'argent avec intérêt) et la chrématistique (accumulation de richesses pour elle-même).
 
 ### St. Thomas d'Aquin
 
-Religieux, il conserve une vision normative de l'économie. Pour lui, le commerce est acceptable tant qu'il ne déséquilibre pas la société. Il faut instaurer une **justice de distribution** et un **juste prix** pour éviter l'enrichissement excessif.
-
-Il est, comme Aristote, contre les commerçants qui s'éloignent du juste prix et les usuriers qui "vendent le temps" (qui n'appartient qu'à Dieu).
+Garde une vision normative. Le commerce ne doit pas rompre l'équilibre de la société.  l faut instaurer une **justice de distribution** et un **juste prix** pour éviter l'enrichissement excessif.
 
 ### Jean Bodin
 
@@ -35,22 +33,15 @@ Réflexion sur le taux d'intérêt et la propriété..
 
 ### François Quesnay 
 
-La physiocratie est un mouvement français (1750-1770), mené par François Quesnay (médecin de Louis XV).
-Physiocratie signifie "Gouvernement de la Nature".
-
-Selon eux, la richesse vient **seulement** de la terre (agriculture). Les paysans sont la seule classe productive. L'industrie et le commerce sont considérés comme "stériles" car ils ne font que transformer la matière sans créer de richesse nouvelle (don de la nature).
+Médecin de Louis XV. Crée le mouvement des physiocrates (1750-1770). Pour eux, la richesse vient **seulement** de la terre (agriculture). Les paysans sont la seule classe productive. L'industrie et le commerce sont considérés comme "stériles" car ils ne font que transformer la matière sans créer de richesse nouvelle (don de la nature).
 
 ### Adam Smith
 
-Adam Smith (1723-1790) est d'abord un **philosophe**. Dans *La Théorie des sentiments moraux* (1759), il développe le concept de **sympathie** : capacité de se mettre à la place d'autrui, qui modère l'égoïsme.
-
-Smith s'oppose aux Physiocrates (la richesse ne vient pas que de la terre) et aux Mercantilistes (la richesse n'est pas l'or). Pour lui, la richesse vient du **Travail**.
+Concept de **sympathie** (<u>La Théorie des sentiments moraux, 1759</u>) et s'oppose au Physiocrates avec une richesse du **Travail**. Propose également l'idée de **main invisible** et est "contre" la division du travail.
 
 ### David Ricardo
 
-**Qui est il ?** C'est un économiste anglais, fils d'un financier juif des pays bas. Très jeune, il s'oppose à sa famille et il épouse une protestante. Il part travailler à la bourse de Londres où il fait fortune (il achète des contrats d'assurances qui parient sur la victoire de l'Angleterre à Waterloo). Son ouvrage le plus important est <u class="red-underline">Des principes de  l'économie politique et de l'impôt</u>.
-
-> argues that countries should specialize in producing goods where they have a **Comparative Advantage** (lower opportunity cost), even if they are less efficient than others in absolute terms. By specializing and trading, both countries can consume more than they could in autarky (closed economy).
+Auteur de <u class="red-underline">Des principes de  l'économie politique et de l'impôt</u>. Développe l'idée d'avantage comparatif (des pays) et réfléchis sur la valeur avec la **valeur d'échange** et la **valeur d'usage** (paradoxe de l'eau et du diamant). Largement politisé, il participe à de nombreux débats, dont celui des corn laws. **Contre l'intervention de l'état.**
 
 ### John Stuart Mill
 
@@ -64,7 +55,7 @@ Smith s'oppose aux Physiocrates (la richesse ne vient pas que de la terre) et au
 
 ### Jean-Baptise Say
 
-Économiste français, marqué par la Révolution Industrielle et les écrits d'Adam Smith. Il cherche à adapter les idées libérales en France. Il s'oppose à Napoléon (blocus continental, dépenses militaires) et défend le libre-échange.
+Économiste néoclassique français, auteur de la **loi de say**, pour une économie neutre et équilibré (S = I)
 
 ### Malthus
 
@@ -80,9 +71,7 @@ Auteurs TQM ($M \times V = P \times T$)
 
 ### Walras
 
-**École de Lausanne**.
-
-> Walras' law: if we consider one market in the economy and every other market is in equilibrium, then this last one needs to be at the equilibrium too.
+**École de Lausanne**. Auteur de la loi de Walras : dans une économie à n marchés, n- 1 marchés équilibrés équilibrent le n ième.
 
 ### Vilfredo Pareto
 
@@ -96,15 +85,13 @@ Créateur du PIB. Estimation de la fonction de consommation moyenne à $C_t = 0.
 
 ### Alfred Marshall
 
-> Alfred Marshall explains that **Surplus** is the difference between what a consumer is willing to pay and the market price (Consumer Surplus), or the difference between the market price and the producer's willingness to sell (Producer Surplus). Graphically, it is the area between the curves and the equilibrium price. **Surplus is maximized at Equilibrium**.
+Propose l'idée de **surplus**, soit en faveur du consommateur, soit en faveur du producteur. À l'équilibre, il est ~~maximisé~~ nul?
 
 ## Chapitre 4
 
 ### Keynes
 
-### Franck Van de Velde
-
-> a Keynesian economist working on wage labor, notes that employees are paid in **money**, *not in goods*. This means there is a gap between production and the appropriation of production's wealth. He proposes a fourth criterion: money is used to pay workers.
+> À étendre
 
 ### John Hicks
 
@@ -122,7 +109,7 @@ Q de Tobin
 
 ### Fisher 2?
 
-<u class="red-underline"><strong>Théorie de l'intérêt</strong></u> [g1](ch5/g1.md)
+<u class="red-underline"><strong>Théorie de l'intérêt</strong></u> [g1](ch5/g1.md). *Voir si c'est le même fisher*
 
 ### Jan Tinbergen
 
@@ -182,19 +169,19 @@ Optimum ?
 
 ### Arthur Cecil Pigou
 
- <u class="red-underline">Le Problème du coût social</u> une **taxe pigouvienne**, principe de *pollueur-payeur*.
+ Propose dans <u class="red-underline">Le Problème du coût social</u> une **taxe pigouvienne**, principe de *pollueur-payeur*, pour résoudre les problèmes causés par les externalités.
 
 ### Ronald Coase
 
-Droit à poluer
+Propose un **droit à polluer** pour résoudre les problèmes causés par les externalités.
 
 ### Gareth Hardin
 
-dans l'article <u class="red-underline">Tragedy of the Commons</u> (1968). La solution proposé à ce problème est d'instaurer des **quotas**. 
+Propose l’instauration de **quotas** dans <u class="red-underline">Tragedy of the Commons</u> (1968) pour résoudre les problèmes causés par les externalités.
 
 ### Elinor Ostrom
 
-en 2010, écrit <u class="red-underline">La Gouvernance des Communs</u> où elle insiste sur le fait que les états ne comprennent pas forcément les object naturels qu'il manipulent. Elle propose une **gestion décentralisé du commun**.
+Écrit <u class="red-underline">La Gouvernance des Communs</u> en 2010 où elle insiste sur le fait que les états ne comprennent pas forcément les object naturels qu'il manipulent. Elle propose une **gestion décentralisé du commun** pour résoudre les problèmes causés par les externalités.
 
 > Game theory ?
 
