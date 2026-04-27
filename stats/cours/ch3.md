@@ -40,5 +40,11 @@ Pour lier la loi à nos données, on estime les paramètres $\mu$ (**moyenne**) 
 
 ## Retour sur le Théorème Centrale Limite
 
+> [!tip] Rappel
+> 1. Soit $S_n = \sum X_i$. $\mathbb{E}(S_n) = n \mu$ et $\mathbb{V}(S_n) = n\sigma ^2$
+> 2. Soit $S_n^* = \frac{n \mu - n x}{\sigma \sqrt{n}}$. $\mathbb{E}(S_n^*) = 0$ et $\mathbb{V}(S_n^*) = 1$
+
+
+
 > [!HINT] Remarque
 > Tant que les $X_i$ sont d'espérance et de variances finies, peu importe la distribution, on peut utiliser le TCL.
