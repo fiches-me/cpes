@@ -3,7 +3,6 @@ title: Estimation Statistique
 order: 2
 finished: false
 ---
-
 # Estimation Statistique
 
 ## Objets mathématiques utilisés en statistique

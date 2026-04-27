@@ -44,7 +44,7 @@ Pour lier la loi à nos données, on estime les paramètres $\mu$ (**moyenne**) 
 > 1. Soit $S_n = \sum X_i$. $\mathbb{E}(S_n) = n \mu$ et $\mathbb{V}(S_n) = n\sigma ^2$
 > 2. Soit $S_n^* = \frac{n \mu - n x}{\sigma \sqrt{n}}$. $\mathbb{E}(S_n^*) = 0$ et $\mathbb{V}(S_n^*) = 1$
 
-
+Dans d'autres termes, $\forall t in \mathbb{R} ; \mathbb{P}(S_n^* < t) = \phi(t)$ et $\mathbb{P} (S_n^* \in [a , b]) \rightarrow \phi(b) - \phi (a)$. On retrouve alors les résultats du TCL.
 
 > [!HINT] Remarque
 > Tant que les $X_i$ sont d'espérance et de variances finies, peu importe la distribution, on peut utiliser le TCL.

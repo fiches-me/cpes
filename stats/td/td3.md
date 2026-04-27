@@ -39,9 +39,14 @@ J'ai oublié o, si qq a la formule complète
 
 ### Partie A
 
-1. 1
-2. 2
-3. 3
+1. $$\mathcal{L}(\lambda) = \prod_{i=1}^{n} P(X_i = x_i) = \prod_{i=1}^{n} \frac{e^{-\lambda} \lambda^{x_i}}{x_i!} = e^{-n\lambda} \prod_{i=1}^{n} \frac{\lambda^{x_i}}{x_i!}$$
+
+2. $$\mathcal{l}(\lambda) = ln(\mathcal{L}(\lambda)) = ln(e^{-n\lambda} \prod_{i=1}^{n} \frac{\lambda^{x_i}}{x_i!}) = ln(e^{-n\lambda}) + ln(\prod_{i=1}^{n} \frac{\lambda^{x_i}}{x_i!})$$
+
+   $$= -n\lambda + \sum_{i=1}^n ln(\lambda^x_i) - \sum_{i=1}^nln(x_i!)$$
+
+3. On dérive $\mathcal{l}$ en fonction de $\lambda$ (la variable)
+   $\mathcal{l}(\lambda)^\prime = - \lambda 
 4. a
 5. a
 6. a
