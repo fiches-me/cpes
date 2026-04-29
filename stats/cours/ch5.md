@@ -21,6 +21,7 @@ En pratique, nous connaissons l'expression de $f(x | \theta)$, et on va étudier
 
 > [!DÉFINITION]
 > Pour une valeur observée $x \in X (\Omega)$ par notre loi $X$, la fonction de vraisemblance de de $\theta$ est $\mathcal{L} (\theta) = f(x|\theta)$
+> Pour l'ensemble des $x_i ^in X (\Omega)$, notre fonction de resemblance est le produit des $f(x|\theta)$.
 
 > [!HINT] Remarque
 > La vraisemblance (aussi *likelihood*) $\mathcal{L}$ est une fonction du paramètre à estimer $\theta$ implicitement de l'observation.
