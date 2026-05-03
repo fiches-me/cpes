@@ -47,7 +47,7 @@ J'ai oublié o, si qq a la formule complète
 
 3. On dérive $\mathcal{l}$ en fonction de $\lambda$ (la variable)
 
-   $$\mathcal{l}(\lambda)^\prime = - \lambda + \sum_{i=1}^n \frac{1}{\lambda^x_i}$$
+   $$\mathcal{l}(\lambda)^\prime = - n + \sum_{i=1}^n \frac{1}{\lambda^x_i}$$
 
 4. a
 5. a
