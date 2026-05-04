@@ -180,3 +180,5 @@ Propose l’instauration de **quotas** dans <u class="red-underline">Tragedy of 
 ### John Nash
 
 Équilibre de Nash
+
+## Friedman
