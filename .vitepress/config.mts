@@ -15,6 +15,7 @@ const vitePressConfigs : UserConfig<any> = {
   description: "Mes super fiches ig",
   cleanUrls: true,
   lastUpdated: true,
+  ignoreDeadLinks: true,
   markdown: {
     lineNumbers: true,
     math: true,
