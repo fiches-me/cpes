@@ -1,9 +1,7 @@
-# 📚 Fiche de Révision Globale : A1, A2, A3, A4
-
-Cette fiche compile les concepts clés, formules et mécanismes des axes de biologie, en y intégrant des corrections et des apports de connaissances complémentaires (surlignés avec `==`).
-
 ---
-
+draft: true
+---
+# Fish (IA)
 ## 🧬 Axe 1 : Biochimie & Métabolisme
 
 ### 1. Enzymes et Cinétique Enzymatique

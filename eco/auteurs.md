@@ -29,7 +29,7 @@ Précurseur de la valeur-travail et de l'arithmétique politique (statistiques).
 
 ### John Locke
 
-Réflexion sur le taux d'intérêt et la propriété..
+Réflexion sur le taux d'intérêt et la propriété.
 
 ### François Quesnay 
 
@@ -39,9 +39,10 @@ Médecin de Louis XV. Crée le mouvement des physiocrates (1750-1770). Pour eux,
 
 Concept de **sympathie** (<u>La Théorie des sentiments moraux, 1759</u>) et s'oppose au Physiocrates avec une richesse du **Travail**. Propose également l'idée de **main invisible** et est "contre" la division du travail.
 
+> À vérifier
 ### David Ricardo
 
-Auteur de <u class="red-underline">Des principes de  l'économie politique et de l'impôt</u>. Développe l'idée d'avantage comparatif (des pays) et réfléchis sur la valeur avec la **valeur d'échange** et la **valeur d'usage** (paradoxe de l'eau et du diamant). Largement politisé, il participe à de nombreux débats, dont celui des corn laws. **Contre l'intervention de l'état.**
+Auteur de <u class="red-underline">Des principes de  l'économie politique et de l'impôt</u>. Développe l'idée d'avantage comparatif (des pays) et réfléchit sur la valeur avec la **valeur d'échange** et la **valeur d'usage** (paradoxe de l'eau et du diamant). Largement politisé, il participe à de nombreux débats, dont celui des corn laws. **Contre l'intervention de l'état.**
 
 ### John Stuart Mill
 
@@ -67,7 +68,7 @@ Critique de Say. Critique l'optimisme libéral. Il observe que la mécanisation 
 
 ### Irving Fisher 
 
-Auteurs TQM ($M \times V = P \times T$)
+Auteurs TQM ($M \times V = P \times T$). <u class="red-underline"><strong>Théorie de l'intérêt</strong></u>
 
 ### Walras
 
@@ -75,7 +76,7 @@ Auteurs TQM ($M \times V = P \times T$)
 
 ### Vilfredo Pareto
 
-**École de Lausanne**. Introduit l'utilité ordinale
+**École de Lausanne**. Introduit l'utilité ordinale. Critère de Pareto
 
 ## Chapitre 3
 
@@ -85,7 +86,9 @@ Créateur du PIB. Estimation de la fonction de consommation moyenne à $C_t = 0.
 
 ### Alfred Marshall
 
-Propose l'idée de **surplus**, soit en faveur du consommateur, soit en faveur du producteur. À l'équilibre, il est ~~maximisé~~ nul?
+Propose l'idée de **surplus**, soit en faveur du consommateur, soit en faveur du producteur. À l'équilibre, le surplus global (consommateur, producteur et potentiellement État) est maximal ?
+
+> Crée l'équilibre de marché
 
 ## Chapitre 4
 
@@ -107,10 +110,6 @@ Q de Tobin
 
 ## Chapitre 5
 
-### Fisher 2?
-
-<u class="red-underline"><strong>Théorie de l'intérêt</strong></u> [g1](ch5/g1.md). *Voir si c'est le même fisher*
-
 ### Jan Tinbergen
 
 Création de l'économétrie
@@ -131,7 +130,7 @@ Consommation ostentatoire (et donc biens de Veblen)
 
 <u class="red-underline">Utility Analysis and the Consumption Function</u>. Théorie du cycle de vie
 
-### Friedman
+### Milton Friedman
 
 Monétariste, école de Chicago. Revenu anticipé/Revenu permanent
 
@@ -153,19 +152,15 @@ Auteur des loi d'Engel, premières utilisations des statistiques publiques
 
 Écrit <u class="red-underline">Existence of an Equilibrium for a Competitive Economy</u> avec Debreu. Reprise des théories de Walras pour trouver un vecteur prix qui équilibre l'économie (CPP)
 
-### Edgeworth
+### Francis Ysidro Edgeworth
 
-J'imagine qu'il existe, si oui il a inventé un diagramme à son nom.
+Crée le diagramme à son nom.
 
-### Cobb-Douglass
+### Charles Cobb et Paul Douglas
 
-J'imagine qu'il existe, si oui il a inventé une fonction à son nom.
+Fonction de Cobb-Douglas
 
 ## Chapitre 7
-
-### Pareto
-
-Optimum ?
 
 ### Arthur Cecil Pigou
 
@@ -173,7 +168,7 @@ Optimum ?
 
 ### Ronald Coase
 
-Propose un **droit à polluer** pour résoudre les problèmes causés par les externalités.
+Propose un **droit à polluer** (ou à l'air pur) pour résoudre les problèmes causés par les externalités. Droit de propriété donc échange sur un marché.
 
 ### Gareth Hardin
 
@@ -181,10 +176,7 @@ Propose l’instauration de **quotas** dans <u class="red-underline">Tragedy of 
 
 ### Elinor Ostrom
 
-Écrit <u class="red-underline">La Gouvernance des Communs</u> en 2010 où elle insiste sur le fait que les états ne comprennent pas forcément les object naturels qu'il manipulent. Elle propose une **gestion décentralisé du commun** pour résoudre les problèmes causés par les externalités.
+Écrit <u class="red-underline">La Gouvernance des Communs</u> en 2010 où elle insiste sur le fait que les États ne comprennent pas forcément les object naturels qu'il manipulent. Elle propose une **gestion décentralisé du commun** pour résoudre les problèmes causés par les externalités.
+### John Nash
 
-> Game theory ?
-
-### Nash
-
-Équilibre de nash
+Équilibre de Nash

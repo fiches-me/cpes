@@ -32,8 +32,8 @@ J'ai oublié o, si qq a la formule complète
 
 ## Exercice 3
 
-1. TCL my beloved
-2. J'ai toujours une douille dans mon TCL
+1. Utilisation du TCL ? 
+2. Si oui, il manque toujours un n dans ma formule
 
 ## Exercice 4
 
