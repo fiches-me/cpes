@@ -3,7 +3,6 @@ import { withSidebar } from 'vitepress-sidebar';
 import { withMermaid } from "vitepress-plugin-mermaid";
 import { footnote } from "@mdit/plugin-footnote";
 import mdItTaskLists from 'markdown-it-task-lists';
-import { taskCheckboxPlugin } from './plugins/markdown-it-task-checkbox.mts';
 
 import mdItObsidianCallouts from 'markdown-it-obsidian-callouts';
 import markdownItObsidian from 'markdown-it-obsidian';
@@ -11,11 +10,12 @@ import mathjax3 from 'markdown-it-mathjax3';
 
 // https://vitepress.dev/reference/site-config
 const vitePressConfigs : UserConfig<any> = {
-  title: "📑 FICHES.ME",
+  title: "📑 FICHES.ME CPES",
   description: "Mes super fiches ig",
   cleanUrls: true,
   lastUpdated: true,
   ignoreDeadLinks: true,
+  metaChunk: true,
   markdown: {
     lineNumbers: true,
     math: true,
@@ -32,7 +32,7 @@ const vitePressConfigs : UserConfig<any> = {
       // md.use(taskCheckboxPlugin) // Temporarily disabled - causing blank page
     }
   },
-  titleTemplate: ':title - FICHES',
+  titleTemplate: ':title - FICHES CPES',
   lang: 'fr-FR',
   head: [['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }]],
   themeConfig: {
@@ -83,7 +83,8 @@ const sidebarOptions = sections.map((section) => ({
 }));
 
 export default defineConfig(
-  //withMermaid(
-    withSidebar(vitePressConfigs, sidebarOptions)
-  //)
+  withSidebar(
+    vitePressConfigs,
+    sidebarOptions
+  )
 );
