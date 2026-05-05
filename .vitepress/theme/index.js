@@ -1,4 +1,7 @@
 import DefaultTheme from 'vitepress/theme'
+
+import VitePressMermaid from '../plugins/vitepress-mermaid/index.vue'
+
 import './fonts.css'
 import './callouts.css'
 import './colors.css'
@@ -11,6 +14,7 @@ import '../../.obsidian/snippets/utils.css'
 export default {
   extends: DefaultTheme,
   enhanceApp({ app, router, siteData }) {
+    app.component('vitepress-mermaid', VitePressMermaid)
     // Add checkbox interactivity on route changes
     if (typeof window !== 'undefined') {
       router.onAfterRouteChanged = () => {

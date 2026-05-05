@@ -1,6 +1,6 @@
 import { defineConfig, UserConfig } from 'vitepress'
 import { withSidebar } from 'vitepress-sidebar';
-import { withMermaid } from "vitepress-plugin-mermaid";
+import { mermaidPlugin } from './plugins/vitepress-mermaid';
 import { footnote } from "@mdit/plugin-footnote";
 import mdItTaskLists from 'markdown-it-task-lists';
 
@@ -29,7 +29,7 @@ const vitePressConfigs : UserConfig<any> = {
       md.use(markdownItObsidian, { enabled: true })
       md.use(mathjax3)
       md.use(mdItTaskLists, { enabled: true })
-      // md.use(taskCheckboxPlugin) // Temporarily disabled - causing blank page
+      md.use(mermaidPlugin)
     }
   },
   titleTemplate: ':title - FICHES CPES',
