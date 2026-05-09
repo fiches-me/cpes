@@ -87,21 +87,6 @@ Réseau complexe de fibres, protéoglycanes et glycoprotéines (collagène, éla
 - **Endosome** : compartiment de tri des vésicules endocytées, maturation vers lysosome.
 - **Ribosomes** : sites de traduction (libres ou associés au RER).
 
-## Matrice extracellulaire (MEC) — compléments
-
-Réseau de collagènes, élastine, protéoglycanes et glycoprotéines (fibronectine, laminine). Assure support mécanique, filtration, migration cellulaire et régulation des signaux ; remodelée en permanence par les MMPs.
-
-### Glycosaminoglycanes (GAGs)
-
-> Utilité
-
-- GAGs = longues chaînes polysaccharidiques sulfates ou non sulfates liées à une protéine centrale (protéoglycanes).
-- Exemples cités dans tes notes : acide hyaluronique, chondroïtine sulfate, aggrecan.
-- ==Heparan sulfate== : GAG important de la lame basale et de la surface cellulaire, souvent lié à des protéoglycanes (ajouté).
-
-### Lame basale / membrane basale
-
-- Couche spécialisée de la MEC sous-jacente aux épithéliums : laminine, collagène IV, perlecan, nidogen.
 
 ## Contenants et compartiments (termes utiles)
 
@@ -128,6 +113,25 @@ Les membranes biologiques contrôlent le passage des ions, petites molécules et
 - **Endocytose / exocytose** : transport vésiculaire de macromolécules et de membranes (phagocytose, pinocytose, endocytose médiée par récepteur).
 
 Conséquences physiologiques : maintien du potentiel membranaire, régulation du volume cellulaire, apport en nutriments, élimination de déchets et signalisation.
+
+## Protéines de reconnaissance et récepteurs
+
+Les cellules utilisent des protéines membranaires et extracellulaires pour détecter des signaux (hormones, cytokines, ligands microbien, composantes de la MEC) et déclencher des réponses intracellulaires adaptées.
+
+- **Récepteurs tyrosine-kinases (RTKs)** — récepteurs à activité enzymatique intracellulaire; régulent prolifération, différenciation et métabolisme.
+	- Exemples : récepteur de l'insuline (activation PI3K/Akt, contrôle du métabolisme et translocation de GLUT4), EGFR (facteur de croissance épidermique), VEGFR (angiogenèse).
+- **Récepteurs couplés aux protéines G (GPCRs)** — transduction via protéines G et seconds messagers (cAMP, Ca2+).
+	- Exemples : récepteur du glucagon (classe B GPCR, active l'adénylate cyclase → cAMP → PKA), récepteur β-adrénergique, récepteur de la sérotonine.
+- **Récepteurs de cytokines / voie JAK-STAT** — lient des cytokines et activent des kinases associées (JAK) puis STATs.
+	- Exemples : récepteur de l'interleukine-6 (IL-6R), récepteur de l'interféron (IFNAR).
+- **Récepteurs de reconnaissance (immunité innée)** — détectent motifs microbiaux pour déclencher des réponses inflammatoires.
+	- Exemples : TLR4 (lipopolysaccharide bactérien), TLR3 (ARN double brin viral), NOD-like receptors.
+- **Intégrines et molécules d'adhérence** — connectent la MEC au cytosquelette et transmettent des signaux mécaniques/biochimiques.
+	- Exemples : intégrine α5β1 (liaison à la fibronectine), intégrine α6β4 (liaison à la laminine), cadhérines (E-cadhérine pour adhérence cellule–cellule).
+- **Complexes de présentation d'antigènes (CMH/MHC)** — exposent peptides aux lymphocytes T.
+	- Exemples : CMH I (présente peptides aux CD8+), CMH II (présente peptides aux CD4+).
+
+Ces protéines servent à la détection, à l'initiation de voies de signalisation, à l'adhérence et au remodelage tissulaire ; elles sont fréquemment ciblées en thérapeutique (ex : antagonistes GPCR, inhibiteurs de RTK).
 
 ## Changement de conformation
 
