@@ -36,11 +36,33 @@ Plus petite unité fonctionnelle du vivant. Plus petite unité vivante capable d
 - **Jonctions adhérentes / cadhérines** : cohésion tissulaire (liaison à l'actine).
 - **Desmosomes** : résistance mécanique (ancrage aux filaments intermédiaires).
 - **Gap junctions** : échanges rapides de petites molécules (connexines).
-- **Hémidesmosomes** : ancrage cellule–matrice (intégrines, lame basale).
+ - **Hémidesmosomes** : ancrage cellule–matrice (intégrines, lame basale).
 
 ## Matrice extracellulaire (MEC)
 
-Réseau de collagènes, élastine, protéoglycanes et glycoprotéines (fibronectine, laminine). Assure support mécanique, filtration, migration cellulaire et régulation des signaux ; remodelée en permanence par les MMPs.
+Réseau complexe de fibres, protéoglycanes et glycoprotéines (collagène, élastine, fibronectine, laminine). La MEC assure le support mécanique, la filtration, la résistance à la compression, la migration cellulaire et la régulation des signaux ; elle sert aussi de réservoir pour des facteurs de croissance et est remodelée en permanence par les MMPs.
+
+### Composants principaux
+
+- **Fibres** : collagènes (résistance à la traction), élastine (élasticité).
+- **Protéoglycanes** : protéines liées à des GAGs formant un gel hydraté qui confère résistance à la compression.
+- **Glycoprotéines** : fibronectine, laminine (adhésion cellulaire, organisation de la MEC).
+- **Protéases de remodelage** : métalloprotéinases matricielles (MMPs) et leurs inhibiteurs (TIMPs).
+
+### Glycosaminoglycanes (GAGs) — définition et rôles
+
+- GAGs = glycosaminoglycanes : longues chaînes polysaccharidiques (sulfatées ou non) très hydrophiles, souvent liées à une protéine centrale pour former des protéoglycanes.
+- Exemples : acide hyaluronique (non sulfaté), chondroïtine sulfate, kératane sulfate, héparan sulfate.
+- Rôles :
+	- Attirer et retenir l'eau → former un gel hydraté conférant résistance à la compression des tissus.
+	- Réguler la diffusion et la disponibilité des facteurs de croissance (piégeage/libération).
+	- Fournir un substrat mécanique et biochimique pour la migration cellulaire et la morphogenèse.
+	- Participer à la signalisation cellulaire en liant et présentant des ligands aux récepteurs.
+
+### Lame basale / membrane basale
+
+- Couche spécialisée de la MEC sous-jacente aux épithéliums : laminine, collagène IV, perlecan (héparan sulfate), nidogen.
+- Fonctions : soutien, filtrage, polarité épithéliale et ancrage via intégrines.
 
 ## Cytosquelette
 
@@ -88,6 +110,23 @@ Réseau de collagènes, élastine, protéoglycanes et glycoprotéines (fibronect
 - **Système endomembranaire**== ensemble fonctionnel RE ⇄ Golgi ⇄ endosomes ⇄ lysosomes ⇄ membrane plasmique (concept et trajet vésiculaire ajouté).
 - **Trafic vésiculaire / vésicules** : transport de matériel entre organites via vésicules.
 - **Espace extracellulaire / matrice** : milieu hors cellule contenant la MEC.
+
+## Transport membranaire et perméases
+
+Les membranes biologiques contrôlent le passage des ions, petites molécules et macromolécules. Les principaux mécanismes :
+
+- **Diffusion simple** : passage passif des petites molécules non chargées et des solutés hydrophobes à travers la bicouche lipidiques selon leur gradient de concentration.
+- **Diffusion facilitée** : transport passif de molécules polaires/chargées via des canaux ou perméases (transporteurs) sans consommation d'ATP.
+- **Canaux ioniques** : protéines formant des pores sélectifs (ex. canaux K+, Na+, Ca2+) souvent régulés par voltage ou ligands.
+- **Perméases / transporteurs (uniports, symports, antiports)** : protéines membranaires qui lient et transloquent spécifiquement des substrats.
+	- **Perméases** : transporteurs facilitant le passage d'une molécule ou d'un ion à travers la membrane par changement de conformation. Exemples : GLUT (transport du glucose), transporteurs d'acides aminés.
+	- **Symport** : co-transport de deux solutés dans le même sens (ex. SGLT glucose/Na+).
+	- **Antiport** : échangeur transportant deux solutés en sens inverse (ex. Na+/Ca2+ exchanger).
+- **Pompes (transport actif primaire)** : transporteurs consommant de l'ATP pour déplacer des ions contre leur gradient (ex. Na+/K+-ATPase, pompe à protons H+-ATPase).
+- **Transport actif secondaire** : utilise l'énergie du gradient électrochimique établi par une pompe (ex. gradient de Na+ utilisé pour importer le glucose via SGLT).
+- **Endocytose / exocytose** : transport vésiculaire de macromolécules et de membranes (phagocytose, pinocytose, endocytose médiée par récepteur).
+
+Conséquences physiologiques : maintien du potentiel membranaire, régulation du volume cellulaire, apport en nutriments, élimination de déchets et signalisation.
 
 ## Changement de conformation
 
