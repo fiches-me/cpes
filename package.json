@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "markdown-it-mathjax3": "^4.3.2",
-    "vitepress": "2.0.0-alpha.16"
+    "vitepress": "2.0.0-alpha.17"
   },
   "scripts": {
     "dev": "vitepress dev .",
@@ -13,7 +13,7 @@
     "markdown-it-obsidian": "^1.1.0",
     "markdown-it-obsidian-callouts": "^0.3.3",
     "markdown-it-task-lists": "^2.1.1",
-    "vitepress-plugin-mermaid": "^2.0.17",
+    "mermaid": "^11.14.0",
     "vitepress-sidebar": "^1.33.1"
   }
 }
