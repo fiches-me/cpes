@@ -23,7 +23,7 @@ Remise en cause de Say et du plein-emploi automatique ; importance de la demande
 
 ### Remise en cause néoclassique
 
-Keynes remet en causes les bases du néoclassicismes : après la grande dépression, il montre que la loi de say n'est pas vérifiée. Les salaires ne sont plus flexibles mais rigides. Il défend la mise en place de politiques fiscales et monétaires. Étudier les prix ne suffit pas, il faut tout autant traiter la monnaie.
+Keynes remet en causes les bases du néoclassicismes : après la grande dépression, il montre que la loi de say n'est pas vérifiée (l'offre ne crée plus sa propre demande). Pour lui, les salaires ne sont plus flexibles mais rigides. Il défend la mise en place de politiques fiscales et monétaires. Étudier les prix ne suffit pas, il faut tout autant traiter la monnaie.
 
 |            *Marché Néoclassique*            |                     *Marché Keynésien*                     |
 | :-----------------------------------------: | :--------------------------------------------------------: |
