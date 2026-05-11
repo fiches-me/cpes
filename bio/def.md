@@ -13,7 +13,7 @@ Ensemble de cellules semblables organisées pour assurer une fonction commune (e
 
 Couche(s) de cellules jointives couvrant une surface ou tapissant une cavité. Assure protection, absorption ou sécrétion. Les épithéliums reposent sur une **lame basale** et sont séparés du tissu conjonctif sous-jacent.
 
-> [!EXAMPLE] **Exemple** : Épithélium intestinal avec entérocytes, entéro endocrines, cellules souches.
+> [!EXAMPLE] **Exemple** : Épithélium intestinal avec entérocytes, entéro endocrines, cellules souches, etc.
 
 ## Tissu conjonctif
 
@@ -67,7 +67,7 @@ Réseau complexe de fibres, protéoglycanes et glycoprotéines (collagène, éla
 
 ## Cytosquelette
 
-- **Microtubules** (tubuline) : transport intracellulaire, positionnement des organites et séparation des chromosomes.
+- **Microtubules** (tubuline) : transport intracellulaire et positionnement des organites.
 - **Microfilaments d'actine** : forme cellulaire, microvillosités, mouvements et contraction.
 - **Filaments intermédiaires** : résistance mécanique et cohésion tissulaire.
 
@@ -78,7 +78,7 @@ Réseau complexe de fibres, protéoglycanes et glycoprotéines (collagène, éla
 
 ## Organites — exemples et composants
 
-- **Noyau** : enveloppe nucléaire double, pores nucléaires (transport d'ARN/protéines), nucléole (synthèse des sous-unités ribosomales).
+- ==**Noyau** : enveloppe nucléaire double, pores nucléaires (transport d'ARN/protéines), nucléole (synthèse des sous-unités ribosomales).==
 - **Réticulum endoplasmique (RER / REL)** : synthèse des protéines membranaires et des lipides.
 - **Appareil de Golgi** : maturation, tri et adressage des protéines.
 - **Mitochondrie** : double membrane, crêtes, ADN mitochondrial, production d'ATP.
@@ -86,7 +86,6 @@ Réseau complexe de fibres, protéoglycanes et glycoprotéines (collagène, éla
 - **Peroxysome** : détoxification (catabolisme des peroxydes), oxydases, bêta-oxydation partielle.
 - **Endosome** : compartiment de tri des vésicules endocytées, maturation vers lysosome.
 - **Ribosomes** : sites de traduction (libres ou associés au RER).
-
 
 ## Contenants et compartiments (termes utiles)
 
@@ -100,6 +99,8 @@ Réseau complexe de fibres, protéoglycanes et glycoprotéines (collagène, éla
 ## Transport membranaire et perméases
 
 Les membranes biologiques contrôlent le passage des ions, petites molécules et macromolécules. Les principaux mécanismes :
+
+![](A2/images/Pasted%20image%2020260509155801.png)
 
 - **Diffusion simple** : passage passif des petites molécules non chargées et des solutés hydrophobes à travers la bicouche lipidiques selon leur gradient de concentration.
 - **Diffusion facilitée** : transport passif de molécules polaires/chargées via des canaux ou perméases (transporteurs) sans consommation d'ATP.
@@ -168,3 +169,24 @@ Propriété de certaines protéines (comme l'hémoglobine) dont la structure et 
 ## Dénaturation
 
 Perte de la structure tridimensionnelle (secondaire, tertiaire, quaternaire) d'une protéine, entraînant la perte de sa fonction biologique. Elle peut être causée par la chaleur, le pH, ou des agents chimiques.
+
+## Enzymes
+
+> xxx
+
+| Enzymes              | Réactions Catalysées                                                   |
+| -------------------- | ---------------------------------------------------------------------- |
+| **Hydrolases**       | Hydrolyse "générale"                                                   |
+| **Nucléases**        | Hydrolyse des acides nucléiques                                        |
+| **Protéases**        | Hydrolyse des protéines                                                |
+| **Synthases**        | Catalyses la synthétisation de molécules par condensation (anabolique) |
+| **Kinases**          | Catalyses l'addition de groupement phosphate                           |
+| **Phosphatases**     | Retrait par hydrolyse d'un groupement phosphate                        |
+| **Oxydo-réductases** | Catalyse une oxydo-réduction                                           |
+| **ATPases**          | Hydrolyse de l'ATP                                                     |
+
+## ATP
+
+Nucléotide servant de monnaie énergie à tout les organites des cellules.  
+
+![](A1/ch3/synthèse.png)
