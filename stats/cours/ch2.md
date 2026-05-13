@@ -3,6 +3,7 @@ title: Estimation Statistique
 order: 2
 finished: false
 ---
+
 # Estimation Statistique
 
 ## Objets mathématiques utilisés en statistique
@@ -14,7 +15,6 @@ finished: false
 > Cette fiche est encore en très grosse construction.
 > 
 > Promis, je ratrape mon retard !
-
 
 ---
 
@@ -72,3 +72,46 @@ Alors, $\color{red} \mathbb{E} (X) = \frac 1p$ et $\color{green} \mathbb{V} = \f
 Une variable aléatoire $X$ suis une loi Géométrique ($X \hookrightarrow \mathcal{N}(\mu, \sigma^2)$) si $\forall x \in \mathbb{R}, \mathbb{P}(X = x)= \frac 1{\sqrt{2\pi\sigma^2}} e ^ {- \frac{(x - \mu)^2}{2\sigma^2} }$
 
 Alors, $\color{red} \mathbb{E} (X) = \frac 1p$ et $\color{green} \mathbb{V} = \frac{1 - p}{p^2}$
+
+## Agrégation des variables aléatoires
+
+Soit $X_1, \dots, X_n$ v.a. d'espérance $\mu$ et de variance $\sigma^2$.
+
+> [!important] **Théorème :** Loi des grand nombres 
+> - *Version faible :* $\forall \varepsilon > 0, \mathbb{P}(|\tilde{X}_n - \mu| >0) \xrightarrow[n \to + \infty]{} 0$
+> - *Version forte :* $\mathbb{P} ( \tilde{X}_n \xrightarrow[n \to + \infty]{} \mu) = 0$
+
+> [!important] **Théorème :** Central Limte (**TCL**)
+> $\frac{\tilde{X}_n - \mu}{\frac{\sigma}{\sqrt n}} \xrightarrow[n \to + \infty]{} = \mathcal{N}(0, 1)$
+
+Exemple : l'agrégation de lancés de pièces tend vers la quantité $p = \frac 12$, donc si on enlève l'espérance $\mu$ tend vers 0 (loi normal).
+
+## Propriétés sur les variables aléatoires
+
+## Dépendance par rapport à des paramètres
+
+## Notion de statistique
+
+## Qualité d'un estimateur
+
+On peut quantifier la qualité d'un estimateur avec les outils suivants :
+
+### Biais
+
+On le note $\mathcal{B} (T_n, \theta)$, et il mesure **la précision de $T_n$ par rapport à $\theta$**. $T_n$ est dit **sans biais** si $\mathbb{E} (T_n) = \theta$.
+
+### Variance d'un estimateur
+
+$\mathbb{B}
+### Consistance
+
+ Si $T_n  \xrightarrow[n \to + \infty]{} \theta$, 
+
+### Erreur Quadratique
+
+> [!définition] 
+> L'erreur quadratique moyenne d'un estimateur $T_n$ de $\theta$ est noté $\mathbb{EQM}(T_n)$ et on a :
+>
+> $$\mathbb{EQM}(T_n) = \mathbb{V} (T_n) + \mathcal{B} (T_n, \theta)$$
+
+Le meilleur estimateur possible de $\theta$ est un estimateur **sans biais** et de **variance minimal**.

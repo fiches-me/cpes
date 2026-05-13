@@ -55,7 +55,8 @@ Faut pas prendre des drogues dans la vie, juste des risques.
 
 ## Guilhem
 
-> Note: Ces citations ont été ajoutés par d'autres personnes que moi, sinon c'est pas drôle
+> [!Note]
+> Ces citations ont été ajoutés par d'autres personnes que moi, sinon c'est pas drôle
 
 J'aimerais bien être sourd et muet
 
