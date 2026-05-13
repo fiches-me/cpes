@@ -3,6 +3,8 @@ title: Statistiques Descriptives
 order: 1
 stats: true
 finished: true
+author: Guilhem C., Abel G.
+date: 13/05/25
 ---
 
 # Statistiques Descriptives

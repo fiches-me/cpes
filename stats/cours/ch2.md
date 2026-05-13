@@ -6,19 +6,17 @@ finished: false
 
 # Estimation Statistique
 
-## Objets mathématiques utilisés en statistique
-
-> [!DÉFINITION]
-> Un vecteur de données $x=(x_1,\dots,x_n)$ est de taille $n$ (la taille de l'échantillon). Ces données sont réalisées par des variables aléatoires $X=(X_1,\dots,X_n)$.
-
 > [!danger] 
 > Cette fiche est encore en très grosse construction.
 > 
 > Promis, je ratrape mon retard !
 
----
+## Objets mathématiques utilisés en statistique
 
-xxx
+> [!DÉFINITION]
+> Un vecteur de données $\vec{x}=(x_1,\dots,x_n)$ est de taille $n$ (la taille de l'échantillon). Ces données sont réalisées par des variables aléatoires $\vec{X}=(X_1,\dots,X_n)$.
+
+> ==**A ÉCRIRE**==
 
 ---
 
@@ -75,22 +73,50 @@ Alors, $\color{red} \mathbb{E} (X) = \frac 1p$ et $\color{green} \mathbb{V} = \f
 
 ## Agrégation des variables aléatoires
 
-Soit $X_1, \dots, X_n$ v.a. d'espérance $\mu$ et de variance $\sigma^2$.
+Soit $X_1, \dots, X_n$ v.a. **idd** d'espérance $\mu$ et de variance $\sigma^2$. On note $\tilde{X}_n = \frac 1n \sum X_i$ l'agrégation des variables aléatoires. Son espérance vaut $\mu$ et sa variance $\frac {\sigma^2}n$.
 
 > [!important] **Théorème :** Loi des grand nombres 
 > - *Version faible :* $\forall \varepsilon > 0, \mathbb{P}(|\tilde{X}_n - \mu| >0) \xrightarrow[n \to + \infty]{} 0$
 > - *Version forte :* $\mathbb{P} ( \tilde{X}_n \xrightarrow[n \to + \infty]{} \mu) = 0$
 
-> [!important] **Théorème :** Central Limte (**TCL**)
-> $\frac{\tilde{X}_n - \mu}{\frac{\sigma}{\sqrt n}} \xrightarrow[n \to + \infty]{} = \mathcal{N}(0, 1)$
+Avec une variable aléatoire agrégée (qu'on aime noter $\tilde{X}_n$), on peut appliquer le **théorème central limite** :
 
-Exemple : l'agrégation de lancés de pièces tend vers la quantité $p = \frac 12$, donc si on enlève l'espérance $\mu$ tend vers 0 (loi normal).
+> [!important] **Théorème :** Central Limte (**TCL**)
+>
+> $$\frac{\tilde{X}_n - \mu}{\frac{\sigma}{\sqrt n}} \xrightarrow[n \to + \infty]{} = \mathcal{N}(0, 1)$$
+
+Il est principalement utilisé pour justifier la construction d'[Intervalles de confiance](ch4.md#Intervalles%20de%20confiance%20pour%20la%20loi%20normal).
+
+> [!Example]
+> L'agrégation de lancés de pièces tend vers la quantité $p = \frac 12$, donc si on enlève l'espérance $\mu$ tend vers 0 (loi normal).
 
 ## Propriétés sur les variables aléatoires
 
+> ==**A ÉCRIRE**==
+
 ## Dépendance par rapport à des paramètres
 
+**Toute loi dépend d'un ou plusieurs paramètre(s)** (que nous noterons $\theta$).
+
+> [!example] Exemple : $\mathcal{Ber}(p) \longrightarrow \theta = p$; $\mathcal{B}(n, p) \longrightarrow \theta = (n, p).$
+
+On note $f_x (x | \theta)$ la fonction de densité/masse sachant $\theta$. Une même loi avec des paramétrisations différentes donne des résultats différents.
+
 ## Notion de statistique
+
+> [!définition] 
+> Une **statistique** est une fonction quelconque des données $\vec{x} : t(\vec{x})$.
+
+Le but des statistiques est de faire **parler les données**. Un exemple de statistique serait la **moyenne empirique** $\widehat{x}_n = \sum x_i$ ou le maximum $\max_{i \in [\![1, n]\!]} x_i$.
+
+En mathématiques, on aura besoin d'une loi de probabilité et/ou d'une variable aléatoire pour remplacer les données.
+
+> [!définition]
+> Un **estimateur** $T_n$ d'une grandeur $\theta$ est une statistique à valeur dans $\Theta$ des $\theta$ possibles.
+> 
+> Elle prend en argument l'ensemble des variables aléatoires considérées $\vec{X}$.
+
+*La plupart du temps, les estimateurs nous serrons donnés.*
 
 ## Qualité d'un estimateur
 
@@ -102,10 +128,11 @@ On le note $\mathcal{B} (T_n, \theta)$, et il mesure **la précision de $T_n$ pa
 
 ### Variance d'un estimateur
 
-$\mathbb{B}
+$\mathbb{V}(T_n)$ quantifie les fluctuations de $T_n$ autour de son espérance $\mathbb{E}(T_n)$.
+
 ### Consistance
 
- Si $T_n  \xrightarrow[n \to + \infty]{} \theta$, 
+ Si $T_n  \xrightarrow[n \to + \infty]{} \theta$, alors $T_n$ est **consistant** pour $\theta$.
 
 ### Erreur Quadratique
 

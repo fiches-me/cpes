@@ -14,3 +14,4 @@ workspace.json
 workspaces.json
 
 data.json.backup*
+output.pdf

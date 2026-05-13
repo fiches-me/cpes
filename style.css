@@ -1,3 +1,4 @@
+@import url('https://cdn.jsdelivr.net/npm/twemoji-colr-font@15.0.3/twemoji.min.css');
 /* ═══════════════════════════════════════════════════════════
    VITEPRESS THEME INTEGRATION
    Maps PMR colors to VitePress variables
@@ -185,21 +186,39 @@ tr:nth-child(even) td {
     text-align: center;
     margin: 25px 0;
     padding: 10px;
-    background: var(--color-l-gray-10);
+    background: transparent;
     border-radius: 8px;
     box-shadow: inset 0px 0px 10px var(--color-l-alpha-gray);
 }
+
 .math-block img {
-    max-width: 100%;
+    display: block;
+    margin: 0.6em auto;
+    /* Changed to 100% so we don't accidentally squish naturally wide equations */
+    max-width: 100%; 
     height: auto;
     border-radius: 0;
 }
+
 img.math-inline {
     display: inline-block;
-    vertical-align: middle;
-    height: 1.1em;
-    margin: 0 4px;
+    vertical-align: middle; /* Centers the baseline reasonably well */
+    /* REMOVED: height and max-height constraints */
+    width: auto;
+    margin: 0 0.2em;
     border-radius: 0;
+}
+
+/* Helper classes for images produced by the compiler */
+.math-block-img { 
+    display: block; 
+    margin: 0.6em auto; 
+    max-width: 100%; 
+    height: auto; 
+}
+
+.math-svg { 
+    image-rendering: optimizeQuality; 
 }
 
 /* ─────────────────────────────────────
@@ -229,13 +248,12 @@ img {
 }
 
 body {
-    font-family: 'Plus Jakarta Sans', 'Segoe UI', Candara, sans-serif;
+    font-family: 'Plus Jakarta Sans', 'Twemoji', 'Fluent Emoji Color', 'Fluent Emoji Flat', 'Fluent Emoji','Segoe UI', Candara, sans-serif;
     font-weight: 400;
     line-height: 1.6;
     color: var(--color-l-gray-140);
     margin: 0;
     padding: 20mm 15mm 5mm 15mm;
-    /* Custom Grid Background for note-like feel - made much more subtle */
     background-color: transparent;
     background-image: 
         linear-gradient(rgba(0,0,0, 0.04) 1px, transparent 1px),
@@ -313,12 +331,59 @@ h3 {
     font-weight: 800;
     letter-spacing: 0.5px;
     text-transform: uppercase;
-    display: block;
+    display: flex;
+    align-items: center;
     margin: 0;
     padding: 10px 20px;
     background: linear-gradient(rgba(0, 0, 0, 0.04), rgba(0, 0, 0, 0.04)) var(--color-l-gray-30);
     border-bottom: 1px solid var(--color-l-gray-60);
     color: var(--color-l-gray-120);
+}
+
+/* 2. Base styling for the icon */
+.admonition-title::before {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 1.2em; /* Make the emoji slightly larger than the text */
+    line-height: 1;
+    /* Force the emoji font we added earlier so it doesn't fall back to standard text */
+    font-family: 'Fluent Emoji', 'Segoe UI Emoji', sans-serif;
+    font-weight: normal; 
+}
+
+/* 3. Map specific icons to your existing admonition colors/types */
+.note .admonition-title::before, 
+.info .admonition-title::before,
+.todo .admonition-title::before { 
+    content: "ℹ️"; /* Note/Info */
+}
+
+.tip .admonition-title::before, 
+.hint .admonition-title::before, 
+.success .admonition-title::before { 
+    content: "💡"; /* Tip/Success */
+}
+
+.warning .admonition-title::before, 
+.attention .admonition-title::before, 
+.caution .admonition-title::before { 
+    content: "⚠️"; /* Warning */
+}
+
+.danger .admonition-title::before, 
+.error .admonition-title::before, 
+.bug .admonition-title::before { 
+    content: "🛑"; /* Danger/Bug */
+}
+
+.abstract .admonition-title::before, 
+.summary .admonition-title::before, 
+.tldr .admonition-title::before { 
+    content: "📋"; /* Summary */
+}
+
+.quote .admonition-title::before { 
+    content: "💬"; /* Quote */
 }
 .admonition p, .admonition ul, .admonition ol {
     padding: 15px 20px;

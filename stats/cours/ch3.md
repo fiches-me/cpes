@@ -30,13 +30,13 @@ Pour lier la loi à nos données, on estime les paramètres $\mu$ (**moyenne**) 
 
 ### Loi Normale Centrée Réduite
 
-*Comment calculer la probabilité sans calculatrice ?* Il est possible de 
+*Comment calculer la probabilité sans calculatrice ?* Il est possible de **standardiser** une loi normal avec la formule suivante pour créer une **Loi Normale Centrée Réduite**
 
-+: $\mathbb{P} (X \in [a ; b]) = \mathbb{P} (\widetilde{X} \in [\frac{a - \mu}\sigma ; \frac{b - \mu}\sigma])$
-
-+!: $\mathbb{P}(\widetilde{X} \le t) = \phi(t)$
-1. Symétrie : $\mathbb{P} (\widetilde{X} < t) = \mathbb{P} (\widetilde{X} > -t) = \phi(t)$
-2. Valeur Absolue : $\mathbb{P}(|\widetilde{X}| < t = \mathbb{P} (-t < \widetilde{X} < t) = \phi(t) - \phi(-t) = 2 \phi(t)$
+- Standardisation : $Y = \frac{X - \mu}\sigma$. On a le droit de faire $\mathbb{P}(X < a) \Leftrightarrow  \mathbb{P}(\frac{X - \mu}\sigma < \frac{a - \mu}\sigma)$ 
+- $\mathbb{P} (X \in [a ; b]) = \mathbb{P} (\widetilde{X} \in [\frac{a - \mu}\sigma ; \frac{b - \mu}\sigma])$
+- $\mathbb{P}(\widetilde{X} \le t) = \phi(t)$
+	1. Symétrie : $\mathbb{P} (\widetilde{X} < t) = \mathbb{P} (\widetilde{X} > -t) = \phi(t)$
+	2. Valeur Absolue : $\mathbb{P}(|\widetilde{X}| < t = \mathbb{P} (-t < \widetilde{X} < t) = \phi(t) - \phi(-t) = \phi(t) - (1 - \phi(t)) = 2 \phi(t) - 1$
 
 ## Retour sur le Théorème Centrale Limite
 

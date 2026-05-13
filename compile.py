@@ -1,6 +1,10 @@
 import markdown
 import re
 import urllib.parse
+import urllib.request
+import base64
+import ssl
+import os
 from sys import argv
 from weasyprint import HTML, CSS
 from weasyprint.text.fonts import FontConfiguration
@@ -24,18 +28,75 @@ def parse_md_with_frontmatter(file_path):
     
     # Pre-process LaTeX Math to SVG images (WeasyPrint doesn't run JS for MathJax/KaTeX)
     # Block Math: $$...$$
-    content = re.sub(
-        r'\$\$(.*?)\$\$',
-        lambda m: f'<div class="math-block"><img src="https://latex.codecogs.com/svg.image?{urllib.parse.quote(m.group(1).strip())}" alt="math formula"></div>',
-        content,
-        flags=re.DOTALL
-    )
+    # Cache downloaded images to avoid repeated network calls
+    image_cache = {}
+
+    def fetch_as_data_uri(url):
+        if url in image_cache:
+            return image_cache[url]
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; WeasyPrint)"})
+
+            # SSL handling: allow custom CA bundle or disable verification via env vars
+            # - Set WEASY_CA_BUNDLE to a path to a .crt file to use it
+            # - Set WEASY_VERIFY_SSL=0 to disable verification (INSECURE)
+            verify_env = os.getenv('WEASY_VERIFY_SSL', '0')
+            cafile = os.getenv('WEASY_CA_BUNDLE', "/home/guilhem/lycee.crt")
+            #print(verify_env, cafile)
+            if verify_env in ('0', 'false', 'False'):
+                context = ssl._create_unverified_context()
+            else:
+                if cafile:
+                    context = ssl.create_default_context(cafile=cafile)
+                else:
+                    try:
+                        import certifi
+                        context = ssl.create_default_context(cafile=certifi.where())
+                    except Exception:
+                        context = ssl.create_default_context()
+
+            with urllib.request.urlopen(req, timeout=20, context=context) as resp:
+                data = resp.read()
+                content_type = resp.getheader('Content-Type') or 'image/svg+xml'
+                if ';' in content_type:
+                    content_type = content_type.split(';', 1)[0].strip()
+
+                # REMOVED the regex sanitization block entirely.
+                # CodeCogs provides nicely formatted SVGs with 'ex' units that 
+                # WeasyPrint understands perfectly. We keep them intact.
+
+                b64 = base64.b64encode(data).decode('ascii')
+                data_uri = f"data:{content_type};base64,{b64}"
+                image_cache[url] = data_uri
+                return data_uri
+        except Exception as e:
+            print(f"Warning: failed to fetch {url}: {e}")
+            return url
+
+    def _math_block_repl(m):
+        formula = m.group(1).strip()
+        # Prefer display style for block math
+        formula_render = formula
+        if not formula_render.lstrip().startswith('\\displaystyle') and not formula_render.lstrip().startswith('\\textstyle'):
+            formula_render = '\\displaystyle ' + formula_render
+        url = f"https://latex.codecogs.com/svg.image?{urllib.parse.quote(formula_render)}"
+        data_uri = fetch_as_data_uri(url)
+        return f'<div class="math-block"><img class="math-block-img math-svg" src="{data_uri}" alt="math formula"></div>'
+
+    content = re.sub(r'\$\$(.*?)\$\$', _math_block_repl, content, flags=re.DOTALL)
+
     # Inline Math: $...$
-    content = re.sub(
-        r'(?<!\$)\$(?!\$)(.*?)(?<!\$)\$(?!\$)',
-        lambda m: f'<img class="math-inline" src="https://latex.codecogs.com/svg.image?{urllib.parse.quote(m.group(1).strip())}" alt="math inline">',
-        content
-    )
+    def _math_inline_repl(m):
+        formula = m.group(1).strip()
+        # Prefer text style for inline math (smaller sums, symbols)
+        formula_render = formula
+        if not formula_render.lstrip().startswith('\\textstyle') and not formula_render.lstrip().startswith('\\displaystyle'):
+            formula_render = '\\textstyle ' + formula_render
+        url = f"https://latex.codecogs.com/svg.image?{urllib.parse.quote(formula_render)}"
+        data_uri = fetch_as_data_uri(url)
+        return f'<img class="math-inline math-svg" src="{data_uri}" alt="math inline">'
+
+    content = re.sub(r'(?<!\$)\$(?!\$)(.*?)(?<!\$)\$(?!\$)', _math_inline_repl, content)
 
     # Custom pre-processor for Obsidian callouts format `> [!tip]` to Markdown `!!! tip`
     lines = content.split('\n')
