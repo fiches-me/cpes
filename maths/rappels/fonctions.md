@@ -40,7 +40,7 @@ finished: true
 
 ### Définitions
 
-Une suite $(u_n) n ∈ \in \mathbb{N}$ est arithmétique s’il existe un réel $r$ indépendant de n tel que, pour tout $n \in \mathbb{N}$ , $u_{n+1} = u_n + r$
+Une suite $(u_n)_{n \in \mathbb{N}}$ est arithmétique s’il existe un réel $r$ indépendant de n tel que, pour tout $n \in \mathbb{N}$ , $u_{n+1} = u_n + r$
 
 ### Variations d'une suite
 

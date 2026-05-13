@@ -156,12 +156,13 @@ On part d'une experience de sondage d'un échantillon de $n$ individus sur une q
 > 
 > Pour une intervalle "approximé" :
 >
->$$I_\gamma = [0.42 - 1.96 \sqrt \frac{0.42 ( 1 - 0.42)}{36}, 0.42 + 1.96 \sqrt \frac{0.42 ( 1 - 0.42)}{36}] = [0.26, 0.56]$$
+>$$I_{\gamma, apr} = [0.42 - 1.96 \sqrt \frac{0.42 ( 1 - 0.42)}{36}, 0.42 + 1.96 \sqrt \frac{0.42 ( 1 - 0.42)}{36}] = [0.26, 0.56]$$
 >
 >Pour une intervalle de confiance "absolue" :
 >
->$$I_\gamma = [0.42 - 1.96 \sqrt \frac{1}{4.36}, 0.42 + 1.96 \sqrt \frac{1}{4.36}] = [0.257, 0.563]$$
+>$$I_{\gamma, abs} = [0.42 - 1.96 \sqrt \frac{1}{4 \times 36}, 0.42 + 1.96 \sqrt \frac{1}{4 \times 36}] = [0.257, 0.563]$$
 
+ 
 **Observations** : Les intervalles absolues sont toujours plus larges que celles approximées. 
 
 > [!important] 

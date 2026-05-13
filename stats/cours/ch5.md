@@ -63,3 +63,22 @@ $$\mathcal{L}({\theta})^\prime = \frac{-n}{1 - p} + \sum_{i = 1}^n x_i (\frac 1p
 On peut multiplier par $(1 - p)$ pour la recherche des 0:
 
 $$-np \sum_{i = 1}^n x_i = 0 \Leftrightarrow p = \frac 1n \sum_{i = 1}^n x_i$$
+
+## Statistique exhaustive
+
+> [!définition] 
+>
+> Soit $T(X_1, \ldots, X_n) = t$. Une statistique $T(X_1, \ldots, X_n)$ de $\theta$ est dite **exhaustive** si $$\mathbb{P}(X_1 = x_1\cap \ldots \cap X_n = x_n | t, \theta) = \mathbb{P}(X_1 = x_1\cap \ldots \cap X_n = x_n | t)$$
+
+Cela veux dire que la probabilité d'observer toutes nos données sachant $T = t$ ne dépend plus du paramètre $\theta$ et donc que toute l'information sur $\theta$ est contenu dans la statistique $T$.
+
+> [!important] Théorème
+> Une statistique $T$ de $\theta$ est **exhaustive** si la fonction de densité/masse $f(x|\theta)$ peut s'exprimer en tant que $g(T(x), \theta) \times h (x)$
+
+Lorsqu'on fait de la maximisation de vraisemblance, la fonction $h(x)$ va s'annuler lors de la log-vraisemblance par rapport à $\theta$.
+
+> [!example] Exemple : Dans le cadre d'une loi de poisson
+> $\mathcal{L} (\lambda) = e ^{-n\lambda} \lambda ^{\sum} \prod_{i=1}^n \frac  {1}{x_ i !}$.
+> 
+> Si on choisit $T(x_1, \ldots, X_n) = \sum x_i$ on peut écrire $e ^{-n\lambda} \lambda ^{\sum}  = g(T(x_1, \ldots, x_n), \lambda)$ (ici $g$ serait $g(a, b) = e ^{-n b} b ^a$)
+
