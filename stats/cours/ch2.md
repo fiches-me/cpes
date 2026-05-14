@@ -14,10 +14,28 @@ finished: false
 ## Objets mathématiques utilisés en statistique
 
 > [!DÉFINITION]
-> Un vecteur de données $\vec{x}=(x_1,\dots,x_n)$ est de taille $n$ (la taille de l'échantillon). Ces données sont réalisées par des variables aléatoires $\vec{X}=(X_1,\dots,X_n)$.
+> Un vecteur de données $\vec{x}=(x_1,\dots,x_n)$ est de taille $n$ (la taille de l'échantillon). Ces données sont réalisées par des variables aléatoires $\vec{X}=(X_1,\dots,X_n)$. 
+> 
+> $X$ est définie sur un univers $\Omega$. Si $\Omega$ est fini, alors on dit que $X$ est une variable aléatoire **discrète**. Dans le cas contraire, $X$ est **continue**.
 
-> ==**A ÉCRIRE**==
+On note également $\omega$ les éléments de l'univers (appelés *issues*). Elles sont **aléatoires**, tout comme $X$.
 
+> [!DÉFINITION]
+> Une **fonction de répartition** $F_X$ d'une variable aléatoire $X$ est définie tel que :
+> 
+> $$\forall x \in X(\Omega), F_X (x) = \mathbb{P} (X \le x) =\sum_{ \{ \omega : X(\omega) \le x)\} } \mathbb{P} (\omega)$$
+> 
+> Une **fonction de masse** $f_X$ d'une variable aléatoire $X$ est définie tel que :
+> $$\forall x \in X(\Omega), f_X (x) = \mathbb{P} (X = x) = \mathbb{P} (\omega | X(\omega) = x)$$
+
+*On peut écrire la fonction de répartition $F_X$ à partir de la fonction de masse $f_X : F_X (x) = \sum_{g \in X(\omega), y \le x} f_X(y)$.*
+
+À faire : 
+- Def espérance
+- Def Variance (plusieurs)
+- théorème de transfert
+
+---
 ---
 
 ## Variables Aléatoires Usuelles Discrètes
@@ -73,7 +91,7 @@ Alors, $\color{red} \mathbb{E} (X) = \frac 1p$ et $\color{green} \mathbb{V} = \f
 
 ## Agrégation des variables aléatoires
 
-Soit $X_1, \dots, X_n$ v.a. **idd** d'espérance $\mu$ et de variance $\sigma^2$. On note $\tilde{X}_n = \frac 1n \sum X_i$ l'agrégation des variables aléatoires. Son espérance vaut $\mu$ et sa variance $\frac {\sigma^2}n$.
+Soit $X_1, \dots, X_n$ v.a. **iid** d'espérance $\mu$ et de variance $\sigma^2$. On note $\tilde{X}_n = \frac 1n \sum X_i$ l'agrégation des variables aléatoires. Son espérance vaut $\mu$ et sa variance $\frac {\sigma^2}n$.
 
 > [!important] **Théorème :** Loi des grand nombres 
 > - *Version faible :* $\forall \varepsilon > 0, \mathbb{P}(|\tilde{X}_n - \mu| >0) \xrightarrow[n \to + \infty]{} 0$
@@ -92,8 +110,20 @@ Il est principalement utilisé pour justifier la construction d'[Intervalles de 
 
 ## Propriétés sur les variables aléatoires
 
-> ==**A ÉCRIRE**==
+En statistiques, on travaille avec des variables aléatoires mutuellement indépendantes (1) et identiquement distribués (2). On abrège en **iid*.
 
+1. $\forall x_1, \dots, x_n, \mathbb{P}(X_1 \le x_1 \cap \dots \cap X_n \le x_n) = \prod_{i=1}^n \mathbb{P} (X_i \le x_i)$
+2. $\forall x \in \mathbb{R}, \forall (i, j) \in [\![ 1, n ]\!]^2 \mathbb{P} (X_i \le x_i) = (X_j \le x_j)$
+
+*Avec la notion de fonction de masse/densité :*
+
+$\forall x \in \mathbb{R}, f_{x_1} (x) = f_{x_2} (x) = \dots = f_{x_n} (x)$
+
+> [!important] **Propriétés** : pour tout type de variables aléatoires
+> - $\forall a, b \in \mathbb{R}, \mathbb{E}(aX + b) = a\mathbb{E}(X) + b$
+> - $\mathbb{E} (X_1, \dots, X_n) = \sum_{i=1}^n \mathbb{E}(X_i)$
+> - $\forall a, b \in \mathbb{R}, \mathbb{V}(aX + b) = a^2\mathbb{V}(X)$
+> - $\mathbb{V} (X_1, \dots, X_n) = \sum_{i=1}^n \mathbb{V}(X_i)$
 ## Dépendance par rapport à des paramètres
 
 **Toute loi dépend d'un ou plusieurs paramètre(s)** (que nous noterons $\theta$).
