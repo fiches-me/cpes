@@ -385,6 +385,20 @@ h3 {
 .quote .admonition-title::before { 
     content: "💬"; /* Quote */
 }
+
+.important .admonition-title::before { 
+    content: "❗"; /* Important */
+}
+
+.example .admonition-title::before { 
+    content: "📜"; /* Example */
+}
+
+.definition .admonition-title::before,
+.définition .admonition-title::before { 
+    content: "📚"; /* Definition */
+}
+
 .admonition p, .admonition ul, .admonition ol {
     padding: 15px 20px;
     margin: 0;
@@ -401,11 +415,11 @@ h3 {
 .warning, .attention, .caution { border-color: var(--color-l-yellow-30); background: linear-gradient(var(--color-l-alpha-yellow), var(--color-l-alpha-yellow)) var(--color-l-gray-10); }
 .warning .admonition-title, .caution .admonition-title { color: var(--color-l-yellow-40); border-bottom-color: var(--color-l-yellow-30); }
 
-.danger, .error, .bug { border-color: var(--color-l-red-30); background: linear-gradient(var(--color-l-alpha-red), var(--color-l-alpha-red)) var(--color-l-gray-10); }
+.danger, .error, .important, .bug { border-color: var(--color-l-red-30); background: linear-gradient(var(--color-l-alpha-red), var(--color-l-alpha-red)) var(--color-l-gray-10); }
 .danger .admonition-title, .bug .admonition-title { color: var(--color-l-red-40); border-bottom-color: var(--color-l-red-30); }
 
 .abstract, .summary, .tldr { border-color: var(--color-l-violet-30); background: linear-gradient(var(--color-l-alpha-violet), var(--color-l-alpha-violet)) var(--color-l-gray-10); }
 .abstract .admonition-title { color: var(--color-l-violet-40); border-bottom-color: var(--color-l-violet-30); }
 
-.quote { border-color: var(--color-l-gray-70); background: linear-gradient(var(--color-l-alpha-gray), var(--color-l-alpha-gray)) var(--color-l-gray-10); font-style: normal; }
-.quote .admonition-title { border-bottom-color: var(--color-l-gray-70); }
+.quote, .example { border-color: var(--color-l-gray-70); background: linear-gradient(var(--color-l-alpha-gray), var(--color-l-alpha-gray)) var(--color-l-gray-10); font-style: normal; }
+.quote .admonition-title, .example .admonition-title { border-bottom-color: var(--color-l-gray-70); }
