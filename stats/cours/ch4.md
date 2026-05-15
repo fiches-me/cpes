@@ -104,7 +104,7 @@ En partant de l'exemple précédent, si on considère que $\sigma^2$ est inconnu
 D'après le théorème de fisher, $\widehat{X}_n$ suit une loi de Student à $n - 1$ degrés de liberté : $\widehat{X}_n \hookrightarrow \mathcal{St}(n - 1)$. *On admet ce résultat.* **Cette loi est elle aussi tabulée.** 
 
 Ainsi, pour un seuil de confiance $\gamma$, on peut trouver une grandeur $t_{n-1, \gamma}$ telle que $\mathbb{P} (| \widehat{X}_n | < t_{n-1, \gamma}) = \gamma$
-
+t de l'exemple précédent, si on considère que ￼￼ est inconnu, on peut se servir de la variance empirique via l'est
 Dans d'autres termes, on peut trouver un encadrement "tabulé" de $\widehat{X}_n$ qui pourra être traduit en une intervalle de confiance pour $\mu$ (**sans connaitre $\sigma$**)
 
 > [!EXAMPLE]

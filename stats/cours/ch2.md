@@ -108,7 +108,7 @@ Il est principalement utilisé pour justifier la construction d'[Intervalles de 
 
 ## Propriétés sur les variables aléatoires
 
-En statistiques, on travaille avec des variables aléatoires mutuellement indépendantes (1) et identiquement distribués (2). On abrège en **iid*.
+En statistiques, on travaille avec des variables aléatoires mutuellement indépendantes (1) et identiquement distribués (2). On abrège en **iid**.
 
 1. $\forall x_1, \dots, x_n, \mathbb{P}(X_1 \le x_1 \cap \dots \cap X_n \le x_n) = \prod_{i=1}^n \mathbb{P} (X_i \le x_i)$
 2. $\forall x \in \mathbb{R}, \forall (i, j) \in [\![ 1, n ]\!]^2 \mathbb{P} (X_i \le x_i) = (X_j \le x_j)$
