@@ -1,15 +1,11 @@
 ---
 title: Estimation Statistique
 order: 2
-finished: false
+finished: true
+stats: true
 ---
 
 # Estimation Statistique
-
-> [!danger] 
-> Cette fiche est encore en très grosse construction.
-> 
-> Promis, je ratrape mon retard !
 
 ## Objets mathématiques utilisés en statistique
 
@@ -22,10 +18,11 @@ On note également $\omega$ les éléments de l'univers (appelés *issues*). Ell
 
 > [!DÉFINITION]
 > Une **fonction de répartition** $F_X$ d'une variable aléatoire $X$ est définie tel que :
-> 
+>
 > $$\forall x \in X(\Omega), F_X (x) = \mathbb{P} (X \le x) =\sum_{ \{ \omega : X(\omega) \le x)\} } \mathbb{P} (\omega)$$
-> 
+>
 > Une **fonction de masse** $f_X$ d'une variable aléatoire $X$ est définie tel que :
+>
 > $$\forall x \in X(\Omega), f_X (x) = \mathbb{P} (X = x) = \mathbb{P} (\omega | X(\omega) = x)$$
 
 *On peut écrire la fonction de répartition $F_X$ à partir de la fonction de masse $f_X : F_X (x) = \sum_{g \in X(\omega), y \le x} f_X(y)$.*
@@ -36,6 +33,7 @@ On note également $\omega$ les éléments de l'univers (appelés *issues*). Ell
 - théorème de transfert
 
 ---
+
 ---
 
 ## Variables Aléatoires Usuelles Discrètes
@@ -124,6 +122,7 @@ $\forall x \in \mathbb{R}, f_{x_1} (x) = f_{x_2} (x) = \dots = f_{x_n} (x)$
 > - $\mathbb{E} (X_1, \dots, X_n) = \sum_{i=1}^n \mathbb{E}(X_i)$
 > - $\forall a, b \in \mathbb{R}, \mathbb{V}(aX + b) = a^2\mathbb{V}(X)$
 > - $\mathbb{V} (X_1, \dots, X_n) = \sum_{i=1}^n \mathbb{V}(X_i)$
+
 ## Dépendance par rapport à des paramètres
 
 **Toute loi dépend d'un ou plusieurs paramètre(s)** (que nous noterons $\theta$).
