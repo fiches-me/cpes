@@ -21,7 +21,7 @@ En pratique, nous connaissons l'expression de $f(x | \theta)$, et on va étudier
 
 > [!DÉFINITION]
 > Pour une valeur observée $x \in X (\Omega)$ par notre loi $X$, la fonction de vraisemblance de de $\theta$ est $\mathcal{L} (\theta) = f(x|\theta)$
-> Pour l'ensemble des $x_i ^in X (\Omega)$, notre fonction de resemblance est le produit des $f(x|\theta)$.
+> Pour l'ensemble des $x_i \in X (\Omega)$, notre fonction de resemblance est le produit des $f(x|\theta)$.
 
 > [!HINT] Remarque
 > La vraisemblance (aussi *likelihood*) $\mathcal{L}$ est une fonction du paramètre à estimer $\theta$ implicitement de l'observation.
@@ -81,4 +81,3 @@ Lorsqu'on fait de la maximisation de vraisemblance, la fonction $h(x)$ va s'annu
 > $\mathcal{L} (\lambda) = e ^{-n\lambda} \lambda ^{\sum} \prod_{i=1}^n \frac  {1}{x_ i !}$.
 > 
 > Si on choisit $T(x_1, \ldots, X_n) = \sum x_i$ on peut écrire $e ^{-n\lambda} \lambda ^{\sum}  = g(T(x_1, \ldots, x_n), \lambda)$ (ici $g$ serait $g(a, b) = e ^{-n b} b ^a$)
-

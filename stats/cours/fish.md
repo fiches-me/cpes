@@ -82,6 +82,7 @@ Soit $X_1,\dots,X_n$ iid d'espérance $\mu$ et de variance $\sigma^2$. La moyenn
 - Version forte : $\mathbb{P}(\lim_{n\to\infty}\bar{X}_n=\mu)=1$.
 
 **Théorème central limite (TCL)** :
+
 $$\frac{\bar{X}_n-\mu}{\sigma/\sqrt{n}}\xrightarrow{d}\mathcal{N}(0,1).$$
 
 Propriétés :
@@ -103,12 +104,14 @@ Le biais est $b(T_n,\theta)=\mathbb{E}(T_n)-\theta$. $T_n$ est sans biais si $b(
 La variance $\mathbb{V}(T_n)$ mesure la dispersion autour de $\mathbb{E}(T_n)$.
 
 L'erreur quadratique moyenne (MSE) :
-$$\mathcal{MSE}(T_n)=\mathbb{E}[(T_n-\theta)^2]=\mathbb{V}(T_n)+b(T_n,\theta)^2.$$ 
+
+$$\mathcal{MSE}(T_n)=\mathbb{E}[(T_n-\theta)^2]=\mathbb{V}(T_n)+b(T_n,\theta)^2.$$
 
 ## Loi normale
 
 Rappel : $X\sim\mathcal{N}(\mu,\sigma^2)$ a pour densité
-$$f(x\mid\mu,\sigma^2)=\frac{1}{\sqrt{2\pi\sigma^2}}e^{-\frac{(x-\mu)^2}{2\sigma^2}}.$$ 
+
+$$f(x\mid\mu,\sigma^2)=\frac{1}{\sqrt{2\pi\sigma^2}}e^{-\frac{(x-\mu)^2}{2\sigma^2}}.$$
 
 Propriétés pratiques :
 1. $\mathbb{P}(X\in]\mu-\sigma,\mu+\sigma[)\approx0.68$.
@@ -124,20 +127,48 @@ Standardisation : $Z=\dfrac{X-\mu}{\sigma}\sim\mathcal{N}(0,1)$. Notons $\Phi(t)
 Pour un niveau de confiance $1-\alpha$, soit $z_{1-\alpha/2}$ le quantile de $\mathcal{N}(0,1)$. Ex : $z_{0.975}\approx1.96$, $z_{0.995}\approx2.58$.
 
 - Si $\sigma$ connu :
+
 $$I_{1-\alpha}=\Big[\bar{X}_n - z_{1-\alpha/2}\frac{\sigma}{\sqrt{n}},\;\bar{X}_n + z_{1-\alpha/2}\frac{\sigma}{\sqrt{n}}\Big].$$
 
 - Si $\sigma$ inconnu : on estime par
+
 $$S^2=\frac{1}{n-1}\sum_{i=1}^n (X_i-\bar{X}_n)^2$$
+
 et on utilise la loi de Student :
+
 $$I_{1-\alpha}=\Big[\bar{X}_n - t_{n-1,1-\alpha/2}\frac{S}{\sqrt{n}},\;\bar{X}_n + t_{n-1,1-\alpha/2}\frac{S}{\sqrt{n}}\Big],$$
+
 où $t_{n-1,1-\alpha/2}$ est le quantile de Student à $n-1$ degrés de liberté.
 
 - Pour une proportion (Binomiale), avec $\hat p$ la proportion observée :
+
 $$I_{1-\alpha,\mathcal{approx}}=\Big[\hat p - z_{1-\alpha/2}\sqrt{\frac{\hat p(1-\hat p)}{n}},\;\hat p + z_{1-\alpha/2}\sqrt{\frac{\hat p(1-\hat p)}{n}}\Big].$$
 
 On peut utiliser $1/4$ comme borne supérieure conservative pour $\hat p(1-\hat p)$.
 
 ## Maximisation de vraisemblance
 
-(Références et exemples à ajouter)
+La **vraisemblance** est la probabilité qu'un événement arrive plus ou moins souvent. 
 
+> [!TIP] Rappel
+> 1. Pour une v.a. discrète, $f(x | \theta) = \mathbb{P} (X = x | \theta)$
+> 2. Pour une v.a. continue, $\forall a, b, \in X(\Omega), \mathbb{P} (X \in [a, b] | \theta) = \int_{a}^{b} f(x | \theta) dx$
+
+En pratique, nous connaissons l'expression de $f(x | \theta)$, et on va étudier les variations de $f$ afin de déterminer son maximum, par rapport à $\theta$ et en fonction de $x$. On utilisé la **fonction de vraisemblance** qui est le produit des  $\mathcal{L} (\theta) = f(x|\theta)$ (on cherche *la probabilité* d'avoir toutes ses observations **en même temps**). 
+
+On note $\widehat{\theta}$ **l'estimateur maximal de vraisemblance (EVM)** Il correspond à la dérivé de $\mathcal{L}$.
+
+On effectue ensuite une **log vraisemblance** pour transformer les produits en sommes et obtenir. Enfin, on trouve les racines en 0 et on conclus.
+
+> [!abstract] Méthodologie : Prouver qu'une statistique est exhaustive
+> Pour trouver ou prouver qu'une statistique $T(X)$ est exhaustive pour un paramètre $\theta$ à l'aide du théorème de factorisation :
+> 
+> 1. **Écrire la fonction de vraisemblance** de l'échantillon complet :
+>
+>    $$ \mathcal{L}(\theta; x_1, \ldots, x_n) = \prod_{i=1}^n f(x_i | \theta) $$
+>
+> 2. **Développer et regrouper les termes** : Utilise les propriétés des puissances et des exponentielles pour rassembler tout ce qui dépend de $\theta$.
+> 3. **Forcer la factorisation** sous la forme $\mathcal{L} = g(T(x), \theta) \times h(x)$ :
+>    - $g(T(x), \theta)$ : Doit contenir **tous** les $\theta$, associés à une fonction des données (c'est ta statistique $T(x)$).
+>    - $h(x)$ : Doit contenir **uniquement** des données ou des constantes, et **aucun $\theta$**. (Note : $h(x)$ peut tout à fait être égal à $1$).
+> 4. **Conclure** : "D'après le théorème de factorisation de Fisher-Neyman, $T(X)$ est une statistique exhaustive pour $\theta$."
