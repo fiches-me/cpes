@@ -3,7 +3,7 @@ title: Statistiques Descriptives
 order: 1
 stats: true
 finished: true
-author: Guilhem C., Abel G.
+author: Canis G.., Abel G.
 date: 13/05/25
 ---
 
