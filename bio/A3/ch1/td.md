@@ -2,7 +2,6 @@
 title: 🧮 TD
 order: 10
 ---
-
 # Quelles informations nous apporte l'étude microscopique de la molécule d'ADN et le séquençage des différentes molécules d'ADN?
 
 ## Organisme des chromosomes eucaryotes

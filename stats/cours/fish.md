@@ -16,7 +16,8 @@ Quelques fonctions de base :
 - **Médiane empirique** :
 	- Si $n$ est impair, $\widetilde{x}_n = x_{(\frac{n+1}{2})}$.
 	- Si $n$ est pair, $\widetilde{x}_n = \tfrac12\big(x_{(n/2)} + x_{(n/2)+1}\big)$.
-- **Quantiles empiriques**.
+- **Quantiles empiriques** :
+	- $\forall p \in ]0,1[, \widetilde{q}_{n,p} = \begin{cases}\dfrac12\left(x_{np}^* + x_{np+1}^*\right) &\text{si } np \in \mathbb{N},\\x_{\lfloor np\rfloor}^* &\text{sinon}.\end{cases}$
 
 Lorsque nous analysons des données ou leurs représentations, il est important de se poser quelques questions :
 

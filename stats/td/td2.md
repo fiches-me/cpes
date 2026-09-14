@@ -15,7 +15,7 @@ order: 2
 
     $$B(\widehat{\theta}, \theta) = \mathbb{E}[\widehat{\theta}] - \theta = 2008 - \frac12 2p - 2008 - p = 0$$
 
-4. On calcule le nouveau biais de $\widehat{\theta}$. Comme on doit calculer l'espérance pour $B(\widehat{\theta}, \theta) = E(\widehat{\theta}) - \theta$, on peut faire une "disjonction de cas". Dans la some de l'espérance, tout les termes sont annulés quand T ne vaux pas 0. On a alors
+4. On calcule le nouveau biais de $\widehat{\theta}$. Comme on doit calculer l'espérance pour $B(\widehat{\theta}, \theta) = E(\widehat{\theta}) - \theta$, on peut faire une "disjonction de cas". Dans la somme de l'espérance, tout les termes sont annulés quand T ne vaux pas 0. On a alors
 
     $$\mathbb{E}[\widehat{\theta}] = 1 \times (1 - p)^2 = \theta$$
 

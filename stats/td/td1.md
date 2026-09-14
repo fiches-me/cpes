@@ -46,7 +46,7 @@ Problème : $X(\Omega) = \mathbb{N}^*$
 
 ## Question 1
 
-1. $t_n$ est une fonction
+1. $t_n$ est une fonction (**statistique**, moyenne empirique)
 2. $E(t_n) = \frac 1n \times \sum E(X_i) = \frac 1n \times µ \times n = µ$
 3. $V(t_n) = \frac 1n ^2 \times \sum V(X_i) = \frac 1n ^2 \times µ \times n = \frac {\sigma^2}{n}$
 4. $V(t_n)$ rend vers 0 quand $n$ tend vers $+ \infty$. Les variables aléatoires seront de plus en plus similaires (moins en moins dispersées).
@@ -78,6 +78,6 @@ La variance vaux $(3,94−4,19)^2+(4,06-4,19)^2+(4,28−4,19)^2+(3,99−4,19)^2+
 
 ## Question 2
 
-| 3,74                          | 3,94 | 3,96                     | 3,99 | 3,99 | 4,06 | 4,08    | 4,22 | 4,28                     | 4.35 | 4.53                          | 4,62 | 4,76 |
-| ----------------------------- | ---- | ------------------------ | ---- | ---- | ---- | ------- | ---- | ------------------------ | ---- | ----------------------------- | ---- | ---- |
+| 3,74                              | 3,94 | 3,96                         | 3,99 | 3,99 | 4,06 | 4,08    | 4,22 | 4,28                         | 4.35 | 4.53                              | 4,62 | 4,76 |
+| --------------------------------- | ---- | ---------------------------- | ---- | ---- | ---- | ------- | ---- | ---------------------------- | ---- | --------------------------------- | ---- | ---- |
 | $\widetilde{q}_{13,\frac{1}{10}}$ |      | $\widetilde{q}_{13,\frac14}$ |      |      |      | Médiane |      | $\widetilde{q}_{13,\frac34}$ |      | $\widetilde{q}_{13,\frac{9}{10}}$ |      |      |
