@@ -1,4 +1,6 @@
 allowBuilds:
   esbuild: set this to true or false
+minimumReleaseAgeExclude:
+  - primary-vitepress@1.1.0
 onlyBuiltDependencies:
   - esbuild

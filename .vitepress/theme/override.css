@@ -12,6 +12,13 @@ h1, h2, h3, h4, h5, h6, .title {
 }
 
 :root {
-  --heading-font: 'DM Serif Display', 'Fluent Emoji Color', sans-serif;
-  --body-font: 'Plus Jakarta Sans', 'Fluent Emoji Color', sans-serif;
+    --color-primary: #c94949;
+    --color-secondary: #22729B;
+    --heading-font: 'DM Serif Display', 'Fluent Emoji Color', sans-serif;
+    --body-font: 'Plus Jakarta Sans', 'Fluent Emoji Color', sans-serif;
+}
+
+.dark {
+    --color-primary: #c94949;
+    --color-secondary: #22729B;
 }
