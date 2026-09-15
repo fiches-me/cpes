@@ -1,12 +1,12 @@
 {
   "devDependencies": {
-    "markdown-it-mathjax3": "^4.3.2",
-    "vitepress": "^2.0.0-alpha.20",
     "@mdit/plugin-footnote": "^0.22.4",
+    "markdown-it-mathjax3": "^4.3.2",
     "markdown-it-obsidian": "^1.1.0",
     "markdown-it-obsidian-callouts": "^0.3.4",
     "markdown-it-task-lists": "^2.1.1",
     "mermaid": "^11.17.2",
+    "vitepress": "^2.0.0-alpha.20",
     "vitepress-sidebar": "^1.40.0"
   },
   "scripts": {
@@ -15,15 +15,6 @@
     "preview": "vitepress preview ."
   },
   "dependencies": {
-<<<<<<< Updated upstream
-    "@mdit/plugin-footnote": "^0.22.4",
-    "markdown-it-obsidian": "^1.1.0",
-    "markdown-it-obsidian-callouts": "^0.3.3",
-    "markdown-it-task-lists": "^2.1.1",
-    "mermaid": "^11.14.0",
-    "primary-vitepress": "^1.1.0",
-    "vitepress-sidebar": "^1.33.1"
-=======
->>>>>>> Stashed changes
+    "primary-vitepress": "^1.1.0"
   }
 }
