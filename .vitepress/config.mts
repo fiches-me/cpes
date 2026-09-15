@@ -22,7 +22,7 @@ const vitePressConfigs: UserConfig<any> = {
   },
   titleTemplate: ":title - FICHES.ME",
   lang: "fr-FR",
-  head: [["link", { rel: "icon", type: "image/png", href: "/logo.png" }]],
+  head: [["link", { rel: "icon", type: "image/png", href: "/cpes1/logo.png" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/logo.png",
@@ -36,7 +36,7 @@ const vitePressConfigs: UserConfig<any> = {
       { text: "🍃 Bio", link: "/bio" },
       { text: "📊 Stats", link: "/stats" },
       { text: "🎮 CPES-CRAFT", link: "/craft" },
-      { text: "💖 Nous Aider", link: "/contribution" },
+      { text: "💖 Nous Aider", link: "https://fiches.funa.dev/contribution" },
     ],
     footer: {
       message: "Released under the GPL-3.0 License.",
