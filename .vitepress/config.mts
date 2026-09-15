@@ -6,6 +6,7 @@ import { withSidebar } from "vitepress-sidebar";
 const vitePressConfigs: UserConfig<any> = {
   title: "📑 FICHES.ME CPES",
   description: "Mes super fiches ig",
+  base: '/cpes1/',
   extends: primaryThemeConfig,
   cleanUrls: true,
   lastUpdated: true,
@@ -19,14 +20,14 @@ const vitePressConfigs: UserConfig<any> = {
       conf: "yaml",
     },
   },
-  titleTemplate: ":title - FICHES CPES",
+  titleTemplate: ":title - FICHES.ME",
   lang: "fr-FR",
   head: [["link", { rel: "icon", type: "image/png", href: "/logo.png" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/logo.png",
     editLink: {
-      pattern: "https://github.com/fiches-me/cpes/edit/main/:path",
+      pattern: "https://github.com/fiches-me/cpes1/edit/main/:path",
     },
     nav: [
       { text: "🔢 Maths", link: "/maths" },
@@ -42,15 +43,15 @@ const vitePressConfigs: UserConfig<any> = {
       copyright: "Copyright © 2019-2025 FUNASITIEN",
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/fiches-me/cpes" },
+      { icon: "github", link: "https://github.com/fiches-me/cpes1" },
       { icon: "discord", link: "https://dsc.gg/drmcld" },
     ],
   },
   sitemap: {
-    hostname: "https://cpes.fiches.funa.dev",
+    hostname: "https://fiches.funa.dev/cpes1",
   },
   transformPageData(ctx) {
-    const canonicalUrl = `https://cpes.fiches.funa.dev/${ctx.relativePath.replace(/\.(md|html)$/, "").replace(/\index$/, "")}`;
+    const canonicalUrl = `https://fiches.funa.dev/cpes1/${ctx.relativePath.replace(/\.(md|html)$/, "").replace(/\index$/, "")}`;
     ctx.frontmatter.head = ctx.frontmatter.head || [];
     ctx.frontmatter.head.push([
       "link",
